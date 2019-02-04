@@ -7,8 +7,9 @@
   <title>An Introduction to French Art | Quire Starter</title>
   <meta name="description" content="Quire is a digital publishing framework built on top of the Hugo static site generator. Generate Web, PDF, and print books (with Epub coming soon) from a single …">
   <meta name="keywords" content="lemons, oranges, marmalade, still life">
-  <link rel="canonical" href="../french-art/">
+  <link rel="canonical" href="/french-art/">
   <link rel="version-history" href="">
+  <link rel="publisher" href="http://www.getty.edu">
   <link rel="author" href="https://en.wikipedia.org/wiki/Rose_Valland">
   <link rel="author" href="https://en.wikipedia.org/wiki/Denis_Diderot">
   <link rel="schema.dcterms" href="http://purl.org/dc/terms/">
@@ -18,7 +19,7 @@
   <meta name="dcterms.date" content="">
   <meta name="dcterms.description" content="Quire is a digital publishing framework built on top of the Hugo static site generator. Generate Web, PDF, and print books (with Epub coming soon) from a single …">
   <meta name="dcterms.identifier" content="">
-  <meta name="dcterms.language" content="en"><meta name="dcterms.publisher" content="J. Paul Getty Trust"><meta name="dcterms.rights" content="© 2017 J. Paul Getty Trust">
+  <meta name="dcterms.language" content="en"><meta name="dcterms.publisher" content="J. Paul Getty Trust, Los Angeles "><meta name="dcterms.rights" content="© 2017 J. Paul Getty Trust">
   <meta name="dcterms.subject" content="lemons, oranges, marmalade">
   <meta name="dcterms.subject" content="ART HISTORY / English / Jams">
   <meta name="dcterms.subject" content="Paul Cézanne">
@@ -101,8 +102,8 @@
       {
         "type": "Organization",
         "name": "J. Paul Getty Trust",
-        "location": { "type": "PostalAddress", "addressLocality": "" },
-        "identifier": ""
+        "location": { "type": "PostalAddress", "addressLocality": "Los Angeles" },
+        "identifier": "http://www.getty.edu"
       }
       ],
     "image": "imgpromo_image.png",
@@ -111,14 +112,18 @@
     }
   </script>
 
-  <link rel="stylesheet" href="../css/application.css">
-  <link rel="stylesheet" href="../css/custom.css">
+  <link rel="stylesheet" href="/css/application.css">
+  <link rel="stylesheet" href="/css/custom.css">
+
   <script>
    
    
    document.createElement('template')
   </script>
-  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script
+    src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
   
 <script>
 (function(i, s, o, g, r, a, m) {
@@ -136,14 +141,20 @@
   ga('create', '', 'auto');
   ga('require', 'linkid', 'linkid.js');
   ga('send', 'pageview');
-  jQuery(document).ready(function($) {
-      $("a[href$='pdf'],a[href$='rtf'],a[href$='doc'],a[href$='xls'],a[href*='bit.ly'],a[href$='csv'],a[href$='json'],a[href$='zip'],a[href$='ppt'],a[href*='epub'],a[href*='mobi']").each(function(index) {
-          pdfLabel = $(this).attr('href');
-          pdfOnClick = "ga('send', 'pageview','" + pdfLabel + "');";
-          $(this).attr("onClick", pdfOnClick);
-      });
-  });
+
+  document.addEventListener('DOMContentLoaded', function() {
+    var links = document.querySelectorAll("a[href$='pdf'],a[href$='rtf'],a[href$='doc'],a[href$='xls'],a[href*='bit.ly'],a[href$='csv'],a[href$='json'],a[href$='zip'],a[href$='ppt'],a[href*='epub'],a[href*='mobi']")
+    var link, pdfLabel, pdfOnClick;
+    for (var i = 0; i < links.length; i++) {
+      link = links[i];
+      pdfLabel = link.getAttribute('href');
+      pdfOnClick = "ga('send', 'pageview','" + pdfLabel + "');";
+      link.setAttribute("onClick", pdfOnClick);
+    }
+  }, { once:true });
 </script>
+
+
 </head>
 
   <body>
@@ -187,7 +198,7 @@
 </svg>
 
 
-<svg style="display:none">
+<svg style="display:none" class="remove-from-epub">
   <symbol id="cc" viewBox="0 0 270 60" preserveAspectRatio="xMinYMax meet">
     <path  d="M29.9,0c8.4,0,15.5,2.9,21.4,8.8c2.8,2.8,5,6,6.4,9.7C59.3,22.1,60,25.9,60,30c0,4.1-0.7,8-2.2,11.5
 		c-1.4,3.6-3.6,6.8-6.4,9.5c-2.9,2.9-6.2,5.1-10,6.6c-3.7,1.5-7.6,2.3-11.5,2.3s-7.8-0.8-11.4-2.3c-3.6-1.5-6.9-3.7-9.8-6.6
@@ -270,7 +281,7 @@
   </symbol>
 </svg>
 <div class="quire no-js" id="container">
-      <div class="quire__secondary is-expanded"
+      <div class="quire__secondary is-expanded remove-from-epub"
           id="site-menu"
           aria-expanded="true"
           role="contentinfo">
@@ -291,6 +302,7 @@
   <div class="quire-menu__header__contributors">
     <span class="visually-hidden">Contributors: </span>
     <span class="quire-contributor">Rose Valland </span><span class="quire-contributor"> and Denis Diderot</span>
+
   </div>
 </header>
 
@@ -303,22 +315,22 @@
 
 <ul>
       <li class="page-item">
-  <a href="../contents/">Contents</a>
+    <a href="/contents/">Contents</a> 
 </li>
     
       <li class="page-item">
-  <a href="../french-art/">An Introduction to French Art</a>
+    <a href="/french-art/">An Introduction to French Art</a> 
 </li>
     
           <li class="section-item">
-  <a href="../catalogue/">Catalogue</a>
+    <a href="/catalogue/">Catalogue</a> 
 </li>
       <li class="page-item">
-  <a href="../contributors/">Contributors</a>
+    <a href="/contributors/">Contributors</a> 
 </li>
     
       <li class="page-item">
-  <a href="../about/">About</a>
+    <a href="/about/">About</a> 
 </li>
     </ul></nav>
 
@@ -331,11 +343,11 @@
 <ul class="menu-list">
   
   <li>
-    <a href="../downloads/output.pdf" target="_blank" rel="alternate" type="application/pdf">PDF</a>
+    <a href="/downloads/output.pdf" target="_blank" rel="alternate" type="application/pdf">PDF</a>
   </li>
   
   <li>
-    <a href="../downloads/output.epub" target="_blank" rel="alternate" type="application/epub&#43;zip">EPUB</a>
+    <a href="/downloads/output.epub" target="_blank" rel="alternate" type="application/epub&#43;zip">EPUB</a>
   </li>
   
 </ul>
@@ -407,7 +419,7 @@
 <ul class="menu-list">
   
   <li>
-    <a href="../about/" target="_blank" rel="about" >About</a>
+    <a href="/about/" target="_blank" rel="about" >About</a>
   </li>
   
   <li>
@@ -459,7 +471,7 @@
         
 
 <li class="quire-navbar-button arrow-button">
-  <a href="../contents/" rel="prev" id="js-prev" >
+  <a href="/contents/" rel="prev" id="js-prev" >
     <svg>
       <switch>
         <use xlink:href="#left-arrow-icon"></use>
@@ -474,7 +486,7 @@
 
         
         <li class="quire-navbar-page-controls__item quire-home-page">
-          <a href='../' rel="start">
+          <a href='/' rel="start">
             <span class="visually-hidden">Home Page: </span>
             
             Quire Starter
@@ -483,13 +495,15 @@
         </li>
         
         <li class="quire-navbar-page-controls__item quire-current-page">
-          <span class="visually-hidden">Current Page: </span>An Introduction to French Art</li>
+          <span class="visually-hidden">Current Page: </span>
+          <span class="quire-current-page__title">An Introduction to French Art</span>
+        </li>
         
 
         
 
 <li class="quire-navbar-button arrow-button">
-  <a href="../catalogue/" rel="next" id="js-next">
+  <a href="/catalogue/" rel="next" id="js-next">
     <svg>
       <switch>
         <use xlink:href="#right-arrow-icon"></use>
@@ -525,14 +539,15 @@
 
 
 </div>
+
         
-<article class="quire-page" id="main" role="main">
+<article class=" quire-page--page-one quire-essay" id="main" role="main">
   
 
-<section class="quire-page__header hero is-medium"><div class="hero-body">
+<section class="quire-page__header hero "><div class="hero-body">
 
       
-      <h1 class="quire-page__header__title">
+      <h1 class="quire-page__header__title" id="an-introduction-to-french-art">
         
         An Introduction to French Art
         
@@ -547,7 +562,10 @@
 
       <ul><li class="quire-contributor">Ida Pikwik</li>
       </ul>
+
       </div>
+      
+
       
 
   </div>
@@ -557,9 +575,13 @@
   
 
   <section id="content" class="section quire-page__content">
-    <div class="container">
-      <div class="content">
-        
+    <div class="container is-fluid">
+      <div class="columns scroll__wrapper">
+        <div class="column scroll__text">
+          <div class="content">
+            
+
+            
 
 <p>French art consists of the visual and plastic arts (including architecture, woodwork, textiles, and ceramics) originating from the geographical area of France. (See <em>Luncheon</em>, <a href="../catalogue/1/#fnref:5">note 5</a>) Modern France was the main centre for the European art of the Upper Paleolithic, then left many megalithic monuments, and in the Iron Age many of the most impressive finds of early Celtic art. (See <a href="#1.4">fig 1.4</a>)The Gallo-Roman period left a distinctive provincial style of sculpture, and the region around the modern Franco-German border led the empire in the mass production of finely decorated Ancient Roman pottery, which was exported to Italy and elsewhere on a large scale. With Merovingian art the story of French styles as a distinct and influential element in the wider development of the art of Christian Europe begins. (<a href="#faure-1909" class="quire-citation"><span class="visually-hidden">Citation: </span>Faure 1909, 54<span class="quire-citation__content">Faure, Élie. <em>Histoire de l’Art</em>. Vol. 1, <em>L’Art antique</em>. Paris: Gallimard, 1909</span></a>)</p>
 
@@ -623,14 +645,14 @@
 
 
 
-<figure class='quire-figure '
-        id='1.4'>
+<figure class='quire-figure '>
+  
+  
 
-  
-  
-  <img class="quire-figure__image"
-       src='../img/fig-1-4-arcadia.jpg'
+  <img class="quire-figure__image"  id='1.4'
+       src='/img/fig-1-4-arcadia.jpg'
        alt='' />
+
   
   
 
@@ -709,13 +731,14 @@
   
   
 
-  <figure class="quire-figure--group__item" id="1.7">
+  <figure class="quire-figure--group__item">
 
     
 
     
-    <img class="quire-figure__image"
-         src='../img/fig-1-7-salon.jpg'
+    <img id="1.7"
+         class="quire-figure__image"
+         src='/img/fig-1-7-salon.jpg'
          alt="" />
     
     
@@ -740,13 +763,14 @@
   
   
 
-  <figure class="quire-figure--group__item" id="1.9">
+  <figure class="quire-figure--group__item">
 
     
 
     
-    <img class="quire-figure__image"
-         src='../img/fig-1-9-place.jpg'
+    <img id="1.9"
+         class="quire-figure__image"
+         src='/img/fig-1-9-place.jpg'
          alt="" />
     
     
@@ -771,13 +795,14 @@
   
   
 
-  <figure class="quire-figure--group__item" id="1.6">
+  <figure class="quire-figure--group__item">
 
     
 
     
-    <img class="quire-figure__image"
-         src='../img/fig-1-6-chateau.jpg'
+    <img id="1.6"
+         class="quire-figure__image"
+         src='/img/fig-1-6-chateau.jpg'
          alt="" />
     
     
@@ -805,13 +830,14 @@
   
   
 
-  <figure class="quire-figure--group__item" id="1.8">
+  <figure class="quire-figure--group__item">
 
     
 
     
-    <img class="quire-figure__image"
-         src='../img/fig-1-8-fragonard.jpg'
+    <img id="1.8"
+         class="quire-figure__image"
+         src='/img/fig-1-8-fragonard.jpg'
          alt="" />
     
     
@@ -836,13 +862,14 @@
   
   
 
-  <figure class="quire-figure--group__item" id="1.10">
+  <figure class="quire-figure--group__item">
 
     
 
     
-    <img class="quire-figure__image"
-         src='../img/fig-1-10-prometheus.jpg'
+    <img id="1.10"
+         class="quire-figure__image"
+         src='/img/fig-1-10-prometheus.jpg'
          alt="" />
     
     
@@ -911,14 +938,14 @@
 
 
 
-<figure class='quire-figure is-pulled-right'
-        id='1.8'>
+<figure class='quire-figure is-pulled-right'>
+  
+  
 
-  
-  
-  <img class="quire-figure__image"
-       src='../img/fig-1-8-fragonard.jpg'
+  <img class="quire-figure__image"  id='1.8'
+       src='/img/fig-1-8-fragonard.jpg'
        alt='' />
+
   
   
 
@@ -978,14 +1005,14 @@
 
 
 
-<figure class='quire-figure is-pulled-left'
-        id='1.10'>
+<figure class='quire-figure is-pulled-left'>
+  
+  
 
-  
-  
-  <img class="quire-figure__image"
-       src='../img/fig-1-10-prometheus.jpg'
+  <img class="quire-figure__image"  id='1.10'
+       src='/img/fig-1-10-prometheus.jpg'
        alt='' />
+
   
   
 
@@ -1022,28 +1049,40 @@
 
 <p>Architects like Ledoux and Boullée developed a radical style of neoclassical architecture based on simple and pure geometrical forms with a research of simetry and harmony, elaborating visionary projects like the complex of the Saltworks of Arc-et-Senans by Ledoux, a model of an ideal factory developed from the rational concepts of the Enlightment thinkers.</p>
 
-        
+            
 <section class="quire-page__content__references">
-  <h2 id="bibliography">Bibliography</h2>
-  
-  <dl>
-  
-      <dt>Berson 1996</dt>
-      <dd id="berson-1996">Berson, Ruth, ed. <em>The New Painting: Impressionism, 1874–1886; Documentation</em>. 2 vols. San Francisco: Fine Arts Museums of San Francisco, 1996.</dd>
-  
-      <dt>Faure 1909</dt>
-      <dd id="faure-1909">Faure, Élie. <em>Histoire de l’Art</em>. Vol. 1, <em>L’Art antique</em>. Paris: Gallimard, 1909</dd>
-  
-      <dt>Rosen and Zerner 1984</dt>
-      <dd id="rosen-and-zerner-1984">Rosen, Charles, and Henry Zerner. <em>Romanticism and Realism. The Mythology of Nineteenth-Century Art</em>. New York: Viking, 1984.</dd>
-  
-      <dt>Rosenblum 1967</dt>
-      <dd id="rosenblum-1967">Rosenblum, Robert. <em>Transformations in Late Eighteenth-Century Art</em>. Princeton, NJ: Princeton University Press, 1967.</dd>
-  
-  </dl>
-  
+    <h2 id="bibliography">Bibliography</h2>
+    
+    <dl>
+        
+        
+        <dt><span id="berson-1996">Berson 1996</span></dt>
+        <dd>Berson, Ruth, ed. <em>The New Painting: Impressionism, 1874–1886; Documentation</em>. 2 vols. San Francisco: Fine Arts Museums of San Francisco, 1996.</dd>
+        
+        
+        <dt><span id="faure-1909">Faure 1909</span></dt>
+        <dd>Faure, Élie. <em>Histoire de l’Art</em>. Vol. 1, <em>L’Art antique</em>. Paris: Gallimard, 1909</dd>
+        
+        
+        <dt><span id="rosen-and-zerner-1984">Rosen and Zerner 1984</span></dt>
+        <dd>Rosen, Charles, and Henry Zerner. <em>Romanticism and Realism. The Mythology of Nineteenth-Century Art</em>. New York: Viking, 1984.</dd>
+        
+        
+        <dt><span id="rosenblum-1967">Rosenblum 1967</span></dt>
+        <dd>Rosenblum, Robert. <em>Transformations in Late Eighteenth-Century Art</em>. Princeton, NJ: Princeton University Press, 1967.</dd>
+        
+    </dl>
+    
 
 </section>
+
+          </div>
+        </div>
+
+        <div class="column scroll__annotation">
+          
+          <div class="scroll__annotation_container"></div>
+        </div>
       </div>
     </div>
   </section>
@@ -1104,7 +1143,7 @@
 
     </div>
 
-    <script src="../js/application.js"></script>
+    <script src="/js/application.js"></script>
 <script type="text/javascript">
 
 </script>

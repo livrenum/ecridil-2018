@@ -7,8 +7,9 @@
   <title>Cover | Quire Starter</title>
   <meta name="description" content="Quire is a digital publishing framework built on top of the Hugo static site generator. Generate Web, PDF, and print books (with Epub coming soon) from a single …">
   <meta name="keywords" content="lemons, oranges, marmalade, still life">
-  <link rel="canonical" href="./">
+  <link rel="canonical" href="/">
   <link rel="version-history" href="">
+  <link rel="publisher" href="http://www.getty.edu">
   <link rel="author" href="https://en.wikipedia.org/wiki/Rose_Valland">
   <link rel="author" href="https://en.wikipedia.org/wiki/Denis_Diderot">
   <link rel="schema.dcterms" href="http://purl.org/dc/terms/">
@@ -18,7 +19,7 @@
   <meta name="dcterms.date" content="">
   <meta name="dcterms.description" content="Quire is a digital publishing framework built on top of the Hugo static site generator. Generate Web, PDF, and print books (with Epub coming soon) from a single …">
   <meta name="dcterms.identifier" content="">
-  <meta name="dcterms.language" content="en"><meta name="dcterms.publisher" content="J. Paul Getty Trust"><meta name="dcterms.rights" content="© 2017 J. Paul Getty Trust">
+  <meta name="dcterms.language" content="en"><meta name="dcterms.publisher" content="J. Paul Getty Trust, Los Angeles "><meta name="dcterms.rights" content="© 2017 J. Paul Getty Trust">
   <meta name="dcterms.subject" content="lemons, oranges, marmalade">
   <meta name="dcterms.subject" content="ART HISTORY / English / Jams">
   <meta name="dcterms.subject" content="Paul Cézanne">
@@ -92,8 +93,8 @@
       {
         "type": "Organization",
         "name": "J. Paul Getty Trust",
-        "location": { "type": "PostalAddress", "addressLocality": "" },
-        "identifier": ""
+        "location": { "type": "PostalAddress", "addressLocality": "Los Angeles" },
+        "identifier": "http://www.getty.edu"
       }
       ],
     "image": "imgpromo_image.png",
@@ -101,14 +102,18 @@
     }
   </script>
 
-  <link rel="stylesheet" href="./css/application.css">
-  <link rel="stylesheet" href="./css/custom.css">
+  <link rel="stylesheet" href="/css/application.css">
+  <link rel="stylesheet" href="/css/custom.css">
+
   <script>
    
    
    document.createElement('template')
   </script>
-  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script
+    src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
   
 <script>
 (function(i, s, o, g, r, a, m) {
@@ -126,14 +131,20 @@
   ga('create', '', 'auto');
   ga('require', 'linkid', 'linkid.js');
   ga('send', 'pageview');
-  jQuery(document).ready(function($) {
-      $("a[href$='pdf'],a[href$='rtf'],a[href$='doc'],a[href$='xls'],a[href*='bit.ly'],a[href$='csv'],a[href$='json'],a[href$='zip'],a[href$='ppt'],a[href*='epub'],a[href*='mobi']").each(function(index) {
-          pdfLabel = $(this).attr('href');
-          pdfOnClick = "ga('send', 'pageview','" + pdfLabel + "');";
-          $(this).attr("onClick", pdfOnClick);
-      });
-  });
+
+  document.addEventListener('DOMContentLoaded', function() {
+    var links = document.querySelectorAll("a[href$='pdf'],a[href$='rtf'],a[href$='doc'],a[href$='xls'],a[href*='bit.ly'],a[href$='csv'],a[href$='json'],a[href$='zip'],a[href$='ppt'],a[href*='epub'],a[href*='mobi']")
+    var link, pdfLabel, pdfOnClick;
+    for (var i = 0; i < links.length; i++) {
+      link = links[i];
+      pdfLabel = link.getAttribute('href');
+      pdfOnClick = "ga('send', 'pageview','" + pdfLabel + "');";
+      link.setAttribute("onClick", pdfOnClick);
+    }
+  }, { once:true });
 </script>
+
+
 </head>
 
   <body>
@@ -177,7 +188,7 @@
 </svg>
 
 
-<svg style="display:none">
+<svg style="display:none" class="remove-from-epub">
   <symbol id="cc" viewBox="0 0 270 60" preserveAspectRatio="xMinYMax meet">
     <path  d="M29.9,0c8.4,0,15.5,2.9,21.4,8.8c2.8,2.8,5,6,6.4,9.7C59.3,22.1,60,25.9,60,30c0,4.1-0.7,8-2.2,11.5
 		c-1.4,3.6-3.6,6.8-6.4,9.5c-2.9,2.9-6.2,5.1-10,6.6c-3.7,1.5-7.6,2.3-11.5,2.3s-7.8-0.8-11.4-2.3c-3.6-1.5-6.9-3.7-9.8-6.6
@@ -260,7 +271,7 @@
   </symbol>
 </svg>
 <div class="quire no-js" id="container">
-      <div class="quire__secondary is-expanded"
+      <div class="quire__secondary is-expanded remove-from-epub"
           id="site-menu"
           aria-expanded="true"
           role="contentinfo">
@@ -281,6 +292,7 @@
   <div class="quire-menu__header__contributors">
     <span class="visually-hidden">Contributors: </span>
     <span class="quire-contributor">Rose Valland </span><span class="quire-contributor"> and Denis Diderot</span>
+
   </div>
 </header>
 
@@ -293,22 +305,22 @@
 
 <ul>
       <li class="page-item">
-  <a href="./contents/">Contents</a>
+    <a href="/contents/">Contents</a> 
 </li>
     
       <li class="page-item">
-  <a href="./french-art/">An Introduction to French Art</a>
+    <a href="/french-art/">An Introduction to French Art</a> 
 </li>
     
           <li class="section-item">
-  <a href="./catalogue/">Catalogue</a>
+    <a href="/catalogue/">Catalogue</a> 
 </li>
       <li class="page-item">
-  <a href="./contributors/">Contributors</a>
+    <a href="/contributors/">Contributors</a> 
 </li>
     
       <li class="page-item">
-  <a href="./about/">About</a>
+    <a href="/about/">About</a> 
 </li>
     </ul></nav>
 
@@ -321,11 +333,11 @@
 <ul class="menu-list">
   
   <li>
-    <a href="./downloads/output.pdf" target="_blank" rel="alternate" type="application/pdf">PDF</a>
+    <a href="/downloads/output.pdf" target="_blank" rel="alternate" type="application/pdf">PDF</a>
   </li>
   
   <li>
-    <a href="./downloads/output.epub" target="_blank" rel="alternate" type="application/epub&#43;zip">EPUB</a>
+    <a href="/downloads/output.epub" target="_blank" rel="alternate" type="application/epub&#43;zip">EPUB</a>
   </li>
   
 </ul>
@@ -397,7 +409,7 @@
 <ul class="menu-list">
   
   <li>
-    <a href="./about/" target="_blank" rel="about" >About</a>
+    <a href="/about/" target="_blank" rel="about" >About</a>
   </li>
   
   <li>
@@ -452,7 +464,7 @@
 
         
         <li class="quire-navbar-page-controls__item quire-home-page">
-          <a href='./' rel="start">
+          <a href='/' rel="start">
             <span class="visually-hidden">Home Page: </span>
             
             Quire Starter
@@ -464,7 +476,7 @@
         
 
 <li class="quire-navbar-button arrow-button">
-  <a href="./contents/" rel="next" id="js-next">
+  <a href="/contents/" rel="next" id="js-next">
     <svg>
       <switch>
         <use xlink:href="#right-arrow-icon"></use>
@@ -500,76 +512,78 @@
 
 
 </div>
+
         
 
 
 
 
 
-<section class="quire-cover hero is-fullheight">
-    <div class="quire-cover__overlay"></div><div class="hero-body">
-    <div class="container is-fluid">
-      
-      
-      <h1 class="title">
-        Quire Starter
+<div class=" quire-page--frontmatter quire-cover" id="main" role="main">
+  <section class="quire-cover__hero is-fullheight">
+      <div class="quire-cover__overlay"></div><div class="quire-cover__hero-body hero-body">
+      <div class="container is-fluid">
         
-        <span class="subtitle">Multiformat Publishing</span>
         
-      </h1>
+        <p class="half-title">Quire Starter</p>
+        <h1 class="title">
+          Quire Starter
+          
+          <span class="subtitle">Multiformat Publishing</span>
+          
+        </h1>
 
-      
+        
 
-      <div class="contributor">
-      <span class="visually-hidden">Contributors: </span>
-      
+        <div class="contributor">
+        <span class="visually-hidden">Contributors: </span>
+        
 
         <ul><li class="quire-contributor">Rose Valland</li><li class="quire-contributor">Denis Diderot</li>
-        </ul></div>
+        </ul>
+</div>
 
-      
+        
+      </div>
     </div>
-  </div>
-</section>
+  </section>
+  
+  
+  
 
+  <section class="section quire-page__content" id="content">
+    <div class="container is-fluid">
+      <div class="content">
+        <p>French art in the popular imagination is often characterized by the dreamy, dauby landscapes of the Impressionists and the bolder, more vibrant work of 20th-century greats living <em>la vie bohème</em> in Paris. But still more of the genres that we associate with the art historical canon were pioneered in France. Pinpointing the very beginning of “French” art may prove an impossible task, but the region has been rich in creative expression since cave paintings were rendered at Lascaux an estimated 17,300 years ago, making them some of the earliest artistic traces in human history.</p>
 
-
-
-<section class="section quire-page__content" id="content">
-  <div class="container is-fluid">
-    <div class="content">
-      <p>French art in the popular imagination is often characterized by the dreamy, dauby landscapes of the Impressionists and the bolder, more vibrant work of 20th-century greats living <em>la vie bohème</em> in Paris. But still more of the genres that we associate with the art historical canon were pioneered in France. Pinpointing the very beginning of “French” art may prove an impossible task, but the region has been rich in creative expression since cave paintings were rendered at Lascaux an estimated 17,300 years ago, making them some of the earliest artistic traces in human history.</p>
-
-    </div>
-    <div class="has-text-centered">
-      <a class="button is-medium quire-cover__button" href="./contents">Start reading
-<svg>
+      </div>
+      <div class="has-text-centered">
+        <a class="button is-medium quire-cover__button" href="/contents">Start reading
+<svg class="remove-from-epub">
   <switch>
     <use xlink:href="#right-arrow-icon"></use>
     <foreignObject width="32" height="32">
-        <img src="img/icons/right-arrow.png" alt="" />
+        <img class="remove-from-epub" src="img/icons/right-arrow.png" alt="" />
     </foreignObject>
   </switch>
 </svg>
 <span class="visually-hidden">Go to next page</span>
 </a>
+      </div>
     </div>
-  </div>
-</section>
+  </section>
+
+  
+
+  <footer class="footer quire-cover-footer remove-from-epub">
+    <div class="container is-fluid">
+      <div class="content is-small">
+        
 
 
 
 
-
-<footer class="footer quire-cover-footer">
-  <div class="container is-fluid">
-    <div class="content is-small">
-      
-
-
-
-
-<div class="columns">
+<div class="columns remove-from-epub">
   <div class="column is-two-thirds">
     
 
@@ -636,7 +650,7 @@
 <ul class="menu-list">
   
   <li>
-    <a href="./about/" target="_blank" rel="about" >About</a>
+    <a href="/about/" target="_blank" rel="about" >About</a>
   </li>
   
   <li>
@@ -651,18 +665,23 @@
 </div>
   <div class="column">
     
-    <div class="quire-publisher-logos ">
     
-      <img src="img/logo-getty.png" alt="" />
+      <div class="quire-publisher">
+      <a href="http://www.getty.edu" target="_blank"><img src="img/logo-getty.png" alt="" /></a>
+      <p>J. Paul Getty Trust</p>
+      <p>Los Angeles</p>
+      
+      </div>
     
-    </div>
     
   </div>
 </div>
+      </div>
     </div>
-  </div>
-</footer>
+  </footer>
 
+  
+</div>
 
 
       </div>
@@ -719,7 +738,7 @@
 
     </div>
 
-    <script src="./js/application.js"></script>
+    <script src="/js/application.js"></script>
 <script type="text/javascript">
 
 </script>
