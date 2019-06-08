@@ -19,7 +19,7 @@
   <meta name="dcterms.date" content="">
   <meta name="dcterms.description" content="Quire is a digital publishing framework built on top of the Hugo static site generator. Generate Web, PDF, and print books (with Epub coming soon) from a single …">
   <meta name="dcterms.identifier" content="">
-  <meta name="dcterms.language" content="en"><meta name="dcterms.publisher" content="J. Paul Getty Trust, Los Angeles "><meta name="dcterms.rights" content="© 2017 J. Paul Getty Trust">
+  <meta name="dcterms.language" content="en"><meta name="dcterms.publisher" content="J. Paul Getty Trust, Los Angeles "><meta name="dcterms.rights" content="© 2019 LivreNum">
   <meta name="dcterms.subject" content="lemons, oranges, marmalade">
   <meta name="dcterms.subject" content="ART HISTORY / English / Jams">
   <meta name="dcterms.subject" content="Paul Cézanne">
@@ -360,7 +360,7 @@
 
 <div class="quire-copyright">
 
-<p>© 2017 J. Paul Getty Trust.</p><a rel="license" class="quire-copyright__icon__link" href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><svg class="quire-copyright__icon">
+<p>© 2019 LivreNum.</p><a rel="license" class="quire-copyright__icon__link" href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><svg class="quire-copyright__icon">
       
         <switch>
           <use xlink:href="#cc"></use>
@@ -420,14 +420,6 @@
   
   <li>
     <a href="/about/" target="_blank" rel="about" >About</a>
-  </li>
-  
-  <li>
-    <a href="" target="_blank" rel="privacy-policy" >Privacy Policy</a>
-  </li>
-  
-  <li>
-    <a href="" target="_blank" rel="terms-of-service" >Terms of Use</a>
   </li>
   
 </ul>
@@ -576,8 +568,8 @@
 
   <section id="content" class="section quire-page__content">
     <div class="container is-fluid">
-      <div class="columns scroll__wrapper">
-        <div class="column scroll__text">
+      <div class="columns scroll__wrapper" id="js-augmentation">
+        <div class="column scroll__col_text">
           <div class="content">
             
 
@@ -614,7 +606,57 @@
 
 <h2 id="early-modern-period">Early Modern Period</h2>
 
-<p>In the late fifteenth century, the French invasion of Italy and the proximity of the vibrant Burgundy court, with its Flemish connections, brought the French into contact with the goods, paintings, and the creative spirit of the Northern and Italian Renaissance. Initial artistic changes at that time in France were executed by Italian and Flemish artists, such as Jean Clouet and his son François Clouet, along with the Italians, Rosso Fiorentino, Francesco Primaticcio, and Niccolò dell&rsquo;Abbate of what is often called the first School of Fontainebleau from 1531. Leonardo da Vinci also was invited to France by François I, but other than the paintings which he brought with him, he produced little for the French king. (<a href="#rosenblum-1967" class="quire-citation"><span class="visually-hidden">Citation: </span>Rosenblum 1967, 103<span class="quire-citation__content">Rosenblum, Robert. <em>Transformations in Late Eighteenth-Century Art</em>. Princeton, NJ: Princeton University Press, 1967.</span></a>)</p>
+<p>In the late fifteenth century, the French invasion of Italy and the proximity of the vibrant Burgundy court, with its Flemish connections, brought the French into contact with the goods, paintings, and the creative spirit of the Northern and <span class="augmentation__reftext"
+      
+      
+      data-id="ln-annot-1"
+      
+      >
+  <span class="reftext__inner">
+    Italian Renaissance. Initial artistic changes at that time in France were executed by Italian and Flemish artists, such as Jean Clouet and his son François Clouet, along with the Italians
+  </span>
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="quire-error message is-danger">
+  <div class="message-header">
+    <strong>SHORTCODE ERROR: q-figure</strong>
+  </div>
+  <div class="message-body">
+    <p>The supplied value for <code>id</code> does not match an <code>id</code> value in your <code>data/figures.yml</code> file. Or, if you are not using a <code>data/figures.yml</code> file, a value for <code>src</code> should also be included in the shortcode, and should match the filename of an image file in your <code>static/img</code> directory.</p>
+    <pre>{{< q-figure id=&#34;3.1&#34; >}}<br /><br />{{< q-figure id=&#34;3.1&#34; src=&#34;fig-3-1-duchamp.jpg&#34; >}}</pre>
+  </div>
+</div>
+
+
+
+
+
+</span>, Rosso Fiorentino, Francesco Primaticcio, and Niccolò dell&rsquo;Abbate of what is often called the first School of Fontainebleau from 1531. Leonardo da Vinci also was invited to France by François I, but other than the paintings which he brought with him, he produced little for the French king. (<a href="#rosenblum-1967" class="quire-citation"><span class="visually-hidden">Citation: </span>Rosenblum 1967, 103<span class="quire-citation__content">Rosenblum, Robert. <em>Transformations in Late Eighteenth-Century Art</em>. Princeton, NJ: Princeton University Press, 1967.</span></a>)</p>
 
 <p>The art of the period from François I through Henri IV often is heavily inspired by late Italian pictorial and sculptural developments commonly referred to as Mannerism, which is associated with Michelangelo and Parmigianino, among others. It is characterized by figures which are elongated and graceful that rely upon visual rhetoric, including the elaborate use of allegory and mythology. (<a href="#rosen-and-zerner-1984" class="quire-citation"><span class="visually-hidden">Citation: </span>Rosen and Zerner 1984<span class="quire-citation__content">Rosen, Charles, and Henry Zerner. <em>Romanticism and Realism. The Mythology of Nineteenth-Century Art</em>. New York: Viking, 1984.</span></a>) Perhaps the greatest accomplishment of the French Renaissance was the construction of the Châteaux of the Loire Valley. No longer conceived of as fortresses, such pleasure palaces took advantage of the richness of the rivers and lands of the Loire region and they show remarkable architectural skill.</p>
 
@@ -1049,6 +1091,7 @@
 
 <p>Architects like Ledoux and Boullée developed a radical style of neoclassical architecture based on simple and pure geometrical forms with a research of simetry and harmony, elaborating visionary projects like the complex of the Saltworks of Arc-et-Senans by Ledoux, a model of an ideal factory developed from the rational concepts of the Enlightment thinkers.</p>
 
+
             
 <section class="quire-page__content__references">
     <h2 id="bibliography">Bibliography</h2>
@@ -1079,9 +1122,10 @@
           </div>
         </div>
 
-        <div class="column scroll__annotation">
+        <div class="column scroll__col_augmentation">
           
-          <div class="scroll__annotation_container"></div>
+          
+          
         </div>
       </div>
     </div>

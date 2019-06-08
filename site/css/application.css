@@ -8143,6 +8143,28 @@ html {
 .quire-entry .quire-page__content {
   padding-top: 1.5rem; }
 
+.scroll__wrapper {
+  position: relative; }
+
+.augmentation__reftext {
+  display: inline-block; }
+  .augmentation__reftext > span {
+    background-color: rgba(174, 125, 101, 0.3);
+    transition: background-color .3s; }
+  .augmentation__reftext:hover > span {
+    background-color: rgba(174, 125, 101, 0.45); }
+
+.augmentation {
+  height: 300px;
+  width: 100%;
+  background: #221411;
+  display: none; }
+  .augmentation.is-active {
+    display: block;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 2em; }
+
 .quire-citation {
   display: inline-block;
   position: relative;

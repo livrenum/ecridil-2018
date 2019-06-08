@@ -44,7 +44,7 @@ params:
   websiteFigureFallbackTextBefore: "Visit the site at "
   websiteFigureFallbackTextAfter: ". "
   displayBiblioShort: true
-  imageDir: "img"
+  imageDir: ""
   tocType: full
   menuType: short
   objectLinkText: "View in Collection"

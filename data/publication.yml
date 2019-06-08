@@ -9,31 +9,31 @@
 # Title & Description
 # ------------------------------------------------------------------------------
 
-title: Quire Starter
-subtitle: Multiformat Publishing
+title: Colloque ECRIDIL 2018
+subtitle: Une publication multiformat
 reading_line:
 short_title:
 
 description:
-  one_line:
+  one_line: Acte de colloque en forme innovante.
   full: >-
-    Quire is a digital publishing framework built on top of the Hugo static site generator. Generate Web, PDF, and print books (with Epub coming soon) from a single set of text files.
+    Le colloque ECRIDIL a eu lieu les 30 avril et 1<sup>er</sup> mai à Montréal.
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
 pub_date:
-language: en
+language: fr
 pub_type: book # book | journal-periodical | other
 
 identifier:
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
-    location: Los Angeles
-    url: http://www.getty.edu
+  - name: Université Laval
+    location: Québec
+    url: http://design.ulaval.ca
     logo: logo-getty.png
 
 # ------------------------------------------------------------------------------
@@ -43,34 +43,40 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: rvalland
+  - id: rbourassa
     type: primary
-    first_name: Rose
-    last_name: Valland
+    first_name: Renée
+    last_name: Bourassa
     title: Chair
-    affiliation: Commission for the Protection of Works of Art
-    bio: "Rose Antonia Maria Valland (1 November 1898 – 18 September 1980) was a French art historian, member of the French Resistance, captain in the French military, and one of the most decorated women in French history. She secretly recorded details of the Nazi plundering of National French and private Jewish-owned art from France; and, working with the French Resistance, she saved thousands of works of art."
-    url: https://en.wikipedia.org/wiki/Rose_Valland
-    pic: contributors/rose-valland.jpg
-  - id: ddiderot
+    affiliation: Université Laval
+    bio: "Design médias et culture numériques. Design du livre en contexte numérique et systèmes d’écritures. Pratiques créatives, expérientielles et culture participative. Design de personnages de synthèse. Dispositifs de la culture numérique : fictions transmédiatiques, dispositifs narratifs, dispositifs géolocalisés, cinéma numérique, dispositifs de réalité augmentée, environnements multimodaux, jeux vidéos."
+    url: https://www.design.ulaval.ca/personnel/professeurs/renee-bourassa
+    pic: contributors/renee-bourassa.jpg
+  - id: xmiranda
     type: primary
-    first_name: Denis
-    last_name: Diderot
+    first_name: Ximena
+    last_name: Miranda
     title: Chief Editor
-    affiliation: Encyclopédie
-    bio: "Denis Diderot (5 October 1713 – 31 July 1784) was a French philosopher, art critic, and writer. He was a prominent figure during the Enlightenment and is best known for serving as co-founder, chief editor, and contributor to the Encyclopédie along with Jean le Rond d’Alembert."
-    url: https://en.wikipedia.org/wiki/Denis_Diderot
-    pic: contributors/denis-diderot.jpg
-  - id: ipikwik
-    first_name: Ida
-    last_name: Pikwik
+    affiliation: Université Laval
+    bio: ""
+    url: https://xmirandablog.wordpress.com/
+    pic: 
+  - id: smonjour
+    type: primary
+    first_name: Servanne
+    last_name: Monjour
+    affiliation: Univeristé McGill
+    title: Édition
+  - id: etadier
+    first_name: Elsa
+    last_name: Tadier
 
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2017 J. Paul Getty Trust
+copyright: © 2019 LivreNum
 
 license:
   name: Creative Commons Attribution 4.0 International License
@@ -97,14 +103,14 @@ resource_link:
     name: About
     link_relation: about
     url: /about/
-  - type: footer-link
-    name: Privacy Policy
-    link_relation: privacy-policy
-    url:
-  - type: footer-link
-    name: Terms of Use
-    link_relation: terms-of-service
-    url:
+#  - type: footer-link
+#    name: Privacy Policy
+#    link_relation: privacy-policy
+#    url:
+#  - type: footer-link
+#    name: Terms of Use
+#    link_relation: terms-of-service
+#    url:
 
 # ------------------------------------------------------------------------------
 # Subjects
