@@ -1,5 +1,5 @@
 ---
-title: Contributors
+title: Contributeurs
 weight: 1000
 type: page
 ---

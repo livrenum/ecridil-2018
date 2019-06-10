@@ -1,5 +1,5 @@
 ---
-title: Cover
+title: Couverture
 weight: 1
 menu: false
 type: cover

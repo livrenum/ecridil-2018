@@ -1,7 +1,7 @@
 ---
 title: Corps, livre et design
 subtitle: >
-  Quand le numérique invite à repenser la place du corps dans les dispositifs de lecture.
+  Quand le numérique invite à repenser la place du corps dans les dispositifs de lecture
 weight: 2
 type: essay
 contributor:
@@ -12,7 +12,7 @@ augmentations:
     type: image
     src: media/image1.jpeg
     author:
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    caption: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     copyright:
     year:
     url: 
@@ -247,7 +247,7 @@ C'est justement cette *actualisation dynamique* en jeu dans la lecture
 qui nous intéresse à présent, en considérant que le corps a une place à
 y prendre.
 
-Voici une planche extraite de *Building stories*, mettant en scène une
+{{% ln-text id="1" %}}Voici une planche extraite de *Building stories*, mettant en scène une
 femme qui essaie de trouver le sommeil -- pendant que la vie de
 l'immeuble, elle, continue. Le personnage se tourne et se retourne dans
 son lit, pris dans un ensemble complexe de pensées, de paroles et
@@ -255,10 +255,10 @@ d'images qui se font écho, se confondent, résonnent -- et brouillent le
 régime de lecture dans cette confusion propre à l'endormissement où l'on
 ne sait parfois plus faire la part des choses entre le rêve et le réel.
 
-{{% ln-text id="1" %}}Comme en atteste l'image, le récit prend appui sur cette polyphonie
+Comme en atteste l'image, le récit prend appui sur cette polyphonie
 équivoque pour mettre à l'épreuve nos habitudes de lecteur, en mettant
 en évidence leur rôle moteur dans l'expérience de lecture et la mise en
-œuvre de la signification.{{% /ln-text %}}
+œuvre de la signification.
 
 ![Macintosh HD:Users:Elsa:Desktop:Capture d'écran 2019-03-17 à 15.54.19.png](media/image2.jpeg)
 
@@ -276,7 +276,7 @@ lecteur voit les chemins qu'il « emprunte », et c'est en les voyant
 qu'il y engage son corps dans un sens assumé ; c'est ainsi que son corps
 est engagé dans la lecture -- il suit des yeux les lignes sinueuses, les
 parcourt de son doigt, se tourne pour lire le texte, s'approche pour
-distinguer l'image\...
+distinguer l'image\...{{% /ln-text %}}
 
 Parmi ces cheminements de lecture pluriels, certains sont proposés par
 le texte, d'autres suggérés et d'autres, enfin, non signalés mais
@@ -309,7 +309,7 @@ Annette Béguin-Verbrugge,
 > producteur et le lecteur : ils ont tous les deux le même système
 > visuel et le même schéma corporel, orienté dans l'espace.[^13]
 
-D'une part, parcourir des yeux le mouvement des lignes (même
+{{% ln-text id="2" %}}D'une part, parcourir des yeux le mouvement des lignes (même
 « simplement » de droite à gauche)[^14] nécessite d'engager, dans la
 prise de repère par rapport à la page, une image mentale de son corps et
 de sa représentation dans l'espace -- *a fortiori* sur cette planche
@@ -333,7 +333,7 @@ choisis pour le texte, leur taille et leur corps, leur nature de
 capitales ou bas de casse déterminent ces différents niveaux de
 compréhension. Distingués pour l'analyse, ils sont en fait étroitement
 articulés les uns aux autres sur la planche, nourrissant de nouvelles
-combinatoires de lecture.
+combinatoires de lecture.{{% / ln-text %}}
 
 C'est notre perception visuelle qui est ici requise pour les distinguer
 et les relier. Or, en œuvrant en lecture, cette perception fait plus
