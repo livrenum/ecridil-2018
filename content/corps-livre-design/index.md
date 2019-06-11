@@ -7,7 +7,7 @@ type: essay
 contributor:
   - id: etadier
 augmentations:
-  - id: 1
+  - id: "1"
     title: "Une augmentation"
     type: image
     src: media/image1.jpeg
@@ -16,8 +16,24 @@ augmentations:
     copyright:
     year:
     url: 
-  - id: 2
-    title: "Annot2"
+  - id: "2"
+    title: "#2"
+    type: image
+    src: media/image1.jpeg
+    author:
+    caption: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    copyright:
+    year:
+    url: 
+  - id: "3"
+    title: "#3"
+    type: image
+    src: media/image1.jpeg
+    author:
+    caption: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    copyright:
+    year:
+    url: 
     
 ---
 
@@ -38,7 +54,8 @@ divers, dont certains n'ont pas prioritairement ou exclusivement recours
 est que l'expression a l'avantage d'inscrire les pratiques
 d'écriture-lecture avec ces dispositifs que sont par exemple les
 tablettes, les liseuses ou plus largement les écrans, dans une
-*littératie*, au sens de Goody[^2], une *culture* (avec son poids
+*littératie*, au sens de Goody[^2], une *culture* 
+{{% hl-augmentation id="1" %}} (avec son poids
 symbolique) à laquelle nous tenons -- nous y sommes attachés mais aussi
 « tenus » par elle.
 
@@ -67,7 +84,7 @@ un « dispositif technologique » reposant sur « la conjonction d'un
 support et d'un système de pratiques d'utilisation »[^4] -- pratiques,
 tant de « production » que « d'appropriation »[^5].
 
-C'est donc à partir du champ de l'appropriation que cet article vise à
+C'est donc à partir du champ de l'appropriation{{% hl-augmentation id="2" %}} que cet article vise à
 réfléchir au rôle, au *faire* du design dans la culture du livre en
 rapport au numérique. Entre les discours prophétisant la « perte » ou la
 dilution du corps dans un numérique prétendument dématérialisé et ceux
@@ -128,7 +145,7 @@ alors volontairement accentués -- et d'en interroger les mécanismes pour
 comprendre ensuite dans quelle mesure et comment ils opèrent dans des
 expériences de lectures plus « ordinaires ».
 
-Ce travail de la « plasticité » du corpus peut opérer comme un
+Ce travail de la « plasticité » du corpus{{% hl-augmentation id="3" %}} peut opérer comme un
 révélateur de certains enjeux pour le livre et la pratique de lecture :
 nous cherchons ainsi à mettre à l'épreuve la question de
 l'« implication » du lecteur, soit, selon les termes d'Yves Jeanneret,
@@ -146,7 +163,7 @@ en évidence une activité spécifique du corps engagé dans sa relation au
 livre, et ainsi d'interroger plus généralement la place et le rôle du
 corps du lecteur.
 
-*Du support au texte : les engagements du corps*
+### Du support au texte : les engagements du corps
 
 Venons en à la BD, cas d'analyse emblématique pour initier cette
 réflexion dans la mesure où son système sémiotique repose sur un certain
@@ -247,7 +264,7 @@ C'est justement cette *actualisation dynamique* en jeu dans la lecture
 qui nous intéresse à présent, en considérant que le corps a une place à
 y prendre.
 
-{{% ln-text id="1" %}}Voici une planche extraite de *Building stories*, mettant en scène une
+Voici une planche extraite de *Building stories*, mettant en scène une
 femme qui essaie de trouver le sommeil -- pendant que la vie de
 l'immeuble, elle, continue. Le personnage se tourne et se retourne dans
 son lit, pris dans un ensemble complexe de pensées, de paroles et
@@ -276,7 +293,7 @@ lecteur voit les chemins qu'il « emprunte », et c'est en les voyant
 qu'il y engage son corps dans un sens assumé ; c'est ainsi que son corps
 est engagé dans la lecture -- il suit des yeux les lignes sinueuses, les
 parcourt de son doigt, se tourne pour lire le texte, s'approche pour
-distinguer l'image\...{{% /ln-text %}}
+distinguer l'image\...
 
 Parmi ces cheminements de lecture pluriels, certains sont proposés par
 le texte, d'autres suggérés et d'autres, enfin, non signalés mais
@@ -284,9 +301,9 @@ actualisables en potentiel. Nous avons mis en évidence ces « voies de
 lecture » en portant attention à celles qui sont explicitement suggérées
 par le dispositif graphique (texte-image).
 
-  ![](media/image3.jpeg){width="2.461532152230971in" height="3.698824365704287in"}                                                                              ![](media/image4.jpeg){width="2.463467847769029in" height="3.698824365704287in"}
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------
-  ![Macintosh HD:Users:Elsa:Desktop:Capture d'écran 2019-03-20 à 13.55.34.png](media/image5.jpeg){width="6.2965277777777775in" height="1.0592858705161854in"}   
+![](media/image3.jpeg){width="2.461532152230971in" height="3.698824365704287in"}                                                                              ![](media/image4.jpeg){width="2.463467847769029in" height="3.698824365704287in"}
+------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------
+![Macintosh HD:Users:Elsa:Desktop:Capture d'écran 2019-03-20 à 13.55.34.png](media/image5.jpeg){width="6.2965277777777775in" height="1.0592858705161854in"}   
 
 Ce schéma souligne les principaux cheminements de lecture donnés à la
 fois par le texte, les symboles graphiques (cercles, cases, flèches,
@@ -309,7 +326,7 @@ Annette Béguin-Verbrugge,
 > producteur et le lecteur : ils ont tous les deux le même système
 > visuel et le même schéma corporel, orienté dans l'espace.[^13]
 
-{{% ln-text id="2" %}}D'une part, parcourir des yeux le mouvement des lignes (même
+D'une part, parcourir des yeux le mouvement des lignes (même
 « simplement » de droite à gauche)[^14] nécessite d'engager, dans la
 prise de repère par rapport à la page, une image mentale de son corps et
 de sa représentation dans l'espace -- *a fortiori* sur cette planche
@@ -333,7 +350,7 @@ choisis pour le texte, leur taille et leur corps, leur nature de
 capitales ou bas de casse déterminent ces différents niveaux de
 compréhension. Distingués pour l'analyse, ils sont en fait étroitement
 articulés les uns aux autres sur la planche, nourrissant de nouvelles
-combinatoires de lecture.{{% / ln-text %}}
+combinatoires de lecture.
 
 C'est notre perception visuelle qui est ici requise pour les distinguer
 et les relier. Or, en œuvrant en lecture, cette perception fait plus
@@ -343,9 +360,9 @@ lecture -- pour reprendre les termes de P. Robert -- en y mobilisant par
 exemple les effets de sens et les connotations implicites liés aux
 variations des caractères typographiques.
 
-  ![](media/image6.jpeg){width="2.3665977690288713in" height="3.698824365704287in"}   ![](media/image7.jpeg){width="2.3665977690288713in" height="3.698824365704287in"}
-  ----------------------------------------------------------------------------------- -----------------------------------------------------------------------------------
-  ![](media/image8.jpeg){width="5.097222222222222in" height="1.0229166666666667in"}   
+![](media/image6.jpeg){width="2.3665977690288713in" height="3.698824365704287in"}   ![](media/image7.jpeg){width="2.3665977690288713in" height="3.698824365704287in"}
+----------------------------------------------------------------------------------- -----------------------------------------------------------------------------------
+![](media/image8.jpeg){width="5.097222222222222in" height="1.0229166666666667in"}   
 
 Du support au texte, le design crée les conditions d'organisation
 matérielles d'une lecture. Ce faisant, il œuvre à la production du sens.
@@ -371,7 +388,7 @@ danse qu'il
 > place de l'auteur. Cette mutation rend le texte habitable à la manière
 > d'un appartement loué.[^17]
 
-***Des gestes à la matière : symbolique et sensorialité***
+## Des gestes à la matière : symbolique et sensorialité
 
 À un autre niveau que l'exemple précédent, on peut également interroger
 les gestes mis en jeu par le média, qui requièrent la coopération du
@@ -396,9 +413,9 @@ Ce livre est construit autour de l'épisode de la Passion, dont le point
 d'aboutissement est la crucifixion du Christ représenté en son cœur par
 une gravure imprimée sur des pages sanguinolentes.
 
-  ----------------------------------------------------------------------------------- ------------------------------------------------------------------------------------
-  ![](media/image9.jpeg){width="2.2417738407699037in" height="3.067574365704287in"}   ![](media/image10.png){width="2.2358092738407698in" height="3.0703521434820646in"}
-  ----------------------------------------------------------------------------------- ------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------- ------------------------------------------------------------------------------------
+![](media/image9.jpeg){width="2.2417738407699037in" height="3.067574365704287in"}   ![](media/image10.png){width="2.2358092738407698in" height="3.0703521434820646in"}
+----------------------------------------------------------------------------------- ------------------------------------------------------------------------------------
 
 ![Macintosh HD:Users:Elsa:Desktop:Capture d'écran 2019-03-20 à
 12.36.41.png](media/image11.jpeg){width="4.298755468066492in"
@@ -412,9 +429,9 @@ symbolique, corps en sang, et il permet dès lors à sa propriétaire
 d'accomplir une pratique eucharistique domestique proche de
 l'ingestion[^19].
 
-  ![Capture d'écran 2017-12-17 à 22.24.36.png](media/image12.png){width="3.666758530183727in" height="2.4766021434820646in"}                                   ![Egerton\_1821\_Capture.png](media/image13.png){width="2.125638670166229in" height="2.479647856517935in"}
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------
-  ![Macintosh HD:Users:Elsa:Desktop:Capture d'écran 2019-03-20 à 11.59.48.png](media/image14.jpeg){width="5.749069335083115in" height="1.035336832895888in"}   
+![Capture d'écran 2017-12-17 à 22.24.36.png](media/image12.png){width="3.666758530183727in" height="2.4766021434820646in"}                                   ![Egerton\_1821\_Capture.png](media/image13.png){width="2.125638670166229in" height="2.479647856517935in"}
+------------------------------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------
+![Macintosh HD:Users:Elsa:Desktop:Capture d'écran 2019-03-20 à 11.59.48.png](media/image14.jpeg){width="5.749069335083115in" height="1.035336832895888in"}   
 
 Sans traiter ici de la question centrale de la croyance[^20], on voit
 que le livre suscite le corps à corps avec son lecteur. Le fragment
@@ -482,7 +499,7 @@ parfaitement adapté à l'usager, mais aussi à l'usage »[^24]. Voilà l'un
 des enjeux, aujourd'hui, dans le champ du numérique : favoriser
 l'intimité séculaire du livre et de nos corps.
 
-**Le corps et ses savoirs...**
+## Le corps et ses savoirs...
 
 > *Je me souviens encore de ces reliures rouges avec les titres dorés de
 > l'édition Garnier. Il vint un jour où la bibliothèque de mon père fut
@@ -581,7 +598,7 @@ En somme, la relation directe du corps à la matérialité est essentielle
 dans la production de ces savoirs impensés et ordinaires qui sont eux
 aussi fondateurs de notre *littératie*, de notre culture du livre.
 
-**... un élément fondateur de notre culture du livre **
+## ... un élément fondateur de notre culture du livre
 
 Ces gestes et savoirs ordinaires relevant d'un implicite, ou d'un non
 dicible, sont de fait difficiles à saisir, à mesurer, pour la recherche.
@@ -609,9 +626,9 @@ feuillette le livre en épaisseur ; elle en appréhende le volume par la
 préhension ; elle l'ouvre, le ferme et son doigt peut s'en faire
 « marque-page ».
 
-  ![](media/image15.png){width="3.2956627296587926in" height="2.597703412073491in"}                                                                              ![](media/image16.png){width="2.5490365266841644in" height="2.597703412073491in"}
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![Macintosh HD:Users:Elsa:Desktop:Capture d'écran 2019-03-20 à 12.20.51.png](media/image17.jpeg){width="3.2488429571303588in" height="2.5035465879265093in"}   ![Macintosh HD:Users:Elsa:Desktop:Capture d'écran 2019-03-20 à 12.32.33.png](media/image18.jpeg){width="2.608128827646544in" height="0.9828707349081365in"}
+![](media/image15.png){width="3.2956627296587926in" height="2.597703412073491in"}                                                                              ![](media/image16.png){width="2.5490365266841644in" height="2.597703412073491in"}
+-------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Macintosh HD:Users:Elsa:Desktop:Capture d'écran 2019-03-20 à 12.20.51.png](media/image17.jpeg){width="3.2488429571303588in" height="2.5035465879265093in"}   ![Macintosh HD:Users:Elsa:Desktop:Capture d'écran 2019-03-20 à 12.32.33.png](media/image18.jpeg){width="2.608128827646544in" height="0.9828707349081365in"}
 
 L'analyse intermédiale que nous avons commencée à mettre en place en
 dehors de cet article montre que toute notre culture est traversée par
@@ -641,8 +658,7 @@ Bélisle :
 > l'usage de nouveaux supports et qui ouvre de nouveaux horizons
 > cognitifs.[^32]
 
-**Quelles perspectives pour le design ? Pour une approche articulée
-entre sémiotique et phénoménologie**
+## Quelles perspectives pour le design ? Pour une approche articulée entre sémiotique et phénoménologie
 
 Ce rôle du corps n'est pas un constat neuf. Mais le livre-codex
 « classique » et traditionnel en a tellement intégré les enjeux qu'il a
@@ -832,7 +848,6 @@ l'effectuation d'une lecture qui ne dissocie pas le *corps* et le
 *média*, *l'être* et *le* *lire*, le *geste* (de lecture) et
 l'*interprétation*.
 
-## Notes
 
 [^1]: Maurice Merleau-Ponty, *L'œil et l'esprit*, Paris, Gallimard,
     1964, p. 21.
