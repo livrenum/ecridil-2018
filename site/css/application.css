@@ -7028,6 +7028,50 @@ template {
   .quire__secondary {
     display: none; } }
 
+.hybrilivre-augmentation__scroll-container {
+  position: relative; }
+
+.hybrilivre-augmentation__content {
+  display: inline; }
+
+.hybrilivre-augmentation__step-marker {
+  position: relative;
+  height: 1.3em;
+  width: 0; }
+  .hybrilivre-augmentation__step-marker:after {
+    content: "";
+    background-color: tomato;
+    position: absolute;
+    height: 100%;
+    width: 2px;
+    bottom: 0;
+    display: inline-block;
+    -webkit-transform: translateX(-3px);
+            transform: translateX(-3px); }
+
+.hybrilivre-augmentation__augmentation {
+  height: 100vh;
+  display: none; }
+  @media screen and (min-width: 640px) {
+    .hybrilivre-augmentation__augmentation {
+      width: 50%;
+      float: right;
+      top: 1em;
+      bottom: 1em;
+      padding-left: 2rem; }
+      .hybrilivre-augmentation__augmentation.is-active {
+        position: -webkit-sticky;
+        position: sticky;
+        display: block; } }
+
+.hybrilivre-augmentation__figure {
+  height: 100%;
+  display: flex;
+  flex-direction: column; }
+
+.hybrilivre-augmentation__image {
+  max-height: calc(80vh - 4rem); }
+
 .quire-navbar {
   font-family: Lato, Helvetica, sans-serif;
   font-weight: 400;
@@ -7418,6 +7462,9 @@ html {
   font-size: 1.25rem;
   font-weight: 400;
   line-height: 1.6; }
+  @media screen and (min-width: 640px) {
+    .quire-page__content .content > :not(.right-column) {
+      max-width: 50%; } }
   .quire-page__content .content a:not([rel=footnote]):not(.footnote-return) {
     color: #7d9792;
     border-bottom: 1px solid #7d9792; }
@@ -7449,7 +7496,7 @@ html {
     color: #221411; }
   .quire-page__content .content p {
     margin-bottom: 0; }
-  .quire-page__content .content p + p {
+  .quire-page__content .content p {
     text-indent: 2em; }
   .quire-page__content .content blockquote {
     margin: 1em 0 1em 0; }
@@ -7829,10 +7876,6 @@ html {
 .content .quire-figure {
   margin-left: 0;
   margin-right: 0; }
-  @media screen and (min-width: 600px) {
-    .content .quire-figure {
-      margin-left: 2em;
-      margin-right: 2em; } }
 
 .content figure .quire-figure__image {
   display: block;
@@ -8153,17 +8196,6 @@ html {
     transition: background-color .3s; }
   .augmentation__reftext:hover > span {
     background-color: rgba(174, 125, 101, 0.45); }
-
-.augmentation {
-  height: 300px;
-  width: 100%;
-  background: #221411;
-  display: none; }
-  .augmentation.is-active {
-    display: block;
-    position: -webkit-sticky;
-    position: sticky;
-    top: 2em; }
 
 .quire-citation {
   display: inline-block;

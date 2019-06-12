@@ -8,33 +8,56 @@ contributor:
   - id: etadier
 augmentations:
   - id: "1"
-    title: "Une augmentation"
+    title: "Planche de *Building Stories*, page « libre », non paginée, non titrée."
     type: image
     src: media/image1.jpeg
     author:
-    caption: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    caption: ""
     copyright:
     year:
     url: 
   - id: "2"
-    title: "#2"
+    title: "Principaux cheminements de lecture possibles sur la planche"
     type: image
-    src: media/image1.jpeg
+    src: media/image4.jpeg
     author:
-    caption: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    caption: >
+      Rose clair : éléments de structure graphique de la BD (cases principales, «nœuds narratifs »\...)
+      
+      Vert : cheminements de lecture entre les différents éléments de la structure graphique (cases principales)  
+      
+      Orange : cheminements de lecture proposés par le graphisme (flèches, tracés\...)  
+      
+      Bleu : cheminements de lecture proposés par le texte.
     copyright:
     year:
     url: 
   - id: "3"
-    title: "#3"
+    title: "Principaux cheminements de lecture possibles donnés par le texte"
     type: image
-    src: media/image1.jpeg
+    src: media/image6.jpeg
     author:
-    caption: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    caption: >
+      Violet : texte « principal » (en capitales)  
+      
+      Jaune : texte « secondaire », plus petit voire tout petit (en bas de casse)  
+      
+      Bleu clair : troisième degré de texte (intégré dans les cases, par exemple : commentaires)  
+      
+      Vert clair : texte de philactères, soit les paroles ou les pensées explicites du personnage.
     copyright:
     year:
     url: 
-    
+  - id: "4"
+    title: "Egerton 1821, f. 8 et 9v."
+    type: image
+    src: media/image9.jpeg
+    author:
+    caption: >
+      Angleterre, entre 1480 et 1490. 180x130 et 120x90mm.
+    copyright: British Library
+    year:
+    url: 
 ---
 
 > *Un corps humain est là, quand entre voyant et visible, entre touchant
@@ -54,16 +77,17 @@ divers, dont certains n'ont pas prioritairement ou exclusivement recours
 est que l'expression a l'avantage d'inscrire les pratiques
 d'écriture-lecture avec ces dispositifs que sont par exemple les
 tablettes, les liseuses ou plus largement les écrans, dans une
-*littératie*, au sens de Goody[^2], une *culture* 
-{{% hl-augmentation id="1" %}} (avec son poids
+*littératie*, au sens de Goody[^2], une *culture*  (avec son poids
 symbolique) à laquelle nous tenons -- nous y sommes attachés mais aussi
 « tenus » par elle.
 
+
+{{% hl-augmentation before="1" after="1" %}}
 L'expression « livre numérique » nous renvoie également à une longue
 histoire symbolique et culturelle de la relation entre les supports de
 l'écrit et les productions graphiques, aujourd'hui incarnée par le
-codex. Or cette intimité entre ce que l'on distingue comme un « fond »
-et une « forme », entre des modalités expressives et un support qui
+codex. Or cette intimité entre ce que l'on distingue comme un  « fond »
+et une « forme », entre desmodalités expressives et un support qui
 l'informe, cette proximité est intimement liée aux rôles des corps :
 corps de l'artisan, du designer, qui fabriquent et organisent le
 support ; corps du lecteur qui se l'approprie, enfin.
@@ -84,7 +108,7 @@ un « dispositif technologique » reposant sur « la conjonction d'un
 support et d'un système de pratiques d'utilisation »[^4] -- pratiques,
 tant de « production » que « d'appropriation »[^5].
 
-C'est donc à partir du champ de l'appropriation{{% hl-augmentation id="2" %}} que cet article vise à
+C'est donc à partir du champ de l'appropriation que cet article vise à
 réfléchir au rôle, au *faire* du design dans la culture du livre en
 rapport au numérique. Entre les discours prophétisant la « perte » ou la
 dilution du corps dans un numérique prétendument dématérialisé et ceux
@@ -145,7 +169,7 @@ alors volontairement accentués -- et d'en interroger les mécanismes pour
 comprendre ensuite dans quelle mesure et comment ils opèrent dans des
 expériences de lectures plus « ordinaires ».
 
-Ce travail de la « plasticité » du corpus{{% hl-augmentation id="3" %}} peut opérer comme un
+Ce travail de la « plasticité » du corpus peut opérer comme un
 révélateur de certains enjeux pour le livre et la pratique de lecture :
 nous cherchons ainsi à mettre à l'épreuve la question de
 l'« implication » du lecteur, soit, selon les termes d'Yves Jeanneret,
@@ -277,8 +301,6 @@ Comme en atteste l'image, le récit prend appui sur cette polyphonie
 en évidence leur rôle moteur dans l'expérience de lecture et la mise en
 œuvre de la signification.
 
-![Macintosh HD:Users:Elsa:Desktop:Capture d'écran 2019-03-17 à 15.54.19.png](media/image2.jpeg)
-
 Dans les modes de lecture qu'elle invite à pratiquer, cette planche
 s'affranchit de la linéarité pourtant usuellement attribuée au support
 imprimé -- par opposition au numérique[^12]. Le texte côtoie l'image,
@@ -295,16 +317,14 @@ est engagé dans la lecture -- il suit des yeux les lignes sinueuses, les
 parcourt de son doigt, se tourne pour lire le texte, s'approche pour
 distinguer l'image\...
 
+
 Parmi ces cheminements de lecture pluriels, certains sont proposés par
 le texte, d'autres suggérés et d'autres, enfin, non signalés mais
 actualisables en potentiel. Nous avons mis en évidence ces « voies de
 lecture » en portant attention à celles qui sont explicitement suggérées
 par le dispositif graphique (texte-image).
 
-![](media/image3.jpeg){width="2.461532152230971in" height="3.698824365704287in"}                                                                              ![](media/image4.jpeg){width="2.463467847769029in" height="3.698824365704287in"}
-------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------
-![Macintosh HD:Users:Elsa:Desktop:Capture d'écran 2019-03-20 à 13.55.34.png](media/image5.jpeg){width="6.2965277777777775in" height="1.0592858705161854in"}   
-
+{{% hl-augmentation before="1fa" after="2" %}}
 Ce schéma souligne les principaux cheminements de lecture donnés à la
 fois par le texte, les symboles graphiques (cercles, cases, flèches,
 etc.), la structure graphique (agencement des cases) et les images. Il
@@ -360,10 +380,7 @@ lecture -- pour reprendre les termes de P. Robert -- en y mobilisant par
 exemple les effets de sens et les connotations implicites liés aux
 variations des caractères typographiques.
 
-![](media/image6.jpeg){width="2.3665977690288713in" height="3.698824365704287in"}   ![](media/image7.jpeg){width="2.3665977690288713in" height="3.698824365704287in"}
------------------------------------------------------------------------------------ -----------------------------------------------------------------------------------
-![](media/image8.jpeg){width="5.097222222222222in" height="1.0229166666666667in"}   
-
+{{% hl-augmentation before="2" after="3" %}}
 Du support au texte, le design crée les conditions d'organisation
 matérielles d'une lecture. Ce faisant, il œuvre à la production du sens.
 Et, en impliquant toujours spécifiquement le corps du lecteur dans sa
@@ -409,17 +426,10 @@ participer au rite de la messe et doivent donc mettre en œuvre des
 façons métaphoriques d'ingérer le sang du Christ comme nourriture
 spirituelle.
 
+{{ hl-augmentation before="3" after="4" }}
 Ce livre est construit autour de l'épisode de la Passion, dont le point
 d'aboutissement est la crucifixion du Christ représenté en son cœur par
 une gravure imprimée sur des pages sanguinolentes.
-
------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------
-![](media/image9.jpeg){width="2.2417738407699037in" height="3.067574365704287in"}   ![](media/image10.png){width="2.2358092738407698in" height="3.0703521434820646in"}
------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------
-
-![Macintosh HD:Users:Elsa:Desktop:Capture d'écran 2019-03-20 à
-12.36.41.png](media/image11.jpeg){width="4.298755468066492in"
-height="0.8140485564304462in"}
 
 Du milieu du livre jaillit ce sang remontant des profondeurs : comme le
 montre l'image du folio 2, c'est tout le livre qui saigne depuis ses
