@@ -22,13 +22,13 @@ augmentations:
     src: media/image4.jpeg
     author:
     caption: >
-      Rose clair : éléments de structure graphique de la BD (cases principales, «nœuds narratifs »\...)
+      **Rose clair** : éléments de structure graphique de la BD (cases principales, «nœuds narratifs »\...)
       
-      Vert : cheminements de lecture entre les différents éléments de la structure graphique (cases principales)  
+      **Vert** : cheminements de lecture entre les différents éléments de la structure graphique (cases principales)  
       
-      Orange : cheminements de lecture proposés par le graphisme (flèches, tracés\...)  
+      **Orange** : cheminements de lecture proposés par le graphisme (flèches, tracés\...)  
       
-      Bleu : cheminements de lecture proposés par le texte.
+      **Bleu** : cheminements de lecture proposés par le texte.
     copyright:
     year:
     url: 
@@ -38,13 +38,13 @@ augmentations:
     src: media/image6.jpeg
     author:
     caption: >
-      Violet : texte « principal » (en capitales)  
+      **Violet** : texte « principal » (en capitales)  
       
-      Jaune : texte « secondaire », plus petit voire tout petit (en bas de casse)  
+      **Jaune** : texte « secondaire », plus petit voire tout petit (en bas de casse)  
       
-      Bleu clair : troisième degré de texte (intégré dans les cases, par exemple : commentaires)  
+      **Bleu clair** : troisième degré de texte (intégré dans les cases, par exemple : commentaires)  
       
-      Vert clair : texte de philactères, soit les paroles ou les pensées explicites du personnage.
+      **Vert clair** : texte de philactères, soit les paroles ou les pensées explicites du personnage.
     copyright:
     year:
     url: 
@@ -56,6 +56,48 @@ augmentations:
     caption: >
       Angleterre, entre 1480 et 1490. 180x130 et 120x90mm.
     copyright: British Library
+    year:
+    url: 
+  - id: "5"
+    title: "Egerton 1821, f. 2 vo."
+    type: image
+    src: media/image12.png
+    author:
+    caption: >
+      Psautier et Rosaire de la Vierge (à partir du f. 27 puis) Litanies  
+      
+      Angleterre, entre 1480 et 1490. 180 x 130 et 120 x 90 mm.  
+      Le livre est creusé apr des traces de frottement, de grattement et la peinture effacée sous les baisers dévorateurs.
+    year:
+    url: 
+  - id: "6"
+    title: ""
+    type: image
+    src: media/image15.png
+    author:
+    caption: >-
+      **Détail 1** (en haut, à gauche) : Léonard de Vinci, *L’annonciation*, 98 x 217 cm, vers 1475-1480 – huile et tempera sur bois, Florence, Uffii Gallery.  
+      
+      **Détail 2** (en haut, à droite) : Hans Memlong, *La Vierge et l’Enfantentre Saint Jacques et Saint Dominique*, 130 x 160 cm, vers 1485-1490 – huile sur bois. Paris, Musée du Louvre.  
+      
+      **Détail 3** (en bas, à gauche) : Agnolo Bronzino, *Portrait de Laucrezia Panciatichi*, 102 x 85 cm, vers 1545 – huile sur boix. Florence, Uffizy Gallery.  
+      
+      **Détail 4** (en bas, au centre) : Carlo Crivelli, *Polyptique*, 1473 – détrempe et peinture sur bois. Ascoli Piceno, Cathédrale Sant’Emidio. Le détail porte sur al main panneau latéral représentant San Paolo (136 x 39 cm).  
+      
+      **Détail 5** (en bas, à gauche) : Pierre Mignard, portrait de *Françoise d’Aubigné, marquise de Maintenon*, 128 x 97 cm, 1694 – huile sur toile. Musée de Versailles.  
+    year:
+    url: 
+  - id: "7"
+    title: ""
+    type: image
+    src: media/image16.png
+    author:
+    caption: >-
+      **À gauche** : Bernard Orley, *Tryptique Haneton*, Bruxelles, 1487/88–1541.  
+
+      **En haut à droite** : Cornelis Janssens van Ceulen, *Portrait of Queen Henrietta Maria in mourning*  
+
+      **En bas à droite** : Attribué à Pier Francesco Foschi, *Portrait of a woman*, 1540–1565  
     year:
     url: 
 ---
@@ -82,7 +124,7 @@ symbolique) à laquelle nous tenons -- nous y sommes attachés mais aussi
 « tenus » par elle.
 
 
-{{% hl-augmentation before="1" after="1" %}}
+{{% hl-augmentation after="1" %}}
 L'expression « livre numérique » nous renvoie également à une longue
 histoire symbolique et culturelle de la relation entre les supports de
 l'écrit et les productions graphiques, aujourd'hui incarnée par le
@@ -324,7 +366,7 @@ actualisables en potentiel. Nous avons mis en évidence ces « voies de
 lecture » en portant attention à celles qui sont explicitement suggérées
 par le dispositif graphique (texte-image).
 
-{{% hl-augmentation before="1fa" after="2" %}}
+{{% hl-augmentation before="1" after="2" %}}
 Ce schéma souligne les principaux cheminements de lecture donnés à la
 fois par le texte, les symboles graphiques (cercles, cases, flèches,
 etc.), la structure graphique (agencement des cases) et les images. Il
@@ -412,6 +454,7 @@ les gestes mis en jeu par le média, qui requièrent la coopération du
 lecteur. Dans le cas présent, c'est un geste caractéristique de la
 naissance du codex qui va nous intéresser : celui de tourner la page.
 
+{{ hl-augmentation before="3" after="4" }}
 En voici un exemple emprunté à l'histoire du livre, où, comme nous
 allons le voir, l'engagement du corps dans le livre participe de la
 performativité du livre lui-même. Il s'agit d'un manuscrit réalisé entre
@@ -426,7 +469,6 @@ participer au rite de la messe et doivent donc mettre en œuvre des
 façons métaphoriques d'ingérer le sang du Christ comme nourriture
 spirituelle.
 
-{{ hl-augmentation before="3" after="4" }}
 Ce livre est construit autour de l'épisode de la Passion, dont le point
 d'aboutissement est la crucifixion du Christ représenté en son cœur par
 une gravure imprimée sur des pages sanguinolentes.
@@ -439,10 +481,6 @@ symbolique, corps en sang, et il permet dès lors à sa propriétaire
 d'accomplir une pratique eucharistique domestique proche de
 l'ingestion[^19].
 
-![Capture d'écran 2017-12-17 à 22.24.36.png](media/image12.png){width="3.666758530183727in" height="2.4766021434820646in"}                                   ![Egerton\_1821\_Capture.png](media/image13.png){width="2.125638670166229in" height="2.479647856517935in"}
------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------
-![Macintosh HD:Users:Elsa:Desktop:Capture d'écran 2019-03-20 à 11.59.48.png](media/image14.jpeg){width="5.749069335083115in" height="1.035336832895888in"}   
-
 Sans traiter ici de la question centrale de la croyance[^20], on voit
 que le livre suscite le corps à corps avec son lecteur. Le fragment
 d'image grossi de cette première double page, à la surface de laquelle
@@ -453,6 +491,7 @@ livre a été frotté, griffé par sa propriétaire qui, en partageant les
 douleurs du Christ, a cherché avec le corps du livre à toucher celui du
 Christ.
 
+{{% hl-augmentation before="4" after="5" %}}
 La proximité physique de la lectrice avec son ouvrage témoigne de la
 volonté fervente d'une relation d'intimité avec le corps du Christ, dans
 la rage et la douleur de sa souffrance et dans l'intensité d'un rituel
@@ -618,6 +657,7 @@ et culturellement instituée) en mettant en évidence des motifs
 récurrents et les modalités de leur circulation dans le corps social --
 au-delà du livre lui-même.
 
+{{% hl-augmentation before="5" after="6" %}}
 À titre d'exemple, cette relation ordinaire du corps au livre -- dans sa
 matérialité -- nous est en particulier montrée par la tradition
 picturale qui met le doigt sur tout un jeu d'affordances habituellement
@@ -636,9 +676,6 @@ feuillette le livre en épaisseur ; elle en appréhende le volume par la
 préhension ; elle l'ouvre, le ferme et son doigt peut s'en faire
 « marque-page ».
 
-![](media/image15.png){width="3.2956627296587926in" height="2.597703412073491in"}                                                                              ![](media/image16.png){width="2.5490365266841644in" height="2.597703412073491in"}
--------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Macintosh HD:Users:Elsa:Desktop:Capture d'écran 2019-03-20 à 12.20.51.png](media/image17.jpeg){width="3.2488429571303588in" height="2.5035465879265093in"}   ![Macintosh HD:Users:Elsa:Desktop:Capture d'écran 2019-03-20 à 12.32.33.png](media/image18.jpeg){width="2.608128827646544in" height="0.9828707349081365in"}
 
 L'analyse intermédiale que nous avons commencée à mettre en place en
 dehors de cet article montre que toute notre culture est traversée par
@@ -670,6 +707,7 @@ Bélisle :
 
 ## Quelles perspectives pour le design ? Pour une approche articulée entre sémiotique et phénoménologie
 
+{{% hl-augmentation before="6" after="7" %}}
 Ce rôle du corps n'est pas un constat neuf. Mais le livre-codex
 « classique » et traditionnel en a tellement intégré les enjeux qu'il a
 délégué au design la prise en charge d'une part de cette activité du
