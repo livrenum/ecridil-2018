@@ -99,6 +99,11 @@ resource_link:
     media_type: application/epub+zip
     link_relation: alternate
     url: /downloads/output.epub
+  - type: other-format
+    name: Kindle/MOBI
+    media_type: vnd.amazon.mobi8-ebook
+    link_relation: alternate
+    url: /downloads/output.mobi
   - type: footer-link
     name: About
     link_relation: about
@@ -117,25 +122,23 @@ resource_link:
 # ------------------------------------------------------------------------------
 
 subject:
-  - type: keyword
-    name: lemons, oranges, marmalade
   - type: bisac
-    name: ART HISTORY / English / Jams
-    identifer: ART0009210
+    name: PHOTOGRAPHY / Subjects & Themes / Historical
+    identifer: PHO023100
   - type: getty
-    name: Paul Cézanne
-    identifier: "http://vocab.getty.edu/ulan/500004793"
+    name: Dorothea Lange
+    identifier: "http://vocab.getty.edu/ulan/500007674"
   - type: keyword
-    name: still life
+    name: photography
   - type: getty
-    name: Hampshire
-    identifier: "http://vocab.getty.edu/tgn/7008139"
+    name: Walker Evans
+    identifier: "http://vocab.getty.edu/ulan/500012076"
   - type: getty
-    name: oil pastels
-    identifier: "http://vocab.getty.edu/aat/300230810"
+    name: black-and-white photography
+    identifier: "http://vocab.getty.edu/aat/300162056"
   - type: getty
-    name: Still Life with Blue Pot
-    identifier: "http://www.getty.edu/cona/CONAFullSubject.aspx?subid=700002042"
+    name: despression (economic concept)
+    identifier: "http://vocab.getty.edu/aat/300410245"
 
 # ------------------------------------------------------------------------------
 # Revision History
@@ -151,4 +154,4 @@ repository_url:
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: promo_image.png
+promo_image: cover.png

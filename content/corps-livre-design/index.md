@@ -100,6 +100,7 @@ augmentations:
       **En bas à droite** : Attribué à Pier Francesco Foschi, *Portrait of a woman*, 1540–1565  
     year:
     url: 
+
 ---
 
 > *Un corps humain est là, quand entre voyant et visible, entre touchant
