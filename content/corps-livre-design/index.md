@@ -3,7 +3,7 @@ title: Corps, livre et design
 subtitle: >
   Quand le numérique invite à repenser la place du corps dans les dispositifs de lecture
 weight: 2
-type: essay
+type: essai
 contributor:
   - id: etadier
 augmentations:
