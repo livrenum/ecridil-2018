@@ -9,8 +9,9 @@
 
 baseURL: ""
 
-title: "Quire Starter"
-languageCode: "en-us"
+title: "Colloque ECRiDiL 2018"
+languageCode: "fr"
+defaultContentLanguage: "fr"
 theme: "theme-ecridil-2018"
 publishDir: site
 
@@ -38,16 +39,16 @@ params:
   figureLabelsTextBefore: "Figure "
   figureLabelsTextAfter: ". "
   videoFigureFallbackText: true
-  videoFigureFallbackTextBefore: "Watch the video at "
+  videoFigureFallbackTextBefore: "Regardez la vidéo à l’adresse "
   videoFigureFallbackTextAfter: ". "
   websiteFigureFallbackText: true
-  websiteFigureFallbackTextBefore: "Visit the site at "
+  websiteFigureFallbackTextBefore: "Visitez site à l’adresse "
   websiteFigureFallbackTextAfter: ". "
   displayBiblioShort: true
   imageDir: ""
   tocType: full
   menuType: short
-  objectLinkText: "View in Collection"
+  objectLinkText: "Voir dans la colletion"
   frontmatterPageStart: 0
   bodyPageStart: 100
   backmatterPageStart: 1000

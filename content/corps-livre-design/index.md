@@ -2,8 +2,11 @@
 title: Corps, livre et design
 subtitle: >
   Quand le numérique invite à repenser la place du corps dans les dispositifs de lecture
-weight: 2
-type: essai
+weight: 3
+number: 3
+type: hybritexte
+abstract: >
+  Le numérique invite à repenser la place du corps dans les dispositifs de lecture.
 contributor:
   - id: etadier
 augmentations:
@@ -108,7 +111,7 @@ augmentations:
 > une sorte de recroisement, quand s'allume l'étincelle du sentant
 > sensible (\...).*
 >
-> Maurice Merleau-Ponty[^1]
+> {{< q-cite "Maurice Merleau-Ponty" >}}
 
 Le colloque ECRIDIL visait à s'interroger sur le « livre numérique » en
 reposant la question fondamentale de la définition du livre. Car il ne
@@ -120,7 +123,7 @@ divers, dont certains n'ont pas prioritairement ou exclusivement recours
 est que l'expression a l'avantage d'inscrire les pratiques
 d'écriture-lecture avec ces dispositifs que sont par exemple les
 tablettes, les liseuses ou plus largement les écrans, dans une
-*littératie*, au sens de Goody[^2], une *culture*  (avec son poids
+*littératie*, au sens de Goody ({{< q-cite "Goody 1979" >}}), une *culture*  (avec son poids
 symbolique) à laquelle nous tenons -- nous y sommes attachés mais aussi
 « tenus » par elle.
 
