@@ -127,8 +127,8 @@ tablettes, les liseuses ou plus largement les écrans, dans une
 symbolique) à laquelle nous tenons -- nous y sommes attachés mais aussi
 « tenus » par elle.
 
+{{% hl-augmentation 1 %}}
 
-{{% hl-augmentation after="1" %}}
 L'expression « livre numérique » nous renvoie également à une longue
 histoire symbolique et culturelle de la relation entre les supports de
 l'écrit et les productions graphiques, aujourd'hui incarnée par le
@@ -370,7 +370,8 @@ actualisables en potentiel. Nous avons mis en évidence ces « voies de
 lecture » en portant attention à celles qui sont explicitement suggérées
 par le dispositif graphique (texte-image).
 
-{{% hl-augmentation before="1" after="2" %}}
+{{% hl-augmentation 2 %}}
+
 Ce schéma souligne les principaux cheminements de lecture donnés à la
 fois par le texte, les symboles graphiques (cercles, cases, flèches,
 etc.), la structure graphique (agencement des cases) et les images. Il
@@ -426,7 +427,8 @@ lecture -- pour reprendre les termes de P. Robert -- en y mobilisant par
 exemple les effets de sens et les connotations implicites liés aux
 variations des caractères typographiques.
 
-{{% hl-augmentation before="2" after="3" %}}
+{{% hl-augmentation 3 %}}
+
 Du support au texte, le design crée les conditions d'organisation
 matérielles d'une lecture. Ce faisant, il œuvre à la production du sens.
 Et, en impliquant toujours spécifiquement le corps du lecteur dans sa
@@ -458,7 +460,8 @@ les gestes mis en jeu par le média, qui requièrent la coopération du
 lecteur. Dans le cas présent, c'est un geste caractéristique de la
 naissance du codex qui va nous intéresser : celui de tourner la page.
 
-{{ hl-augmentation before="3" after="4" }}
+{{% hl-augmentation 4 %}}
+
 En voici un exemple emprunté à l'histoire du livre, où, comme nous
 allons le voir, l'engagement du corps dans le livre participe de la
 performativité du livre lui-même. Il s'agit d'un manuscrit réalisé entre
@@ -495,7 +498,8 @@ livre a été frotté, griffé par sa propriétaire qui, en partageant les
 douleurs du Christ, a cherché avec le corps du livre à toucher celui du
 Christ.
 
-{{% hl-augmentation before="4" after="5" %}}
+{{% hl-augmentation 5 %}}
+
 La proximité physique de la lectrice avec son ouvrage témoigne de la
 volonté fervente d'une relation d'intimité avec le corps du Christ, dans
 la rage et la douleur de sa souffrance et dans l'intensité d'un rituel
@@ -661,7 +665,8 @@ et culturellement instituée) en mettant en évidence des motifs
 récurrents et les modalités de leur circulation dans le corps social --
 au-delà du livre lui-même.
 
-{{% hl-augmentation before="5" after="6" %}}
+{{% hl-augmentation 6 %}}
+
 À titre d'exemple, cette relation ordinaire du corps au livre -- dans sa
 matérialité -- nous est en particulier montrée par la tradition
 picturale qui met le doigt sur tout un jeu d'affordances habituellement
@@ -711,7 +716,8 @@ Bélisle :
 
 ## Quelles perspectives pour le design ? Pour une approche articulée entre sémiotique et phénoménologie
 
-{{% hl-augmentation before="6" after="7" %}}
+{{% hl-augmentation 7 %}}
+
 Ce rôle du corps n'est pas un constat neuf. Mais le livre-codex
 « classique » et traditionnel en a tellement intégré les enjeux qu'il a
 délégué au design la prise en charge d'une part de cette activité du
