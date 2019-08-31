@@ -12,20 +12,30 @@ contributor:
 augmentations:
   - id: "1"
     title: "Planche de *Building Stories*, page « libre », non paginée, non titrée."
-    type: texte
+    type: image
     src: media/image1.jpeg
     author:
-    caption: "hello"
+    caption: ""
     copyright:
     year:
     url: 
+  - id: "texte"
+    title: "Planche de *Building Stories*, page « libre », non paginée, non titrée."
+    type: text
+    src: media/image1.jpeg
+    author:
+    caption: ""
+    copyright:
+    year:
+    url: 
+    content: "Penser l'implication du lecteur et le rôle de son corps dans la construction du processus de lecture"
   - id: "2"
-    title: "Principaux cheminements de lecture possibles sur la planche"
+    title: "Principaux cheminements de lecture possibles sur la planche."
     type: image
     src: media/image4.jpeg
     author:
     caption: >
-      **Rose clair** : éléments de structure graphique de la BD (cases principales, «nœuds narratifs »\...)
+      **Rose clair** : éléments de structure graphique de la BD (cases principales, «nœuds narratifs »\...)  
       
       **Vert** : cheminements de lecture entre les différents éléments de la structure graphique (cases principales)  
       
@@ -127,7 +137,7 @@ tablettes, les liseuses ou plus largement les écrans, dans une
 symbolique) à laquelle nous tenons -- nous y sommes attachés mais aussi
 « tenus » par elle.
 
-{{% hl-augmentation 1 %}}
+{{% hl-augmentation "1" %}}
 
 L'expression « livre numérique » nous renvoie également à une longue
 histoire symbolique et culturelle de la relation entre les supports de
@@ -173,6 +183,8 @@ prédéterminés ? Dans cette perspective, nous faisons l'hypothèse que
 c'est en intervenant au lieu de la relation impensée du corps et du
 livre qu'elle trouvera peut-être des réponses.
 
+{{% hl-augmentation "texte" "1" %}}
+
 Ce sont toutes ces interrogations que cherchent à soulever cet article.
 Nous souhaitons par là questionner les enjeux cruciaux auxquels le livre
 dit « numérique » devra probablement répondre -- et ainsi trouver sa
@@ -214,6 +226,9 @@ mise en abyme de la pratique de lecture au sein de livres
 alors volontairement accentués -- et d'en interroger les mécanismes pour
 comprendre ensuite dans quelle mesure et comment ils opèrent dans des
 expériences de lectures plus « ordinaires ».
+
+
+{{% hl-augmentation "none" "texte" %}}
 
 Ce travail de la « plasticité » du corpus peut opérer comme un
 révélateur de certains enjeux pour le livre et la pratique de lecture :
