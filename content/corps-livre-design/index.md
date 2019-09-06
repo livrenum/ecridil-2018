@@ -23,7 +23,7 @@ augmentations:
     title: "Planche de *Building Stories*, page « libre », non paginée, non titrée."
     type: text
     src: media/image1.jpeg
-    author:
+    author: Elsa Tadier
     caption: ""
     copyright:
     year:
@@ -113,6 +113,13 @@ augmentations:
       **En bas à droite** : Attribué à Pier Francesco Foschi, *Portrait of a woman*, 1540–1565  
     year:
     url: 
+  - id: "8"
+    type: "youtube"
+    title: "L'historien du livre face aux bouleversements du numérique - Roger Chartier"
+    youtubeId: "mG2swQE9jMM"
+    copyright: "Paternité - Pas d'Utilisation Commerciale - Pas de Modification 3.0 Unported (CC BY-NC-ND 3.0)"
+    year: 2013
+    caption: "Le livre : son passé, son avenir : Entretien avec Roger Chartier"
 
 ---
 
@@ -183,7 +190,7 @@ prédéterminés ? Dans cette perspective, nous faisons l'hypothèse que
 c'est en intervenant au lieu de la relation impensée du corps et du
 livre qu'elle trouvera peut-être des réponses.
 
-{{% hl-augmentation "texte" "1" %}}
+{{% hl-augmentation texte 1 %}}
 
 Ce sont toutes ces interrogations que cherchent à soulever cet article.
 Nous souhaitons par là questionner les enjeux cruciaux auxquels le livre
@@ -818,6 +825,8 @@ pas la transformation des conditions de ces médiations mais
 interrogeons-nous plutôt sur ce qu'elle engage sur les plans matériel,
 symbolique, technique, économique, écologique et humain.
 
+{{< hl-augmentation "8" "7" >}}
+
 En somme, le design doit pouvoir s'immiscer dans ce non dit du corps du
 livre. C'est là l'une de ses fonctions politique, culturelle et
 anthropologique. C'est là que réside sa puissance potentielle dans la
@@ -921,6 +930,11 @@ l'effectuation d'une lecture qui ne dissocie pas le *corps* et le
 *média*, *l'être* et *le* *lire*, le *geste* (de lecture) et
 l'*interprétation*.
 
+{{% hl-augmentation "none" 8 %}}
+
+{{< q-class backmatter >}}
+## Notes
+{{< /q-class >}}
 
 [^1]: Maurice Merleau-Ponty, *L'œil et l'esprit*, Paris, Gallimard,
     1964, p. 21.
