@@ -18,7 +18,7 @@ contributor:
 >
 > {{< q-cite "Maurice Merleau-Ponty" >}}
 
-Le colloque ECRIDIL visait à s'interroger sur le « livre numérique » en
+{{< q-cite "Maurice Merleau-Ponty" >}} Le colloque ECRIDIL visait à s'interroger sur le « livre numérique » en
 reposant la question fondamentale de la définition du livre. Car il ne
 suffit pas de rendre les supports du texte littéraire interchangeables
 pour faire un livre. Dans ce sens, on peut se demander pourquoi nous
@@ -104,10 +104,10 @@ favoriser la mise en évidence des modalités de construction du sens.
 Dans « Rhétorique de l'image », c'est la publicité qu'il choisit pour ce
 faire, car :
 
-la signification de l'image \[y\] est assurément intentionnelle \[\...\]
-; si l'image contient des signes, on est donc certain qu'en publicité
-ces signes sont pleins, formés en vue de la meilleure lecture : l'image
-publicitaire est franche, ou du moins emphatique.
+> la signification de l'image \[y\] est assurément intentionnelle \[\...\]
+> ; si l'image contient des signes, on est donc certain qu'en publicité
+> ces signes sont pleins, formés en vue de la meilleure lecture : l'image
+> publicitaire est franche, ou du moins emphatique.
 
 Dans un autre champ, mais à partir du même prérequis méthodologique, il
 s'agit ici d'interroger les processus en jeu dans la lecture
