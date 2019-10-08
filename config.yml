@@ -30,6 +30,7 @@ blackfriday:
   fractions: false
   hrefTargetBlank: true
   smartypantsQuotesNBSP: true
+  smartyPants: true
 
 # These values can be accessed in templates via .Site.Params
 params:
@@ -53,3 +54,4 @@ params:
   frontmatterPageStart: 0
   bodyPageStart: 100
   backmatterPageStart: 1000
+  citationStyle: apa

@@ -18,7 +18,7 @@ contributor:
 >
 > {{< q-cite "Maurice Merleau-Ponty" >}}
 
-{{< q-cite "Maurice Merleau-Ponty" >}} Le colloque ECRIDIL visait à s'interroger sur le « livre numérique » en
+Le colloque ECRIDIL visait à s'interroger sur le "livre numérique" en
 reposant la question fondamentale de la définition du livre. Car il ne
 suffit pas de rendre les supports du texte littéraire interchangeables
 pour faire un livre. Dans ce sens, on peut se demander pourquoi nous
