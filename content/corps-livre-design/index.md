@@ -16,7 +16,7 @@ contributor:
 > une sorte de recroisement, quand s'allume l'étincelle du sentant
 > sensible (\...).*
 >
-> {{< q-cite "Maurice Merleau-Ponty" >}}
+> {{< hl-cite "goody-2002" >}}
 
 Le colloque ECRIDIL visait à s'interroger sur le "livre numérique" en
 reposant la question fondamentale de la définition du livre. Car il ne

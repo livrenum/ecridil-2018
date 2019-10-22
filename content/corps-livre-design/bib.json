@@ -1,396 +1,97 @@
 [
 	{
-		"id": " 1",
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/ZWTNE7PK",
 		"type": "book",
-		"title": "La raison graphique: la domestication de la pensée sauvage",
-		"publisher": "Éditions de Minuit",
-		"publisher-place": "Paris, France",
-		"event-place": "Paris, France",
-		"ISBN": "978-2-7073-0240-3",
-		"title-short": "La raison graphique",
-		"language": "français",
+		"title": "La lecture numérique",
+		"publisher": "Presses Universitaires de Grenoble",
+		"publisher-place": "Grenoble",
+		"number-of-pages": "274",
+		"edition": "2e édition",
+		"source": "Amazon",
+		"event-place": "Grenoble",
+		"abstract": "La lecture numérique n'est pas équivalente à la lecture sur papier. Depuis plus d'une vingtaine d'années, les données montrent un déficit général de la perception et de la compréhension, lié à l'emploi des supports électroniques. Ce problème est plus que jamais d'actualité avec le développement croissant des réseaux informatiques, des bibliothèques virtuelles, des logiciels multimédia, des liseuses et des tablettes qui impliquent de nouveaux comportements et de nouvelles compétences du lecteur. L'ouvrage synthétise les découvertes et les développements théoriques apportés par la psychologie cognitive et l'ergonomie cognitive dans le domaine de la lecture numérique. Trois grands thèmes majeurs sont abordés : la visibilité, la lisibilité et la compréhension. On y trouvera également une description de méthodes expérimentales telles que l'analyse des mouvements des yeux ou des trajectoires de la souris et une partie appliquée concernant l'ergonomie des interfaces homme/ordinateur. Cette nouvelle édition intéressera les enseignants et étudiants de niveaux master et doctorat en sciences cognitives ainsi que les psychologues et les sociologues.",
+		"ISBN": "978-2-7061-2205-7",
+		"language": "Français",
 		"author": [
 			{
-				"family": "Goody",
-				"given": "Jack"
-			}
-		],
-		"translator": [
-			{
-				"family": "Bazin",
-				"given": "Jean"
+				"family": "Baccino",
+				"given": "Thierry"
 			},
 			{
-				"family": "Bensa",
-				"given": "Alban"
+				"family": "Drai-Zerbib",
+				"given": "Véronique"
 			}
 		],
 		"issued": {
 			"date-parts": [
 				[
-					"1978"
+					"2015"
 				]
 			]
 		}
 	},
 	{
-		"id": "http://zotero.org/users/4679038/items/FXSQ22D7",
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/LL6HADRL",
+		"type": "chapter",
+		"title": "Au séminaire",
+		"container-title": "Œuvres complètes",
+		"publisher": "Seuil",
+		"publisher-place": "Paris",
+		"volume": "4",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Barthes",
+				"given": "Roland"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1974"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/V3R94MQL",
 		"type": "book",
-		"title": "Pour une esthétique de la réception",
-		"publisher": "Gallimard, impr. 1978",
-		"publisher-place": "Paris, France",
-		"event-place": "Paris, France",
-		"ISBN": "978-2-07-029951-5",
-		"language": "français",
+		"title": "Images en texte, images du texte. Dispositifs graphiques et communication écrite.",
+		"publisher": "Presses universitaires du Septentrion",
+		"publisher-place": "Lille",
+		"event-place": "Lille",
 		"author": [
 			{
-				"family": "Jauss",
-				"given": "Hans Robert"
-			},
-			{
-				"family": "Starobinski",
-				"given": "Jean"
-			}
-		],
-		"translator": [
-			{
-				"family": "Maillard",
-				"given": "Claude"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1978"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/4679038/items/FFA9TVE3",
-		"type": "article-journal",
-		"title": "Qu'est-ce que l'éditorialisation ?",
-		"container-title": "Sens Public",
-		"URL": "http://sens-public.org/article1184.html",
-		"ISSN": "2104-3272",
-		"language": "fr",
-		"author": [
-			{
-				"family": "Vitali Rosati",
-				"given": "Marcello"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2016",
-					3
-				]
-			]
-		},
-		"accessed": {
-			"date-parts": [
-				[
-					"2018",
-					10,
-					6
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/4679038/items/BD2Q2J3X",
-		"type": "book",
-		"title": "La redocumentarisation du monde",
-		"publisher": "Cépaduès éditions",
-		"publisher-place": "Toulouse, France",
-		"event-place": "Toulouse, France",
-		"ISBN": "978-2-85428-728-8",
-		"language": "français, anglais",
-		"author": [
-			{
-				"family": "Pédauque",
-				"given": "Roger T."
-			},
-			{
-				"family": "Lund",
-				"given": "Niels Windfeld"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2007"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/4679038/items/NYLK8ABV",
-		"type": "book",
-		"title": "The discipline of organizing",
-		"publisher-place": "Cambridge (Mass.), Etats-Unis d'Amérique, Royaume-Uni de Grande-Bretagne et d'Irlande du Nord",
-		"event-place": "Cambridge (Mass.), Etats-Unis d'Amérique, Royaume-Uni de Grande-Bretagne et d'Irlande du Nord",
-		"ISBN": "978-0-262-51850-5",
-		"language": "anglais",
-		"editor": [
-			{
-				"family": "Glushko",
-				"given": "Robert J."
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2013"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/4679038/items/LHEJU9AF",
-		"type": "book",
-		"title": "L'analyse du « contrat de lecture » : une nouvelle méthode pour les études de positionnement des supports presse",
-		"author": [
-			{
-				"family": "Veron",
-				"given": "Eliseo"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1985"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/4679038/items/GRDUSRMF",
-		"type": "article-journal",
-		"title": "Contrats de lecture : ue expérience de prêt de livres électroniques en bibliothèque",
-		"container-title": "Bulletin des bibliothèques de France",
-		"page": "74–76",
-		"volume": "48",
-		"issue": "3",
-		"author": [
-			{
-				"family": "Bélisle",
-				"given": "Claire"
-			},
-			{
-				"family": "Ducharme",
-				"given": "Christian"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2003"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/4679038/items/C5CDR4F3",
-		"type": "book",
-		"title": "Imaginaires des bibliothèques",
-		"publisher": "Presses de l'enssib",
-		"publisher-place": "Villeurbanne, France",
-		"event-place": "Villeurbanne, France",
-		"ISBN": "978-2-910227-96-8",
-		"language": "français",
-		"author": [
-			{
-				"family": "Jacob",
-				"given": "Christian"
-			},
-			{
-				"family": "Wieviorka",
+				"family": "Béguin-Verbrugge",
 				"given": "Annette"
 			}
 		],
 		"issued": {
 			"date-parts": [
 				[
-					"2012"
+					"2006"
 				]
 			]
 		}
 	},
 	{
-		"id": "http://zotero.org/users/4679038/items/YZAWJQDM",
-		"type": "book",
-		"title": "Read-write book: le livre inscriptible",
-		"publisher": "Centre pour l'édition électronique ouverte",
-		"publisher-place": "Marseille, France",
-		"event-place": "Marseille, France",
-		"ISBN": "978-2-7466-1240-2",
-		"title-short": "Read-write book",
-		"language": "français",
-		"editor": [
-			{
-				"family": "Dacos",
-				"given": "Marin"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2009"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/4679038/items/7AGYHXQH",
-		"type": "book",
-		"title": "Palimpsestes: la littérature au second degré",
-		"publisher": "Éditions du Seuil",
-		"publisher-place": "Paris, France",
-		"event-place": "Paris, France",
-		"abstract": "Gérard Genette explore le champ littéraire des oeuvres dérivées d'une oeuvre antérieure, souvent méconnue, créee par transformation ou imitation.",
-		"ISBN": "978-2-02-018905-7",
-		"title-short": "Palimpsestes",
-		"language": "français",
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/AQBL85QX",
+		"type": "chapter",
+		"title": "Du papier à l’écran : lire se transforme",
+		"container-title": "Lire dans un monde numérique",
+		"publisher": "Presses de l’enssib",
+		"publisher-place": "Villeurbanne",
+		"event-place": "Villeurbanne",
 		"author": [
 			{
-				"family": "Genette",
-				"given": "Gérard"
+				"family": "Bélisle",
+				"given": "Claire"
 			}
 		],
-		"issued": {
-			"date-parts": [
-				[
-					"1982"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/4679038/items/5BVZ8QQ7",
-		"type": "book",
-		"title": "Manuel de datavisualisation",
-		"publisher": "Dunod",
-		"publisher-place": "Malakoff",
-		"event-place": "Malakoff",
-		"ISBN": "978-2-10-073881-6",
-		"language": "fre",
-		"author": [
+		"collection-editor": [
 			{
-				"family": "Lagnel",
-				"given": "Jean-Marie"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2017"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/4679038/items/6LF9EFIP",
-		"type": "book",
-		"title": "Classification & visualization: interfaces to knowledge proceedings of the International UDC Seminar 24-25 October 2013, The Hague, The Netherlands, organized by UDC Consortium, The Hague",
-		"publisher": "Ergon",
-		"publisher-place": "Würzburg",
-		"event-place": "Würzburg",
-		"ISBN": "978-3-95650-007-7",
-		"title-short": "Classification & visualization",
-		"language": "eng",
-		"author": [
-			{
-				"family": "Slavic",
-				"given": "Aida"
-			},
-			{
-				"family": "Akdag Salah",
-				"given": "Almila"
-			},
-			{
-				"family": "Davies",
-				"given": "Sylvie"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2013"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/4679038/items/MELQ4YH5",
-		"type": "book",
-		"title": "Vu, lu, su: les architectes de l'information face à l'oligopole du Web",
-		"publisher": "La Découverte, impr. 2012",
-		"publisher-place": "Paris, France",
-		"event-place": "Paris, France",
-		"abstract": "La 4e de couverture indique : \"Ce livre propose d'observer le Web sous un angle inédit, en le plaçant comme un moment d'une histoire longue et méconnue, celle du document. Inventé par Tim Berners-Lee, le Web prend la suite des efforts d'indexation systématique lancés à la fin du XIXe siècle, modifiant le document lui-même dans ses trois dimensions : la forme, le contenu et la fonction de transmission. Le Web est alors un média comme un autre, s'inspirant de la bibliothèque et de la radiotélévision pour répondre aux aspirations documentaires d'une société qui a changé en profondeur. Les anciens médias eux-mêmes élargissent leur vocation en devenant des \" industries de la mémoire \", par l'archivage numérique continu et public de leur production. Les nouveaux venus, comme Apple. Google ou Facebook, privilégient chacun une dimension différente du document pour prendre une position dominante dans la construction d'un \" néodocument \". Puisant ses références dans différentes disciplines et s'appuyant sur le travail d'un réseau de chercheurs francophones sur le document numérique, ce livre ouvre plus largement les possibilités d'interprétation du Web et propose à ses acteurs indépendants de devenir des \" architectes de l'information \" pour contrer l'hégémonie menaçante des géants de la Toile.\"",
-		"ISBN": "978-2-7071-7135-1",
-		"title-short": "Vu, lu, su",
-		"language": "français",
-		"author": [
-			{
-				"family": "Salaün",
-				"given": "Jean-Michel"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2012"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/4679038/items/QVDTRPIB",
-		"type": "book",
-		"title": "De la page au flux : la conception du livre numérique",
-		"abstract": "Après des études de philosophie, et une expérience professionnelle dans l’édition, Bianca Tangaro s’est spécialisée en 2017 dans l’édition numérique en suivant le Master PUN de l’Enssib. Elle rédige actuellement un mémoire sur le livre numérique comme défi technique, commercial et culturel pour les éditeurs indépendants. À quoi pense-t-on quand on nous dit le mot « livre » ? … Continuer la lecture de De la page au flux : la conception du livre numérique →",
-		"URL": "https://dlis.hypotheses.org/1255",
-		"title-short": "De la page au flux",
-		"language": "fr-FR",
-		"author": [
-			{
-				"family": "Tangaro",
-				"given": "Bianca"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2017"
-				]
-			]
-		},
-		"accessed": {
-			"date-parts": [
-				[
-					"2018",
-					10,
-					13
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/4679038/items/7BCSKXGT",
-		"type": "book",
-		"title": "Pour un humanisme numérique",
-		"publisher": "Éditions du Seuil",
-		"publisher-place": "Paris, France",
-		"event-place": "Paris, France",
-		"ISBN": "978-2-02-100089-4",
-		"language": "français",
-		"author": [
-			{
-				"family": "Doueihi",
-				"given": "Milad"
+				"family": "Bélisle",
+				"given": "Claire"
 			}
 		],
 		"issued": {
@@ -402,17 +103,50 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/4679038/items/DXXDUPAP",
-		"type": "book",
-		"title": "Qu’est-ce qu’un document numérique au 21e siècle ? Exercice de repérages",
-		"abstract": "En entrant dans l’ère du numérique, le document a connu un grand nombre de mutations qui se sont traduites au cours de ces trente dernières années par une transformation de son rapport à la technique, l’apparition d’enjeux de société inédits et l’explosion de nouveaux métiers sur le marché de l’emploi. En passant d’une logique de stock à … Continuer la lecture de Qu’est-ce qu’un document numérique au 21è siècle ? Exercice de repérages →",
-		"URL": "https://dlis.hypotheses.org/1429",
-		"title-short": "Qu’est-ce qu’un document numérique au 21è siècle ?",
-		"language": "fr-FR",
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/7YXKK7B6",
+		"type": "chapter",
+		"title": "Essai d’autobiographie",
+		"container-title": "Livre de préfaces, suivi de Essai d’autobiographie",
+		"publisher": "Gallimard",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
 		"author": [
 			{
-				"family": "Muller",
-				"given": "Catherine"
+				"family": "Borges",
+				"given": "Jorge Luis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/TQRBBMEW",
+		"type": "chapter",
+		"title": "L’édition du texte informatisé, une pratique de lecture",
+		"container-title": "Design & innovation dans la chaîne du livre. Écrire, éditer, lire à l’ère du numérique",
+		"publisher": "Presses Universitaires de France",
+		"publisher-place": "Paris",
+		"page": "115-128",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Candel",
+				"given": "Étienne"
+			}
+		],
+		"collection-editor": [
+			{
+				"family": "Stéphane",
+				"given": "Vial"
+			},
+			{
+				"family": "Catoir-Brisson",
+				"given": "Marie-Julie"
 			}
 		],
 		"issued": {
@@ -421,135 +155,387 @@
 					"2017"
 				]
 			]
-		},
-		"accessed": {
-			"date-parts": [
-				[
-					"2018",
-					10,
-					13
-				]
-			]
 		}
 	},
 	{
-		"id": "http://zotero.org/users/4679038/items/FMT965WS",
-		"type": "book",
-		"title": "Mythologies",
-		"publisher": "Éditions du Seuil",
-		"publisher-place": "Paris, France",
-		"event-place": "Paris, France",
-		"ISBN": "978-2-02-002582-9",
-		"language": "français",
-		"author": [
-			{
-				"family": "Barthes",
-				"given": "Roland"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1957"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/4679038/items/WX28D52S",
-		"type": "book",
-		"title": "Traité de documentation. Le livre sur le livre, théorie et pratique",
-		"publisher": "Palais mondial",
-		"publisher-place": "Bruxelles, Belgique",
-		"event-place": "Bruxelles, Belgique",
-		"language": "français",
-		"author": [
-			{
-				"family": "Otlet",
-				"given": "Paul"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1934"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/4679038/items/79AGFMQS",
-		"type": "book",
-		"title": "La légende noire du monde électronique",
-		"abstract": "La période contemporaine ressemble à bien des égards au 18e siècle. On peut croire ou souhaiter qu'advienne un mouvement mondial comparable à ce que furent les Lumières en Europe. Des Lumières numériques sont un axe d'inspiration que l'Europe pourrait adopter pour offrir le meilleur d'elle-même au monde en devenir. Cet entretien avec Roger Chartier, historien spécialiste de l'écrit aux 16e-18e siècles, mené en compagnie du prospectiviste Thierry Gaudin, présente un caractère insolite et exceptionnel.",
-		"URL": "http://reseaux.blog.lemonde.fr/2013/03/24/legende-noire-monde-electronique/",
-		"language": "fr-FR",
-		"author": [
-			{
-				"family": "Lacroix",
-				"given": "Dominique"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2018",
-					10,
-					13
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/4679038/items/7NZSLKKK",
-		"type": "book",
-		"title": "Le livre en révolutions: entretiens avec Jean Lebrun",
-		"publisher": "Textuel",
-		"publisher-place": "Paris, France",
-		"event-place": "Paris, France",
-		"ISBN": "978-2-909317-34-2",
-		"title-short": "Le livre en révolutions",
-		"language": "français",
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/GINZN9M9",
+		"type": "article-journal",
+		"title": "La mort du livre ?",
+		"container-title": "Communication langages",
+		"page": "57-65",
+		"volume": "159",
+		"issue": "1",
+		"source": "www.cairn.info",
+		"URL": "https://www.cairn.info/revue-communication-et-langages1-2009-1-page-57.htm",
+		"ISSN": "0336-1500",
+		"language": "fr",
 		"author": [
 			{
 				"family": "Chartier",
 				"given": "Roger"
-			},
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/AUCMWDIP",
+		"type": "book",
+		"title": "Le don du patrimoine. Une approche communicationnelle de la patrimonialisation",
+		"publisher": "Hermès Science-Lavoisier",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"author": [
 			{
-				"family": "Lebrun",
+				"family": "Davallon",
 				"given": "Jean"
 			}
 		],
 		"issued": {
 			"date-parts": [
 				[
-					"1997"
+					"2006"
 				]
 			]
 		}
 	},
 	{
-		"id": "http://zotero.org/users/4679038/items/6XPH234V",
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/3PIW8UXM",
+		"type": "article-journal",
+		"title": "La fausse évidence du lien hypertexte",
+		"container-title": "Communication & langages",
+		"page": "43-54",
+		"volume": "140",
+		"issue": "1",
+		"source": "www.persee.fr",
+		"abstract": "La notion d'hypertexte est très intimement liée à l'idée d'une mutation radicale des régimes documentaires : le document numérique est censé autoriser, grâce à sa « dématérialisation » et à son « interactivité », un nouveau type de relation entre producteur et utilisateur, celle de la navigation au sein d'un univers arborescent et ouvert. Les auteurs discutent ici cette mutation apparemment évidente, en montrant que l'opposition entre texte et hypertexte est un point de vue très réducteur pour décrire, d'une part les nouvelles relations entre les formes sémiotiques et leur support, d'autre part la façon dont l'écriture contribue à la mise en place de médiations sociales nouvelles.",
+		"URL": "https://www.persee.fr/doc/colan_0336-1500_2004_num_140_1_3266",
+		"DOI": "10.3406/colan.2004.3266",
+		"language": "fre",
+		"author": [
+			{
+				"family": "Davallon",
+				"given": "Jean"
+			},
+			{
+				"family": "Jeanneret",
+				"given": "Yves"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/9XXH7H5N",
 		"type": "book",
-		"title": "Classification & visualization: interfaces to knowledge : proceedings of the International UDC Seminar 24-25 October 2013, The Hague, The Netherlands, organized by UDC Consortium, The Hague",
-		"publisher": "Ergon",
-		"publisher-place": "Würzburg, Allemagne",
-		"event-place": "Würzburg, Allemagne",
-		"ISBN": "978-3-95650-007-7",
-		"title-short": "Classification & visualization",
-		"language": "anglais",
-		"editor": [
+		"title": "L’invention du quotidien. I. Arts de faire.",
+		"publisher": "Gallimard",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"author": [
 			{
-				"family": "Slavic",
-				"given": "Aida"
+				"family": "De Certeau",
+				"given": "Michel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/6XMFXZL3",
+		"type": "book",
+		"title": "Ce que nous voyons, ce qui nous regarde",
+		"publisher": "Minuit",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Didi-Huberman",
+				"given": "Georges"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/QEARRP68",
+		"type": "book",
+		"title": "Graphesis: Visual Forms of Knowledge Production",
+		"publisher": "Harvard University Press",
+		"publisher-place": "Cambridge",
+		"number-of-pages": "216",
+		"event-place": "Cambridge",
+		"abstract": "In our current screen-saturated culture, we take in more information through visual means than at any point in history. The computers and smart phones that constantly flood us with images do more than simply convey information. They structure our relationship to information through graphical formats. Learning to interpret how visual forms not only present but produce knowledge, says Johanna Drucker, has become an essential contemporary skill.Graphesis provides a descriptive critical language for the analysis of graphical knowledge. In an interdisciplinary study fusing digital humanities with media studies and graphic design history, Drucker outlines the principles by which visual formats organize meaningful content. Among the most significant of these formats is the graphical user interface (GUI)--the dominant feature of the screens of nearly all consumer electronic devices. Because so much of our personal and professional lives is mediated through visual interfaces, it is important to start thinking critically about how they shape knowledge, our behavior, and even our identity.Information graphics bear tell-tale signs of the disciplines in which they originated: statistics, business, and the empirical sciences. Drucker makes the case for studying visuality from a humanistic perspective, exploring how graphic languages can serve fields where qualitative judgments take priority over quantitative statements of fact. Graphesis offers a new epistemology of the ways we process information, embracing the full potential of visual forms and formats of knowledge production.",
+		"ISBN": "978-0-674-72493-8",
+		"title-short": "Graphesis",
+		"language": "English",
+		"author": [
+			{
+				"family": "Drucker",
+				"given": "Johanna"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/T5CG3P7C",
+		"type": "book",
+		"title": "Lector in fabula. Le rôle du lecteur ou la coopération interprétative dans les textes narratifs",
+		"publisher": "Grasset",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Eco",
+				"given": "Umberto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/ZAQ9J6HG",
+		"type": "chapter",
+		"title": "The theory of affordances",
+		"container-title": "Perceiving, acting, and knowing: Toward an ecological psychology",
+		"publisher": "Lawrence Erlbaum Associates",
+		"publisher-place": "Hillsdale",
+		"page": "67-82",
+		"event-place": "Hillsdale",
+		"author": [
+			{
+				"family": "Gibson",
+				"given": "James"
+			}
+		],
+		"collection-editor": [
+			{
+				"family": "Shaw",
+				"given": "Robert"
 			},
 			{
-				"family": "Akdag Salah",
-				"given": "Almila"
+				"family": "Brandsford",
+				"given": "John"
+			}
+		]
+	},
+	{
+		"id": "goody-2002",
+		"type": "book",
+		"title": "La raison graphique: la domestication de la pensée sauvage",
+		"publisher": "Editions de Minuit",
+		"publisher-place": "Paris",
+		"source": "Open WorldCat",
+		"event-place": "Paris",
+		"ISBN": "978-2-7073-0240-3",
+		"note": "OCLC: 793789241",
+		"title-short": "La raison graphique",
+		"language": "French",
+		"author": [
+			{
+				"family": "Goody",
+				"given": "Jack"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/JYIQDMLQ",
+		"type": "book",
+		"title": "Manger le livre. Rites alimentaires et fonctions paternelles",
+		"publisher": "Hachette",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Haddad",
+				"given": "Jack"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/595T288C",
+		"type": "book",
+		"title": "Faire. Anthropologie, archéologie, art et architecture",
+		"publisher": "éditions Dehors",
+		"publisher-place": "Belleveaux",
+		"event-place": "Belleveaux",
+		"author": [
+			{
+				"family": "Ingold",
+				"given": "Tim"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/GESVX2NV",
+		"type": "book",
+		"title": "Penser la trivialité. Tome 1. La vie triviale des êtres culturels",
+		"publisher": "Hermès-Lavoisier",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Jeanneret",
+				"given": "Yves"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/HE3HVUKX",
+		"type": "book",
+		"title": "Le corps",
+		"publisher": "Flammarion",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Lévine",
+				"given": "Eva"
 			},
 			{
-				"family": "Davies",
-				"given": "Sylvie"
+				"family": "Taboul",
+				"given": "Patricia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/CW7SLS9H",
+		"type": "book",
+		"title": "La vie solide. La charpente comme éthique du faire",
+		"publisher": "Payot et Rivages",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Lochmann",
+				"given": "Arthur"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/ZNAHFDPE",
+		"type": "article-journal",
+		"title": "Quel corps pour les sciences de l’information et de la communication ?",
+		"container-title": "Les cahiers de la SFSIC",
+		"page": "63-69",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Martin-Juchat",
+				"given": "Fabienne"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/VDSSNDG2",
+		"type": "chapter",
+		"title": "Les techniques du corps.",
+		"container-title": "Sociologie et anthropologie",
+		"publisher": "Presses universitaires de France",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Mauss",
+				"given": "Marcel"
 			}
 		],
 		"issued": {
@@ -561,18 +547,91 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/4679038/items/GFKVUTAI",
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/HHXH8V4V",
 		"type": "book",
-		"title": "L'édition à l'ère numérique",
-		"publisher": "La Découverte",
+		"title": "L’œil et l’esprit",
+		"publisher": "Gallimard",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
 		"author": [
 			{
-				"family": "Epron",
-				"given": "Benoît"
-			},
+				"family": "Merleau-Ponty",
+				"given": "Maurice"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1964"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/RFA4JYQX",
+		"type": "post-weblog",
+		"title": "Le sens du geste. Remédiations et poétiques tactiles de la littérature numérique",
+		"URL": "https://via.hypothes.is/https://stylo.ecrituresnumeriques.ca/api/v1/htmlArticle/5c840c58f266cc001124a78f?preview=true#fnref5",
+		"author": [
 			{
-				"family": "Vitali-Rosati",
-				"given": "Marcello"
+				"family": "Monjour",
+				"given": "Servanne"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/RFLZXUAB",
+		"type": "book",
+		"title": "The tacite dimension",
+		"publisher": "Routledge",
+		"publisher-place": "Londres",
+		"event-place": "Londres",
+		"author": [
+			{
+				"family": "Polanyi",
+				"given": "MIchael"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/IJSFG3V2",
+		"type": "thesis",
+		"title": "Les designs des images et des écritures",
+		"publisher": "Université Denis Diderot de Paris VII",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Quinton",
+				"given": "Philippe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/U9K6AW4J",
+		"type": "book",
+		"title": "La Bande Dessinée, une intelligence subversive",
+		"publisher": "Presses de l’Enssib",
+		"publisher-place": "Villeurbanne",
+		"event-place": "Villeurbanne",
+		"author": [
+			{
+				"family": "Robert",
+				"given": "Pascal"
 			}
 		],
 		"issued": {
@@ -584,15 +643,95 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/4679038/items/9LWKXHFU",
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/Q62JXE7N",
+		"type": "book",
+		"title": "Bande dessinée et numérique",
+		"publisher": "CNRS Éditions",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Robert",
+				"given": "Pascal"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/UIJA5ZRD",
+		"type": "article-journal",
+		"title": "La mémoire de l’oubli. Éloge de l’aliénation. Pour une poétique de l’infra-ordinaire.",
+		"container-title": "Communication & langages",
+		"page": "3-19",
+		"issue": "172",
+		"author": [
+			{
+				"family": "Souchier",
+				"given": "Emmanuël"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/P2F5USJ6",
+		"type": "article-journal",
+		"title": "L’écrit d’écran, pratiques d’écriture & informatique",
+		"container-title": "Communication & langages",
+		"page": "105-119",
+		"issue": "107",
+		"author": [
+			{
+				"family": "Souchier",
+				"given": "Emmanuël"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/FDMKH2E2",
+		"type": "chapter",
+		"title": "Préface",
+		"container-title": "Traité des vertus démocratiques",
+		"publisher": "Gallimard",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Souchier",
+				"given": "Emmanuël"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/7IRDHK9S",
 		"type": "thesis",
-		"title": "Les corps du livre, du codex au numérique. Enjeux des corporéités d'une forme médiatique: vers une anthropologie communicationnelle du livre",
-		"publisher": "Sorbonne Université",
-		"publisher-place": "France",
-		"genre": "Thèse de doctorat",
-		"event-place": "France",
-		"title-short": "Les corps du livre, du codex au numérique. Enjeux des corporéités d'une forme médiatique",
-		"language": "français",
+		"title": "Les corps du livre – du codex au numérique. Enjeux des corporéités d’une forme médiatique : vers une anthropologie communicationnelle du livre.",
+		"publisher": "Sorbonne",
 		"author": [
 			{
 				"family": "Tadier",
@@ -608,74 +747,30 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/4679038/items/EBBPJMVX",
-		"type": "book",
-		"title": "Design et humanités numériques",
-		"publisher": "Éditions B42",
-		"publisher-place": "Paris, France",
-		"event-place": "Paris, France",
-		"abstract": "En quoi les environnements numériques contemporains actualisent-ils les modes de production et de transmission des savoirs ? Quelle est la place des designers dans des projets relevant des sciences humaines et sociales ? En étudiant des opérations et des systèmes techniques potentiellement ouverts à la recherche, cet essai interroge le rapport du design aux humanités numériques. ­Electre 2018",
-		"ISBN": "978-2-917855-72-0",
-		"language": "français",
-		"author": [
-			{
-				"family": "Masure",
-				"given": "Anthony"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2017"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/4679038/items/N2WCIFQF",
-		"type": "book",
-		"title": "L'archéologie du savoir",
-		"publisher": "Gallimard",
-		"publisher-place": "Paris, France",
-		"event-place": "Paris, France",
-		"ISBN": "978-2-07-026999-0",
-		"language": "français",
-		"author": [
-			{
-				"family": "Foucault",
-				"given": "Michel"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1969"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/4679038/items/XVW5MHIC",
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/2YALZ5EP",
 		"type": "article-journal",
-		"title": "L'écrit d'écran, pratiques d'écriture & informatique",
-		"container-title": "Communication & Langages",
-		"page": "105–119",
-		"volume": "107",
-		"issue": "1",
-		"abstract": "L'objectif de cet article n'est pas de proposer une nouvelle théorie susceptible de changer radicalement notre point de vue sur l'analyse de l'écriture1, mais bien de poser un certain nombre d'interrogations à propos de l'introduction de l'écran et des nouvelles technologies dans l'univers de l'écrit. Au fond, comment une analyse de l'écrit peut- elle aujourd'hui s'inscrire dans l'arrière plan historique et culturel de l'écriture, dans une sémiologie «infra-ordinaire», tout en observant ce qui bouge dans les pratiques en fonction de la matérialité, de la technologie et des données socio-économiques.",
-		"URL": "https://www.persee.fr/doc/colan_0336-1500_1996_num_107_1_2662",
-		"DOI": "10.3406/colan.1996.2662",
-		"language": "fre",
+		"title": "Bleeding Pages, Bleeding Bodies: A Gendered Reading of British Library MS Egerton 1821",
+		"container-title": "Medieval Feminist Forum: A Journal of Gender and Sexuality",
+		"page": "175-200",
+		"volume": "45",
+		"issue": "2",
+		"source": "ir.uiowa.edu",
+		"abstract": "By Nancy Thebaut, Published on 12/31/09",
+		"URL": "https://ir.uiowa.edu/mff/vol45/iss2/10",
+		"DOI": "10.17077/1536-8742.1815",
+		"ISSN": "1536-8742",
+		"title-short": "Bleeding Pages, Bleeding Bodies",
+		"language": "en",
 		"author": [
 			{
-				"family": "Souchier",
-				"given": "Emmanuël"
+				"family": "Thebaut",
+				"given": "Nancy"
 			}
 		],
 		"issued": {
 			"date-parts": [
 				[
-					"1996"
+					"2009"
 				]
 			]
 		},
@@ -683,34 +778,110 @@
 			"date-parts": [
 				[
 					"2019",
-					4,
-					19
+					10,
+					3
 				]
 			]
 		}
 	},
 	{
-		"id": "http://zotero.org/users/4679038/items/D4M5ACFX",
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/BIWCHWLY",
+		"type": "chapter",
+		"title": "Presse écrite et théorie des discours sociaux : production, réception, régulation",
+		"container-title": "La Presse, produit, production, réception",
+		"publisher": "Haltier",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Verón",
+				"given": "Eliseo"
+			}
+		],
+		"container-author": [
+			{
+				"family": "Charaudeau",
+				"given": "Patrick"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/4YYJJ8PG",
 		"type": "article-journal",
-		"title": "Le réseau et ses outils comme lieu de raffinement du livre",
-		"container-title": "Revue Sciences/Lettres",
-		"issue": "2",
-		"abstract": "Contenu web et livre sont souvent opposés l’un à l’autre comme deux formes de discours s’excluant mutuellement. Le livre comme ordre de discours ne peut-il cependant s’intégrer au réseau sans s’y dissoudre ? Nous voyons ici en suivant la trame des procédures de l’ordre du discours définis par Michel Foucault que les outils réseau sont propres non seulement à leur rendre justice mais plus encore à les raffiner. Le web n’est pas le lieu de la disparition du livre ou de quelque type de discours mais au contraire de leur spéciation la plus fine, là ou le papier les contraignait sous une appellation commune de livre dont ils n’avaient parfois que l’inévitable forme. La condition de ce raffinement du livre dans le réseau reste cependant la prise en main par les auteurs et éditeurs de ces techniques ainsi que leur implication dans la conception de ces nouveaux outils métier.",
-		"URL": "http://journals.openedition.org/rsl/526",
-		"DOI": "10.4000/rsl.526",
-		"ISSN": "2271-6246",
+		"title": "De l’image sémiologique aux discursivités. Le temps d’une photo.",
+		"container-title": "Hermès",
+		"page": "13-14",
+		"author": [
+			{
+				"family": "Verón",
+				"given": "Eliseo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/LDS2ATQR",
+		"type": "book",
+		"title": "L'être et l'écran: comment le numérique change la perception",
+		"publisher": "PUF",
+		"publisher-place": "Paris",
+		"source": "Open WorldCat",
+		"event-place": "Paris",
+		"ISBN": "978-2-13-062170-6",
+		"note": "OCLC: 859728702",
+		"title-short": "L'être et l'écran",
+		"language": "French",
+		"author": [
+			{
+				"family": "Vial",
+				"given": "Stéphane"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/2BZL5HKH",
+		"type": "article-journal",
+		"title": "Qu’appelle-t-on « design numérique » ?",
+		"container-title": "Interfaces numériques",
+		"page": "91-106",
+		"volume": "1",
+		"issue": "1",
+		"source": "www.unilim.fr",
+		"abstract": "Cet article s’interroge sur la notion controversée de « design numérique » et propose d’en donner une définition rigoureuse à partir d’une épistémologie critique et comparative. Le « design numérique » est d’abord défini en opposition au « design numériquement assisté » avant d’être situé historiquement par rapport à l’expression « design d’interaction » apparue dans le design industriel des années 1980. Replaçant la question du numérique au sein de la révolution phénoménologique et culturelle globale qu’elle représente à l’échelle mondiale, cet article montre en quoi l’expression « design numérique » est plus pertinente pour désigner l’ensemble des pratiques de conception impliquant la matière informatisée, dont le « design d’interaction » n’est qu’une composante parmi d’autres (au même titre que le web design ou le game design). L’article propose ainsi une redéfinition de la matière à l’ère numérique, en distinguant « matière mécanisée » et « matière informatisée » et tente d’esquisser le fondement philosophique du champ du design numérique.",
+		"URL": "https://www.unilim.fr/interfaces-numeriques/index.php?id=163",
+		"DOI": "10.25965/interfaces numériques.163",
+		"ISSN": "2259-1001",
 		"language": "fr",
 		"author": [
 			{
-				"family": "Girard",
-				"given": "Chloé"
+				"family": "Vial",
+				"given": "Stéphane"
 			}
 		],
 		"issued": {
 			"date-parts": [
 				[
-					"2014",
-					2
+					"2012"
 				]
 			]
 		},
@@ -718,35 +889,8 @@
 			"date-parts": [
 				[
 					"2019",
-					4,
-					19
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/4679038/items/82KN7KEH",
-		"type": "book",
-		"title": "Pratiques de l'édition numérique",
-		"collection-title": "Parcours numériques",
-		"publisher": "Les Presses de l'Université de Montréal,",
-		"publisher-place": "[Montréal]",
-		"event-place": "[Montréal]",
-		"ISBN": "978-2-7606-3202-8",
-		"author": [
-			{
-				"family": "Sinatra",
-				"given": "Michaël"
-			},
-			{
-				"family": "Vitali-Rosati",
-				"given": "Marcello"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2014"
+					10,
+					3
 				]
 			]
 		}
