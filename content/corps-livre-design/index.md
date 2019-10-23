@@ -23,7 +23,7 @@ L’expression « livre numérique » invite à reposer la question fondamentale
 
 {{% hl-augmentation "1" %}}
 
-L’expression « livre numérique » nous renvoie également à une longue histoire symbolique et culturelle de la relation entre les supports de l’écrit et les productions graphiques[^3] aujourd’hui incarnée par le codex. Or cette intimité entre ce que l’on distingue comme un « fond » et une « forme », entre des modalités expressives et un support qui l’informe, cette proximité est intimement liée aux rôles des corps : corps de l’artisan, du designer qui en pense les usages à la mesure du corps humain, corps de l’éditeur, également, qui, tous, fabriquent et organisent le support ; corps du lecteur qui se l’approprie, enfin.
+L’expression « livre numérique » nous renvoie également à une longue histoire symbolique et culturelle de la relation entre les supports de l’écrit et les productions graphiques[^productions-graphiques] aujourd’hui incarnée par le codex. Or cette intimité entre ce que l’on distingue comme un « fond » et une « forme », entre des modalités expressives et un support qui l’informe, cette proximité est intimement liée aux rôles des corps : corps de l’artisan, du designer qui en pense les usages à la mesure du corps humain, corps de l’éditeur, également, qui, tous, fabriquent et organisent le support ; corps du lecteur qui se l’approprie, enfin.
 
 À des niveaux distincts, ils vont chacun donner une assise à son « sens formel » ({{< hl-cite "Souchier 1993" "15-24" >}} puisque c’est par eux que cette relation entre fond et forme s’organise, qu’elle s’active et s’actualise. En ce sens, le corps, comme faiseur, comme mesure, comme repère, participe des fondements de cette culture du livre que viennent interroger les dispositifs numériques et qui est bien souvent impensée. C’est ce que nous souhaitons montrer dans cet article. Et c’est là aussi, sans doute, que la recherche en design a un rôle à jouer en contexte numérique. Rôle fondateur et essentiel, puisqu’il ne fait pas moins que poser la question de l’_humain_ – et de sa place dans sa relation au média numérique, qui cherche aujourd’hui à trouver son inscription dans une culture séculaire. Le média est défini ici, à la suite d’Eliseo Verón, comme un « dispositif technologique » reposant sur « la conjonction d’un support et d’un système de pratiques d’utilisation » ({{< hl-cite "Veron 1988" >}}) pratiques, tant de « production » que « d’appropriation »{{< hl-cite "Veron 1994" "12" >}}).
 
@@ -45,7 +45,7 @@ Dans un autre champ, mais à partir du même prérequis méthodologique, il s’
 
 {{% hl-augmentation "none" "texte" %}}
 
-Ce travail de la « plasticité » du corpus peut opérer comme un révélateur de certains enjeux pour le livre et la pratique de lecture : nous cherchons ainsi à mettre à l’épreuve la question de l’« implication » du lecteur, soit, selon les termes d’Yves Jeanneret, « le fait que le complexe texte/média engage pratiquement l’échange dans un certain sens et requiert le corps du sujet » ({{< hl-cite "Jeanneret 2008" "167" >}} Cet ajustement permanent, autrement dit cet équilibre subtil entre un média et un corps, relève bien du domaine du design, pour lequel se pose en particulier des questions d’affordance. Mais, au-delà de cette notion empruntée à Gibson, il s’agit ici de mettre en évidence que la relation entre un usager et un média n’est pas donnée comme « naturelle », au regard de présupposées caractéristiques du corps et du média. L’enjeu de cet article est précisément de montrer que cette relation se construit dans le temps long de l’histoire d’un média et de l’évolution de nos « techniques du corps »{{< hl-cite "Mauss 2013" >}}) Et qu’elle trouve une forme d’aboutissement (même provisoire) dans sa « naturalisation » progressive (c’est-à-dire une intégration des usages), devenant ainsi l’un des ferments de la culture. En ce sens, nous rejoignons la proposition de Servanne Monjour qui invite à réévaluer l’approche gibsonienne de l’affordance, en faisant plutôt référence à l’expression de « culture médiatique »[^9].
+Ce travail de la « plasticité » du corpus peut opérer comme un révélateur de certains enjeux pour le livre et la pratique de lecture : nous cherchons ainsi à mettre à l’épreuve la question de l’« implication » du lecteur, soit, selon les termes d’Yves Jeanneret, « le fait que le complexe texte/média engage pratiquement l’échange dans un certain sens et requiert le corps du sujet » ({{< hl-cite "Jeanneret 2008" "167" >}}). Cet ajustement permanent, autrement dit cet équilibre subtil entre un média et un corps, relève bien du domaine du design, pour lequel se pose en particulier des questions d’affordance. Mais, au-delà de cette notion empruntée à Gibson, il s’agit ici de mettre en évidence que la relation entre un usager et un média n’est pas donnée comme « naturelle », au regard de présupposées caractéristiques du corps et du média. L’enjeu de cet article est précisément de montrer que cette relation se construit dans le temps long de l’histoire d’un média et de l’évolution de nos « techniques du corps » ({{< hl-cite "Mauss 2013" >}}). Et qu’elle trouve une forme d’aboutissement (même provisoire) dans sa « naturalisation » progressive (c’est-à-dire une intégration des usages), devenant ainsi l’un des ferments de la culture. En ce sens, nous rejoignons la proposition de Servanne Monjour ({{< hl-cite "Monjour" >}}) qui invite à réévaluer l’approche gibsonienne de l’affordance, en faisant plutôt référence à l’expression de « culture médiatique ».
 
 Suivant cette perspective, nous convoquerons ici deux types de corpus empruntés à des époques différentes dans l’histoire du livre. Le premier relève de la bande dessinée, le second est un manuscrit médiéval à vocation religieuse. À des niveaux différents, chacun permet de mettre en évidence une activité spécifique du corps engagé dans sa relation au livre, et ainsi d’interroger plus généralement la place et le rôle du corps du lecteur.
 
@@ -63,14 +63,15 @@ Voilà l’un des premiers aspects de l’« implication » du lecteur, sur lequ
 
 Le rapport ordinaire au support est ainsi remis en jeu, amenant le lecteur à se saisir de « l’histoire-monde » de _Building Stories_ en construisant son expérience de lecture dans la répétition des gestes de tourner la page, déplier, ouvrir, porter, écarter, fermer, déplacer ses mains. Les gestes de lecture habituels et intégrés au point de ne plus être réfléchis dans la lecture d’un codex « classique » redécouvrent leur part effective et « performative » dans la progression de la narration mais aussi dans l’effectuation de la lecture. 
 
-Une part de l’implication, souvent non portée à la conscience, est donc ici mise en jeu comme un _engagement_ du lecteur dans sa relation au support. Partant, c’est aussi l’expérience de la matérialité des supports (cartonnages, papier glacé, épaisseur ou finesse du papier qui se plie ou se courbe, etc.) et, par leur variation, celle de la sensorialité suscitée par le livre, qui sont en jeu. Or cette dimension sensible de l’activité de lecture n’est jamais décorrélée, pour le lecteur, de la construction d’un « sens formel » ({{< hl-cite "Souchier 1993" >}}) ui passe par un « éprouvé » de cette matérialité. 
+Une part de l’implication, souvent non portée à la conscience, est donc ici mise en jeu comme un _engagement_ du lecteur dans sa relation au support. Partant, c’est aussi l’expérience de la matérialité des supports (cartonnages, papier glacé, épaisseur ou finesse du papier qui se plie ou se courbe, etc.) et, par leur variation, celle de la sensorialité suscitée par le livre, qui sont en jeu. Or cette dimension sensible de l’activité de lecture n’est jamais décorrélée, pour le lecteur, de la construction d’un « sens formel » ({{< hl-cite "Souchier 1993" >}}) qui passe par un « éprouvé » de cette matérialité. 
 
 Pour la bande dessinée, l’immeuble se prête heureusement à une représentation par la « case », au fondement du système graphique de la BD. La case étant elle-même un format narratif susceptible de jouer à la fois comme un cadre spatial et un cadre temporel, l’espace de l’immeuble vient ici faire se superposer les temporalités et les espaces. Il en découle une complexification du principe narratif, qui organise ses cheminements de lecture.
 
-Répondant à la notion d’« implication » d’Yves Jeanneret, Pascal Robert a théorisé pour la BD la notion « d’implication sémiotique » pour montrer le double rôle du lecteur dans la lecture : il est à la fois _témoin_ (de ce qu’il voit, sur le plan de l’image) et _moteur_ (puisque « sans lui rien n’avance » dans la progression du récit) ({{< hl-cite "Robert 2018" "213" >}}) Cette double posture « passive » (avec les limites de cette notion de passivité, que souligne par ailleurs P. Robert) et « active » se révèle dans la bande dessinée parce que celle-ci joue avec son lecteur en « étreignant » la page. 
+Répondant à la notion d’« implication » d’Yves Jeanneret, Pascal Robert a théorisé pour la BD la notion « d’implication sémiotique » pour montrer le double rôle du lecteur dans la lecture : il est à la fois _témoin_ (de ce qu’il voit, sur le plan de l’image) et _moteur_ (puisque « sans lui rien n’avance » dans la progression du récit) ({{< hl-cite "Robert 2018" "213" >}}). Cette double posture « passive » (avec les limites de cette notion de passivité, que souligne par ailleurs P. Robert) et « active » se révèle dans la bande dessinée parce que celle-ci joue avec son lecteur en « étreignant » la page. 
 
 
-> Ce moteur est double : il est constitué des engrenages visuels et narratifs qui participent à la construction de l’histoire, par cette provocation des images à les explorer et à en percer la superficialité […] ; il repose également sur un lecteur qui se révèle être un témoin actif qui _actualise cette dynamique en y introduisant son propre rythme de lecture et ses références_ (au réel, littéraires, bédéiques, filmiques, etc.) ({{< hl-cite "Robert 2018" "235" >}}) 
+> Ce moteur est double : il est constitué des engrenages visuels et narratifs qui participent à la construction de l’histoire, par cette provocation des images à les explorer et à en percer la superficialité […] ; il repose également sur un lecteur qui se révèle être un témoin actif qui _actualise cette dynamique en y introduisant son propre rythme de lecture et ses références_ (au réel, littéraires, bédéiques, filmiques, etc.)
+> ({{< hl-cite "Robert 2018" "235" >}}).
 
 C’est justement cette _actualisation dynamique _en jeu dans la lecture qui nous intéresse à présent, en considérant que le corps a une place à y prendre.	
 
@@ -96,7 +97,7 @@ Ce schéma souligne les principaux cheminements de lecture donnés à la fois pa
 Car la variation des « chemins empruntables » par l’œil dévoile ici la variation possible des rapports _au sens_ du texte (dans tous_ ses sens_). En effet, les choix opérés par le lecteur (« suivre » un chemin de lecture plutôt qu’un autre) réordonnent inévitablement la temporalité et la chronologie du récit, mais aussi les effets de résonance d’une image à l’autre, par exemple. Or on mesure en creux, ici, l’implication du corps dans l’effectuation de ces choix de lecture. Comme l’a souligné Annette Béguin-Verbrugge, 
 
 
-> L’organisation graphique instaure une dynamique entre les éléments de l’inscription, mais elle ne peut le faire que parce qu’un lien unit le producteur et le lecteur : ils ont tous les deux le même système visuel et le même schéma corporel, orienté dans l’espace ({{< hl-cite "Beguin-Verbrugge 2006" "32" >}}) . D’une part, parcourir des yeux le mouvement des lignes (même « simplement » de droite à gauche) nécessite d’engager, dans la prise de repère par rapport à la page, une image mentale de son corps et de sa représentation dans l’espace – _a fortiori_ sur cette planche dont le texte défie les sens du haut, du bas, du côte-à-côte, du dessus, du dessous… D’autre part, comme c’est le cas ici, c’est le corps lui-même qui est mis en mouvement puisque selon ses cheminements, le lecteur devra prendre en main le support, le tourner et se repositionner pour ajuster son sens de lecture, ce qui n’est pas non plus sans faire écho aux dispositifs de lecture numérique. (On peut jouer de la même manière avec une tablette ou un smartphone en activant la rotation de l’écran, en format horizontal ou vertical.). 
+> L’organisation graphique instaure une dynamique entre les éléments de l’inscription, mais elle ne peut le faire que parce qu’un lien unit le producteur et le lecteur : ils ont tous les deux le même système visuel et le même schéma corporel, orienté dans l’espace ({{< hl-cite "Beguin-Verbrugge 2006" "32" >}}). D’une part, parcourir des yeux le mouvement des lignes (même « simplement » de droite à gauche) nécessite d’engager, dans la prise de repère par rapport à la page, une image mentale de son corps et de sa représentation dans l’espace – _a fortiori_ sur cette planche dont le texte défie les sens du haut, du bas, du côte-à-côte, du dessus, du dessous… D’autre part, comme c’est le cas ici, c’est le corps lui-même qui est mis en mouvement puisque selon ses cheminements, le lecteur devra prendre en main le support, le tourner et se repositionner pour ajuster son sens de lecture, ce qui n’est pas non plus sans faire écho aux dispositifs de lecture numérique. (On peut jouer de la même manière avec une tablette ou un smartphone en activant la rotation de l’écran, en format horizontal ou vertical.). 
 
 Dès lors, la forme et la matérialité sont d’autant plus essentielles qu’elles sont signifiantes et qu’elles régissent des processus de compréhension complexes qui mettent au jour la subtilité de la pratique de lecture. Par exemple sur cette planche, en nous concentrant cette fois sur les cheminements de lecture donnés par l’écrit (et par non l’image ou le graphisme), on entrevoit encore d’autres variations possibles du sens à un niveau « infra », selon les « degrés » de lectures possibles. C’est ce que montre le second schéma qui met en évidence différents « niveaux » de textes. Quatre degrés majeurs sont discernables au regard de la variation typographique : les caractères choisis pour le texte, leur taille et leur corps, leur nature de capitales ou bas de casse déterminent ces différents niveaux de compréhension. Distingués pour l’analyse, ils sont en fait étroitement articulés les uns aux autres sur la planche, nourrissant de nouvelles combinatoires de lecture. 
 
@@ -106,10 +107,10 @@ C’est notre perception visuelle qui est ici requise pour les distinguer et les
 
 Du support au texte, le design crée les conditions d’organisation matérielles d’une lecture. Ce faisant, il œuvre à la production du sens. Et, en impliquant toujours spécifiquement le corps du lecteur dans sa relation au média, à sa matérialité et ses formes, _le design fait du corps un acteur à part entière de la construction du sens_. 
 
-L’activité de lecture productrice prend ainsi, selon les mots de Michel De Certeau, « les traits d’une production silencieuse : dérive à travers la page, métamorphose du texte par l’œil voyageur, improvisation et expectations de significations induites de quelques mots, enjambements d’espaces écrits, danse éphémère. » Du mouvement de son œil au mouvement de son corps, le lecteur participe de cette activité de co-création qu’est la lecture ({{< hl-cite "Eco 1979" >}}) Et c’est en engageant tout son corps dans cette danse qu’il 
+L’activité de lecture productrice prend ainsi, selon les mots de Michel De Certeau, « les traits d’une production silencieuse : dérive à travers la page, métamorphose du texte par l’œil voyageur, improvisation et expectations de significations induites de quelques mots, enjambements d’espaces écrits, danse éphémère. » Du mouvement de son œil au mouvement de son corps, le lecteur participe de cette activité de co-création qu’est la lecture ({{< hl-cite "Eco 1979" >}}). Et c’est en engageant tout son corps dans cette danse qu’il 
 
 
-> insinue les ruses du plaisir et d’une réappropriation dans le texte de l’autre : il y braconne, il y est transporté, il s’y fait pluriel comme des bruits de corps. Ruse, métaphores, combinatoire, cette production est aussi une « invention » de mémoire. [...] La mince pellicule de l’écrit devient un remuement de strates, un jeu d’espaces. Un monde différent (celui du lecteur) s’introduit dans la place de l’auteur. Cette mutation rend le texte habitable à la manière d’un appartement loué ({{< hl-cite "De Certeau 1990" "XLIX" >}}) .
+> insinue les ruses du plaisir et d’une réappropriation dans le texte de l’autre : il y braconne, il y est transporté, il s’y fait pluriel comme des bruits de corps. Ruse, métaphores, combinatoire, cette production est aussi une « invention » de mémoire. [...] La mince pellicule de l’écrit devient un remuement de strates, un jeu d’espaces. Un monde différent (celui du lecteur) s’introduit dans la place de l’auteur. Cette mutation rend le texte habitable à la manière d’un appartement loué ({{< hl-cite "De Certeau 1990" "XLIX" >}}).
 
 ### Des gestes à la matière : symbolique et sensorialité
 
@@ -148,7 +149,8 @@ Et c’est ici le geste de tourner la page – que l’on effectue machinalement
 
 Pour être tout à fait rigoureux, il faudrait ne pas faire l’impasse sur l’histoire du livre, celle de ses formes et de ses techniques de production. Mais à partir de ces exemples, on mesure déjà comme « l’intelligence » de la BD (le terme est de Pascal Robert ; 2018), tout comme celle du manuscrit médiéval, prennent ici leur assise au lieu du corps ; autrement dit, dans le corps même du lecteur qui, à son rythme, à ses sens, organise et active sa compréhension du texte – au-delà, de l’œuvre.
 
-Ce fait d’évidence ici n’en est pas moins en jeu de façon plus large, sans doute à d’autres échelles, dans toute pratique de lecture — jusqu’à celles que l’on pratique sur les dispositifs numériques. C’est notamment ce qu’a analysé Étienne Candel pour l’éditorialisation sur les dispositifs numériques, sous la double expression de « gestes formels » et de « formes gestuelles ». Les « gestes formels » désignent en effet cette série de gestes (« incliner l’écran, zoomer, recharger une page [...] » qui agissent le texte et fondent « [s]a nature d’objet dynamique », « indissociable de la mise en œuvre du corps animé et de la posture impliquée, signifiante, du lecteur ». Les « formes gestuelles », quant à elles, « engagent une mise en valeur de la gestuelle » ({{< hl-cite "Candel 2017" "119, 120, 123" >}}) 
+Ce fait d’évidence ici n’en est pas moins en jeu de façon plus large, sans doute à d’autres échelles, dans toute pratique de lecture — jusqu’à celles que l’on pratique sur les dispositifs numériques. C’est notamment ce qu’a analysé Étienne Candel pour l’éditorialisation sur les dispositifs numériques, sous la double expression de « gestes formels » et de « formes gestuelles ». Les « gestes formels » désignent en effet cette série de gestes (« incliner l’écran, zoomer, recharger une page [...] ») qui agissent sur le texte et fondent « [s]a nature d’objet dynamique », « indissociable de la mise en œuvre du corps animé et de la posture impliquée, signifiante, du lecteur ». Les « formes gestuelles », quant à elles, « engagent une mise en valeur de la gestuelle » ({{< hl-cite "Candel 2017" "119, 120, 123" >}}).
+
 Mais avec l’exemple d’_Egerton_, on commence à entrevoir la façon dont cette implication du corps repose, dans des cas de lectures plus « classiques », sur une pratique du média naturalisée,  c’est-à-dire que l’on a en quelque sorte intégrée, dans nos usages, à ce point que l’on n’a plus besoin de la porter à la conscience pour la mettre en œuvre. Tourner la page, par exemple, est un geste machinal – même s’il faut s’humecter les doigts pour faire venir le papier à son doigt – alors qu’il donne le rythme de la lecture et en scande la pratique. Or « se faire oublier de la main, cela suppose […] d’être parfaitement fiable, c’est-à-dire parfaitement adapté à l’usager, mais aussi à l’usage » ({{< hl-cite "Lochmann 2019" >}}) Voilà l’un des enjeux, aujourd’hui, dans le champ du numérique : favoriser l’intimité séculaire du livre et de nos corps.
 
 ## Le corps et ses savoirs…
@@ -166,10 +168,14 @@ Prenons un seul exemple. Lorsqu’en tant que lecteur, je prends le livre papier
 
 Notre relation corporelle aux livres construit ainsi l’ensemble de ces savoirs ordinaires (cognitifs, perceptifs, ergonomiques, kinésiques, tactiles, polysensoriels, intuitifs…) pour lesquels le design et la matérialité du média ont été fondateurs. Ils œuvrent comme des « technologies de l’intellect » et en nourrissent aussi notre compréhension. Tout une littératie s’appuie sur ces gestes, ces perceptions ordinaires qu’a façonné le codex – ou que nous avons façonnées avec lui. Cet ensemble constitue un savoir faire d’une incroyable complexité qui informe l’activité cognitive de lecture-écriture de façon partiellement impensée, et que l’on unifie souvent sous le sceau d’un savoir intellectuel. Dans cette proximité de la main et de l’intellect qu’il favorise, le livre tel qu’il existe aujourd’hui dans sa forme codex est extrêmement abouti.
 
-Ces considérations inciteraient, si ce n’est déjà fait, à nourrir l’approche contemporaine du design de la pensée anthropologique de Tim Ingold qui s’intéresse précisément au _faire_, dans sa dimension matérielle, en invitant à « toucher les objets, sentir les matériaux » ({{< hl-cite "Ingold 2017" "53" >}}: « Comment en vient-on à apprendre ? Pour faire court, je dirais que c’est en regardant, en écoutant, en sentant, en faisant attention à ce que le monde a à nous dire »{{< hl-cite "Ingold 2017" "19" >}} Car « tout acte de connaissance est un processus d’accompagnement actif qui consiste à se mettre en chemin avec ce que l’on cherche à connaître »{{< hl-cite "Ingold 2017" "20" >}}) 
+Ces considérations inciteraient, si ce n’est déjà fait, à nourrir l’approche contemporaine du design de la pensée anthropologique de Tim Ingold qui s’intéresse précisément au _faire_, dans sa dimension matérielle, en invitant à « toucher les objets, sentir les matériaux » ({{< hl-cite "Ingold 2017" "53" >}}) : « Comment en vient-on à apprendre ? Pour faire court, je dirais que c’est en regardant, en écoutant, en sentant, en faisant attention à ce que le monde a à nous dire » ({{< hl-cite "Ingold 2017" "19" >}}). Car « tout acte de connaissance est un processus d’accompagnement actif qui consiste à se mettre en chemin avec ce que l’on cherche à connaître » ({{< hl-cite "Ingold 2017" "20" >}}).
+
 André Leroi-Gourhan a montré l’étroite concomitance entre le développement de la main et celui de l’intelligence chez les hommes. Un travail sur lequel s’appuie également le philosophe et charpentier Arthur Lochmann pour sa notion de « pensée matérielle » :
 
-> Que peut-on bien vouloir dire quand on oppose le travail manuel au travail intellectuel ? Que travailler avec ses mains ne mobilise pas le cerveau ? L’opposition binaire empêche de comprendre ce qu’est la pensée matérielle. Ce n’est pas « penser avec les mains », comme le voudrait cette expression charmante mais elle aussi trop binaire. La compréhension physique de la matière, dont on a déjà parlé, n’est pas le seul fait de la main. Elle naît de l’interaction constante entre le cerveau, la main et l’œil, mais qu’on ne peut situer dans aucun de ces organes en particulier. Elle s’ancre dans le corps sous la forme d’un sentiment, d’une intime intuition. Et cette compréhension physique de la matière ne suffit pas : il faut l’articuler pour la transformer en un mode d’action. La compréhension devient alors un ensemble de savoir-faire ({{< hl-cite "Lochmann 2019" "98-99" >}}) . Cette part intime de la relation au livre – par laquelle le livre, comme dispositif médiatique, nous meut dans notre relation aux autres et au monde – s’inscrit dans le champ de ce que Roland Barthes identifie comme des savoirs ignorés ou des savoir-faire. Ceux-ci ne relèvent pas directement d’un enseignement (écrit ou oral) mais de l’apprentissage (on « fait comme ») ou du « maternage » (on est encouragé à mettre seul en œuvre une compétence, comme celle de la marche). Pour Barthes, cette compétence relève d’une transmission silencieuse ({{< hl-cite "Barthes 1974" "506" >}} C’est bien la dimension tacite de ces savoirs qui fait, selon les mots de l’épistémologue Michael Polanyi, que « nous en savons plus que nous ne pouvons le dire »{{< hl-cite "Polanyi 1996" "4" >}}) 
+> Que peut-on bien vouloir dire quand on oppose le travail manuel au travail intellectuel ? Que travailler avec ses mains ne mobilise pas le cerveau ? L’opposition binaire empêche de comprendre ce qu’est la pensée matérielle. Ce n’est pas « penser avec les mains », comme le voudrait cette expression charmante mais elle aussi trop binaire. La compréhension physique de la matière, dont on a déjà parlé, n’est pas le seul fait de la main. Elle naît de l’interaction constante entre le cerveau, la main et l’œil, mais qu’on ne peut situer dans aucun de ces organes en particulier. Elle s’ancre dans le corps sous la forme d’un sentiment, d’une intime intuition. Et cette compréhension physique de la matière ne suffit pas : il faut l’articuler pour la transformer en un mode d’action. La compréhension devient alors un ensemble de savoir-faire ({{< hl-cite "Lochmann 2019" "98-99" >}}).
+
+Cette part intime de la relation au livre – par laquelle le livre, comme dispositif médiatique, nous meut dans notre relation aux autres et au monde – s’inscrit dans le champ de ce que Roland Barthes identifie comme des savoirs ignorés ou des savoir-faire. Ceux-ci ne relèvent pas directement d’un enseignement (écrit ou oral) mais de l’apprentissage (on « fait comme ») ou du « maternage » (on est encouragé à mettre seul en œuvre une compétence, comme celle de la marche). Pour Barthes, cette compétence relève d’une transmission silencieuse ({{< hl-cite "Barthes 1974" "506" >}}). C’est bien la dimension tacite de ces savoirs qui fait, selon les mots de l’épistémologue Michael Polanyi, que « nous en savons plus que nous ne pouvons le dire » ({{< hl-cite "Polanyi 1996" "4" >}}).
+
 En somme, la relation directe du corps à la matérialité est essentielle dans la production de ces savoirs ordinaires qui sont eux aussi fondateurs de notre _littératie_, de notre culture du livre.
 
 ## … un élément fondateur de notre culture du livre
@@ -190,8 +196,9 @@ Une analyse intermédiale montre que toute notre culture est traversée par cet 
 
 Cette part culturalisée inscrit définitivement le design dans le champ d’une anthropologie des savoirs que le numérique va devoir plus amplement explorer, ce qui nécessite d’affirmer la part matérielle du numérique et de ses dispositifs de lecture – en rompant avec le discours de la dématérialisation et du virtuel – mais aussi, à l’écart d’un modèle homothétique, d’assumer les transformations techniques, matérielles de ces dispositifs de lecture en explorant les possibles offerts par cette matérialité. Ainsi que l’a suggéré Claire Bélisle :
 
+> s’il y a bien un accord sur le fait que les modalités de lecture changent avec le passage de l’imprimé à l’écran, il y a pour l’instant assez peu de pistes pour décrire ces changements autrement qu’en termes de dégradation des pratiques existantes. Plus que jamais, il est nécessaire de penser la lecture non plus comme une activité basée sur des livres papier, mais comme une activité qui se diversifie avec l’usage de nouveaux supports et qui ouvre de nouveaux horizons cognitifs ({{< hl-cite "Belisle 2011" "118" >}}).
 
-> s’il y a bien un accord sur le fait que les modalités de lecture changent avec le passage de l’imprimé à l’écran, il y a pour l’instant assez peu de pistes pour décrire ces changements autrement qu’en termes de dégradation des pratiques existantes. Plus que jamais, il est nécessaire de penser la lecture non plus comme une activité basée sur des livres papier, mais comme une activité qui se diversifie avec l’usage de nouveaux supports et qui ouvre de nouveaux horizons cognitifs ({{< hl-cite "Belisle 2011" "118" >}}) . C’est tout le champ qui s’est ouvert depuis les années 1990 avec le design d’interaction notamment, qui a pour tâche de s’affranchir d’une posture techno-déterministe en décloisonnant l’approche de la conception des interfaces, ainsi qu’y invite Johanna Drucker par exemple, en questionnant le terme d’« interface » lui-même ({{< hl-cite "Drucker 2014" >}}) .
+C’est tout le champ qui s’est ouvert depuis les années 1990 avec le design d’interaction notamment, qui a pour tâche de s’affranchir d’une posture techno-déterministe en décloisonnant l’approche de la conception des interfaces, ainsi qu’y invite Johanna Drucker par exemple, en questionnant le terme d’« interface » lui-même ({{< hl-cite "Drucker 2014" >}}).
 
 ## Quelles perspectives pour le design ? Pour une approche articulée entre sémiotique et phénoménologie
 
@@ -199,12 +206,13 @@ Cette part culturalisée inscrit définitivement le design dans le champ d’une
 
 Ce rôle du corps n’est pas un constat neuf. Mais le livre-codex « classique » et traditionnel en a tellement intégré les enjeux qu’il a délégué au design la prise en charge d’une part de cette activité du corps (les lignes sont droites – mais il n’en faut pas moins se placer en face d’elles si l’on veut lire –, le support n’est pas à tourner en tous sens – mais il n’en faut pas moins le mettre dans le bon sens par rapport à notre corps et, qui plus est pour le codex, il faut bien en tourner les pages, etc.). 
 
-Cette délégation pourrait nous faire oublier à quel point le livre est un objet qui s’est intimement formé dans sa relation au corps. À quel point, dans son rôle médiatique, il inscrit sa fonction communicationnelle dans une dynamique _relationnelle _– à lui-même et par là à ce « monde social » auquel il nous « relie » ({{< hl-cite "Davallon 2006" "123" >}}) Elle pourrait nous faire oublier à quel point l’activité de lecture n’est pas passive (comme elle nous _meut_, comme elle est en mouvement pour engager ce rapport au monde).
+Cette délégation pourrait nous faire oublier à quel point le livre est un objet qui s’est intimement formé dans sa relation au corps. À quel point, dans son rôle médiatique, il inscrit sa fonction communicationnelle dans une dynamique _relationnelle _– à lui-même et par là à ce « monde social » auquel il nous « relie » ({{< hl-cite "Davallon 2006" "123" >}}). Elle pourrait nous faire oublier à quel point l’activité de lecture n’est pas passive (comme elle nous _meut_, comme elle est en mouvement pour engager ce rapport au monde).
 
-Une passivité qu’on lui reproche pourtant parfois au regard « du numérique » qui révolutionnerait l’implication du lecteur, là où il en transforme plutôt les conditions de réalisation – donc d’engagement. Or, on voit bien, ici, que cette transformation n’est pas décorrélable de celle des conditions matérielles de la lecture (sur les dispositifs numériques), champ vaste que le design doit aujourd’hui se réapproprier, dans la continuité des travaux contemporains. Ceux de Stéphane Vial, notamment, marquent un tournant dans cette perspective, qui invite à considérer les transformations liées au numérique comme une métamorphose de notre culture perceptive – du fait du changement du traitement de la matière informatisée –, intégrant ainsi cette perspective comme un enjeu épistémologique pour le design ({{< hl-cite "Vial 2012" "91-106" >}}) 
+Une passivité qu’on lui reproche pourtant parfois au regard « du numérique » qui révolutionnerait l’implication du lecteur, là où il en transforme plutôt les conditions de réalisation – donc d’engagement. Or, on voit bien, ici, que cette transformation n’est pas décorrélable de celle des conditions matérielles de la lecture (sur les dispositifs numériques), champ vaste que le design doit aujourd’hui se réapproprier, dans la continuité des travaux contemporains. Ceux de Stéphane Vial, notamment, marquent un tournant dans cette perspective, qui invite à considérer les transformations liées au numérique comme une métamorphose de notre culture perceptive – du fait du changement du traitement de la matière informatisée –, intégrant ainsi cette perspective comme un enjeu épistémologique pour le design ({{< hl-cite "Vial 2012" "91-106" >}}).
+
 Autrement dit, l’impensé du corps nécessaire à la pratique de lecture sur codex est directement questionné par les dispositifs numériques de lecture (type tablette) puisqu’ils en transforment les conditions, du fait d’une métamorphose technique, formelle et matérielle des supports. Avec le numérique – et c’est là l’un des enjeux à penser pour le design –, les conditions de la relation au média sont transformées du fait de ce qu’Emmanuël Souchier a appelé la « rupture sémiotique » : depuis que « trace et support ne vieillissent plus ensemble » ({{< hl-cite "Souchier 1996" "108" >}}) le texte peut désormais figurer sur des supports interchangeables, ce qui en transforme la saisie matérielle et perceptive. De fait, sur un plan phénoménologique, un ensemble d’éléments techniques dissocie notre rapport matériel au dispositif de lecture et notre préhension de l’œuvre. Y sont bouleversés le rapport du corps à la matière et en conséquence la question de la mémoire.
 
-Par exemple, avec les médias informatisés, nous passons du volume à la surface, ce qui transforme nécessairement notre rapport perceptif à ce qui sur nos écrans s’exprime pourtant encore souvent en nombre et volume de pages ({{< hl-cite "Tadier 2018" >}}) Ce sont donc les logiciels intégrés aux supports de lecture — telles que les liseuses — qui viennent se faire l’écho de cette rémanence du volume, notamment par la médiation des statistiques de lecture (avancée de la lecture exprimée en pourcentages, par exemple). En d’autres termes, les industriels « formatent » nos rapports aux interfaces. Ils construisent la perception, ontologiquement complexe, comme une donnée mesurable, comme une valeur avant tout _quantitative_. Ainsi le lecteur est-il, par la statistique, confronté à la formalisation abstraite d’une partie de sa pratique de lecture ordinaire (qui déborde celle de la pagination ou du foliotage sur le codex, en se donnant comme repère exclusif), ce qui l’installe _de facto_ dans une posture d’usager.
+Par exemple, avec les médias informatisés, nous passons du volume à la surface, ce qui transforme nécessairement notre rapport perceptif à ce qui sur nos écrans s’exprime pourtant encore souvent en nombre et volume de pages ({{< hl-cite "Tadier 2018" >}}). Ce sont donc les logiciels intégrés aux supports de lecture — telles que les liseuses — qui viennent se faire l’écho de cette rémanence du volume, notamment par la médiation des statistiques de lecture (avancée de la lecture exprimée en pourcentages, par exemple). En d’autres termes, les industriels « formatent » nos rapports aux interfaces. Ils construisent la perception, ontologiquement complexe, comme une donnée mesurable, comme une valeur avant tout _quantitative_. Ainsi le lecteur est-il, par la statistique, confronté à la formalisation abstraite d’une partie de sa pratique de lecture ordinaire (qui déborde celle de la pagination ou du foliotage sur le codex, en se donnant comme repère exclusif), ce qui l’installe _de facto_ dans une posture d’usager.
 
 Autre cas, en référence à l’analyse de _Building Stories_ : avec le numérique, la transformation des rapports à la clôture matérielle et symbolique du texte – et de l’œuvre – amène le lecteur à une métamorphose de son rapport au cheminement de lecture, dont il a une représentation spatiale plus précise dans un espace fermé comme celui de la page ou du livre. En somme, avec le jeu du « clic », il ne visualise pas nécessairement le parcours de lecture dans lequel il s’engage sur un écran, et de ce fait, le rapport cognitif à l’ensemble de l’œuvre s’en trouve non pas nécessairement perturbé mais transformé. 
 
@@ -213,13 +221,13 @@ En d’autres termes, par ses métamorphoses techniques et matérielles, le num�
 
 > Il ne s’agit pas […] de faire comme s’il n’y avait aucune différence entre les propriétés de l’osier, du métal, du bois et de l’argile, ni de prétendre que les compétences du vannier sont les mêmes que celles du forgeron, du charpentier et du maçon. Il s’agit plutôt de mettre l’accent sur le sens d’une pratique qui est porteuse d’une compétence technique, ou sur le fait que les matériaux sont dotés de propriétés, quels que soient le champ de la pratique ou la nature des matériaux impliqués ({{< hl-cite "Ingold 2017" "77" >}}).
 
-Et ce, pour comprendre, d’une part, comment la matérialité propre au numérique et à ses dispositifs peut réorganiser notre rapport aux contenus, à nos manières de lire, de nous repérer dans le texte. Et d’autre part, comment ils redéfinissent notre place dans le processus communicationnel, dans la manière d’engager notre relation au monde par le média. Car, pour reprendre les mots de Stéphane Vial, « avec la technologie il n’a jamais été question d’autre chose que de cela : notre relation avec le monde. \[…\] \[N\]otre rapport-au-monde, comme rapport phénoménologique aux "choses mêmes", est fondamentalement conditionné par la technologie, et l’a toujours été » ({{< hl-cite "Vial 2013" "24" >}}) Ne masquons pas la transformation des conditions de ces médiations mais interrogeons-nous plutôt sur ce qu’elle engage sur les plans matériel, symbolique, technique, économique, écologique et humain.
+Et ce, pour comprendre, d’une part, comment la matérialité propre au numérique et à ses dispositifs peut réorganiser notre rapport aux contenus, à nos manières de lire, de nous repérer dans le texte. Et d’autre part, comment ils redéfinissent notre place dans le processus communicationnel, dans la manière d’engager notre relation au monde par le média. Car, pour reprendre les mots de Stéphane Vial, « avec la technologie il n’a jamais été question d’autre chose que de cela : notre relation avec le monde. \[…\] \[N\]otre rapport-au-monde, comme rapport phénoménologique aux "choses mêmes", est fondamentalement conditionné par la technologie, et l’a toujours été » ({{< hl-cite "Vial 2013" "24" >}}). Ne masquons pas la transformation des conditions de ces médiations mais interrogeons-nous plutôt sur ce qu’elle engage sur les plans matériel, symbolique, technique, économique, écologique et humain.
 
 {{< hl-augmentation "8" "7" >}}
 
 En somme, le design (en particulier, d’interaction) doit pouvoir s’immiscer dans ce non dit du corps du livre. C’est là parmi ses fonctions politiques, culturelles et anthropologiques. C’est là que réside sa puissance potentielle dans la possibilité qu’il aura d’associer de façon cohérente sa réflexion et son _faire_.
 
-Dans cette perspective, la citation liminaire avait pour enjeu d’inscrire cette démarche dans une réceptivité à l’approche phénoménologique qui, précisément, prend en compte la matérialité du livre, non pas en soi mais dans la façon dont elle institue l’activité communicationnelle en _mobilisant_ ses acteurs d’une façon spécifique : dans ce qu’ils sentent, dans ce qu’ils voient, dans ce qu’ils touchent... En ce sens, la matérialité du livre organise l’activité de lecture parce qu’elle en institue notamment les gestes, les postures et plus largement le rapport technique, cognitif, sensoriel, affectif et même intellectuel au média et au texte. Ainsi, parce qu’elle métamorphose les conditions de la lecture, toute transformation matérielle doit s’accompagner d’une réflexion sur ce qu’elle implique comme engagement du corps – qui n’est jamais un « récepteur passif » ({{< hl-cite "Levine 2002" "34" >}}) , et ce, dans une perspective qui _nous_ (re)place au cœur du processus communicationnel. 
+Dans cette perspective, la citation liminaire avait pour enjeu d’inscrire cette démarche dans une réceptivité à l’approche phénoménologique qui, précisément, prend en compte la matérialité du livre, non pas en soi mais dans la façon dont elle institue l’activité communicationnelle en _mobilisant_ ses acteurs d’une façon spécifique : dans ce qu’ils sentent, dans ce qu’ils voient, dans ce qu’ils touchent... En ce sens, la matérialité du livre organise l’activité de lecture parce qu’elle en institue notamment les gestes, les postures et plus largement le rapport technique, cognitif, sensoriel, affectif et même intellectuel au média et au texte. Ainsi, parce qu’elle métamorphose les conditions de la lecture, toute transformation matérielle doit s’accompagner d’une réflexion sur ce qu’elle implique comme engagement du corps – qui n’est jamais un « récepteur passif » ({{< hl-cite "Levine 2002" "34" >}}), et ce, dans une perspective qui _nous_ (re)place au cœur du processus communicationnel.
 
 Or cette réflexion revient, pour la sémiotique notamment, à affirmer la nécessité d’une compréhension dynamique des objets, et dès lors, à penser chacun notre engagement corporel, en tant qu’acteur de la recherche sur ces objets. Il s’agirait ainsi de « construire la connaissance non pas par traduction, mais par coopération, afin de sortir du rapport hiérarchique induit par la posture sujet-objet », dans la mesure où « tout chercheur est aussi un pratiquant et que tout pratiquant est détenteur d’une théorie tacite et implicite » ({{< hl-cite "Martin-Juchat 2014" "68" >}}) comme le dit Fabienne Martin-Juchat. Que la science ne « renonce » pas à « habiter » les choses qu’elle manipule, selon les mots de Maurice Merleau-Ponty, est probablement une condition pour que ses utilisateurs y aient aussi leur place.
 
@@ -229,7 +237,7 @@ Par là, il s’agit sans doute aussi, pour la recherche en design, de s’inter
 
 Ainsi, dans cette histoire longue des relations entre le texte et son support, avec le numérique, le design (en particulier le design d’interaction) a toujours un rôle essentiel parce qu’il peut initier un mouvement qui nous permette – non plus d’un point de vue de consommateurs – de continuer à inscrire nos dispositifs d’écriture lecture dans la nécessité humaine. 
 
-Dans quelle mesure le design ne doit-il pas, en effet, continuer à réfléchir sur les formes par lesquelles nous communiquons et choisissons de « faire société »[^37]. Et comment peut-il le faire ? Cette réflexion est par ailleurs essentielle pour écarter les discours contemporains qui dénoncent parfois le technologique comme une instrumentalisation et permettre de ne jamais vivre comme une amputation de ce que nous sommes la transformation des dispositifs que nous choisissons pour faire circuler notre culture et nos histoires.
+Dans quelle mesure le design ne doit-il pas, en effet, continuer à réfléchir sur les formes par lesquelles nous communiquons et choisissons de « faire société »[^dimension-sociale]. Et comment peut-il le faire ? Cette réflexion est par ailleurs essentielle pour écarter les discours contemporains qui dénoncent parfois le technologique comme une instrumentalisation et permettre de ne jamais vivre comme une amputation de ce que nous sommes la transformation des dispositifs que nous choisissons pour faire circuler notre culture et nos histoires.
 
 Au-delà du livre lui-même, c’est aussi considérer l’importance de l’objet médiatique et comprendre sa fonction de _médiation_ comme un processus qui a pour principal enjeu de nous réinscrire en permanence dans notre « écologie humaine ». C’est aussi redire que la communication n’est jamais un processus désincarné : tout en s’accomplissant à travers des dispositifs et des artefacts auxquels nous déléguons certaines fonctions pour communiquer – à l’instar du livre qui occupe une place prépondérante dans notre culture occidentale –, elle nous institue comme êtres humains, dans toute l’amplitude de nos ressources, parce qu’elle mobilise en nous ce qui est à la fois le plus complexe, le plus « profond », le plus « plein » : le vivant… 
 
@@ -241,120 +249,8 @@ C’est là, nous semble-t-il, l’une des fonctions primordiales du champ du de
 ## Notes
 {{< /q-class >}}
 
-[^1]:
-<p>
-     Maurice Merleau-Ponty, <em>L’œil et l’esprit</em>, Paris, Gallimard, 1964, p. 21.</p>
+[^productions-graphiques]: Sur cette question pour le numérique, voir notamment {{< hl-cite "Souchier 2019" >}}. 
 
-
-[^2]:
-     Jack Goody, _La raison graphique. La domestication de la pensée sauvage_, Paris, Minuit, 1979.
-
-[^3]:
-     Sur cette question pour le numérique, voir notamment ({{< hl-cite "Souchier 2019" >}}) 
-
-[^4]:
-     Emmanuël Souchier, préface à l’édition du _Traité des vertus démocratiques_ de Raymond Queneau, Paris, Gallimard, coll. « Les cahiers de la NRF », 1993, p. 15-24.
-
-[^5]:
-     Eliseo Verón, « Presse écrite et théorie des discours sociaux : production, réception, régulation », _in _Patrick Charaudeau, _La Presse, produit, production, réception_, Hatier, 1988, p. 12.
-
-[^6]:
-     Eliseo Verón, « De l’image sémiologique aux discursivités. Le temps d’une photo », _Hermès _n° 13-14, 1994, p. 51.
-
-[^7]:
-     Yves Jeanneret, _Penser la trivialité. Tome 1. La vie triviale des êtres culturels_, Hermès-Lavoisier, 2008, p. 167.
-
-[^8]:
-     Marcel Mauss, « Les techniques du corps » [1936], _Sociologie et anthropologie_, introduction de Claude Lévi-Strauss, coll. « Quadrige », Paris, PUF, 2013.
-
-[^9]:
-     Sur la question, voir notamment Servanne Monjour,  « Le sens du geste. Remédiations et poétiques tactiles de la littérature numérique » : https://via.hypothes.is/https://stylo.ecrituresnumeriques.ca/api/v1/htmlArticle/5c840c58f266cc001124a78f?preview=true#fnref5
-    (consulté le 6 juillet 2019).
-
-[^10]:
-     Voir notamment Pascal Robert (dir.), _Bande dessinée et numérique_, CNRS Éditions, coll. « Les Essentiels d’Hermès », 2016. 
-
-[^11]:
-     Emmanuël Souchier, préface au _Traité…_,_ op. cit_.
-
-[^12]:
-     Pascal Robert, _La Bande Dessinée, une intelligence subversive_, Villeurbanne, Presses de l’enssib, 2018, p. 231.
-
-[^13]:
-     _Ibid_., p. 235. Nous soulignons.
-
-[^14]:
-     Annette Béguin-Verbrugge, _Images en texte, images du texte. Dispositifs graphiques et communication écrite_, Lille, Presses universitaires du Septentrion, 2006, p. 32.
-
-[^15]:
-     Umberto Eco, _Lector in fabula_. _Le rôle du lecteur ou la coopération interprétative dans les textes narratifs_, Paris, Grasset, 1979.
-
-[^16]:
-     Michel De Certeau, _L’Invention du quotidien I. Arts de faire_, Paris, Gallimard, coll. « Folio essais », 1990, p. XLIX.
-
-[^17]:
-     Georges Didi-Huberman, _Ce que nous voyons, ce qui nous regarde_, Paris, Minuit, 1992, p. 11.
-
-[^18]:
-     Étienne Candel, “L’édition du texte informatisé, une pratique de lecture”, in Stéphane Vial et Marie-Julie Catoir-Brisson, Design & innovation dans la chaîne du livre. Écrire, éditer, lire à l’ère du numérique, PUF,  2017, p. 119, 120 et 123.
-
-[^19]:
-     Arthur Lochmann, _La vie solide. La charpente comme éthique du faire_, Paris, Payot & Rivages, 2019, p. 43.
-
-[^20]:
-<p>
-     Jorge Luis Borges, « Essai d’autobiographie », <em>Livre de préfaces suivi de Essai d’autobiographie</em>, Paris, Gallimard, 1980, pp. 276-277, cité par Roger Chartier, « La mort du livre ? », <em>Communication & langages</em>, n°159, 2009.</p>
-
-
-[^21]:
-     Tim Ingold, _Faire. Anthropologie, archéologie, art et architecture_, Bellevaux, éditions Dehors, 2017, p. 53.
-
-[^22]:
-     _Ibid_., p. 19.
-
-[^23]:
-     _Ibid_., p. 20.
-
-[^24]:
-     Arthur Lochmann, _La vie solide. La charpente comme éthique du faire_, Paris, Payot & Rivages, 2019, p. 98-99.
-
-[^25]:
-     Roland Barthes, "Au Séminaire", _Œuvres complètes_, tome 4, Paris, Seuil, 1974, p. 506.
-
-[^26]:
-     Michael Polanyi, _The tacite dimension_, Londres, Routledge, 1966, p. 4.
-
-[^27]:
-     Claire Bélisle, « Du papier à l’écran : lire se transforme », _in_ Claire Bélisle (dir.) _Lire dans un monde numérique_, Villeurbanne, Presses de l’enssib, 2011, p. 118.
-
-[^28]:
-     _Graphesis: Visual Forms of Knowledge Production_, Harvard University Press, 2014.
-
-[^29]:
-     Jean Davallon, _Le don du patrimoine. Une approche communicationnelle de la patrimonialisation_, Paris, Hermès Science-Lavoisier, 2006, p. 123.
-
-[^30]:
-     Stéphane Vial, « Qu’appelle-t-on "design numérique" ? », _Interfaces numériques_, n°1, 2012, p. 91–106. Consultable sur [https://www.unilim.fr/interfaces-numeriques/163](https://www.unilim.fr/interfaces-numeriques/163). 
-
-[^31]:
-     Emmanuël Souchier, « L’écrit d’écran, pratiques d’écriture & informatique », _Communication & langages_, n°107, 1996, p. 108.
-
-[^32]:
-     À ce sujet, voir le cinquième chapitre de notre thèse, _op. cit_.
-
-[^33]:
-     Tim Ingold, _op. cit_., p. 77.
-
-[^34]:
-     Stéphane Vial, _L’être et l’écran. Comment le numérique change la perception_, Paris, PUF, 2013, p. 24.
-
-[^35]:
-     Eva Lévine et Patricia Toboul (dir.), _Le corps_, Flammarion, 2002, p. 34.
-
-[^36]:
-     Fabienne Martin-Juchat, « Quel corps pour les sciences de l’information et de la communication ? », _Les cahiers de la SFSIC_, n°9, 2014, p. 68.
-
-[^37]:
-     La dimension sociale du design est, en ce sens, de plus en plus affirmée dans son cadre épistémologique contemporain. Le terme de « design social », apparu ces dix dernières années, atteste du renforcement de cette posture partagée, qui n’a pour autant jamais été absente de ses réflexions. 
+[^dimension-sociale]: La dimension sociale du design est, en ce sens, de plus en plus affirmée dans son cadre épistémologique contemporain. Le terme de « design social », apparu ces dix dernières années, atteste du renforcement de cette posture partagée, qui n’a pour autant jamais été absente de ses réflexions. 
 
 
