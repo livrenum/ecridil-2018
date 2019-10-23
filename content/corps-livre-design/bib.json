@@ -1,6 +1,6 @@
 [
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/ZWTNE7PK",
+		"id": "Baccino 2015",
 		"type": "book",
 		"title": "La lecture numérique",
 		"publisher": "Presses Universitaires de Grenoble",
@@ -31,7 +31,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/LL6HADRL",
+		"id": "Barthes 1974",
 		"type": "chapter",
 		"title": "Au séminaire",
 		"container-title": "Œuvres complètes",
@@ -54,7 +54,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/V3R94MQL",
+		"id": "Beguin-Verbrugge 2006",
 		"type": "book",
 		"title": "Images en texte, images du texte. Dispositifs graphiques et communication écrite.",
 		"publisher": "Presses universitaires du Septentrion",
@@ -75,7 +75,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/AQBL85QX",
+		"id": "Belisle 2011",
 		"type": "chapter",
 		"title": "Du papier à l’écran : lire se transforme",
 		"container-title": "Lire dans un monde numérique",
@@ -103,7 +103,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/7YXKK7B6",
+		"id": "Borges 1980",
 		"type": "chapter",
 		"title": "Essai d’autobiographie",
 		"container-title": "Livre de préfaces, suivi de Essai d’autobiographie",
@@ -125,7 +125,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/TQRBBMEW",
+		"id": "Candel 2017",
 		"type": "chapter",
 		"title": "L’édition du texte informatisé, une pratique de lecture",
 		"container-title": "Design & innovation dans la chaîne du livre. Écrire, éditer, lire à l’ère du numérique",
@@ -158,7 +158,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/GINZN9M9",
+		"id": "Chartier 2009",
 		"type": "article-journal",
 		"title": "La mort du livre ?",
 		"container-title": "Communication langages",
@@ -193,7 +193,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/AUCMWDIP",
+		"id": "Davallon 2006",
 		"type": "book",
 		"title": "Le don du patrimoine. Une approche communicationnelle de la patrimonialisation",
 		"publisher": "Hermès Science-Lavoisier",
@@ -214,7 +214,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/3PIW8UXM",
+		"id": "Davallon 2004",
 		"type": "article-journal",
 		"title": "La fausse évidence du lien hypertexte",
 		"container-title": "Communication & langages",
@@ -254,7 +254,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/9XXH7H5N",
+		"id": "De Certeau 1990",
 		"type": "book",
 		"title": "L’invention du quotidien. I. Arts de faire.",
 		"publisher": "Gallimard",
@@ -275,7 +275,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/6XMFXZL3",
+		"id": "Didi-Huberman 1992",
 		"type": "book",
 		"title": "Ce que nous voyons, ce qui nous regarde",
 		"publisher": "Minuit",
@@ -296,7 +296,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/QEARRP68",
+		"id": "Drucker 2014",
 		"type": "book",
 		"title": "Graphesis: Visual Forms of Knowledge Production",
 		"publisher": "Harvard University Press",
@@ -322,7 +322,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/T5CG3P7C",
+		"id": "Eco 1979",
 		"type": "book",
 		"title": "Lector in fabula. Le rôle du lecteur ou la coopération interprétative dans les textes narratifs",
 		"publisher": "Grasset",
@@ -343,7 +343,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/ZAQ9J6HG",
+		"id": "Gibson",
 		"type": "chapter",
 		"title": "The theory of affordances",
 		"container-title": "Perceiving, acting, and knowing: Toward an ecological psychology",
@@ -369,7 +369,7 @@
 		]
 	},
 	{
-		"id": "goody-2002",
+		"id": "Goody 1979",
 		"type": "book",
 		"title": "La raison graphique: la domestication de la pensée sauvage",
 		"publisher": "Editions de Minuit",
@@ -389,13 +389,13 @@
 		"issued": {
 			"date-parts": [
 				[
-					"2002"
+					"1979"
 				]
 			]
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/JYIQDMLQ",
+		"id": "Haddad 1998",
 		"type": "book",
 		"title": "Manger le livre. Rites alimentaires et fonctions paternelles",
 		"publisher": "Hachette",
@@ -416,7 +416,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/595T288C",
+		"id": "Ingold 2017",
 		"type": "book",
 		"title": "Faire. Anthropologie, archéologie, art et architecture",
 		"publisher": "éditions Dehors",
@@ -437,7 +437,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/GESVX2NV",
+		"id": "Jeanneret 2008",
 		"type": "book",
 		"title": "Penser la trivialité. Tome 1. La vie triviale des êtres culturels",
 		"publisher": "Hermès-Lavoisier",
@@ -458,7 +458,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/HE3HVUKX",
+		"id": "Levine 2002",
 		"type": "book",
 		"title": "Le corps",
 		"publisher": "Flammarion",
@@ -483,7 +483,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/CW7SLS9H",
+		"id": "Lochmann 2019",
 		"type": "book",
 		"title": "La vie solide. La charpente comme éthique du faire",
 		"publisher": "Payot et Rivages",
@@ -504,7 +504,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/ZNAHFDPE",
+		"id": "Martin-Juchat 2014",
 		"type": "article-journal",
 		"title": "Quel corps pour les sciences de l’information et de la communication ?",
 		"container-title": "Les cahiers de la SFSIC",
@@ -525,7 +525,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/VDSSNDG2",
+		"id": "Mauss 2013",
 		"type": "chapter",
 		"title": "Les techniques du corps.",
 		"container-title": "Sociologie et anthropologie",
@@ -547,7 +547,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/HHXH8V4V",
+		"id": "Merleau-Ponty 1964",
 		"type": "book",
 		"title": "L’œil et l’esprit",
 		"publisher": "Gallimard",
@@ -568,7 +568,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/RFA4JYQX",
+		"id": "Monjour",
 		"type": "post-weblog",
 		"title": "Le sens du geste. Remédiations et poétiques tactiles de la littérature numérique",
 		"URL": "https://via.hypothes.is/https://stylo.ecrituresnumeriques.ca/api/v1/htmlArticle/5c840c58f266cc001124a78f?preview=true#fnref5",
@@ -580,7 +580,7 @@
 		]
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/RFLZXUAB",
+		"id": "Polanyi 1996",
 		"type": "book",
 		"title": "The tacite dimension",
 		"publisher": "Routledge",
@@ -589,7 +589,7 @@
 		"author": [
 			{
 				"family": "Polanyi",
-				"given": "MIchael"
+				"given": "Michael"
 			}
 		],
 		"issued": {
@@ -601,7 +601,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/IJSFG3V2",
+		"id": "Quinton 2002",
 		"type": "thesis",
 		"title": "Les designs des images et des écritures",
 		"publisher": "Université Denis Diderot de Paris VII",
@@ -622,7 +622,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/U9K6AW4J",
+		"id": "Robert 2018",
 		"type": "book",
 		"title": "La Bande Dessinée, une intelligence subversive",
 		"publisher": "Presses de l’Enssib",
@@ -643,7 +643,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/Q62JXE7N",
+		"id": "Robert 2016",
 		"type": "book",
 		"title": "Bande dessinée et numérique",
 		"publisher": "CNRS Éditions",
@@ -663,8 +663,45 @@
 			]
 		}
 	},
+  {
+		"id": "Souchier 2019",
+		"type": "book",
+		"title": "Le numérique comme écriture : Théories et méthodes d'analyse",
+		"publisher": "Armand Colin",
+		"source": "Amazon",
+		"abstract": "Ce manuel développe une  théorie appliquée aux dispositifs, aux pratiques et aux langages des «  médias informatisés ». Véritable manuel à destination de ceux qui ont  besoin  d'analyser les écrits sur   tout type d’écran (ordinateurs, téléphones portables, tablettes, etc.).  L’objet de ce livre est donc là  : fournir à ses lecteurs une gamme de notions et de pratiques pour analyser, avec rigueur, pertinence et justesse, les textes numériques tels qu’ils se donnent à nous.Les auteurs proposent  une approche simple, claire et pertinente, destinée aussi bien aux étudiants, aux rédacteurs web et tout professionnel de la communication numérique.",
+		"title-short": "Le numérique comme écriture",
+		"language": "Français",
+		"author": [
+			{
+				"family": "Souchier",
+				"given": "Emmanuel"
+			},
+			{
+				"family": "Candel",
+				"given": "Etienne"
+			},
+			{
+				"family": "Jeanne-Perrier",
+				"given": "Valérie"
+			},
+			{
+				"family": "Gomez-Mejia",
+				"given": "Gustavo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					16
+				]
+			]
+		}
+	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/UIJA5ZRD",
+		"id": "Souchier 2012",
 		"type": "article-journal",
 		"title": "La mémoire de l’oubli. Éloge de l’aliénation. Pour une poétique de l’infra-ordinaire.",
 		"container-title": "Communication & langages",
@@ -685,7 +722,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/P2F5USJ6",
+		"id": "Souchier 1996",
 		"type": "article-journal",
 		"title": "L’écrit d’écran, pratiques d’écriture & informatique",
 		"container-title": "Communication & langages",
@@ -706,7 +743,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/FDMKH2E2",
+		"id": "Souchier 1993",
 		"type": "chapter",
 		"title": "Préface",
 		"container-title": "Traité des vertus démocratiques",
@@ -728,7 +765,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/7IRDHK9S",
+		"id": "Tadier 2018",
 		"type": "thesis",
 		"title": "Les corps du livre – du codex au numérique. Enjeux des corporéités d’une forme médiatique : vers une anthropologie communicationnelle du livre.",
 		"publisher": "Sorbonne",
@@ -747,7 +784,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/2YALZ5EP",
+		"id": "Thebaut 2009",
 		"type": "article-journal",
 		"title": "Bleeding Pages, Bleeding Bodies: A Gendered Reading of British Library MS Egerton 1821",
 		"container-title": "Medieval Feminist Forum: A Journal of Gender and Sexuality",
@@ -785,7 +822,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/BIWCHWLY",
+		"id": "Veron 1988",
 		"type": "chapter",
 		"title": "Presse écrite et théorie des discours sociaux : production, réception, régulation",
 		"container-title": "La Presse, produit, production, réception",
@@ -813,7 +850,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/4YYJJ8PG",
+		"id": "Veron 1994",
 		"type": "article-journal",
 		"title": "De l’image sémiologique aux discursivités. Le temps d’une photo.",
 		"container-title": "Hermès",
@@ -833,7 +870,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/LDS2ATQR",
+		"id": "Vial 2013",
 		"type": "book",
 		"title": "L'être et l'écran: comment le numérique change la perception",
 		"publisher": "PUF",
@@ -859,7 +896,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/2BZL5HKH",
+		"id": "Vial 2012",
 		"type": "article-journal",
 		"title": "Qu’appelle-t-on « design numérique » ?",
 		"container-title": "Interfaces numériques",
@@ -869,7 +906,7 @@
 		"source": "www.unilim.fr",
 		"abstract": "Cet article s’interroge sur la notion controversée de « design numérique » et propose d’en donner une définition rigoureuse à partir d’une épistémologie critique et comparative. Le « design numérique » est d’abord défini en opposition au « design numériquement assisté » avant d’être situé historiquement par rapport à l’expression « design d’interaction » apparue dans le design industriel des années 1980. Replaçant la question du numérique au sein de la révolution phénoménologique et culturelle globale qu’elle représente à l’échelle mondiale, cet article montre en quoi l’expression « design numérique » est plus pertinente pour désigner l’ensemble des pratiques de conception impliquant la matière informatisée, dont le « design d’interaction » n’est qu’une composante parmi d’autres (au même titre que le web design ou le game design). L’article propose ainsi une redéfinition de la matière à l’ère numérique, en distinguant « matière mécanisée » et « matière informatisée » et tente d’esquisser le fondement philosophique du champ du design numérique.",
 		"URL": "https://www.unilim.fr/interfaces-numeriques/index.php?id=163",
-		"DOI": "10.25965/interfaces numériques.163",
+		"DOI": "10.25965/interfaces-numeriques.163",
 		"ISSN": "2259-1001",
 		"language": "fr",
 		"author": [
