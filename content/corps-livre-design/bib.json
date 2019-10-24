@@ -30,6 +30,41 @@
 			]
 		}
 	},
+  {
+		"id": "Barthes 1964",
+		"type": "article-journal",
+		"title": "Rhétorique de l'image",
+		"container-title": "Communications",
+		"page": "40-51",
+		"volume": "4",
+		"issue": "1",
+		"source": "www.persee.fr",
+		"URL": "https://www.persee.fr/doc/comm_0588-8018_1964_num_4_1_1027",
+		"DOI": "10.3406/comm.1964.1027",
+		"language": "fre",
+		"author": [
+			{
+				"family": "Barthes",
+				"given": "Roland"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1964"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					24
+				]
+			]
+		}
+	},
 	{
 		"id": "Barthes 1974",
 		"type": "chapter",
