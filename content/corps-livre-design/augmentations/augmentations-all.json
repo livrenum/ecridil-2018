@@ -1,102 +1,5 @@
 [
   {
-    "id": "1",
-    "title": "Planche de *Building Stories*, page « libre », non paginée, non titrée.",
-    "type": "image",
-    "src": "media/image1.jpeg",
-    "author": null,
-    "caption": "",
-    "copyright": null,
-    "year": null,
-    "url": null
-  },
-  {
-    "id": "2",
-    "title": "Principaux cheminements de lecture possibles sur la planche.",
-    "type": "figure-group",
-    "caption": "**Rose clair** : éléments de structure graphique de la BD (cases principales, «nœuds narratifs »\\...)  \n**Vert** : cheminements de lecture entre les différents éléments de la structure graphique (cases principales)  \n**Orange** : cheminements de lecture proposés par le graphisme (flèches, tracés\\...)  \n**Bleu** : cheminements de lecture proposés par le texte.\n",
-    "figures": [
-      {
-        "id": "2.2",
-        "src": "media/image3.jpeg",
-        "author": null,
-        "caption": "",
-        "copyright": null,
-        "year": null,
-        "url": null
-      },
-      {
-        "id": "2.1",
-        "src": "media/image4.jpeg",
-        "author": null,
-        "caption": "",
-        "copyright": null,
-        "year": null,
-        "url": null
-      }
-    ]
-  },
-  {
-    "id": "3",
-    "title": "Principaux cheminements de lecture possibles donnés par le texte",
-    "type": "image",
-    "src": "media/image6.jpeg",
-    "author": null,
-    "caption": "**Violet** : texte « principal » (en capitales)  \n**Jaune** : texte « secondaire », plus petit voire tout petit (en bas de casse)  \n**Bleu clair** : troisième degré de texte (intégré dans les cases, par exemple : commentaires)  \n**Vert clair** : texte de philactères, soit les paroles ou les pensées explicites du personnage.\n",
-    "copyright": null,
-    "year": null,
-    "url": null
-  },
-  {
-    "id": "4",
-    "title": "Egerton 1821, f. 8 et 9v.",
-    "type": "image",
-    "src": "media/image9.jpeg",
-    "author": null,
-    "caption": "Angleterre, entre 1480 et 1490. 180x130 et 120x90mm.\n",
-    "copyright": "British Library",
-    "year": null,
-    "url": null
-  },
-  {
-    "id": "5",
-    "title": "Egerton 1821, f. 2 vo.",
-    "type": "image",
-    "src": "media/image12.png",
-    "author": null,
-    "caption": "Psautier et Rosaire de la Vierge (à partir du f. 27 puis) Litanies  \nAngleterre, entre 1480 et 1490. 180 x 130 et 120 x 90 mm.   Le livre est creusé apr des traces de frottement, de grattement et la peinture effacée sous les baisers dévorateurs.\n",
-    "year": null,
-    "url": null
-  },
-  {
-    "id": "6",
-    "title": "",
-    "type": "image",
-    "src": "media/image15.png",
-    "author": null,
-    "caption": "**Détail 1** (en haut, à gauche) : Léonard de Vinci, *L’annonciation*, 98 x 217 cm, vers 1475-1480 – huile et tempera sur bois, Florence, Uffii Gallery.  \n**Détail 2** (en haut, à droite) : Hans Memlong, *La Vierge et l’Enfantentre Saint Jacques et Saint Dominique*, 130 x 160 cm, vers 1485-1490 – huile sur bois. Paris, Musée du Louvre.  \n**Détail 3** (en bas, à gauche) : Agnolo Bronzino, *Portrait de Laucrezia Panciatichi*, 102 x 85 cm, vers 1545 – huile sur boix. Florence, Uffizy Gallery.  \n**Détail 4** (en bas, au centre) : Carlo Crivelli, *Polyptique*, 1473 – détrempe et peinture sur bois. Ascoli Piceno, Cathédrale Sant’Emidio. Le détail porte sur al main panneau latéral représentant San Paolo (136 x 39 cm).  \n**Détail 5** (en bas, à gauche) : Pierre Mignard, portrait de *Françoise d’Aubigné, marquise de Maintenon*, 128 x 97 cm, 1694 – huile sur toile. Musée de Versailles.  ",
-    "year": null,
-    "url": null
-  },
-  {
-    "id": "7",
-    "title": "",
-    "type": "image",
-    "src": "media/image16.png",
-    "author": null,
-    "caption": "**À gauche** : Bernard Orley, *Tryptique Haneton*, Bruxelles, 1487/88–1541.  \n**En haut à droite** : Cornelis Janssens van Ceulen, *Portrait of Queen Henrietta Maria in mourning*  \n**En bas à droite** : Attribué à Pier Francesco Foschi, *Portrait of a woman*, 1540–1565  ",
-    "year": null,
-    "url": null
-  },
-  {
-    "id": "8",
-    "type": "youtube",
-    "title": "L'historien du livre face aux bouleversements du numérique - Roger Chartier",
-    "youtubeId": "mG2swQE9jMM",
-    "copyright": "Paternité - Pas d'Utilisation Commerciale - Pas de Modification 3.0 Unported (CC BY-NC-ND 3.0)",
-    "year": 2013,
-    "caption": "Le livre : son passé, son avenir : Entretien avec Roger Chartier"
-  },{
     "id": "ART16-AUGM_01",
     "type": "text",
     "title": null,
@@ -106,7 +9,7 @@
     "year": null,
     "src": null,
     "medium": null,
-    "content": "C’est toute la question de l’affordance. Pour exemple : la tablette d’argile est incurvée parce qu’elle tient dans le creux de la main ; la hauteur d’un rouleau égyptien est relative à la taille de la cuisse du scribe, qui doit pouvoir appuyer son support sur lui pour écrire ; enfin, par exemple, le livre dit « de poche » est fait pour être facilement tenu entre les deux mains d’un lecteur nomade, et bien sûr glissé dans sa poche. La notion d’affordance est empruntée ici à Gibson ({{< hl-cite \"Gibson 1977\" >}}, {{< hl-cite \"Gibson 1977\" >}})."
+    "caption": "C’est toute la question de l’affordance. Pour exemple : la tablette d’argile est incurvée parce qu’elle tient dans le creux de la main ; la hauteur d’un rouleau égyptien est relative à la taille de la cuisse du scribe, qui doit pouvoir appuyer son support sur lui pour écrire ; enfin, par exemple, le livre dit « de poche » est fait pour être facilement tenu entre les deux mains d’un lecteur nomade, et bien sûr glissé dans sa poche. Au-delà de cette notion d’affordance, empruntée ici à Gibson ({{< hl-cite \"Gibson 1977\" >}}, {{< hl-cite \"Gibson 1977\" >}})."
   },
   {
     "id": "ART16-AUGM_02",
