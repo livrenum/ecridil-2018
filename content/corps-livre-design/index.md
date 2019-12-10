@@ -1,9 +1,10 @@
 ---
 title: Corps, livre et design
+slug: corps-livre-design
 subtitle: >
   Quand le numérique invite à repenser la place du corps dans les dispositifs de lecture
-weight: 3
-number: 3
+weight: 16
+number: 16
 type: hybritexte
 abstract: >
   Le numérique invite à repenser la place du corps dans les dispositifs de lecture.
