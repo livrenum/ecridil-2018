@@ -4,6 +4,7 @@ subtitle: >
   Quand le numérique invite à repenser la place du corps dans les dispositifs de lecture
 weight: 16
 number: 16
+bibfile: bibliography/art16.json
 type: hybritexte
 abstract: >
   Le numérique invite à repenser la place du corps dans les dispositifs de lecture.

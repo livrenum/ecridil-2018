@@ -1,0 +1,556 @@
+[
+	{
+		"id": "Parisienne2019",
+		"type": "post-weblog",
+		"abstract": "Sézane Paris – concept store Sézane Paris, et plus précisément l’appartement Sézane, fait partie des derniers concept stores incontournables à Paris. Un lieu dont le nom frémit dans les conversations, un graal, l’endroit qu’il faut connaitre quand on se revendique expert en bonnes adresses parisiennes, fashionista avertie ou IT girl éclairée. L’endroit où il faut absolument...",
+		"container-title": "The parisienne",
+		"genre": "Blogue",
+		"language": "fr-FR",
+		"title": "Sézane Paris - le concept poussé à l'extrême",
+		"URL": "http://www.theparisienne.fr/2017/06/sezane-paris-le-concept-pousse-a-lextreme/",
+		"author": [
+			{
+				"family": "The Parisienne",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					12,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					6,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "Baker2004",
+		"type": "book",
+		"abstract": "Avez-vous jamais essayé de mesurer la taille de vos pensées? Si oui, vous savez sûrement déjà que \" la plupart ont trois pieds de haut et le degré de complexité d'un moteur de tondeuse \", comme nous le révèle ici même Nicholson Baker. Si non, plongez avec délectation dans l'univers du romancier américain, qui s'avère pour l'occasion essayiste hors pair. Dans la meilleure tradition des polygraphes érudits et flâneurs de ce XVIIIe siècle qu'à l'évidence il admire, Baker nous offre avec La Taille des pensées un savoureux mélange de réflexions philosophiques, de conseils et de morales élémentaires, pimenté d'anecdotes intimes. De sa plume trempée dans un puissant philtre d'humour, il croque avec une précision diabolique les menus objets du quotidien et les fantasmes qu'ils suscitent, les souvenirs d'enfance ou les micro-événements de la vie. Et, surtout, il dit les livres et la fascination qu'ils exercent sur lui lus, cités, critiqués, manipulés, caressés, soupesés puis amoureusement replacés sur les rayons d'une bibliothèque digne de celle qu'inventa Borges, les livres sont les véritables héros de ces essais qui en assurent la brillante défense et illustration",
+		"event-place": "Paris",
+		"ISBN": "978-2-267-01705-2",
+		"language": "Français",
+		"number-of-pages": "192",
+		"publisher": "Christian Bourgois Editeur",
+		"publisher-place": "Paris",
+		"title": "Taille des pensées",
+		"author": [
+			{
+				"family": "Baker",
+				"given": "Nicholson"
+			},
+			{
+				"family": "Cazé",
+				"given": "Antoine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004",
+					1,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "Barthes1985",
+		"type": "book",
+		"abstract": "Il y eut, dans l'aventure sémiologique, un bonheur de la science ; il y eut aussi l'anxiété de la dépasser, de ne pas laisser se refermer le sens. C'est ce double mouvement qu'on verra à l'œuvre dans les travaux réunis ici, où Roland Barthes pose les assises de cette discipline nouvelle, notamment Éléments de sémiologie, L'Ancienne Rhétorique, Introduction à l'analyse structurale des récits. On trouvera, à côté d'eux, une série de projets sur ce que pourrait être l'enquête sémiologique méthodique dans des domaines aussi divers que l'objet, la publicité, l'ethnologie, l'urbanisme, la médecine. Enfin, la mise en œuvre de l'analyse structurale sur deux fragments de la Bible et sur un conte de Poe.Roland Barthes (1915-1980) Il a élaboré une pensée critique singulière, en constant dialogue avec la pluralité des discours théoriques et des mouvements intellectuels de son époque, tout en dénonçant le pouvoir de tout langage institué. Il est notamment l'auteur du Degré zéro de l'écriture (1953) et de Fragments d'un discours amoureux (1977).",
+		"ISBN": "978-2-7578-5430-3",
+		"language": "Français",
+		"number-of-pages": "384",
+		"publisher": "Points",
+		"title": "L'aventure sémiologique",
+		"author": [
+			{
+				"family": "Barthes",
+				"given": "Roland"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "Barthes1980",
+		"type": "book",
+		"edition": "Gallimard edition",
+		"publisher": "Messageries du Livre",
+		"title": "La Chambre Claire by Roland Barthes",
+		"author": [
+			{
+				"family": "Barthes",
+				"given": "Roland"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980",
+					6,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "Baudrillard1970",
+		"type": "book",
+		"event-place": "Paris",
+		"ISBN": "978-2-07-032349-4",
+		"language": "Français",
+		"number-of-pages": "318",
+		"publisher": "Gallimard",
+		"publisher-place": "Paris",
+		"title": "La société de consommation",
+		"author": [
+			{
+				"family": "Baudrillard",
+				"given": "Jean"
+			},
+			{
+				"family": "Mayer",
+				"given": "J.-P."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996",
+					11,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "Cochoy2011",
+		"type": "book",
+		"event-place": "Paris",
+		"ISBN": "978-2-200-27589-1",
+		"language": "French",
+		"note": "OCLC: 793480828",
+		"publisher": "A. Colin",
+		"publisher-place": "Paris",
+		"source": "Open WorldCat",
+		"title": "De la curiosité: l'art de la séduction marchande",
+		"title-short": "De la curiosité",
+		"author": [
+			{
+				"family": "Cochoy",
+				"given": "Franck"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "Coculet2019",
+		"type": "chapter",
+		"abstract": "La prescription à l'âge du papier, c'était un avis autorisé; à l'âge numérique, on parle plus volontiers de recommandation. Dans tous les cas, une personne, au moins, cherche à partager son intérêt ou davantage pour un sujet ou une oeuvre donnée. Cette intention d'influence, ce soft power dissém...",
+		"collection-title": "Papiers",
+		"container-title": "Prescription culturelle : avatars et médiamorphoses - sous la direction de Brigitte Chapelain, Sylvie Ducas",
+		"event-place": "Villeurbanne",
+		"ISBN": "979-10-91281-67-6",
+		"language": "fr",
+		"page": "388",
+		"publisher": "Editeur",
+		"publisher-place": "Villeurbanne",
+		"source": "www.decitre.fr",
+		"title": "Reconfiguration et spécificité de la critique littéraire amateure sur BookTube",
+		"URL": "https://www.decitre.fr/livres/prescription-culturelle-avatars-et-mediamorphoses-9791091281676.html",
+		"author": [
+			{
+				"family": "Coculet",
+				"given": "Marine"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					12,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					9,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "DeseillignyCouleau2019",
+		"type": "paper-conference",
+		"container-title": "Objets insignes, objets infâmes de la littérature – Wrona Adeline.Thérenty, Marie-Eve ( dir.)",
+		"event-place": "Paris",
+		"language": "fr",
+		"page": "83-96",
+		"publisher": "PUPS",
+		"publisher-place": "Paris",
+		"title": "Comment se porte la littérature? Le cas de Balzac Paris",
+		"title-short": "Objets insignes, objets infâmes de la littérature",
+		"author": [
+			{
+				"family": "Deseilligny",
+				"given": "Oriane"
+			},
+			{
+				"family": "Couleau",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "Deseilligny2017",
+		"type": "paper-conference",
+		"abstract": "Maisons d’auto-édition et plateformes éditoriales telles que Wattpad renouvellent l’approche du best-seller en contexte numérique en substituant à un tirage et des ventes massives un nombre maximal de textes “lus” ou “vus” par les internautes. Mieux, ils en font une promesse récurrente pour des nuées d’auteurs aspirant à la reconnaissance. La popularité d’un texte en contexte numérique apparaît ainsi comme les prémices d’un parcours éditorial qui peut ensuite faire intervenir d’autres acteurs (agents littéraires notamment) qui accompagnent les textes à succès pour leur donner une existence imprimée et une visibilité au sein d’un catalogue reconnu. Faire ses preuves en régime numérique en remportant des concours, entrer en édition après avoir connu le succès auprès des lecteurs, construire une auctorialité qui s’appuie sur une prétention communicationnelle, sont autant de formes contemporaines numériques de l’auteur en réseau qui s’appuient sur des métriques diverses. L’auteur endosse parfois au début une fonction éditoriale et l’éditeur peut laisser l’auteur donner des gages en contexte numérique avant de l’épauler : les modalités d’entrée en littérature bougent mais ne remodèlent pas complètement un univers dans lequel le livre imprimé demeure, en dépit des espoirs suscités par l’auto-édition, le symbole inégalé de la consécration auctoriale.",
+		"container-title": "Revue critique de fixxion française contemporaine",
+		"language": "fr",
+		"page": "118-129",
+		"source": "www.revue-critique-de-fixxion-francaise-contemporaine.org",
+		"title": "Reformuler les processus éditoriaux, déplacer l’imaginaire du best-seller ? Formes, conditions et mythologies du succès en contexte numérique",
+		"title-short": "Reformuler les processus éditoriaux, déplacer l’imaginaire du best-seller ?",
+		"URL": "http://www.revue-critique-de-fixxion-francaise-contemporaine.org/rcffc/article/view/fx15.10",
+		"volume": "0",
+		"author": [
+			{
+				"family": "Deseilligny",
+				"given": "Oriane"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					12,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					8,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "Doueihi2011",
+		"type": "article-journal",
+		"abstract": "<titre>R&#233;sum&#233;</titre>Dans cet article, Milad Doueihi d&#233;veloppe sa proposition d&#8217;un humanisme num&#233;rique, notion provocatrice qui doit permettre de rendre compte du statut des sciences humaines dans le contexte num&#233;rique actuel et d&#8217;interroger les transformations des objets et des pratiques de la culture. La n&#233;cessit&#233; de penser cette culture num&#233;rique, sa complexit&#233; et sa nouveaut&#233; tient au triomphe de l&#8217;hybride dans nos civilisations, au passage continuel entre le concret et le virtuel, &#224; l&#8217;exploitation de la tournure anthologique, de la polyphonie de l&#8217;identit&#233; et de ses assises dans le mouvement de s&#233;mantisation. Si le num&#233;rique interroge notre culture, les questions impos&#233;es sont de nature politique. L&#8217;&#233;mergence d&#8217;un humanisme num&#233;rique doit permettre de penser l&#8217;humain &#224; l&#8217;heure de ces transformations.",
+		"container-title": "Communication langages",
+		"ISSN": "0336-1500",
+		"issue": "1",
+		"language": "fr",
+		"page": "3-15",
+		"source": "www.cairn.info",
+		"title": "Un humanisme numérique",
+		"URL": "https://www.cairn.info/revue-communication-et-langages1-2011-1-page-3.htm",
+		"volume": "N° 167",
+		"author": [
+			{
+				"family": "Doueihi",
+				"given": "Milad"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					12,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "Jeanneret2008",
+		"type": "article-journal",
+		"collection-title": "Communication, médiation et construits sociaux",
+		"container-title": "La vie triviale des êtres culturels",
+		"page": "266",
+		"title": "Penser la trivialité",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Jeanneret",
+				"given": "Yves"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "Jeanneret2014",
+		"type": "book",
+		"event-place": "Paris",
+		"publisher": "Non Standard",
+		"publisher-place": "Paris",
+		"title": "Critique de la trivialité. Les médiations de la communication, enjeu de pouvoir",
+		"author": [
+			{
+				"family": "Jeanneret",
+				"given": "Yves"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "LipovetskySerroy2013",
+		"type": "book",
+		"abstract": "On connaît la rengaine, tant elle semble réaliste : richesse du monde, appauvrissement des existences ; triomphe du capital, liquidation des savoir-vivre ; surpuissance de la finance, «prolétarisation» et unification des modes de vie, par l'industrialisation de la camelote kitsch et des produits...",
+		"event-place": "Paris",
+		"language": "fr",
+		"publisher": "Gallimard",
+		"publisher-place": "Paris",
+		"source": "www.decitre.fr",
+		"title": "L'esthétisation du monde. Vivre à l'âge du capitalisme artiste",
+		"URL": "https://www.decitre.fr/livres/l-esthetisation-du-monde-9782070140794.html",
+		"author": [
+			{
+				"family": "Lipovetsky",
+				"given": "Gilles"
+			},
+			{
+				"family": "Serroy",
+				"given": "Jean"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					12,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "Macé2016",
+		"type": "book",
+		"abstract": "Occupy Wall Street, Indignés, Nuit Debout - plus que jamais la question est posée de définir la vie que nous souhaitons choisir et vivre. Une vie vécue est inséparable de ses formes, de ses modalités, de ses régimes, de ses gestes, de ses façons, de ses allures... qui sont déjà des idées. Le monde, tel que nous le partageons et lui donnons sens, ne se découpe pas seulement en individus, en classes ou en groupes, mais aussi en \"styles\", qui sont autant de phrasés du vivre, animé de formes attirantes ou repoussantes, habitables ou inhabitables, c'est-à-dire de formes qualifiées : des formes qui comptent, investies de valeurs et de raisons d'y tenir, de s'y tenir, et aussi bien de les combattre. C'est sur ce plan des formes de la vie que se formulent aujourd'hui beaucoup de nos attentes, de nos revendications, et surtout de nos jugements. C'est toujours d'elles que l'on débat, et avec elles ce sont des idées complètes du vivre que l'on défend ou que l'on accuse. Une forme de vie ne s'éprouve que sous l'espèce de l'engagement, là où toute existence, personnelle ou collective, risque son idée. Vouloir défendre sa forme de vie, sans tapage, en la vivant, mais aussi savoir en douter et en exiger de tout autres, voilà à quoi l'histoire la plus contemporaine redonne de la gravité. Bien au-delà du champ de l'art, Marielle Macé propose la construction critique d'une véritable stylistique de l'existence. Cela suppose de s'intéresser sans préjugé à tout ce qu'engagent les variations formelles de la vie sur elle-même - styles, manières, façons - et de ne pas traiter forcément de vies éclatantes, triomphantes, d'apparences prisées ou de corps élégants. Ce n'est pas seulement la littérature mais bien toutes les sciences humaines qui, pour comprendre le monde immédiat, sous nos yeux, doivent s'y rendre vraiment attentives.",
+		"event-place": "Paris",
+		"ISBN": "978-2-07-019764-4",
+		"language": "Français",
+		"number-of-pages": "368",
+		"publisher": "Gallimard",
+		"publisher-place": "Paris",
+		"title": "Styles: Critique de nos formes de vie",
+		"title-short": "Styles",
+		"author": [
+			{
+				"family": "Macé",
+				"given": "Marielle"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "MartideMontety2013",
+		"type": "article-journal",
+		"abstract": "Les marques ont toujours un lien avec les pratiques sociales et culturelles mais elles s’affirment aujourd’hui pleinement comme acteurs culturels, dans une euphémisation de leur intention marchande. L’article évoque une « dépublicitarisation » paradoxale qui rend public le message des marques sans qu’il ait l’air publicitaire. Deux exemples sont interrogés : les appropriations médiatiques des marques qui se saisissent des vertus des médias en adoptant leurs formes (presse, films etc.) et de plus la création d’événements dans l’espace public. Les marques se requalifiant en acteurs culturels aspirent à transformer leurs cibles en publics pour optimiser la valeur sociale de leurs offres.",
+		"container-title": "Communication management",
+		"ISSN": "2269-7195",
+		"issue": "2",
+		"language": "fr",
+		"page": "22-32",
+		"source": "www.cairn.info",
+		"title": "Les marques, acteurs culturels - dépublicitarisation et valeur sociale ajoutée",
+		"URL": "https://www.cairn.info/revue-communication-et-management-2013-2-page-22.htm",
+		"volume": "Vol. 10",
+		"author": [
+			{
+				"family": "Montety",
+				"given": "Caroline Marti",
+				"dropping-particle": "de"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					12,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "Saemmer2015",
+		"type": "book",
+		"abstract": "Beaucoup de lectures s'effectueront dans quelques années sur des dispositifs numériques, quels que soient les champs à l uvre. La sensibilisation aux spécificités du texte numérique est donc un enjeu important pour la recherche, la lecture et l écriture. Cet ouvrage a pour but d analyser comment le texte préfigure les pratiques, et comment le lecteur y répond en mobilisant ses imaginaires personnels. Il identifie, pour la première fois de façon exhaustive, les procédés rhétoriques de l hyperlien et de l animation textuelle, et propose à la fois des outils de défense contre certains effets de manipulation du texte numérique, et des repères pour permettre au lecteur de goûter à un nouveau plaisir du texte. L objectif de Rhétorique du texte numérique est de sensibiliser lecteurs, chercheurs, auteurs et éditeurs aux possibles expressifs du texte numérique, et de leur permettre ainsi de mieux connaître et maîtriser ses procédés d argumentation, de persuasion, de narration, de métaphorisation et de séduction. La connaissance de ce champ des possibles favorisera l émergence d une nouvelle culture de l interprétation, réflexive et critique. Alexandra Saemmer est professeure des universités en sciences de l information et de la communication à l université Paris 8, Laboratoire d excellence des arts et médiations humaines (Labex Arts-H2H). Elle est par ailleurs auteure de littérature numérique.",
+		"event-place": "Villeurbanne",
+		"ISBN": "979-10-91281-45-4",
+		"language": "Français",
+		"number-of-pages": "288",
+		"publisher": "Enssib",
+		"publisher-place": "Villeurbanne",
+		"title": "Rhétorique du Texte Numerique. Figures de la Lecture, Anticipations d E Pratiques",
+		"author": [
+			{
+				"family": "Saemmer",
+				"given": "Alexandra"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					2,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "Souchier1998",
+		"type": "article-journal",
+		"container-title": "Les cahiers de mediologie",
+		"ISSN": "1270-0665",
+		"issue": "2",
+		"language": "fr",
+		"page": "137-145",
+		"source": "www.cairn.info",
+		"title": "L'image du texte pour une théorie de l'énonciation éditoriale",
+		"URL": "https://www.cairn.info/revue-les-cahiers-de-mediologie-1998-2-page-137.htm",
+		"volume": "N° 6",
+		"author": [
+			{
+				"family": "Souchier",
+				"given": "Emmanuël"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					12,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "Vial2014",
+		"type": "article-journal",
+		"abstract": "Communication et design sont tous deux des phénomènes du xxe siècle. Cette concomitance a-t-elle un sens ? En quoi l’acte de design peut-il être considéré comme un acte de communication et, réciproquement, en quoi l’acte de communication peut-il être un acte de design ? Quels sont les points de rencontre entre design et communication ? L’article traite cette question en trois temps : d’abord, on montre que, dans le contexte de la société de consommation, le design constitue une arme de communication massive, en tant que corrélat originaire du marketing ; ensuite, on montre comment le design contribue à l’incommunication consommationnelle à l’heure de l’inflation sémantique des produits, des images et des discours ; enfin, partant des évolutions les plus récentes dans la discipline, on montre comment le design contemporain tente de renouer avec une logique communicationnelle plus complexe et plus juste.",
+		"container-title": "Hermes, La Revue",
+		"ISSN": "0767-9513",
+		"issue": "3",
+		"language": "fr",
+		"page": "174-180",
+		"source": "www.cairn.info",
+		"title": "Le design, un acte de communication ?",
+		"URL": "https://www.cairn.info/revue-hermes-la-revue-2014-3-page-174.htm",
+		"volume": "n° 70",
+		"author": [
+			{
+				"family": "Vial",
+				"given": "Stéphane"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					12,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					12,
+					15
+				]
+			]
+		}
+	}
+]

@@ -4,6 +4,7 @@ subtitle: >
   Scénographies du livre en régime numérique
 weight: 3
 number: 3
+bibfile: bibliography/art03.json
 type: hybritexte
 abstract: >
   Le numérique invite à repenser la place du corps dans les dispositifs de lecture.
@@ -35,24 +36,25 @@ Une première forme de décontextualisation consiste à disposer le livre dans l
 
 Dans la communication de la marque française de prêt-à-porter Sézane[^1] la pile de livres apparaît comme un élément ordinaire du _shooting_, comme accessoire pratique et symbolique de la scénographie marchande, comme un présentoir destiné à valoriser ici un sac, là une paire de chaussures, selon une structure commune et récurrente. Cette dernière est importante car elle souligne la fonction instrumentale de la pile de livres : l’accessoire n’est ici pas la chaussure mais bien les livres sur lesquels celle-ci est posée. Les piles de livres (lesquels varient peu dans une même séance de photographies de marque ; seul l’objet de mode est changé) sont apparemment de simples supports destinés à surélever la chaussure. La dimension symbolique du livre est le plus souvent effacée, puisqu’on ne distingue en général dans ces configurations ni véritablement le genre ni le titre de l’ouvrage. Des clientes férues de littérature identifieront éventuellement de grandes maisons d’édition ou des couvertures célèbres, mais à ce stade, ce qui compte c’est son volume. D’une saison l’autre, d’une collection à l’autre, la reprise de ce motif symbolique et visuel – l’accessoire de mode se tient sur une pile de livres posés à même le sol ou sur un meuble – signale une intention marketing qui procède par renversement des pôles : la prise de vue scénographiée _déplace_ la « coordonnée taxinomique » ({{< hl-cite "Barthes1985" 255 >}}) du livre comme objet culturel valorisé et la transfère à la chaussure. Ce procédé d’élévation physique et symbolique de la chaussure, du sac ou de quelque autre objet relève d’une forme d’imposition de style par la marque qui associe l’accessoire et le livre dans un rapport inversé puisque l’objet à désirer est bien l’accessoire de mode. 
 
-![alt_text](media/ART030.jpg "image_tooltip")
-**Figure 1 : Accessoires de mode posés sur des livres, Sézane, collection printemps/été 2018**
+![Accessoires de mode posés sur des livres, Sézane, collection printemps/été 2018](media/art03-01.jpg "image_tooltip")
+
+*Figure 1 : Accessoires de mode posés sur des livres, Sézane, collection printemps/été 2018*
 
 Cette dernière dimension se renforce avec une deuxième forme d’instrumentalisation, où le livre est davantage visible, sinon lisible : ici, c’est moins le volume du livre qui compte que sa dimension symbolique puisqu’il devient en quelque sorte co-énonciateur de l’accessoire de mode. C’est le cas par exemple avec une autre marque française de prêt-à-porter féminin, Balzac Paris[^2], lorsqu’une pile de livres apparaît non plus _sous, _mais_ à côté_ de la bottine de la marque publiée sur Instagram. Le livre est juxtaposé à l’accessoire, mis sur le même plan (ou presque) : il vient le _qualifier_, le sémantiser et non plus simplement le supporter et en soutenir les courbes ou caractéristiques visuelles ; il est dès lors énonciateur d’un style. Poussant ce processus à l’extrême, il peut aussi constituer un élément de mise en perspective d’une scène de _shooting_, destinée à suggérer l’environnement _habité_, _vécu_, dans lequel prend place l’accessoire (la chambre, le salon : voir figure 2). Il fait sens par l‘environnement qu’il contribue à créer, en connotant une activité, une pratique, un goût : la lecture, qui se donne ainsi comme énonciatrice d’un _style_ de vie fondé sur un goût marqué pour la littérature. Situés au second plan, les bibliothèques ou les piles de livres constituent dans ce cas le fond symbolique et culturel dans lequel évolue le mannequin situé au premier plan (fig. 2).
 
-![alt_text](media/ART031.jpg "image_tooltip")
+![alt_text](media/art03-01.jpg "image_tooltip")
 **Figure 2 : Les piles de livres à l'arrière plan, Sézane, 2018.**
 
 Alors que dans la première forme évoquée, le livre était _imposé_ comme dispositif de surélévation non exempt de valeur symbolique, ici, insérés dans une bibliothèque, les livres font plus que simplement connoter une culture, ils renvoient davantage à un style de vie, à une pratique _investie_ ({{< hl-cite "Macé2016" 172 >}}) plutôt qu’à une simple forme inerte. On retrouve là la fonction à la fois décorative et sociale – voire distinctive – du livre exposé dans une bibliothèque, comme dans les catalogues de vente analysés par Nicholson Baker, qui le conduisait à écrire : « Les concepteurs des catalogues savent parfaitement que les livres, si l’on est assez fortuné pour en posséder, doivent être là quelque part, bien visibles, alignés en rangs multicolores ou empilés sur des tables comme des nodosités de la linéarité compacte qui arrêtent l’œil distrait et suggèrent des trésors d’érudition patriarcale, ou matriarcale. » ({{< hl-cite "Baker2004" 274 >}}) Le livre comme signe est aussi au service d’une stratégie de distinction ({{< hl-cite "Bourdieu1979" >}}) de l’être social ciblé par la marque. 
 
 Une troisième forme d’instrumentalisation, celle-là métonymique, consiste à mobiliser le livre prioritairement pour son titre dès lors que ce dernier est porteur d’une poétique et parce qu’il contient également toute la sémantique de l’objet livre. Le titre est conçu comme seuil menant vers un imaginaire positif et artistique. La marque Balzac Paris place par exemple au centre d’une photo présentant du linge de maison le roman _Indigo_, de Catherine Cusset, paru en 2013 chez Gallimard, en écho et en légende à la couleur du textile vendu (et sur lequel est posé le livre, fig. 3) ou pour venir pimenter, par ses connotations, une collection de vêtements sur le site web (en utilisant le roman _Aux fruits de la passion_, de Daniel Pennac, paru en 1999, voir fig. 4).
 
-![alt_text](media/ART032.png "image_tooltip")
+![alt_text](media/art03-02.png "image_tooltip")
 
 
 **Figure 3 : Instrumentaliser le titre d'un livre, Balzac Paris, printemps-été 2018.**
 
-![alt_text](media/ART033.png "image_tooltip")
+![alt_text](media/art03-03.png "image_tooltip")
 
 
 **Figure 4 : Le titre du livre à l'honneur pour poétiser une collection, Balzac Paris 2018**
@@ -68,19 +70,19 @@ Si la mode est ainsi mise en scène _via_ le livre en tant qu’il se décompose
 
 Pourtant, ce type de boutique suggère un attachement de la marque à l’objet livre en dépit des renversements connotatifs que les séances de photos mettent parfois en place, maintenant la mode et la littérature dans une tension de bon aloi pour son identité. En effet, des marques comme Balzac Paris ou Sézane convoquent le livre et, par-delà, la littérature, dans une stratégie marketing totale qui s’exprime enfin par la représentation de l’activité de lecture. De l’objet livre au livre objet de lecture, la prétention culturelle et littéraire de ces marques puise ses lettres de noblesse dans le livre et dans un style de vie littéraire pensé comme un engagement ({{< hl-cite "Macé2016" 39 >}}). 
 
-![alt_text](media/ART034.jpg "image_tooltip")
+![alt_text](media/art03-04.jpg "image_tooltip")
 **Figure 5 : Séances de photos de mannequins lisant, Balzac Paris (à gauche), Sézane (à droite)**
 
-Dans tous ces visuels, publiés sur les sites des marques et/ou sur Instagram, bien évidemment, les livres contribuent à doter la marque et ses produits de sens, de signifiants connotés positivement, dans le même temps où il s’inscrivent dans un processus plus global de _dépublicitarisation_ par lequel les marques cherchent, comme l’indique Caroline Marti[^5] à « euphémiser leur intention marchande » en « culturalisant la marchandise » ({{< hl-cite "MartideMontety2013" 24 >}}). Ce processus de culturalisation, que le livre comme objet posé là incarne et véhicule comme signe relève d’une pratique de différenciation sur un marché du prêt-à-porter très concurrentiel. 
+Dans tous ces visuels, publiés sur les sites des marques et/ou sur Instagram, bien évidemment, les livres contribuent à doter la marque et ses produits de sens, de signifiants connotés positivement, dans le même temps où il s’inscrivent dans un processus plus global de _dépublicitarisation_ par lequel les marques cherchent, comme l’indique Caroline Marti à « euphémiser leur intention marchande » en « culturalisant la marchandise » ({{< hl-cite "MartideMontety2013" 24 >}}). Ce processus de culturalisation, que le livre comme objet posé là incarne et véhicule comme signe relève d’une pratique de différenciation sur un marché du prêt-à-porter très concurrentiel. 
 
-Dans le système de la consommation, on sait bien que les objets sont traités comme des signes[^6] ({{< hl-cite "Baudrillard1970" >}} ; {{< hl-cite "Vial2014" >}}). Ici il contribuent à donner au produit, à la marque, les contours d’un « être culturel » au sens où l’entend Yves Jeanneret[^7] ({{< hl-cite "Jeanneret2008" >}}) l’aura du livre étant destinée à rejaillir sur l’accessoire. Lorsque la chaussure est posée sur le livre – au-delà d’une simple fonction instrumentale de socle, de trépied –, symboliquement, c’est la marque qui entend s’appuyer sur la valeur symbolique des livres pour représenter les valeurs dont elle souhaite se doter et en aspirer les connotations symboliques et affectives[^8] ({{< hl-cite "Baudrillard1970" 267 >}}). Loin d’être un simple accessoire au design visuel et commercial, les piles de livres fabriquent un ethos de marque culturelle. En retour, il s’agit de pourvoir les clients de la marque d’un style spécifique – dont les livres sont les vecteurs – voire d’un « _standing_ » (au sens où l’entend Baudrillard – lequel se donne comme un code totalitaire[^9] ({{< hl-cite "Baudrillard1970" 270-271 >}}) dans la mesure où l’objet constitue un « critère impératif » à l’acquisition de ce standing) qui ne s’énonce plus de manière aussi ouverte que naguère mais qui est naturalisé.
+Dans le système de la consommation, on sait bien que les objets sont traités comme des signes ({{< hl-cite "Baudrillard1970" >}} ; {{< hl-cite "Vial2014" >}}). Ici il contribuent à donner au produit, à la marque, les contours d’un « être culturel » au sens où l’entend Yves Jeanneret ({{< hl-cite "Jeanneret2008" >}}) l’aura du livre étant destinée à rejaillir sur l’accessoire. Lorsque la chaussure est posée sur le livre – au-delà d’une simple fonction instrumentale de socle, de trépied –, symboliquement, c’est la marque qui entend s’appuyer sur la valeur symbolique des livres pour représenter les valeurs dont elle souhaite se doter et en aspirer les connotations symboliques et affectives ({{< hl-cite "Baudrillard1970" 267 >}}). Loin d’être un simple accessoire au design visuel et commercial, les piles de livres fabriquent un ethos de marque culturelle. En retour, il s’agit de pourvoir les clients de la marque d’un style spécifique – dont les livres sont les vecteurs – voire d’un « _standing_ » (au sens où l’entend Baudrillard – lequel se donne comme un code totalitaire ({{< hl-cite "Baudrillard1970" 270-271 >}}) dans la mesure où l’objet constitue un « critère impératif » à l’acquisition de ce standing) qui ne s’énonce plus de manière aussi ouverte que naguère mais qui est naturalisé.
 
 
 ### Quel design pour les livres exposés dans ces visuels ?
 
 Singulièrement, les livres exposés sur ces sites de e-commerce ont souvent des caractéristiques communes et spécifiques : issus de la collection Blanche de Gallimard, anciens, ou beaux livres – type _coffee table books_ – sont les formes matérielles les plus fréquemment représentées.
 
-Balzac Paris et Sézane, férues toutes deux de la collection Blanche – jusqu’à en garnir deux murs entiers dans la Librairie pour Sézane – jouent sur la légitimité éditoriale accordée à cette collection, à son prestige culturel. Les beaux livres renvoient quant à eux à des pratiques de lecture cursive, qui mettent les images (livres de photographies, livres d’expositions) à l’honneur et sont propices à une consultation rapide en boutique. Ils permettent aussi de cibler éventuellement d’autres clientèles que celle de la collection Blanche. Ils s’inscrivent enfin dans la double logique de distinction et de standing évoquée précédemment _via_ la pratique du beau livre placé en visibilité sur la table basse du salon et qui s’offre au regard du visiteur. Les livres anciens quant à eux produisent un écart dans le champ visuel par rapport à cette mode connectée (les deux marques sont des _pure-players_ au départ) et aux styles contemporains. Quand une édition ancienne est placée à côté d’une pochette de tablette numérique, il s’agit, dans un processus de naturalisation, de se doter d’une histoire, d’un héritage classique tout en proposant une mode moderne et connectée. Mais ces livres anciens exposés sur les sites s’inscrivent également dans le capitalisme artiste qui remet le temps à l’honneur « comme dimension sensible » : « le produit raconte une histoire, suscite des émotions, ravive les couleurs de la mémoire »[^10] ({{< hl-cite "Lipovetsky Serroy2013" 253 >}}). Et Balzac Paris pousse cette stratégie à l’extrême en proposant, dans le cadre de son « Noël responsable » en 2016, entre autres objets vintage, un « lot de livres anciens » avec comme argument de vente « Utilisez ce petit bout de passé en déco d’intérieur ». La marque joue ici sur les connotations positives et symboliques associées à l’ancien et au livre, leur « noblesse héréditaire » pour reprendre l’expression de Baudrillard. Le livre est évidemment un alibi au même titre que la vaisselle vintage que la marque propose dans ce Noël responsable qui lui permettait de déployer une approche (et une collection capsule) plus « lifestyle ». Tous ces objets vendus, exposés sur ces scénographies commerciales, nous rappellent que le sens, comme « fait de culture est sans cesse naturalisé »[^11] ({{< hl-cite "Barthes1985" 259 >}}), et que dans de telles conditions d’emphatisation de l’objet, ce dernier n’est jamais purement fonctionnel et transitif. 
+Balzac Paris et Sézane, férues toutes deux de la collection Blanche – jusqu’à en garnir deux murs entiers dans la Librairie pour Sézane – jouent sur la légitimité éditoriale accordée à cette collection, à son prestige culturel. Les beaux livres renvoient quant à eux à des pratiques de lecture cursive, qui mettent les images (livres de photographies, livres d’expositions) à l’honneur et sont propices à une consultation rapide en boutique. Ils permettent aussi de cibler éventuellement d’autres clientèles que celle de la collection Blanche. Ils s’inscrivent enfin dans la double logique de distinction et de standing évoquée précédemment _via_ la pratique du beau livre placé en visibilité sur la table basse du salon et qui s’offre au regard du visiteur. Les livres anciens quant à eux produisent un écart dans le champ visuel par rapport à cette mode connectée (les deux marques sont des _pure-players_ au départ) et aux styles contemporains. Quand une édition ancienne est placée à côté d’une pochette de tablette numérique, il s’agit, dans un processus de naturalisation, de se doter d’une histoire, d’un héritage classique tout en proposant une mode moderne et connectée. Mais ces livres anciens exposés sur les sites s’inscrivent également dans le capitalisme artiste qui remet le temps à l’honneur « comme dimension sensible » : « le produit raconte une histoire, suscite des émotions, ravive les couleurs de la mémoire » ({{< hl-cite "LipovetskySerroy2013" 253 >}}). Et Balzac Paris pousse cette stratégie à l’extrême en proposant, dans le cadre de son « Noël responsable » en 2016, entre autres objets vintage, un « lot de livres anciens » avec comme argument de vente « Utilisez ce petit bout de passé en déco d’intérieur ». La marque joue ici sur les connotations positives et symboliques associées à l’ancien et au livre, leur « noblesse héréditaire » pour reprendre l’expression de Baudrillard. Le livre est évidemment un alibi au même titre que la vaisselle vintage que la marque propose dans ce Noël responsable qui lui permettait de déployer une approche (et une collection capsule) plus « lifestyle ». Tous ces objets vendus, exposés sur ces scénographies commerciales, nous rappellent que le sens, comme « fait de culture est sans cesse naturalisé » ({{< hl-cite "Barthes1985" 259 >}}), et que dans de telles conditions d’emphatisation de l’objet, ce dernier n’est jamais purement fonctionnel et transitif. 
 
 Ainsi, du livre accessoire au livre alibi porteur de valeurs symboliques pour le marketing de marque, ces formes différentes et ces déclinaisons variées tendent à prescrire des styles de vie au service d’un ethos de marque et d’un certain standing du client. Voyons à présent comment le livre est instancié comme unité signifiante (et non plus comme volume) au travers de prescriptions littéraires numériques qui scénographient l’objet livre et qui renversent apparemment les valeurs et pôles mobilisés dans le cadre de la communication marchande que nous venons d’évoquer. 
 
@@ -92,20 +94,20 @@ Sans grande surprise, les scénographies du livre qui le placent en son centre e
 
 ### Le livre à l’honneur, le livre scénographié
 
-Les visuels qui sont c_omposés _au sens pictural du terme autour d’un ouvrage en particulier par des blogueurs littéraires, des lecteurs ou même parfois par des maisons d’édition sont légions sur le web. Le livre y est ici l’objet d’un design visuel qui le célèbre et le constitue de fait en pôle d’attraction visuel et symbolique. Mais le design visuel se situe aussi _hors_ de lui, le désigne comme objet de curiosité _via_ l’ordonnancement auquel il donne lieu et les relations établies entre objets placés sur la scène visuelle, qui composent un syntagme[^12] ({{< hl-cite "Barthes1985" 257 >}}). Plus que de simplement promouvoir un titre la plupart du temps, il s’agit par ces scénographies du livre et _du lire_ en contexte numérique d’activer l’imaginaire et la curiosité du lecteur _via_ un horizon d’attente ainsi créé, matérialisé. Tous ces visuels expriment une promesse incarnée tour ou à tour ou simultanément par un titre pensé comme seuil, par un auteur, une collection éditoriale ou les objets qui viennent l’encadrer. 
+Les visuels qui sont c_omposés _au sens pictural du terme autour d’un ouvrage en particulier par des blogueurs littéraires, des lecteurs ou même parfois par des maisons d’édition sont légions sur le web. Le livre y est ici l’objet d’un design visuel qui le célèbre et le constitue de fait en pôle d’attraction visuel et symbolique. Mais le design visuel se situe aussi _hors_ de lui, le désigne comme objet de curiosité _via_ l’ordonnancement auquel il donne lieu et les relations établies entre objets placés sur la scène visuelle, qui composent un syntagme ({{< hl-cite "Barthes1985" 257 >}}). Plus que de simplement promouvoir un titre la plupart du temps, il s’agit par ces scénographies du livre et _du lire_ en contexte numérique d’activer l’imaginaire et la curiosité du lecteur _via_ un horizon d’attente ainsi créé, matérialisé. Tous ces visuels expriment une promesse incarnée tour ou à tour ou simultanément par un titre pensé comme seuil, par un auteur, une collection éditoriale ou les objets qui viennent l’encadrer. 
 
-![alt_text](media/ART035.png "image_tooltip")
+![alt_text](media/art03-05.png "image_tooltip")
 
 
-**Figure 6 : Scénographie réalisée par une blogueuse et republiée par l'éditeur Grasset**
+*Figure 6 : Scénographie réalisée par une blogueuse et republiée par l'éditeur Grasset*
 
-Je voudrais me concentrer sur trois caractéristiques de ces scénographies numériques du livre. En premier lieu, elles composent des formes modernes du cabinet de curiosité[^13] ({{< hl-cite "Cochoy2011" >}}) dans la mesure où les objets sélectionnés, hétéroclites et parfois très insolites, sont néanmoins mis en relation dans l’espace visuel de la photographie, créant un effet de profusion décalée. Ces scénographies jouent sur une tension entre l’éclectisme des objets disposés dans le champ visuel – objets qui encadrent le livre et qui sont relatifs à cet ouvrage-là spécifiquement – et des motifs récurrents souvent relatifs au temps de la lecture, au moment spécifique de détente, d’intimité qu’elle instaure. Ces _leitmotives_ peuvent même être complètement naturalisés par leur reprise systématique et attendue : les photographies disposant des fleurs, une tasse de thé ou de café ou encore des bougies sont ainsi devenues des _topoï_ sur le web, qu’elles valorisent l’objet livre, la lecture, ou qu’elles cherchent simplement à représenter un moment de détente.
+Je voudrais me concentrer sur trois caractéristiques de ces scénographies numériques du livre. En premier lieu, elles composent des formes modernes du cabinet de curiosité ({{< hl-cite "Cochoy2011" >}}) dans la mesure où les objets sélectionnés, hétéroclites et parfois très insolites, sont néanmoins mis en relation dans l’espace visuel de la photographie, créant un effet de profusion décalée. Ces scénographies jouent sur une tension entre l’éclectisme des objets disposés dans le champ visuel – objets qui encadrent le livre et qui sont relatifs à cet ouvrage-là spécifiquement – et des motifs récurrents souvent relatifs au temps de la lecture, au moment spécifique de détente, d’intimité qu’elle instaure. Ces _leitmotives_ peuvent même être complètement naturalisés par leur reprise systématique et attendue : les photographies disposant des fleurs, une tasse de thé ou de café ou encore des bougies sont ainsi devenues des _topoï_ sur le web, qu’elles valorisent l’objet livre, la lecture, ou qu’elles cherchent simplement à représenter un moment de détente.
 
-Ces scénographies viennent en général ponctuer une lecture, _signer_ une chronique (quand il s’agit d’une blogueuse littéraire), publiée sur un blog ou réalisée sous format vidéo sur Youtube et s’inscrivent souvent dans une série, une collection de titres lus, chroniqués. Certains comptes de blogueuses littéraires sur Instagram apparaissent comme une anthologie[^14] ({{< hl-cite "Doueihi2011" 3-15 >}}) visuelle et scénographiée de leurs lectures, et constituent une archive personnelle partagée sur les réseaux sociaux. 
+Ces scénographies viennent en général ponctuer une lecture, _signer_ une chronique (quand il s’agit d’une blogueuse littéraire), publiée sur un blog ou réalisée sous format vidéo sur Youtube et s’inscrivent souvent dans une série, une collection de titres lus, chroniqués. Certains comptes de blogueuses littéraires sur Instagram apparaissent comme une anthologie ({{< hl-cite "Doueihi2011" 3-15 >}}) visuelle et scénographiée de leurs lectures, et constituent une archive personnelle partagée sur les réseaux sociaux. 
 
 En second lieu, elles relèvent d’une forme de rhétorique formelle articulée autour de la _dispositio_, soit l’agencement des objets entre eux et dans leur relation au livre qu’ils encadrent, éditorialisent et donnent à interpréter comme signifiant. Elles empruntent parfois les codes esthétiques de la nature morte par la reprise de certains motifs ou par des agencements spécifiques. Elles cherchent, par le caractère parfois insolite des éléments ainsi disposés, à éveiller chez celui qui regarde une forme de _punctum _pour aller au-delà du simple intérêt intellectuel qu’est le _studium _barthésien ({{< hl-cite "Barthes1980" >}}).
 
-Pourtant, si elles célèbrent à l’évidence un ouvrage, elles s’inscrivent dans une logique similaire à celle de la différenciation en marketing[^15] dans la mesure où elles visent d’une part à susciter l’intérêt des destinataires (leurs contacts sur les réseaux sociaux, leurs abonnés, etc.), à élargir leur audience, et d’autre part à susciter l’intérêt des éditeurs qui y voient une forme de promotion et de retour gracieux, après l’envoi d’un service de presse à un blogueur ou à un youtubeur littéraire. Non contents de leur envoyer des ouvrages à chroniquer, les éditeurs ne se privent pas de rediffuser ces photographies scénographiées des titres de leur catalogue, voire d’en créer eux-mêmes pour redynamiser la circulation du livre dans les espaces sociaux.
+Pourtant, si elles célèbrent à l’évidence un ouvrage, elles s’inscrivent dans une logique similaire à celle de la différenciation en marketing dans la mesure où elles visent d’une part à susciter l’intérêt des destinataires (leurs contacts sur les réseaux sociaux, leurs abonnés, etc.), à élargir leur audience, et d’autre part à susciter l’intérêt des éditeurs qui y voient une forme de promotion et de retour gracieux, après l’envoi d’un service de presse à un blogueur ou à un youtubeur littéraire. Non contents de leur envoyer des ouvrages à chroniquer, les éditeurs ne se privent pas de rediffuser ces photographies scénographiées des titres de leur catalogue, voire d’en créer eux-mêmes pour redynamiser la circulation du livre dans les espaces sociaux.
 
 Enfin, elles déploient une logique de l’immersion, offrant à son destinataire le soin de se plonger dans un univers certes organisé, scénographié, mais qui laisse aussi un espace d’intervention imaginaire, une place au lecteur ainsi appelé. Le livre introduit à un monde composé de signifiants brièvement sélectionnés, ébauchés dans la composition visuelle, suggérant des thèmes de fiction, une ambiance narrative, représentant de manière fragmentaire et subjective un univers diégétique, ou célébrant parfois simplement la lecture comme moment privilégié de détente. Cette poétique visuelle de l’immersion constitue un trait caractéristique de ces scénographies, très en accord par ailleurs avec les formes-modèles de lecture numérique étudiées par A. Saemmer ({{< hl-cite "Saemmer2015" >}}) et avec les modalités d’interactivité dans l’univers numérique plus généralement. Ces scénographies littéraires jouent ainsi et entrent en résonance, dans l’espace des réseaux sociaux, avec des processus lectoriels présents sur d’autres types d’interfaces numériques. 
 
@@ -116,9 +118,9 @@ Notons enfin que la dimension ludique est une caractéristique majeure de la pr�
 
 Si la plupart des photographies que je viens d’évoquer donnent à voir des éléments qui composent le genre du livre, qui en reflètent ou en expriment des éléments narratifs, qui représentent des personnages (figurines), le cas des _bookfaces,_ également très en vogue sur les réseaux sociaux se situe, lui, dans une approche sensiblement différente. Le livre y est également mis en scène, non plus pour évoquer un univers diégétique ou pour valoriser une plume, mais pour susciter le trouble chez celui qui regarde en jouant avec l’image de la couverture. Il s’agit de créer un jeu de trompe-l’œil en positionnant le livre à la place du visage de l’individu au centre de l’image et de jouer avec les éléments présents sur la couverture. La couverture se fond ainsi avec le visage du mannequin, donnant l’impression d’un livre-caméléon. 
 
-![alt_text](media/ART036.png "image_tooltip")
+![Bookface](media/art03-06.png "image_tooltip")
 
-**Figure 7 : Bookface**
+*Figure 7 : Bookface*
 
 La librairie Mollat a été pionnière en la matière, ses libraires choisissant des couvertures représentant des visages qu’ils appliquent sur le leur. Les figurants adaptent dès lors leur coiffure et leurs vêtements pour créer une illusion et, volontairement provoquer un trouble dans l’esprit du spectateur, qui est conduit à penser que la personne prise en photo est la même que le modèle (image, photo, dessin) sur la couverture du livre. Ici, c’est moins l’auteur et le titre qui sont valorisés que l’image qui devient le pré-texte d’un jeu et de défis postés sur les réseaux sociaux – Facebook et Instagram au premier chef. Libraires, lecteurs, bibliothécaires se livrent à ce jeu qui vise à valoriser le livre en tant qu’objet culturel et accessible, dont la fonction symbolique est travaillée par la modalité ludique.
 
@@ -127,21 +129,21 @@ La librairie Mollat a été pionnière en la matière, ses libraires choisissant
 
 Si le livre est parfois un objet de jeu et de sociabilité _via_ les communautés qu’il rassemble sur les réseaux sociaux, les modalités de circulation du livre en régime numérique dans des contextes professionnels mettent quant à eux davantage l’accent sur sa matérialité et sur son processus de fabrication global. 
 
-D’abord, pour être présente dans ces scénographies ludiques, la matérialité du livre l’est encore plus dans d’autres contextes sur les réseaux sociaux tels que Youtube ou Instagram. N’ayant pas la possibilité de m’y attarder, j’évoquerai simplement les vidéos des booktubeuses, qui ont leurs propres codes (rhétorique de l’émotion, dimension communautaire, oralité et convivialité ({{< hl-cite "Coculet2018" 329-344 >}}), etc.), mais qui aiment à montrer la couverture à l’écran, tout comme la chair du livre, son volume, son corps. Dans ces vidéos, le livre prend de la place, il habite la bibliothèque présente en arrière-fond, il est montré à l’écran par la youtubeuse qui le commente. Il occupe l’espace symboliquement et l’attachement au papier est très présent sur Youtube tout comme dans les scénographies du livre précédemment évoquées. 
+D’abord, pour être présente dans ces scénographies ludiques, la matérialité du livre l’est encore plus dans d’autres contextes sur les réseaux sociaux tels que Youtube ou Instagram. N’ayant pas la possibilité de m’y attarder, j’évoquerai simplement les vidéos des booktubeuses, qui ont leurs propres codes (rhétorique de l’émotion, dimension communautaire, oralité et convivialité ({{< hl-cite "Coculet2019" 329-344 >}}), etc.), mais qui aiment à montrer la couverture à l’écran, tout comme la chair du livre, son volume, son corps. Dans ces vidéos, le livre prend de la place, il habite la bibliothèque présente en arrière-fond, il est montré à l’écran par la youtubeuse qui le commente. Il occupe l’espace symboliquement et l’attachement au papier est très présent sur Youtube tout comme dans les scénographies du livre précédemment évoquées. 
 
-![alt_text](media/ART037.png "image_tooltip")
+![La matérialité du livre à l'écran - Chaîne Marie lit en pyjama (Marie Vareille)](media/art03-07.png "image_tooltip")
 
 
-**Figure 8 : La matérialité du livre à l'écran - Chaîne Marie lit en pyjama (Marie Vareille)**
+*Figure 8 : La matérialité du livre à l'écran - Chaîne Marie lit en pyjama (Marie Vareille)*
 
-Filmer sa bibliothèque, en commenter les rayonnages, l’agencement, le classement, effectuer des travellings sur certains titres, des zooms caméras et des fondus constituent encore des pratiques très répandues, voire des _topoï _du genre({{< hl-cite "Coculet2018" 335 >}}). Ouvrir les colis envoyés par les éditeurs (_unboxing_) ou par d’autres booktubeurs (_swap_) sont également des usages récurrents qui inscrivent le livre dans un circuit logistique (acheminement, distribution) et qui en soulignent la dimension matérielle.
+Filmer sa bibliothèque, en commenter les rayonnages, l’agencement, le classement, effectuer des travellings sur certains titres, des zooms caméras et des fondus constituent encore des pratiques très répandues, voire des _topoï _du genre({{< hl-cite "Coculet2019" 335 >}}). Ouvrir les colis envoyés par les éditeurs (_unboxing_) ou par d’autres booktubeurs (_swap_) sont également des usages récurrents qui inscrivent le livre dans un circuit logistique (acheminement, distribution) et qui en soulignent la dimension matérielle.
 
 Ensuite, comme objet matériel, le livre existe, sur Instagram, singulièrement à travers tous les acteurs qui le composent en amont de sa diffusion et lui donnent son image, sa forme, son contenu – en d’autres termes, le fabriquent. Le livre est alors un corps d’énonciateurs divers et recueille, selon la logique de l’énonciation éditoriale ({{< hl-cite "Souchier1998" 137-145 >}}), leurs traces, leur empreinte : celle de l’auteur, de l’éditeur, des libraires, etc. Au premier chef, sans surprise, les publications des maisons d’édition sur les réseaux sociaux mettent en avant et côte à côte l’auteur et l’éditeur (dans une forme qui évoque les publicités imprimées dans la presse par exemple) dans une approche relativement institutionnelle. 
 
-![alt_text](media/ART038.png "image_tooltip")
+![Exemple de post Instagram consacré à la sortie d’un ouvrage](media/art03-08.png "image_tooltip")
 
 
-**Figure 9 - Exemple de post Instagram consacré à la sortie d’un ouvrage**
+*Figure 9 - Exemple de post Instagram consacré à la sortie d’un ouvrage*
 
 Cette éditorialisation du livre par l’éditeur souligne bien sûr la fonction auteur mais aussi l’idée d’une œuvre de l’esprit soumise à des droits d’auteur et d’un design graphique (la couverture est placée en vedette sur le visuel) qui identifie une collection, un auteur, une maison. L’accent est dès lors moins mis sur la matérialité du livre (seule la couverture est visible) que sur l’auctorialité : la photo de l’auteur met la figure de l’écrivain à l’honneur cette fois-ci.
 
@@ -161,49 +163,6 @@ Ce faisant, ce sont aussi les médiations du lire et de la lecture qui sont déc
 
 Toutes ces modalités de convocation de l’objet livre comme objet symbolique investi de fonctions sociales, communautaires, culturelles, mettent en valeur enfin, en creux ou de manière plus franche, le livre en tant qu’objet d’une industrie : lorsque les youtubeuses exhibent leurs piles de livre, elles suggèrent surtout l’usage du service de presse et la course à la visibilité pour chaque titre ; lorsque Samantha Bailly évoque l’opération _Book fairies_ c’est aussi pour fidéliser ses lecteurs dans un environnement concurrentiel et inventer des formes promotionnelles ludiques et originales, soulignant les enjeux nouveaux auxquels sont confrontés les auteurs pour monter en visibilité. 
 
-
-## Bibliographie
-
-Baker, Nicholson. 2004. _La taille de nos pensées_. Paris : Christian Bourgois éditeur.
-
-Barthes, Roland. 1985. _L’aventure sémiologique_, Paris : Seuil, coll. « Points Essais ».
-
-Barthes, Roland. 1980. _La chambre claire_, _Notes sur la photographie_. Paris : Gallimard/Seuil.
-
-Baudrillard, Jean [1970]. _La société de consommation_, Paris : Gallimard, coll. « Folio Essais ».
-
-Bouquillion, Philippe. Miège, Bernard. Moeglin, Pierre. 2013. _L'industrialisation des biens symboliques._ _Les industries créatives en regard des industries culturelles_, Grenoble : PUG. 
-
-Cochoy, Franck. 2011. _De la curiosité: L'art de la séduction marchande_. Paris : Armand Colin.
-
-Coculet, Marine. 2018. « Reconfiguration et spécificité de la critique littéraire amateure sur BookTube », _Prescription culturelle : avatars et médiamorphoses_, Brigitte Chapelain et Sylvie Ducas (dir.). Villeurbanne : Presses de l’enssib, 329-344.
-
-Deseilligny, Oriane. Couleau, Christèle. 2019 . « Comment se porte la littérature? Le cas de Balzac Paris », _Objets insignes, objets infâmes de la littérature_, Wrona Adeline.Thérenty, Marie-Eve ( dir.). Paris : PUPS. 83-96.
-
-Deseilligny, Oriane. 2017. Reformuler les processus éditoriaux, déplacer l’imaginaire du best-seller ? Formes, conditions et mythologies du succès en contexte numérique. _Revue critique de fixxion française contemporaine_, 15, 118-129. En ligne : \
-[http://www.revue-critique-de-fixxion-francaise-contemporaine.org/rcffc/article/view/fx15.10/1175](http://www.revue-critique-de-fixxion-francaise-contemporaine.org/rcffc/article/view/fx15.10/1175)
-
-Doueihi, Milad. 2011. « Un humanisme numérique ». _Communication & langages_, n° 167, 3-15.
-
-Jeanneret, Yves. 2014. _Critique de la trivialité_. _Les médiations de la communication, enjeu de pouvoir,_ éditions Non Standard.
-
-Jeanneret, Yves. 2008. _Penser la trivialité. Volume 1, la vie triviale des êtres culturels_, Paris : Hermès/Lavoisier.
-
-Lipovetsky, Gilles. Serroy, Jean. 2013. _L’Esthétisation du monde – Vivre à l’âge du capitalisme artiste_, Paris : Gallimard.
-
-Macé, Marielle. 2016. _Styles. Critique de nos formes de vie_, Paris : Gallimard.
-
-Marti de Montety, Caroline. 2013. « Les marques, acteurs culturels - dépublicitarisation et valeur sociale ajoutée », _Communication & management_, Vol. 10.
-
-Saemmer, Alexandra. 2015. _Rhétorique du texte numérique : figures de la lecture, anticipations de pratiques. _Villeurbanne : Presses de l’enssib.
-
-Souchier, Emmanuël. 1998.  « L'image du texte pour une théorie de l'énonciation éditoriale ». _Les cahiers de médiologie_, n° 6, 137-145.
-
-Vial, Stéphane. 2014. « Le design, un acte de communication ? », _Hermès, La Revue_, n° 70, 174-180.
-
-Blog _The parisienne_, 1<sup>er</sup> juin 2017 : [http://www.theparisienne.fr/2017/06/sezane-paris-le-concept-pousse-a-lextreme/](http://www.theparisienne.fr/2017/06/sezane-paris-le-concept-pousse-a-lextreme/)
-
-
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 
@@ -212,42 +171,6 @@ Blog _The parisienne_, 1<sup>er</sup> juin 2017 : [http://www.theparisienne.fr/2
 
 [^2]:
      https://www.balzac-paris.fr
-
-[^3]:
-     Roland Barthes, _op. cit_., p. 254.
-
-[^4]:
-     Blog _The parisienne_, 1<sup>er</sup> juin 2017 : [http://www.theparisienne.fr/2017/06/sezane-paris-le-concept-pousse-a-lextreme/](http://www.theparisienne.fr/2017/06/sezane-paris-le-concept-pousse-a-lextreme/)
-
-[^5]:
-     Marti de Montety Caroline, « Les marques, acteurs culturels - dépublicitarisation et valeur sociale ajoutée », _Communication & management_, 2013/2, Vol. 10, p. 24. 
-
-[^6]:
-     Jean Baudrillard, _La société de consommation_ [1970], Paris, Gallimard, coll. « Folio Essais »; Stéphane Vial, « Le design, un acte de communication ? », _Hermès, La Revue_ 2014/3, n° 70 p. 174-180.
-
-[^7]:
-     Yves Jeanneret, _Penser la trivialité. Volume 1, la vie triviale des êtres culturels_, Paris, Hermès/Lavoisier, 2008.
-
-[^8]:
-     Jean Baudrillard, _op.cit._, p. 267. 
-
-[^9]:
-     _Ibid_., p. 270-271
-
-[^10]:
-     Gilles Lipovetsky, Jean Serroy, _op.cit._ p. 253.
-
-[^11]:
-     Roland Barthes, _op. cit_., p. 259.
-
-[^12]:
-     Roland Barthes, _op. cit_., p. 257.
-
-[^13]:
-     Franck Cochoy, _De la curiosité: L'art de la séduction marchande_, Armand Colin, 2011.
-
-[^14]:
-     Milad Doueihi, « Un humanisme numérique », _Communication & langages_, 2011/1, n° 167, p. 3-15.
 
 [^15]:
      La différenciation en marketing consiste à « décaler les caractéristiques d’un produit dans l’espoir que les spécificités associées à ce décalage viennent rencontrer des préférences non satisfaites par le marché » . Voir, F. Cochoy, _op. cit_., 2011 p. 56.
