@@ -1,0 +1,17 @@
+{{/*
+  Figure Group Shortcode
+
+  Relies on the `hybritexte-figure-group.html` partial
+  Example usage:
+
+  {{< hl-figure-group id="1, 2, 3" grid="true" class="my-custom-class" caption="Caption to display." >}}
+*/}}
+
+{{ $figures := .Get "figures" }}
+{{ $grid := .Get "grid" }}
+{{ $class := .Get "class" }}
+{{ $caption := .Get "caption" }}
+
+{{ $figureGroupMap := dict "figures" $figures "grid" $grid "class" $class "caption" $caption }}
+
+{{ partial "hybritexte-figure-group.html" $figureGroupMap }}

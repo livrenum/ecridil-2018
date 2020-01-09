@@ -1,0 +1,22 @@
+{{ $bibliography := getJSON "content/" .Page.File.Dir "augmentations.json" }}
+
+{{- $after := default "none" (.Get 0 | string) -}}
+{{- $before := default "none" (.Get 1 | string) -}}
+<div class="hybritexte-augmentation--step-marker"
+     {{ if not (eq $after "none") }}
+     data-augmentation-after="{{ $after }}"
+     {{ end }}
+     {{ if not (eq $before "none") }}
+     data-augmentation-before="{{ $before }}"
+     {{ end }}
+      >
+</div>
+{{- if not (eq $after "none") -}}
+{{- range where $bibliography "id" "eq" $after -}}
+{{- partial "hybritexte-augmentation.html" . -}}
+{{- end -}}
+{{ else }}
+
+{{ $emptyShortcode := dict "type" "empty" }}
+{{ partial "hybritexte-augmentation.html" $emptyShortcode }}
+{{- end -}}

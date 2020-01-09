@@ -1,0 +1,94 @@
+{{/*
+
+  This shortcode adds a linked Author Date citation reference to the text, and a
+  hover pop-up with the full citation text. It also adds the citation to a map
+  of cited works, which can then be output as a page-level bibliography on essay
+  and entry type pages. Example:
+
+  {{< hl-cite "ref-id" "54" >}}
+
+  The first positional parameter is a short form citation that should match one
+  in `references.yml`. The second, optional parameter is a page reference. The
+  above sample would output as: Faure 1909, 54
+
+  The text element between the author date reference and the page can be changed
+  with the `citationPageLocationDivider` property in `config.yml`.
+
+*/}}
+
+{{- $errorMissingValue := dict "shortcode" "hl-cite" "message" "1 or 2 values must be supplied with this shortcode. The first is required and should match a short reference in the project’s `references.yml` file, the second is optional, and should be a page number or range of page numbers" "example" "{{< hl-cite &#34;Faure 1909&#34; &#34;304&#34; >}}" -}}
+
+{{- $defaultErrString := "No matching ID was found for `%s` in the references. Please make sure to provide an available ID in your `bib.json` file." -}}
+
+{{- $errorMissingReference := dict "shortcode" "hl-cite" "message" "The short reference supplied doesn’t match one in the project’s `references.yml` file" "example" "{{< q-cite &#34;Faure 1909&#34; >}}<br /><br />short: &#34;Faure 1909&#34;" -}}
+
+{{- if and (ne (len .Params) 1) (ne (len .Params) 2) -}}
+  {{- partial "error-message.html" $errorMissingValue -}}
+{{- else -}}
+  {{- $id := .Get 0 -}}
+  {{- $pages := .Get 1 -}}
+    
+{{ $bibliographyPath := $.Page.Params.bibfile }}
+
+{{ $bibliography := getJSON $bibliographyPath }}
+
+  {{/* Get the matching reference */}}
+  {{- range where $bibliography "id" "eq" $id -}}
+    {{- $currentRef := . -}}
+    {{- $.Page.Scratch.SetInMap "hlcited" $id $currentRef -}}
+
+    <a href="#{{- $id | urlize -}}"
+       class="quire-citation"
+       itemprop="citation">
+      {{/*
+        APA Style citation
+      */}}
+      {{/* BEGIN author */}}
+      <span class="visually-hidden">Citation: </span>
+        {{- $reference := . -}}
+
+        {{- range first 1 $currentRef.author }}
+        {{- $author := . -}}
+        <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+          {{- with $author.given -}}
+          <meta itemprop="givenName" content="{{ . }}">
+          {{- end -}}
+          {{ with $author.family -}}
+          <span itemprop="familyName">{{ . | markdownify }}</span>
+          {{- end -}}
+        </span>
+        {{ end -}}
+        {{ if gt (len $currentRef.author) 1 -}}
+        <em>&amp; al.</em>
+        {{- end }}
+        {{/* END author */}}
+
+        {{/* BEGIN issued (year of publication) */}}
+        {{ if and (isset $currentRef "issued") (isset $currentRef.issued "date-parts") }}
+          {{/* range of dates */}}
+          <span itemprop="datePublished">
+          {{- range $index, $dateParts := (index .issued "date-parts") -}}
+          {{/* Separate other years by comma */}}
+          {{- if gt $index 0 -}}, {{ end -}}
+          {{/* First element in date-part is the year */}}
+          {{- range first 1 $dateParts -}}
+          {{- . -}}
+          {{- end -}}
+          {{- end -}}
+          </span>
+        {{- end -}}{{/* END issued */}}
+        {{- with $pages -}}
+        , pp.&nbsp;{{ . }}
+        {{- end -}}{{/* END pages */}}
+        <span class="quire-citation__content">{{ partial "bibliography/apa-style.html" $currentRef }}</span>
+    </a>
+  {{- else -}}
+    {{/* 
+      Did not find reference with matchin ID
+    */}}
+    {{- $particularIdErr := printf $defaultErrString (.Get 0) -}}
+    {{- $errorNoMatchingId := dict "shortcode" "hl-cite" "message" $particularIdErr "example" "{{< hl-cite &#34;Faure 1909&#34; >}}" -}}
+
+    {{- partial "error-message.html" $errorNoMatchingId -}}
+  {{- end -}}
+{{- end -}}

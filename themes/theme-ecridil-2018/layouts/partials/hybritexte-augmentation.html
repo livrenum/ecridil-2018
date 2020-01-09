@@ -1,0 +1,153 @@
+{{/*
+  Augmentation Hybritexte
+  
+  This partial displays an augmentation which goes on the right-hand side of a tablet/PC display.
+
+  An augmentation object must be passed (usually defined in a yaml collection associated with the content).
+
+  Usage (in layout templates):
+
+  {{ $augmentationObj := dict "type" "image" ... }}
+  {{ partial "hybritexte-augmentation.html" $augmentationObj }}
+
+  Properties:
+  - id
+  - type {string} image|text|comment|audio|video|iframe
+  - title {string} markdown-formatted string
+  - author {string}
+  - caption {string} markdown-formatted string
+  - copyright {string}
+  - year_of_publication {string}
+  - src {string} nom du fichier média
+  - location {string}
+  - medium
+  - caption {string} markdown-formatted string
+
+  Available types:
+  - image
+  - figure-group
+  - text
+  - comment
+  - audio
+  - video
+  - youtube
+  - iframe
+
+*/}}
+
+{{ if isset . "sticky" }}
+{{ $.Scratch.Set "sticky" .sticky }}
+{{ else }}
+{{ $.Scratch.Set "sticky" true }}
+{{ end }}
+
+{{ $validTypes := slice "image" "figure-group" "text" "comment" "audio" "video" "youtube" "iframe" }}
+
+<div class="hybritexte-augmentation__augmentation right-column {{ if eq .type "empty" }}is-empty{{ end }}" {{ with .id }}data-augmentation-id="{{ . }}" id="hybritexte-augmentation-{{ . }}"{{ end }}>
+  <div class="hybritexte-augmentation__inner fade-in">
+    
+    {{/* -------------------- EMTPY TYPE BLOCK -------------------- */}}
+    {{ if eq .type "empty" }}
+    {{/* Just an empty block! */}}
+    {{ else }}
+    {{/* -------------------- BEGIN CONDITIONAL ID BLOCK -------------------- */}}
+    {{ if eq .id nil }}
+    
+    {{- $errorNoId := dict "message" "Aucun ID n'est associé. <br><br>Exemple :" "example" "id: 1" -}}
+    {{ partial "error-message.html" $errorNoId }}
+
+    {{ else }}
+
+    {{/* -------------------- BEGIN VALID TYPES -------------------- */}}
+    {{ if and (isset . "type") (in $validTypes .type) }}
+    <div class="hybritexte-augmentation--{{ .type }}">
+  
+    {{/* -------------------- BEGIN TEXT TYPE -------------------- */}}
+    {{ if eq .type "text" }}
+      {{ if .content }}
+      <div class="hybritexte-augmentation--text__text-wrap">
+        <blockquote class="hybritexte-augmentation--text__blockquote">
+
+          {{ .content | markdownify }}
+          
+          {{ with .author }}
+          <cite>{{ . }}</cite>
+          {{ end }}
+        </blockquote>
+      </div>
+      {{ end }}
+    {{ end }}
+    {{/* -------------------- END TEXT TYPE -------------------- */}}
+
+    {{/* -------------------- BEGIN IMAGE TYPE -------------------- */}}
+    {{ if eq .type "image" }}
+    <figure class="hybritexte-augmentation--figure">
+      <img class="hybritexte-augmentation--figure__image"
+           {{ with .id }}id="{{ . }}-image"{{ end }}
+           src="{{ .src }}"
+           alt="{{ with .title }}{{ . }}{{ end }}">
+
+      <figcaption class="hybritexte-augmentation--figure__caption">
+        {{ if .title }}
+        <span class="hybritexte-augmentation--figure__title">
+          {{ .title | markdownify }}
+        </span>
+        {{ end }}
+
+        {{ if .caption}}
+        <span class="hybritexte-augmentation--figure__caption__text">
+          {{ .caption | markdownify }}
+        </span>
+        {{ end }}
+      </figcaption>
+    </figure>    
+    {{ end }}
+    {{/* -------------------- END IMAGE TYPE -------------------- */}}
+
+    {{/* -------------------- BEGIN FIGURE-GROUP TYPE -------------------- */}}
+    {{ if eq .type "figure-group" }}
+    {{ partial "hybritexte-figure-group.html" . }}
+    {{ end }}
+    {{/* -------------------- END FIGURE-GROUP TYPE -------------------- */}}
+
+    {{/* -------------------- BEGIN YOUTUBE TYPE -------------------- */}}
+    {{ if eq .type "youtube" }}
+    {{ $youtubeId := .youtubeId | string }}
+    {{ $title := .title | markdownify | htmlEscape }}
+    <figure class="hybritexte-augmentation--figure">
+      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+        <iframe src="https://www.youtube.com/embed/{{ $youtubeId }}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="{{ $title }}"></iframe>
+      </div>
+
+    <figcaption class="hybritexte-augmentation--figure__caption">
+      {{ if .title }}
+      <span class="hybritexte-augmentation--figure__title">
+        {{ .title | markdownify }}
+      </span>
+      {{ end }}
+
+      {{ if .caption}}
+      <span class="hybritexte-augmentation--figure__caption__text">
+        {{ .caption | markdownify }}
+      </span>
+      {{ end }}
+    </figcaption>
+    {{ end }}
+    {{/* -------------------- END YOUTUBE TYPE -------------------- */}}
+
+    </div>
+    {{ else }}
+
+    {{- $errorBadType := dict "message" "Le `type` d'augmentation n'est pas supporté ou n'est pas spécifié. <br><br>Exemple :" "example" "type: image" -}}
+    {{ partial "error-message.html" $errorBadType }}
+
+    {{ end }}
+    {{/* -------------------- END VALID TYPES -------------------- */}}
+
+    {{ end }}
+    {{/* -------------------- END CONDITIONAL ID BLOCK -------------------- */}}
+
+    {{ end }}
+    {{/* -------------------- END EMTPY TYPE BLOCK -------------------- */}}
+  </div>
+</div>

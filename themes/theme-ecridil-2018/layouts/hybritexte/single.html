@@ -1,0 +1,69 @@
+{{/*
+  Hybritexte layout. This layout describes a single-page template that has been
+  augmented with the ability to display a frontmatter-defined abstract (in
+  markdown format) as well as bibliography references.
+
+  With multimodal "augmentations", in 2-column layout.
+*/}}
+
+{{ define "main" }}
+
+{{/* 
+  Set references
+*/}}
+{{ $bibliographyPath := $.Page.Params.bibfile }}
+
+{{- if and $bibliographyPath (fileExists $bibliographyPath) -}}
+  {{/* -------------------- BEGIN JSON BIB -------------------- */}}
+  {{ $.Page.Scratch.Set "bibliography" (getJSON $bibliographyPath) }}
+  {{/* -------------------- END JSON BIB -------------------- */}}
+{{- else -}}
+  {{/* -------------------- NO BIB SET -------------------- */}}
+{{ errorf "No bib set!" }}
+{{- end -}}
+
+<article class="{{ partial "page-class.html" . }} quire-page hybritexte-page" id="main" role="main">
+  {{/* partial "page-header.html" . */}}
+  <header class="hybritexte-page__header">
+    <div class="container is-fluid has-2-columns">
+
+      {{/* Page Title */}}
+      <h1 class="hybritexte-page__header__title" id="{{ .Title | urlize }}">
+        {{ with .Params.number }}<span class="hybritexte-page__header__number">{{ . }}<span class="visually-hidden">.</span></span></br>{{ end }}
+        {{ .Title | markdownify }}
+      </h1>
+
+      {{/* Contributors, if any */}}
+      {{ with .Params.contributor }}
+      <div class="hybritexte-page__header__contributor">
+        {{ partial "contributor-list.html" (dict "range" . "contributorType" "all" "listType" "list-plus" "Site" $.Site) }}
+      </div>
+      {{ end }}
+
+      {{ with .Params.subtitle }}
+      <div class="hybritexte-page__header__subtitle">
+        {{ . | markdownify }}
+      </div>
+      {{ end }}
+      
+      {{/* Right-hand side abstract */}}
+      {{ if .Params.abstract }}
+      <div class="right-column">
+        {{/* partial "hybritexte-page-abstract.html" . */}}
+      </div>
+      {{ end }}
+    </div>
+  </header>
+
+  <section id="content" class="section quire-page__content hybritexte-page__content content">
+    <div class="container is-fluid has-2-columns with-separator hybritexte-page__scroll-wrapper">
+
+      {{ if .Content }}
+      {{ .Content }}
+      
+      {{ partial "page-bibliography.html" . }}
+      {{ end }}
+    </div>
+  </section>
+</article>
+{{ end }}

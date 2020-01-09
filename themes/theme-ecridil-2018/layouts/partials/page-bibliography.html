@@ -1,0 +1,66 @@
+{{/* 
+  Page Bibliography
+
+  - You can change the citation style in the site's `config.yml` file.
+  - Citation templates must be put in the `layouts/partials/bibliography` directory 
+    and must have a matching template (`%s-style.html`).
+  - The bibliography may either be set in a `bib.json` file
+    (constructed following CSL-JSON style) located at the same level as the file path 
+    or defined in the front-matter params, as per the CSL-JSON spec.
+
+  CSL-JSON spec :
+  https://citeproc-js.readthedocs.io/en/latest/csl-json/markup.html
+*/}}
+
+{{- $errorMissingPartialStyle := dict "Style de citation" "q-cite" "message" "Aucun modèle ne correspond au style de citation entré. Assurez-vous que le style explicité dans `.Site.params` se trouve dans `partials/bibliography`. Par exemple : " "example" "citationStyle: apa" -}}
+
+{{ $cited := $.Page.Scratch.Get "hlcited" }}
+
+{{ if $cited }}
+<section class="quire-page__content__references backmatter">
+  <h2 id="bibliography">Bibliographie</h2>
+  <dl>
+    {{/* -------------------- BEGIN RANGE BIBLIOGRAPHY -------------------- */}}
+    {{- range $citedIndex, $citedRef := $cited -}}
+      {{ $currentRef := index $cited $citedIndex }}
+
+      {{ $citationStyle := ($.Param "citationStyle") | default "apa" }}
+
+      {{ $partialPath := string (printf "bibliography/%s-style.html" $citationStyle) }}
+
+      <div id="{{ $currentRef.id | urlize }}">
+      {{/* -------------------- BEGIN PARTIAL FILE CHECK -------------------- */}}
+      {{/* if templates.Exists (printf "partials/%s" $partialPath) */}} {{/* COMMENTED OUT */}}
+      {{ if eq $citationStyle "apa" }}
+        {{/* 
+          Success, we have a matching template for our citation style. 
+        */}}
+
+        <dt>
+          {{- range $authorIndex, $author := $currentRef.author }}{{- if gt $authorIndex 0 }}, {{ if eq (len $currentRef.author) (add $authorIndex 1) -}}&amp; {{ end -}}{{ end -}}{{ $author.family }}{{- end }} ({{- if and (isset $currentRef "issued") (isset .issued "date-parts") -}}{{- range $index, $dateParts := (index $currentRef.issued "date-parts") -}}{{- if gt $index 0 -}}, {{ end -}}{{- range first 1 $dateParts -}}{{- . -}}{{- end -}}{{- end -}}{{ else }}<i>S.D.</i>{{- end -}})</dt>
+        <dd>
+          {{- partial $partialPath $currentRef -}}
+        </dd>
+      {{- else -}}
+
+        {{/* 
+          Citation style does not match any template, show an error.
+        */}}
+
+        {{- partial "error-message.html" $errorMissingPartialStyle -}}
+
+        {{/* 
+          Default to APA-Style
+        */}}
+        <dt>{{ range $currentRef.author }}{{ $currentRef.Family }}{{ end }}</dt>
+        <dd>
+          {{- partial (printf "bibliography/%s-style.html" "apa") $currentRef -}}
+        </dd>
+      {{/* -------------------- END PARTIAL FILE CHECK -------------------- */}}
+      {{- end -}}
+      </div>
+    {{/* -------------------- END RANGE BIBLIOGRAPHY -------------------- */}}
+    {{- end -}}
+  </dl>
+</section>
+{{ end }}

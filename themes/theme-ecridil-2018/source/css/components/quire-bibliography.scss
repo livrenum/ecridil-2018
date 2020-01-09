@@ -1,0 +1,25 @@
+// =============================================================================
+// Quire-bibliography.scss
+// -----------------------------------------------------------------------------
+
+// .quire-page__content__references
+// -----------------------------------------------------------------------------
+.quire-page__content__references {
+  margin-top: 2rem;
+  
+  :target {
+    // transition: account for scroll behavior delay
+    animation: highlight 3s;
+  }
+
+  dt {
+    font-weight: 500;
+  }
+  dd {
+    margin-left: 0;
+    margin-bottom: 1rem;
+    @media print {
+      margin-bottom: 6pt;
+    }
+  }
+}

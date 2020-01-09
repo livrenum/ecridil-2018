@@ -1,0 +1,11 @@
+{{/* 
+  APA-Style Citation
+*/}}
+hello
+<div id="{{ urlize .id }}">
+  {{/* the id is in a span because Pandoc otherwise strips them out from dt and dd for EPUBs for some reason */}}
+  <dt><span>{{ markdownify .id }} yeah</span></dt>
+  <dd>
+    {{ markdownify .title }}
+  </dd>
+</div>

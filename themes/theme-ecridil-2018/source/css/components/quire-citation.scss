@@ -1,0 +1,51 @@
+// =============================================================================
+// Quire-citation.scss
+// -----------------------------------------------------------------------------
+
+// Variables
+// -----------------------------------------------------------------------------
+//$color-primary: #3273dc !default;
+$quire-page-link-color: $color-primary !default;
+$fadeDuration: .35s;
+
+
+// .quire-citation
+// -----------------------------------------------------------------------------
+.quire-citation {
+  display: inline-block;
+  position: relative;
+  text-indent: 0;
+  &__content {
+    visibility: hidden;
+    font-size: 1rem;
+    line-height: 1.5;
+    background-color: lighten($quire-page-link-color, 45%);
+    color: $quire-page-link-color;
+    border-radius: 6px;
+    border: 1px solid $quire-page-link-color;
+    padding: 1rem;
+    position: absolute;
+    width: 350px;
+    max-width: 100vw;
+    z-index: 1;
+    bottom: 150%;
+    left: 0;
+    margin-left: -50px;
+  }
+  .quire-citation__content {
+    transition: visibility 0s $fadeDuration, transform $fadeDuration ease 0s, opacity $fadeDuration ease 0s;
+    transform: translateX(-14px);
+    opacity: 0;
+    z-index: 5; // overlay above augmentations column
+    
+    dd {
+      margin-left: 0;
+    }
+  }
+  &:hover .quire-citation__content {
+    visibility: visible;
+    transition: visibility 0s 0s, transform $fadeDuration, opacity $fadeDuration;
+    transform: translateX(0);
+    opacity: 1;
+  }
+}

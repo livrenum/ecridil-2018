@@ -1,0 +1,13 @@
+// =============================================================================
+// Hybritexte-animations.scss
+// -----------------------------------------------------------------------------
+//
+// Define the animations used in in the project.
+
+// Variables
+// -----------------------------------------------------------------------------
+
+@keyframes highlight {
+  0% { background-color: rgba($quire-page-link-highlight, 1); }
+  100% { background-color:  rgba($quire-page-link-highlight, 0); }
+}
