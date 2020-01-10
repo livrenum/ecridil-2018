@@ -112,10 +112,10 @@ search icons, and search results if enabled). It is visible on all pages.
 {{ $.Scratch.Set "imageDir" "" }}
 {{ end -}}
 {{- $imgDir := $.Scratch.Get "imageDir" -}}
-{{- if .Prev -}}
-{{- if and (ne .Prev.Params.online false) (ne .Prev.Type "data") -}}
+{{- if .Next -}}
+{{- if and (ne .Next.Params.online false) (ne .Next.Type "data") -}}
 <li class="quire-navbar-button arrow-button">
-  <a href="{{ .Prev.Permalink }}" rel="prev" id="js-prev" >
+  <a href="{{ .Next.Permalink }}" rel="prev" id="js-prev" >
     <svg>
       <switch>
         <use xlink:href="#left-arrow-icon"></use>
@@ -128,7 +128,7 @@ search icons, and search results if enabled). It is visible on all pages.
   </a>
 </li>
 {{- else -}}
-  {{ template "if-previous" .Prev }}
+  {{ template "if-previous" .Next }}
 {{- end -}}
 {{- end -}}
 {{- end -}}
@@ -140,10 +140,10 @@ search icons, and search results if enabled). It is visible on all pages.
 {{ $.Scratch.Set "imageDir" "" }}
 {{ end -}}
 {{- $imgDir := $.Scratch.Get "imageDir" -}}
-{{- if .Next -}}
-{{- if and (ne .Next.Params.online false) (ne .Next.Type "data") -}}
+{{- if .Prev -}}
+{{- if and (ne .Prev.Params.online false) (ne .Prev.Type "data") -}}
 <li class="quire-navbar-button arrow-button">
-  <a href="{{ .Next.Permalink }}" rel="next" id="js-next">
+  <a href="{{ .Prev.Permalink }}" rel="next" id="js-next">
     <svg>
       <switch>
         <use xlink:href="#right-arrow-icon"></use>
@@ -156,7 +156,7 @@ search icons, and search results if enabled). It is visible on all pages.
   </a>
 </li>
 {{- else -}}
-  {{ template "if-next" .Next }}
+  {{ template "if-next" .Prev }}
 {{- end -}}
 {{- end -}}
 {{- end -}}

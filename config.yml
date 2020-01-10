@@ -26,11 +26,13 @@ disableKinds:
   - "taxonomy"
   - "taxonomyTerm"
 
-blackfriday:
-  fractions: false
-  hrefTargetBlank: true
-  smartypantsQuotesNBSP: true
-  smartyPants: true
+markup:
+  defaultMarkdownHandler: blackfriday
+  blackfriday:
+    fractions: false
+    hrefTargetBlank: true
+    smartypantsQuotesNBSP: true
+    smartyPants: true
 
 # These values can be accessed in templates via .Site.Params
 params:

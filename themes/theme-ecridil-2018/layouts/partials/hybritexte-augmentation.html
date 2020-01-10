@@ -59,16 +59,16 @@
     {{ else }}
 
     {{/* -------------------- BEGIN VALID TYPES -------------------- */}}
-    {{ if and (isset . "type") (in $validTypes .type) }}
+    {{- if and (isset . "type") (in $validTypes .type) -}}
     <div class="hybritexte-augmentation--{{ .type }}">
   
     {{/* -------------------- BEGIN TEXT TYPE -------------------- */}}
-    {{ if eq .type "text" }}
+    {{- if eq .type "text" -}}
       {{ if .content }}
       <div class="hybritexte-augmentation--text__text-wrap">
         <blockquote class="hybritexte-augmentation--text__blockquote">
 
-          {{ .content | markdownify }}
+          {{- .content | markdownify -}}
           
           {{ with .author }}
           <cite>{{ . }}</cite>
@@ -76,11 +76,11 @@
         </blockquote>
       </div>
       {{ end }}
-    {{ end }}
+    {{- end -}}
     {{/* -------------------- END TEXT TYPE -------------------- */}}
 
     {{/* -------------------- BEGIN IMAGE TYPE -------------------- */}}
-    {{ if eq .type "image" }}
+    {{- if eq .type "image" -}}
     <figure class="hybritexte-augmentation--figure">
       <img class="hybritexte-augmentation--figure__image"
            {{ with .id }}id="{{ . }}-image"{{ end }}
@@ -88,26 +88,26 @@
            alt="{{ with .title }}{{ . }}{{ end }}">
 
       <figcaption class="hybritexte-augmentation--figure__caption">
-        {{ if .title }}
+        {{- if .title -}}
         <span class="hybritexte-augmentation--figure__title">
-          {{ .title | markdownify }}
+          {{- .title | markdownify -}}
         </span>
-        {{ end }}
+        {{- end -}}
 
-        {{ if .caption}}
+        {{- if .caption -}}
         <span class="hybritexte-augmentation--figure__caption__text">
-          {{ .caption | markdownify }}
+          {{- .caption | markdownify -}}
         </span>
-        {{ end }}
+        {{- end -}}
       </figcaption>
     </figure>    
-    {{ end }}
+    {{- end -}}
     {{/* -------------------- END IMAGE TYPE -------------------- */}}
 
     {{/* -------------------- BEGIN FIGURE-GROUP TYPE -------------------- */}}
-    {{ if eq .type "figure-group" }}
-    {{ partial "hybritexte-figure-group.html" . }}
-    {{ end }}
+    {{- if eq .type "figure-group" -}}
+    {{- partial "hybritexte-figure-group.html" . -}}
+    {{- end -}}
     {{/* -------------------- END FIGURE-GROUP TYPE -------------------- */}}
 
     {{/* -------------------- BEGIN YOUTUBE TYPE -------------------- */}}
@@ -136,12 +136,12 @@
     {{/* -------------------- END YOUTUBE TYPE -------------------- */}}
 
     </div>
-    {{ else }}
+    {{- else -}}
 
     {{- $errorBadType := dict "message" "Le `type` d'augmentation n'est pas supporté ou n'est pas spécifié. <br><br>Exemple :" "example" "type: image" -}}
     {{ partial "error-message.html" $errorBadType }}
 
-    {{ end }}
+    {{- end -}}
     {{/* -------------------- END VALID TYPES -------------------- */}}
 
     {{ end }}

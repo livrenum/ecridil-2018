@@ -30,18 +30,19 @@ the figure for each into a figure group
 {{/* $idstring := replace ($id) " " "" */}}
 {{/* $idlist := split $idstring "," */}}
 
-<figure class='quire-figure quire-figure--group {{ with $class }}{{ . }}{{ end }}{{ with $grid }} quire-grid--{{ . }}{{ end }}'>
-  {{ with $grid }}
-  {{ $.Scratch.Add "grid" . }}
-  {{ end }}
+<figure class='quire-figure quire-figure--group{{ with $class }} {{ . }}{{ end }}{{ with $grid }} quire-grid--{{ . }}{{ end }}'>
+  {{- with $grid -}}
+  {{- $.Scratch.Add "grid" . -}}
+  {{- end -}}
 
   <div class="quire-figure--group__row">
 
     {{/* -------------------- BEGIN FIGURELIST RANGE -------------------- */}}  
-    {{ range $i, $e := $figures }}
+    {{- range $i, $e := $figures -}}
     <figure class="quire-figure--group__item">
 
-      {{ if .media_id }}
+      {{- if .media_id -}}
+      <!-- media_id -->
       {{/* -------------------- BEGIN VIDEO BLOCK -------------------- */}}
 
       {{ if and (ne .media_type "youtube") (ne .media_type "vimeo") }}
@@ -85,13 +86,13 @@ the figure for each into a figure group
       <img id="{{ .id }}"
            class="quire-figure__image"
            src='{{ .src }}'
-           alt="{{ if .alt }}{{ .alt }}{{ end }}" />
+           alt="alt{{ if .alt }}{{ .alt }}{{ end }}" />
       {{/* -------------------- END NO_MEDIA_ID BLOCK -------------------- */}}
       {{ end }}
 
-      {{ if $caption }}
+      {{- if $caption -}}
       {{/* -------------------- BEGIN CAPTION BLOCK -------------------- */}}
-      {{ if or (eq ($label) "true" ) (and (eq $.Site.Params.figureLabels true) (ne ($label) "false" )) }}
+      {{- if or (eq ($label) "true" ) (and (eq $.Site.Params.figureLabels true) (ne ($label) "false" )) -}}
       <span class="quire-figure__label">
         {{ if .label_text }}
         {{ .label_text | markdownify }}
@@ -99,9 +100,9 @@ the figure for each into a figure group
         {{ $.Site.Params.figureLabelsTextBefore }}{{ .id }}
         {{ end }}
       </span>
-      {{ end }}
+      {{- end -}}
 
-      {{ else }}
+      {{- else -}}
       <figcaption class="quire-figure__caption">
         {{ if or (eq ($label) "true" ) (and (eq $.Site.Params.figureLabels true) (ne ($label) "false" )) }}
         <span class="quire-figure__label">
@@ -111,12 +112,12 @@ the figure for each into a figure group
           {{ $.Site.Params.figureLabelsTextBefore }}{{ .id }}{{ $.Site.Params.figureLabelsTextAfter }}
           {{ end }}
         </span>
-        {{ end }}
+        {{- end -}}
 
-        {{ if .caption }}{{ .caption | markdownify }}{{ end }}
+        {{- if .caption }}{{ .caption | markdownify }}{{ end -}}
 
-        {{ if eq $.Site.Params.videoFigureFallbackText true }}
-        {{- if eq .media_type "youtube" }}
+        {{- if eq $.Site.Params.videoFigureFallbackText true -}}
+        {{- if eq .media_type "youtube" -}}
         <span class="quire-figure__video-fallback__text">
           {{ $.Site.Params.videoFigureFallbackTextBefore }}
           <a href="https://youtu.be/{{ .media_id }}">
@@ -124,7 +125,7 @@ the figure for each into a figure group
           {{ $.Site.Params.videoFigureFallbackTextAfter }}
         </span>
         {{- end -}}
-        {{- if eq .media_type "vimeo" }}
+        {{- if eq .media_type "vimeo" -}}
         <span class="quire-figure__video-fallback__text">
           {{ $.Site.Params.videoFigureFallbackTextBefore }}
           <a href="https://vimeo.com/{{ .media_id }}">
@@ -132,35 +133,30 @@ the figure for each into a figure group
           {{ $.Site.Params.videoFigureFallbackTextAfter }}
         </span>
         {{- end -}}
-        {{ end }}
+        {{- end -}}
 
-        {{ if .credit }}
-        <span class="quire-figure__credit">{{ .credit | markdownify }}</span>
-        {{ end }}
+        {{ if $credit }}
+        <span class="quire-figure__credit">{{ $credit | markdownify }}</span>
+        {{- end -}}
 
       </figcaption>
       {{/* -------------------- END CAPTION BLOCK -------------------- */}}
-      {{ end }}
-
+      {{- end -}}
+is this included
     </figure>
     {{/* -------------------- END FIGURELIST RANGE -------------------- */}}
-    {{ end }}
+    {{- end -}}
 
   </div>
 
   {{/* -------------------- BEGIN GROUP CAPTION BLOCK -------------------- */}}
-  {{ if or ($caption) ($credit) }}
-  <figcaption class="quire-figure__caption">
-    {{ if $caption }}{{ $caption | markdownify }}{{ end }}
-    {{ if $credit }}<span class="quire-figure__credit">{{ $credit | markdownify }}</span>{{ end }}
-  </figcaption>
+
   {{/* -------------------- END GROUP CAPTION BLOCK -------------------- */}}
-  {{ end }}
 
 </figure>
 {{/* -------------------- END ID BLOCK -------------------- */}}
 
-{{ else }}
+{{- else -}}
 {{/* -------------------- BEGIN ERROR BLOCK -------------------- */}}
 {{/*
 ----------------------------------------------------------------------------

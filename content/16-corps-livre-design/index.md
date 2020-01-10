@@ -72,7 +72,7 @@ C’est justement cette _actualisation dynamique _en jeu dans la lecture qui nou
 
 Voici une planche extraite de _Building stories_, mettant en scène une femme qui essaie de trouver le sommeil – pendant que la vie de l’immeuble, elle, continue. Le personnage se tourne et se retourne dans son lit, pris dans un ensemble complexe de pensées, de paroles et d’images qui se font écho, se confondent, résonnent – et brouillent le régime de lecture dans cette confusion propre à l’endormissement où l’on ne sait parfois plus faire la part des choses entre le rêve et le réel. 
 
-{{% hl-augmentation 1 none %}}
+{{< hl-augmentation 1 none >}}
 
 Comme en atteste l’image, le récit prend appui sur cette polyphonie équivoque pour mettre à l’épreuve nos habitudes de lecteur, en mettant en évidence leur rôle moteur dans l’expérience de lecture et la mise en œuvre de la signification.
 
@@ -82,7 +82,7 @@ Or ici, le texte côtoie l’image, l’un renvoyant à l’autre, et ce, de man
 
 Parmi les cheminements de lecture pluriels remarquables sur cette planche, certains sont proposés par le texte, d’autres suggérés et d’autres, enfin, non signalés mais actualisables en potentiel. Nous avons mis en évidence ces « voies de lecture » en portant attention à celles qui sont explicitement suggérées par le dispositif graphique (texte-image).
 
-{{% hl-augmentation 2 %}}
+{{< hl-augmentation 2 >}}
 
 Ce schéma souligne les principaux cheminements de lecture donnés à la fois par le texte, les symboles graphiques (cercles, cases, flèches, etc.), la structure graphique (agencement des cases) et les images. Il fait apparaître, à la petite échelle de cette planche, la pluralité des manières de lire et de construire sa lecture, en participant à la construction du sens. 
 
@@ -97,7 +97,7 @@ Dès lors, la forme et la matérialité sont d’autant plus essentielles qu’e
 
 C’est notre perception visuelle qui est ici requise pour les distinguer et les relier. Or, en œuvrant en lecture, cette perception fait plus largement appel à une culture visuelle, commune ou non, dont est nourri tout lecteur. Cette culture lui permet précisément d’_actualiser_ la lecture – pour reprendre les termes de P. Robert – dans sa dimension symbolique, en y mobilisant par exemple les effets de sens et les connotations implicites liés aux variations des caractères typographiques.
 
-{{% hl-augmentation 3 %}}
+{{< hl-augmentation 3 >}}
 
 Du support au texte, le design crée les conditions d’organisation matérielles d’une lecture. Ce faisant, il œuvre à la production du sens. Et, en impliquant toujours spécifiquement le corps du lecteur dans sa relation au média, à sa matérialité et ses formes, _le design fait du corps un acteur à part entière de la construction du sens_[^semiotique-veronienne]. 
 
@@ -110,7 +110,7 @@ L’activité de lecture productrice prend ainsi, selon les mots de Michel De Ce
 
 À un autre niveau que dans le cas précédent, on peut également interroger les gestes mis en jeu par le média, qui requièrent la coopération du lecteur. Dans le cas présent, c’est un geste caractéristique de la naissance du codex qui va nous intéresser : celui de tourner la page. 
 
-{{% hl-augmentation 4 %}}
+{{< hl-augmentation 4 >}}
 
 En voici un exemple emprunté à l’histoire du livre, où, comme nous allons le voir, l’engagement du corps dans le livre participe de la performativité du livre lui-même. Il s’agit d’un manuscrit réalisé entre 1480 et 1490, référencé sous le nom d’_Egerton 1821_. Le codex évoque le rite de l’eucharistie – consistant, pour une communauté chrétienne, pendant la messe, à partager le corps et le sang du Christ, en buvant du vin et en mangeant l’hostie.
 
@@ -133,7 +133,7 @@ Du milieu du livre jaillit ce sang remontant des profondeurs : comme le montre l
 
 Sans traiter ici de la question centrale de la croyance, on voit que le livre suscite le corps à corps avec son lecteur. Le fragment d’image grossi de cette première double page, à la surface de laquelle point le sang, révèle des marques dans la chair du livre (il s’agit d’un vélin, soit une peau animale). Une partie de la peinture noire est effacée, ce qui indique l’intensité de la pratique d’incorporation : le livre a été frotté, griffé par sa propriétaire qui, en partageant les douleurs du Christ, a cherché avec le corps du livre à toucher celui du Christ.
 
-{{% hl-augmentation 5 %}}
+{{< hl-augmentation 5 >}}
 
 La proximité physique de la lectrice avec son ouvrage témoigne de la volonté fervente d’une relation d’intimité avec le corps du Christ, dans la rage et la douleur de sa souffrance et dans l’intensité d’un rituel d’incorporation. Dans ce rapport au livre, le corps du Christ incarné dans la chair animale sacralisée aura aussi laissé ses marques colorées sur la peau, les ongles et les lèvres de la croyante. Ce rapport intime au livre lui permet, à l’instar du rituel eucharistique, d’en incorporer le sang comme pour le boire, au lieu même de la blessure. 
 
@@ -176,7 +176,7 @@ En somme, la relation directe du corps à la matérialité est essentielle dans 
 
 Ces gestes et savoirs ordinaires relevant d’un implicite, ou d’un non dicible, sont de fait difficiles à saisir, à mesurer, pour la recherche. Une perspective intermédiale permettrait ici de les interroger partiellement, du moins dans leur _dimension culturelle_ (culturalisée et culturellement instituée) en mettant en évidence des motifs récurrents et les modalités de leur circulation dans le corps social – au-delà du livre lui-même.
 
-{{% hl-augmentation 6 %}}
+{{< hl-augmentation 6 >}}
 
 À titre d’exemple, cette relation ordinaire du corps au livre – dans sa matérialité – nous est en particulier montrée par la tradition picturale qui met le doigt sur tout un jeu d’affordances habituellement ignoré dans nos pratiques quotidiennes de lecture. En manière d’esquisse, voici quelques fragments de peintures empruntés à l’histoire de l’art. D’une part, ils donnent à voir un certain rapport corporel à la matérialité du livre, et d’autre part, du fait de ce statut historique et culturel des œuvres choisies, ils mettent en évidence la façon dont ce rapport ordinaire du corps à la matérialité de l’objet, devenu naturalisé, s’inscrit dans notre culture. 
 
@@ -196,7 +196,7 @@ C’est tout le champ qui s’est ouvert depuis les années 1990 avec le design 
 
 ## Quelles perspectives pour le design ? Pour une approche articulée entre sémiotique et phénoménologie
 
-{{% hl-augmentation 7 %}}
+{{< hl-augmentation 7 >}}
 
 Ce rôle du corps n’est pas un constat neuf. Mais le livre-codex « classique » et traditionnel en a tellement intégré les enjeux qu’il a délégué au design la prise en charge d’une part de cette activité du corps (les lignes sont droites – mais il n’en faut pas moins se placer en face d’elles si l’on veut lire –, le support n’est pas à tourner en tous sens – mais il n’en faut pas moins le mettre dans le bon sens par rapport à notre corps et, qui plus est pour le codex, il faut bien en tourner les pages, etc.). 
 
@@ -237,7 +237,7 @@ Au-delà du livre lui-même, c’est aussi considérer l’importance de l’obj
 
 C’est là, nous semble-t-il, l’une des fonctions primordiales du champ du design, qu’il doit porter encore pour les livres à venir : pour fonder la pérennisation de ces « nouveaux » objets de lecture et les inscrire dans une histoire que les historiens retiendront comme celle du livre, pour mettre en place le moteur de réussite des expériences en cours sur le numérique, il s’agira sans doute de répondre à cette nécessité anthropologique. À savoir, trouver les conditions de possibilité de l’effectuation d’une lecture qui ne dissocie pas le _corps_ et le _média_, _l’être_ et _le_ _lire_, le _geste_ (de lecture) et l’_interprétation_.
 
-{{% hl-augmentation none 8 %}}
+{{< hl-augmentation none 8 >}}
 
 {{< q-class backmatter >}}
 ## Notes
