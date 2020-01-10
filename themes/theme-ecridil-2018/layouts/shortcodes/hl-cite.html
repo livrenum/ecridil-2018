@@ -30,21 +30,14 @@
     
 {{ $bibliographyPath := $.Page.Params.bibfile }}
 
-{{ $bibliography := getJSON $bibliographyPath }}
-
-  {{/* Get the matching reference */}}
+{{- $bibliography := getJSON $bibliographyPath -}}
   {{- range where $bibliography "id" "eq" $id -}}
     {{- $currentRef := . -}}
     {{- $.Page.Scratch.SetInMap "hlcited" $id $currentRef -}}
 
     <a href="#{{- $id | urlize -}}"
        class="quire-citation"
-       itemprop="citation">
-      {{/*
-        APA Style citation
-      */}}
-      {{/* BEGIN author */}}
-      <span class="visually-hidden">Citation: </span>
+       itemprop="citation">(<span class="visually-hidden">Citation: </span>
         {{- $reference := . -}}
 
         {{- range first 1 $currentRef.author }}
@@ -57,13 +50,10 @@
           <span itemprop="familyName">{{ . | markdownify }}</span>
           {{- end -}}
         </span>
-        {{ end -}}
+        {{- end -}}
         {{ if gt (len $currentRef.author) 1 -}}
         <em>&amp; al.</em>
         {{- end }}
-        {{/* END author */}}
-
-        {{/* BEGIN issued (year of publication) */}}
         {{ if and (isset $currentRef "issued") (isset $currentRef.issued "date-parts") }}
           {{/* range of dates */}}
           <span itemprop="datePublished">
@@ -76,12 +66,11 @@
           {{- end -}}
           {{- end -}}
           </span>
-        {{- end -}}{{/* END issued */}}
+        {{- end -}}
         {{- with $pages -}}
         , pp.&nbsp;{{ . }}
-        {{- end -}}{{/* END pages */}}
-        <span class="quire-citation__content">{{ partial "bibliography/apa-style.html" $currentRef }}</span>
-    </a>
+        {{- end -}}
+        <span class="quire-citation__content">{{ partial "bibliography/apa-style.html" $currentRef }}</span>)</a>
   {{- else -}}
     {{/* 
       Did not find reference with matchin ID

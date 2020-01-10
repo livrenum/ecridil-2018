@@ -15,6 +15,7 @@ $fadeDuration: .35s;
   display: inline-block;
   position: relative;
   text-indent: 0;
+  font-size: .85em; // reduce to avoid some breaks
   &__content {
     visibility: hidden;
     font-size: 1rem;

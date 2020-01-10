@@ -340,7 +340,7 @@ body {
 
     blockquote {
       padding: 0 0 0 $blockquote-left-padding;
-      margin: 1.5em 0 1.5em 0;
+      margin: 3em 0 3em 0;
       font-size: $blockquote-font-size;
       border-left: none;
       background-color: transparent;
@@ -441,7 +441,6 @@ body {
 
 .hybritexte-page {
   &__header {
-    padding: 3rem 0;
 //    min-height: calc(100vh - #{$navbar-height});
 
     &__title {

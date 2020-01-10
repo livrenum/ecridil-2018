@@ -18,11 +18,10 @@
   {{- $totalAuthors := len $authors -}}
   {{- range $authorIndex, $author := .author -}}
   <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-    {{ with $author.family -}}
+    {{- with $author.family -}}
     <span itemprop="familyName">{{ . }}</span>
     {{- end }}, 
     {{- with $author.given -}}
-    &nbsp;
     <meta itemprop="givenName" content="{{ . }}" />
     {{ substr . 0 1 }}.
     {{- end -}}{{/* First letter (initial). */}}
