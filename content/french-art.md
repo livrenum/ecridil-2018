@@ -1,7 +1,7 @@
 ---
 title: An Introduction to French Art
 subtitle: Shamelessly Copied from Wikipedia
-weight: 100
+weight: 200
 type: essai
 contributor:
   - id: ipikwik

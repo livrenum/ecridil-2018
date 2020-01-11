@@ -70,6 +70,9 @@ contributor:
   - id: etadier
     first_name: Elsa
     last_name: Tadier
+  - id: fcormerais
+    first_name: Franck
+    last_name: Cormerais
   - id: deseilligny
     first_name: Oriane
     last_name: Deseilligny
@@ -79,12 +82,12 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2019 LivreNum
+copyright: © 2020 LivreNum
 
 license:
   name: Creative Commons Attribution 4.0 International License
   abbreviation: CC BY
-  url: http://creativecommons.org/licenses/by/4.0/
+  url: http://creativecommons.org/licenses/by/4.0/deed.fr
   scope: full # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------

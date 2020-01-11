@@ -27,6 +27,7 @@
   - image
   - figure-group
   - text
+  - html
   - comment
   - audio
   - video
@@ -41,7 +42,7 @@
 {{ $.Scratch.Set "sticky" true }}
 {{ end }}
 
-{{ $validTypes := slice "image" "figure-group" "text" "comment" "audio" "video" "youtube" "iframe" }}
+{{ $validTypes := slice "image" "figure-group" "text" "html" "comment" "audio" "video" "youtube" "iframe" }}
 
 <div class="hybritexte-augmentation__augmentation right-column {{ if eq .type "empty" }}is-empty{{ end }}" {{ with .id }}data-augmentation-id="{{ . }}" id="hybritexte-augmentation-{{ . }}"{{ end }}>
   <div class="hybritexte-augmentation__inner fade-in">
@@ -70,14 +71,24 @@
 
           {{- .content | markdownify -}}
           
-          {{ with .author }}
+          {{ with .author -}}
           <cite>{{ . }}</cite>
-          {{ end }}
+          {{- end -}}
         </blockquote>
       </div>
       {{ end }}
     {{- end -}}
     {{/* -------------------- END TEXT TYPE -------------------- */}}
+      
+      {{/* -------------------- BEGIN HTML BLOCK -------------------- */}}
+      {{- if eq .type "html" -}}
+      {{- if .content -}}
+      <div class="hybritexte-augmentation--html__content">
+        {{- .content | safeHTML -}}{{/* Just raw HTML */}}
+      </div>
+      {{- end -}}
+      {{- end -}}
+      {{/* -------------------- END HTML BLOCK -------------------- */}}
 
     {{/* -------------------- BEGIN IMAGE TYPE -------------------- */}}
     {{- if eq .type "image" -}}

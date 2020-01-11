@@ -2,7 +2,7 @@
 title: Entre livre-objet et objet livre
 subtitle: >
   Scénographies du livre en régime numérique
-weight: 3
+weight: 103
 number: 3
 bibfile: bibliography/art03.json
 type: hybritexte

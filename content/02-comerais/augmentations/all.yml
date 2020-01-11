@@ -1,0 +1,81 @@
+- author: ''
+  caption: "Actions et m\xE9thodes des \xC9tudes Digitales et typologie des pratiques\
+    \ lectoriales"
+  content: ''
+  copyright: ''
+  id: ART02-AUGM_01
+  location: ./media
+  medium: ''
+  src: ART02-AUGM_01.png
+  title: Tableau 1
+  type: tableau
+  year: ''
+- author: ''
+  caption: Modes de lecture du Codex Atlanticus et pratiques lectoriales
+  content: ''
+  copyright: ''
+  id: ART02-AUGM_02
+  location: ./media
+  medium: ''
+  src: ART02-AUGM_02.png
+  title: 'Tableau 2
+
+    '
+  type: tableau
+  year: ''
+- author: ''
+  caption: Architecture du prototype Codex Atlanticus
+  content: "\xAB Les bords, en jaune dans le sch\xE9ma, forment les unit\xE9s d\u2019\
+    introduction au livre num\xE9rique. Ils correspondent \xE0 la plus grande unit\xE9\
+    \ de la structure, c\u2019est l\u2019\xE9quivalent de la partie dans un livre.\
+    \ Les seuils correspondent \xE0 l\u2019\xE9quivalent d\u2019un chapitre. Les strates\
+    \ correspondent \xE0 la section. Les plateaux correspondent \xE0 la plus petite\
+    \ unit\xE9 du contenu. \xBB"
+  copyright: ''
+  id: ART02-AUGM_03
+  location: ./media
+  medium: ''
+  src: ART02-AUGM_03.png
+  title: "Sch\xE9ma 1 \n"
+  type: "sch\xE9ma"
+  year: ''
+- author: ''
+  caption: Appareil critique 1- interne du Codex Atlanticus
+  content: ''
+  copyright: ''
+  id: ART02-AUGM_04
+  location: ./media
+  medium: ''
+  src: ART02-AUGM_04.png
+  title: 'Tableau 3
+
+    '
+  type: tableau
+  year: ''
+- author: ''
+  caption: Appareil critique 2 externe au plateau
+  content: ''
+  copyright: ''
+  id: ART02-AUGM_05
+  location: ./media
+  medium: ''
+  src: ART02-AUGM_05.png
+  title: 'Tableau 4
+
+    '
+  type: tableau
+  year: ''
+- author: ''
+  caption: "R\xE9gimes historiques de lecture"
+  content: "\xAB La mutation contemporaine du livre implique l\u2019apparition d\u2019\
+    un r\xE9gime de la lecture. Dans le tableau suivant, l\u2019hyperlecture compl\xE8\
+    te les formes classiques de la lecture qui s\u2019inscrivent toujours dans un\
+    \ \xAB milieu spirituel \xBB \xE0 un moment historique. \xBB"
+  copyright: ''
+  id: ART02-AUGM_06
+  location: ./media
+  medium: ''
+  src: ART02-AUGM_06.png
+  title: Tableau 5
+  type: tableau
+  year: ''

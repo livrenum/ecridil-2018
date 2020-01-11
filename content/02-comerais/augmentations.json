@@ -1,0 +1,76 @@
+[
+  {
+    "author": "",
+    "caption": "Actions et méthodes des Études Digitales et typologie des pratiques lectoriales",
+    "content": "\r\n<table>\r\n  <tr>\r\n   <td colspan=\"2\" ><strong>Actions et m\u00E9thode<\/strong>\r\n   <\/td>\r\n   <td><strong>Pratiques lectoriales<\/strong>\r\n   <\/td>\r\n  <\/tr>\r\n  <tr>\r\n   <td><strong>Organiser<\/strong>\r\n   <\/td>\r\n   <td>Organiser et conserver la structure du texte ou des corpus multimodaux.\r\n   <\/td>\r\n   <td>Lecteur assembleur\r\n   <\/td>\r\n  <\/tr>\r\n  <tr>\r\n   <td><strong>Naviguer<\/strong>\r\n   <\/td>\r\n   <td>Circuler dans l\u2019interface - Acc\u00E8s simple et intelligent.\r\n   <\/td>\r\n   <td>Lecteur butineur\r\n   <\/td>\r\n  <\/tr>\r\n  <tr>\r\n   <td><strong>Traiter<\/strong>\r\n   <\/td>\r\n   <td>Analyser et interpr\u00E9ter par la fouille et les corr\u00E9lations.\r\n   <\/td>\r\n   <td>Lecteur observateur\r\n   <\/td>\r\n  <\/tr>\r\n  <tr>\r\n   <td><strong>Editeur<\/strong>\r\n   <\/td>\r\n   <td>\u00C9ditorialiser des contenus dans des formats (livre \u00E9lectronique, archives ouvertes, etc.).\r\n   <\/td>\r\n   <td>Lecteur \u00E9criveur\r\n   <\/td>\r\n  <\/tr>\r\n  <tr>\r\n   <td><strong>Animer<\/strong>\r\n   <\/td>\r\n   <td>D\u00E9battre, \u00E9changer.\r\n   <\/td>\r\n   <td>Lecteur d\u00E9batteur\r\n   <\/td>\r\n  <\/tr>\r\n<\/table>",
+    "copyright": "",
+    "id": "1",
+    "medium": "",
+    "src": "art02-01.png",
+    "sticky": false,
+    "title": "Tableau 1",
+    "type": "html",
+    "year": ""
+   },
+  {
+    "author": "",
+    "caption": "Modes de lecture du Codex Atlanticus et pratiques lectoriales",
+    "content": "<table>\r\n  <tr>\r\n   <td colspan=\"2\" ><strong>Modes de lecture dans le prototype<\/strong>\r\n   <\/td>\r\n   <td><strong>Pratiques lectoriales<\/strong>\r\n   <\/td>\r\n  <\/tr>\r\n  <tr>\r\n   <td><strong>Lecture 1 <\/strong>\r\n<p>\r\n<strong>ou \u00AB lin\u00E9aire \u00BB<\/strong>\r\n   <\/td>\r\n   <td>S\u2019apparente \u00E0 la lecture continue du texte.\r\n   <\/td>\r\n   <td>Lecteur assembleur\r\n   <\/td>\r\n  <\/tr>\r\n  <tr>\r\n   <td><strong>Lecture 2 <\/strong>\r\n<p>\r\n<strong>ou \u00AB feuilletage \u00BB<\/strong>\r\n   <\/td>\r\n   <td>S\u2019apparente \u00E0 tourner les pages du livre.\r\n   <\/td>\r\n   <td>Lecteur butineur\r\n   <\/td>\r\n  <\/tr>\r\n  <tr>\r\n   <td><strong>Lecture 3 ou \u00AB encyclop\u00E9dique \u00BB<\/strong>\r\n   <\/td>\r\n   <td>Comprend la consultation possible des outils linguistiques contextualis\u00E9s internes\/externes.\r\n   <\/td>\r\n   <td>Lecteur observateur\r\n   <\/td>\r\n  <\/tr>\r\n<\/table>",
+    "copyright": "",
+    "id": "2",
+    "medium": "",
+    "src": "art02-02.png",
+    "sticky": false,
+    "title": "Tableau 2",
+    "type": "html",
+    "year": ""
+   },
+  {
+    "author": "",
+    "caption": "Architecture du prototype Codex Atlanticus",
+    "content": "« Les bords, en jaune dans le schéma, forment les unités d’introduction au livre numérique. Ils correspondent à la plus grande unité de la structure, c’est l’équivalent de la partie dans un livre. Les seuils correspondent à l’équivalent d’un chapitre. Les strates correspondent à la section. Les plateaux correspondent à la plus petite unité du contenu. »",
+    "copyright": "",
+    "id": "3",
+    "medium": "",
+    "src": "art02-03.png",
+    "title": "Schéma 1",
+    "type": "schéma",
+    "year": ""
+   },
+  {
+    "author": "",
+    "caption": "Appareil critique 1- interne du Codex Atlanticus",
+    "content": "",
+    "copyright": "",
+    "id": "4",
+    "medium": "",
+    "src": "art02-04.png",
+    "title": "Tableau 3",
+    "type": "tableau",
+    "year": ""
+   },
+  {
+    "author": "",
+    "caption": "Appareil critique 2 externe au plateau",
+    "content": "",
+    "copyright": "",
+    "id": "5",
+    "medium": "",
+    "src": "art02-05.png",
+    "title": "Tableau 4",
+    "type": "tableau",
+    "year": ""
+   },
+  {
+    "author": "",
+    "caption": "Régimes historiques de lecture",
+    "content": "« La mutation contemporaine du livre implique l’apparition d’un régime de la lecture. Dans le tableau suivant, l’hyperlecture complète les formes classiques de la lecture qui s’inscrivent toujours dans un « milieu spirituel » à un moment historique. »",
+    "copyright": "",
+    "id": "6",
+    "medium": "",
+    "src": "art02-06.png",
+    "title": "Tableau 5",
+    "type": "tableau",
+    "year": ""
+   }
+]
