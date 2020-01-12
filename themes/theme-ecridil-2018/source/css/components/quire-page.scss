@@ -242,165 +242,6 @@ body {
     line-height: 1.6;
   }
 
-  // Overrides to Bulma's .content styles where needed.
-
-  &.content {
-
-    @if ($quire-page-indent-counters == true) {
-      counter-reset: paragraphs;
-
-      p {
-        &::before {
-          counter-increment: paragraphs;
-          content: counter(paragraphs);
-          position: absolute;
-          left: 0 - $counter-number-offset - $counter-number-width;
-          text-align: right;
-          width: $counter-number-width;
-          font-style: normal;
-          font-size: $counter-font-size;
-          color: rgba($page-text-color, 0.4);
-          line-height: $quire-page-line-height * 1em / $counter-font-size;
-          margin-top: .15em; // micro-adjustment
-          
-          @media (min-width: $hybrilivre-col-breakpoint) {
-          }
-          
-          // if indentation is set, disable it for the pseudo-element
-          // as the counter number will fall off the page
-          @if ($quire-page-paragraph-style == "indent") {
-            text-indent: 0;
-          }
-        }
-      }
-      
-      // no paragraph counters on these
-      
-      .footnotes, .right-column, .disabled-paragraph-counter, blockquote {
-        @extend %disabled-paragraph-counter;
-      }
-
-      .footnotes {
-        li {
-          &:target {
-            animation: highlight 3s;
-          }
-        }
-        
-        p {
-          margin-bottom: .5em;
-        }
-      }
-    }
-
-    a:not([rel=footnote]):not(.footnote-return) {
-      color: $quire-page-link-color;
-      &.button {
-        color: #ffffff;
-      }
-      border-bottom: 1px solid $quire-page-link-color;
-      @media print {
-        color: $page-text-color;
-        border-bottom-width: 0;
-      }
-    }
-    
-    a[rel=footnote], a.footnote-return {
-      color: $quire-page-link-color;
-      
-      &:hover {
-        background-color: transparent;
-      }
-    }
-    
-    .footnote-ref {
-      font-size: .67em;
-      margin: 0 .21em;
-      top: -.67em;
-      position: relative;
-      vertical-align: baseline;
-      &:target {
-        animation: highlight 5s;
-        &::before {
-          position: absolute;
-        }
-      }
-    }
-
-    a {
-      @media print {
-        color: $page-text-color;
-      }
-    }
-
-    a:hover {
-      background-color: $quire-page-link-highlight;
-      border-bottom-width: 2px;
-    }
-
-    blockquote {
-      padding: 0 0 0 $blockquote-left-padding;
-      margin: 3em 0 3em 0;
-      font-size: $blockquote-font-size;
-      border-left: none;
-      background-color: transparent;
-      font-style: normal;
-
-      @media print {
-        border-left-width: 0;
-      }
-    }
-
-    .leaflet-control {
-      a {
-        color: $dark;
-      }
-    }
-
-    @if $quire-page-paragraph-style == "indent" {
-      p { margin-bottom: 0; }
-      p + p,
-      .hybritexte-augmentation__augmentation + p {
-        text-indent: 2em;
-      }
-      blockquote {
-        margin: 1em 0 1em 0;
-      }
-    } @else {
-      p { margin-bottom: 1em; }
-    } 
-
-    @media print {
-      h2 {
-        font-size: 18pt;
-        line-height: 18pt;
-        margin-bottom: 8pt;
-        margin-top: 18pt;
-
-        + h3 {
-          margin-bottom: 10pt;
-          margin-top: 0;
-        }
-      }
-
-      h3 {
-        font-size: 12pt;
-        line-height: 13pt;
-        margin-bottom: 13pt;
-        margin-top: 13pt;
-      }
-
-      ul {
-        margin-bottom: 0;
-        margin-top: 0;
-      }
-
-      li + li {
-        margin-top: 0;
-      }
-    }
-  }
-
   @media print {
     column-count: 2;
     column-fill: balance;
@@ -435,6 +276,165 @@ body {
       margin-top: 2rem;
       padding-bottom: .2em;
       border-bottom: 1px solid rgba($page-text-color, .15);
+    }
+  }
+}
+
+  // Overrides to Bulma's .content styles where needed.
+
+.content {
+
+  @if ($quire-page-indent-counters == true) {
+    counter-reset: paragraphs;
+
+    p {
+      &::before {
+        counter-increment: paragraphs;
+        content: counter(paragraphs);
+        position: absolute;
+        left: 0 - $counter-number-offset - $counter-number-width;
+        text-align: right;
+        width: $counter-number-width;
+        font-style: normal;
+        font-size: $counter-font-size;
+        color: rgba($page-text-color, 0.4);
+        line-height: $quire-page-line-height * 1em / $counter-font-size;
+        margin-top: .15em; // micro-adjustment
+
+        @media (min-width: $hybrilivre-col-breakpoint) {
+        }
+
+        // if indentation is set, disable it for the pseudo-element
+        // as the counter number will fall off the page
+        @if ($quire-page-paragraph-style == "indent") {
+          text-indent: 0;
+        }
+      }
+    }
+
+    // no paragraph counters on these
+
+    .footnotes, .right-column, .disabled-paragraph-counter, blockquote {
+      @extend %disabled-paragraph-counter;
+    }
+
+    .footnotes {
+      li {
+        &:target {
+          animation: highlight 3s;
+        }
+      }
+
+      p {
+        margin-bottom: .5em;
+      }
+    }
+  }
+
+  a:not([rel=footnote]):not(.footnote-return) {
+    color: $quire-page-link-color;
+    &.button {
+      color: #ffffff;
+    }
+    border-bottom: 1px solid $quire-page-link-color;
+    @media print {
+      color: $page-text-color;
+      border-bottom-width: 0;
+    }
+  }
+
+  a[rel=footnote], a.footnote-return {
+    color: $quire-page-link-color;
+
+    &:hover {
+      background-color: transparent;
+    }
+  }
+
+  .footnote-ref {
+    font-size: .67em;
+    margin: 0 .21em;
+    top: -.67em;
+    position: relative;
+    vertical-align: baseline;
+    &:target {
+      animation: highlight 5s;
+      &::before {
+        position: absolute;
+      }
+    }
+  }
+
+  a {
+    @media print {
+      color: $page-text-color;
+    }
+  }
+
+  a:hover {
+    background-color: $quire-page-link-highlight;
+    border-bottom-width: 2px;
+  }
+
+  blockquote {
+    padding: 0 0 0 $blockquote-left-padding;
+    margin: 3em 0 3em 0;
+    font-size: $blockquote-font-size;
+    border-left: none;
+    background-color: transparent;
+    font-style: normal;
+
+    @media print {
+      border-left-width: 0;
+    }
+  }
+
+  .leaflet-control {
+    a {
+      color: $dark;
+    }
+  }
+
+  @if $quire-page-paragraph-style == "indent" {
+    p { margin-bottom: 0; }
+    p + p,
+    .hybritexte-augmentation__augmentation + p {
+      text-indent: 2em;
+    }
+    blockquote {
+      margin: 1em 0 1em 0;
+    }
+  } @else {
+    p { margin-bottom: 1em; }
+  } 
+
+  @media print {
+    h2 {
+      font-size: 18pt;
+      line-height: 18pt;
+      margin-bottom: 8pt;
+      margin-top: 18pt;
+
+      + h3 {
+        margin-bottom: 10pt;
+        margin-top: 0;
+      }
+    }
+
+    h3 {
+      font-size: 12pt;
+      line-height: 13pt;
+      margin-bottom: 13pt;
+      margin-top: 13pt;
+    }
+
+    ul {
+      margin-bottom: 0;
+      margin-top: 0;
+    }
+
+    li + li {
+      margin-top: 0;
     }
   }
 }
