@@ -1,619 +1,619 @@
 [
-	{
-		"id": "Cormerais2016",
-		"type": "article-journal",
-		"abstract": "Ce texte examine plusieurs pistes qui expliquent le positionnement des SIC par rapport aux humanités digitales en considérant que leur rôle est à la fois de comprendre (approche théorique) et d’entreprendre (approche pratique), d’observer (approche descriptive), mais aussi de créer (approche pragmatique) avec les instruments de la connaissance. Le temps des humanités digitales implique une position qui ne peut se limiter à l’étude des usages mais nécessite une stratégie renouvelée qui consiste à s’emparer et à produire des recommandations pour la création de nouveaux instruments et dispositifs. Nous présentons une proposition d’orientation voire un programme pour les SIC en trois parties : replacer les SIC dans la perspective pluridisciplinaire de ses origines ; mettre les SIC et ses concepts dans l’orbite d’une nouvelle critique et dans un environnement de données ; dynamiser les SIC par l’engagement d’une R&D outillant les SHS par le tournant numérique.",
-		"container-title": "Revue française des sciences de l’information et de la communication",
-		"DOI": "10.4000/rfsic.1820",
-		"ISSN": "2263-0856",
-		"issue": "8",
-		"language": "fr",
-		"source": "journals.openedition.org",
-		"title": "Les SIC à l’épreuve du digital et des Humanités : des origines, des concepts, des méthodes et des outils",
-		"title-short": "Les SIC à l’épreuve du digital et des Humanités",
-		"URL": "http://journals.openedition.org/rfsic/1820",
-		"author": [
-			{
-				"family": "Cormerais",
-				"given": "Franck"
-			},
-			{
-				"family": "Le Deuff",
-				"given": "Olivier"
-			},
-			{
-				"family": "Lakel",
-				"given": "Amar"
-			},
-			{
-				"family": "Pucheu",
-				"given": "David"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2020",
-					1,
-					11
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2016",
-					1,
-					1
-				]
-			]
-		}
+  {
+    "id": "Cormerais2016",
+    "type": "article-journal",
+    "abstract": "Ce texte examine plusieurs pistes qui expliquent le positionnement des SIC par rapport aux humanités digitales en considérant que leur rôle est à la fois de comprendre (approche théorique) et d’entreprendre (approche pratique), d’observer (approche descriptive), mais aussi de créer (approche pragmatique) avec les instruments de la connaissance. Le temps des humanités digitales implique une position qui ne peut se limiter à l’étude des usages mais nécessite une stratégie renouvelée qui consiste à s’emparer et à produire des recommandations pour la création de nouveaux instruments et dispositifs. Nous présentons une proposition d’orientation voire un programme pour les SIC en trois parties : replacer les SIC dans la perspective pluridisciplinaire de ses origines ; mettre les SIC et ses concepts dans l’orbite d’une nouvelle critique et dans un environnement de données ; dynamiser les SIC par l’engagement d’une R&D outillant les SHS par le tournant numérique.",
+    "container-title": "Revue française des sciences de l’information et de la communication",
+    "DOI": "10.4000/rfsic.1820",
+    "ISSN": "2263-0856",
+    "issue": "8",
+    "language": "fr",
+    "source": "journals.openedition.org",
+    "title": "Les SIC à l’épreuve du digital et des Humanités : des origines, des concepts, des méthodes et des outils",
+    "title-short": "Les SIC à l’épreuve du digital et des Humanités",
+    "URL": "http://journals.openedition.org/rfsic/1820",
+    "author": [
+      {
+        "family": "Cormerais",
+        "given": "Franck"
+    	},
+      {
+        "family": "Le Deuff",
+        "given": "Olivier"
+    	},
+      {
+        "family": "Lakel",
+        "given": "Amar"
+    	},
+      {
+        "family": "Pucheu",
+        "given": "David"
+    	}
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+        	"2020",
+        	1,
+        	11
+        ]
+    	]
+    },
+    "issued": {
+      "date-parts": [
+        [
+        	"2016",
+        	1,
+        	1
+        ]
+    	]
+    }
 	},
-	{
-		"id": "Auroux1994",
-		"type": "book",
-		"event-place": "Liège",
-		"ISBN": "978-2-87009-565-2",
-		"language": "French",
-		"note": "OCLC: 708330208",
-		"publisher": "Mardaga",
-		"publisher-place": "Liège",
-		"source": "Open WorldCat",
-		"title": "La révolution technologique de la grammatisation introduction à l'histoire des sciences du langage",
-		"author": [
-			{
-				"family": "Auroux",
-				"given": "Sylvain"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1994"
-				]
-			]
-		}
+  {
+    "id": "Auroux1994",
+    "type": "book",
+    "event-place": "Liège",
+    "ISBN": "978-2-87009-565-2",
+    "language": "French",
+    "note": "OCLC: 708330208",
+    "publisher": "Mardaga",
+    "publisher-place": "Liège",
+    "source": "Open WorldCat",
+    "title": "La révolution technologique de la grammatisation introduction à l'histoire des sciences du langage",
+    "author": [
+      {
+        "family": "Auroux",
+        "given": "Sylvain"
+    	}
+    ],
+    "issued": {
+      "date-parts": [
+        [
+        	"1994"
+        ]
+    	]
+    }
 	},
-	{
-		"id": "Belisle2017",
-		"type": "book",
-		"abstract": "Que devient la lecture dans un monde numérique ? Zapping, émiettement, papillonnage ou interaction, participation, immersion… La diversité croissante des modalités de lecture sur supports numériques suscite autant l'intérêt que la consternation. Bien que le texte soit omniprésent dans la société actuelle, des voix de plus en plus nombreuses s'élèvent pour alerter, dénoncer une dérive, stigmatiser des modes de lecture qui ne seraient plus que des « parents pauvres » de la « véritable » pratique de lecture.  Dans un monde numérique, la lecture perd l'innocence de la proximité, du familier, du connu. Elle se révèle dans toute sa complexité, et oblige le lecteur à entrer dans une plus grande conscience des processus en jeu, des repères qui permettent de comprendre et d'interpréter. Cela n'est nulle part aussi évident qu'avec la littérature numérique qui questionne tout autant qu'elle met en œuvre de nouvelles ouvertures sur l'imaginaire. Proposant ici une véritable réflexion sur les processus de lecture en ligne, sur ebook, sur écran d'ordinateur ou de téléphone mobile, les spécialistes issus du monde universaitaire réunis ici interrogent les habitudes de lecture forgées par la culture du livre papier tout en introduisant aux modalités émergeantes de lecture sur supports numériques",
-		"event-place": "Villeurbanne, France",
-		"ISBN": "978-2-37546-048-1",
-		"language": "français",
-		"publisher": "Presses de l’enssib",
-		"publisher-place": "Villeurbanne, France",
-		"source": "Library Catalog - www.sudoc.abes.fr",
-		"title": "Lire dans un monde numérique: état de l'art",
-		"title-short": "Lire dans un monde numérique",
-		"author": [
-			{
-				"family": "Bélisle",
-				"given": "Claire"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2017"
-				]
-			]
-		}
+  {
+    "id": "Belisle2017",
+    "type": "book",
+    "abstract": "Que devient la lecture dans un monde numérique ? Zapping, émiettement, papillonnage ou interaction, participation, immersion… La diversité croissante des modalités de lecture sur supports numériques suscite autant l'intérêt que la consternation. Bien que le texte soit omniprésent dans la société actuelle, des voix de plus en plus nombreuses s'élèvent pour alerter, dénoncer une dérive, stigmatiser des modes de lecture qui ne seraient plus que des « parents pauvres » de la « véritable » pratique de lecture.  Dans un monde numérique, la lecture perd l'innocence de la proximité, du familier, du connu. Elle se révèle dans toute sa complexité, et oblige le lecteur à entrer dans une plus grande conscience des processus en jeu, des repères qui permettent de comprendre et d'interpréter. Cela n'est nulle part aussi évident qu'avec la littérature numérique qui questionne tout autant qu'elle met en œuvre de nouvelles ouvertures sur l'imaginaire. Proposant ici une véritable réflexion sur les processus de lecture en ligne, sur ebook, sur écran d'ordinateur ou de téléphone mobile, les spécialistes issus du monde universaitaire réunis ici interrogent les habitudes de lecture forgées par la culture du livre papier tout en introduisant aux modalités émergeantes de lecture sur supports numériques",
+    "event-place": "Villeurbanne, France",
+    "ISBN": "978-2-37546-048-1",
+    "language": "français",
+    "publisher": "Presses de l’enssib",
+    "publisher-place": "Villeurbanne, France",
+    "source": "Library Catalog - www.sudoc.abes.fr",
+    "title": "Lire dans un monde numérique: état de l'art",
+    "title-short": "Lire dans un monde numérique",
+    "author": [
+      {
+        "family": "Bélisle",
+        "given": "Claire"
+    	}
+    ],
+    "issued": {
+      "date-parts": [
+        [
+        	"2017"
+        ]
+    	]
+    }
 	},
-	{
-		"id": "Benveniste2012",
-		"type": "book",
-		"abstract": "Trente cinq ans après sa mort, l’œuvre d’Émile Benveniste continue de faire partie des références pour de nombreuses recherches en linguistique. La publication des Problèmes de linguistique générale a assuré tardivement une large publicité à ses travaux, mais en a aussi laissé quelques autres dans l’ombre, ainsi ceux portant sur des langues rarement connues qui ne sont accessibles qu’à des spécialistes mais aussi l’ensemble de ses cours à l’École Pratique des Hautes Études et au Collège de France, encore inédits.Offrir à la lecture les derniers cours qu’il a donnés au Collège de France, en 1968 et 1969, permet de voir, clairement mise au jour, sa volonté d'établir une théorie du langage. Mais c’est aussi l’occasion de faire apparaître les différentes facettes du célèbre linguiste : l’envergure du savant, dont on admire la limpidité du style théorique, les grandes orientations du travail de recherche – on lira en particulier ses analyses inédites consacrées à l'écriture –  mais aussi le dynamisme et la fermeté de l’enseignant.",
-		"edition": "éditions EHESS",
-		"event-place": "Paris",
-		"ISBN": "978-2-02-107197-9",
-		"language": "French",
-		"publisher": "Seuil",
-		"publisher-place": "Paris",
-		"source": "Amazon",
-		"title": "Dernières leçons, collège de France 1968-1969.",
-		"title-short": "Dernières leçons",
-		"author": [
-			{
-				"family": "Benveniste",
-				"given": "Émile"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2012"
-				]
-			]
-		}
+  {
+    "id": "Benveniste2012",
+    "type": "book",
+    "abstract": "Trente cinq ans après sa mort, l’œuvre d’Émile Benveniste continue de faire partie des références pour de nombreuses recherches en linguistique. La publication des Problèmes de linguistique générale a assuré tardivement une large publicité à ses travaux, mais en a aussi laissé quelques autres dans l’ombre, ainsi ceux portant sur des langues rarement connues qui ne sont accessibles qu’à des spécialistes mais aussi l’ensemble de ses cours à l’École Pratique des Hautes Études et au Collège de France, encore inédits.Offrir à la lecture les derniers cours qu’il a donnés au Collège de France, en 1968 et 1969, permet de voir, clairement mise au jour, sa volonté d'établir une théorie du langage. Mais c’est aussi l’occasion de faire apparaître les différentes facettes du célèbre linguiste : l’envergure du savant, dont on admire la limpidité du style théorique, les grandes orientations du travail de recherche – on lira en particulier ses analyses inédites consacrées à l'écriture –  mais aussi le dynamisme et la fermeté de l’enseignant.",
+    "edition": "éditions EHESS",
+    "event-place": "Paris",
+    "ISBN": "978-2-02-107197-9",
+    "language": "French",
+    "publisher": "Seuil",
+    "publisher-place": "Paris",
+    "source": "Amazon",
+    "title": "Dernières leçons, collège de France 1968-1969.",
+    "title-short": "Dernières leçons",
+    "author": [
+      {
+        "family": "Benveniste",
+        "given": "Émile"
+    	}
+    ],
+    "issued": {
+      "date-parts": [
+        [
+        	"2012"
+        ]
+    	]
+    }
 	},
-	{
-		"id": "Catellin2014",
-		"type": "book",
-		"abstract": "La sérendipité est la faculté de découvrir, par hasard et sagacité à la fois, ce que l’on ne cherche pas, thème d’abord exploré par la littérature (contes traditionnels, puis Walpole, Voltaire, etc.). Le mot, transposé dans le langage scientifique à partir des années 1930, désigne une pratique majeure de la recherche scientifique et technique. Un nombre impressionnant de découvertes, comme la vaccination ou la pénicilline, sont des découvertes sérendipiennes.Au fur et à mesure de sa diffusion, le mot a acquis une nouvelle signification qui suscite aujourd’hui un important débat épistémologique. Sa vague phénoménale sur internet rend compte de cette diversité des usages et nombreux sont les domaines où la sérendipité suscite de nouveaux concepts.Faite de médiation, d’oublis, de redécouverte, l’histoire de la sérendipité en dit long sur les sciences humaines, les sciences tout court, les individus et les sociétés.",
-		"event-place": "Paris",
-		"ISBN": "978-2-02-113682-1",
-		"language": "French",
-		"publisher": "Seuil",
-		"publisher-place": "Paris",
-		"source": "Amazon",
-		"title": "Sérendipité : Du conte au concept",
-		"title-short": "Sérendipité",
-		"author": [
-			{
-				"family": "Catellin",
-				"given": "Sylvie"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2014"
-				]
-			]
-		}
+  {
+    "id": "Catellin2014",
+    "type": "book",
+    "abstract": "La sérendipité est la faculté de découvrir, par hasard et sagacité à la fois, ce que l’on ne cherche pas, thème d’abord exploré par la littérature (contes traditionnels, puis Walpole, Voltaire, etc.). Le mot, transposé dans le langage scientifique à partir des années 1930, désigne une pratique majeure de la recherche scientifique et technique. Un nombre impressionnant de découvertes, comme la vaccination ou la pénicilline, sont des découvertes sérendipiennes.Au fur et à mesure de sa diffusion, le mot a acquis une nouvelle signification qui suscite aujourd’hui un important débat épistémologique. Sa vague phénoménale sur internet rend compte de cette diversité des usages et nombreux sont les domaines où la sérendipité suscite de nouveaux concepts.Faite de médiation, d’oublis, de redécouverte, l’histoire de la sérendipité en dit long sur les sciences humaines, les sciences tout court, les individus et les sociétés.",
+    "event-place": "Paris",
+    "ISBN": "978-2-02-113682-1",
+    "language": "French",
+    "publisher": "Seuil",
+    "publisher-place": "Paris",
+    "source": "Amazon",
+    "title": "Sérendipité : Du conte au concept",
+    "title-short": "Sérendipité",
+    "author": [
+      {
+        "family": "Catellin",
+        "given": "Sylvie"
+    	}
+    ],
+    "issued": {
+      "date-parts": [
+        [
+        	"2014"
+        ]
+    	]
+    }
 	},
-	{
-		"id": "Chartier1985",
-		"type": "chapter",
-		"container-title": "Pratiques de la lecture",
-		"event-place": "Marseille",
-		"ISBN": "978-2-228-89777-8",
-		"language": "French",
-		"note": "OCLC: 56535509",
-		"page": "62-68",
-		"publisher": "Rivages",
-		"publisher-place": "Marseille",
-		"source": "Open WorldCat",
-		"title": "Du livre au lire",
-		"author": [
-			{
-				"family": "Chartier",
-				"given": "Roger"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1985"
-				]
-			]
-		}
+  {
+    "id": "Chartier1985",
+    "type": "chapter",
+    "container-title": "Pratiques de la lecture",
+    "event-place": "Marseille",
+    "ISBN": "978-2-228-89777-8",
+    "language": "French",
+    "note": "OCLC: 56535509",
+    "page": "62-68",
+    "publisher": "Rivages",
+    "publisher-place": "Marseille",
+    "source": "Open WorldCat",
+    "title": "Du livre au lire",
+    "author": [
+      {
+        "family": "Chartier",
+        "given": "Roger"
+    	}
+    ],
+    "issued": {
+      "date-parts": [
+        [
+        	"1985"
+        ]
+    	]
+    }
 	},
-	{
-		"id": "Chartier2012",
-		"type": "article-journal",
-		"container-title": "Le Francais aujourd'hui",
-		"ISSN": "0184-7732",
-		"issue": "3",
-		"language": "fr",
-		"page": "11-26",
-		"source": "www.cairn.info",
-		"title": "Qu'est-ce qu'un livre ? Métaphores anciennes, concepts des lumières et réalités numériques",
-		"title-short": "Qu'est-ce qu'un livre ?",
-		"URL": "https://www.cairn.info/revue-le-francais-aujourd-hui-2012-3-page-11.htm",
-		"volume": "178",
-		"author": [
-			{
-				"family": "Chartier",
-				"given": "Roger"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2019",
-					10,
-					1
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"2012"
-				]
-			]
-		}
+  {
+    "id": "Chartier2012",
+    "type": "article-journal",
+    "container-title": "Le Francais aujourd'hui",
+    "ISSN": "0184-7732",
+    "issue": "3",
+    "language": "fr",
+    "page": "11-26",
+    "source": "www.cairn.info",
+    "title": "Qu'est-ce qu'un livre ? Métaphores anciennes, concepts des lumières et réalités numériques",
+    "title-short": "Qu'est-ce qu'un livre ?",
+    "URL": "https://www.cairn.info/revue-le-francais-aujourd-hui-2012-3-page-11.htm",
+    "volume": "178",
+    "author": [
+      {
+        "family": "Chartier",
+        "given": "Roger"
+    	}
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+        	"2019",
+        	10,
+        	1
+        ]
+    	]
+    },
+    "issued": {
+      "date-parts": [
+        [
+        	"2012"
+        ]
+    	]
+    }
 	},
-	{
-		"id": "Citton2014",
-		"type": "book",
-		"event-place": "Paris",
-		"ISBN": "978-2-02-118142-5",
-		"language": "French",
-		"note": "OCLC: 897587758",
-		"publisher": "Seuil",
-		"publisher-place": "Paris",
-		"source": "Open WorldCat",
-		"title": "Pour une écologie de l'attention",
-		"author": [
-			{
-				"family": "Citton",
-				"given": "Yves"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2014"
-				]
-			]
-		}
+  {
+    "id": "Citton2014",
+    "type": "book",
+    "event-place": "Paris",
+    "ISBN": "978-2-02-118142-5",
+    "language": "French",
+    "note": "OCLC: 897587758",
+    "publisher": "Seuil",
+    "publisher-place": "Paris",
+    "source": "Open WorldCat",
+    "title": "Pour une écologie de l'attention",
+    "author": [
+      {
+        "family": "Citton",
+        "given": "Yves"
+    	}
+    ],
+    "issued": {
+      "date-parts": [
+        [
+        	"2014"
+        ]
+    	]
+    }
 	},
-	{
-		"id": "Cormerais2012",
-		"type": "paper-conference",
-		"event": "Digital Inteligence",
-		"event-place": "Nantes",
-		"publisher-place": "Nantes",
-		"title": "Le lettré du digital dans la reconfiguration du savoir contemporain",
-		"author": [
-			{
-				"family": "Cormerais",
-				"given": "Franck"
-			},
-			{
-				"family": "Le Deuff",
-				"given": "Olivier"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2012"
-				]
-			]
-		}
+  {
+    "id": "Cormerais2012",
+    "type": "paper-conference",
+    "event": "Digital Inteligence",
+    "event-place": "Nantes",
+    "publisher-place": "Nantes",
+    "title": "Le lettré du digital dans la reconfiguration du savoir contemporain",
+    "author": [
+      {
+        "family": "Cormerais",
+        "given": "Franck"
+    	},
+      {
+        "family": "Le Deuff",
+        "given": "Olivier"
+    	}
+    ],
+    "issued": {
+      "date-parts": [
+        [
+        	"2012"
+        ]
+    	]
+    }
 	},
-	{
-		"id": "Cormerais2014",
-		"type": "chapter",
-		"container-title": "Le temps des humanités digitales. La mutation des sciences humaines et sociales",
-		"event-place": "Limoges",
-		"page": "129-142",
-		"publisher": "FYP éditions",
-		"publisher-place": "Limoges",
-		"title": "Humanités digitales et (ré)organisation du savoir",
-		"author": [
-			{
-				"family": "Cormerais",
-				"given": "Franck"
-			}
-		],
-		"container-author": [
-			{
-				"family": "Le Deuff",
-				"given": "Olivier"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2014"
-				]
-			]
-		}
+  {
+    "id": "Cormerais2014",
+    "type": "chapter",
+    "container-title": "Le temps des humanités digitales. La mutation des sciences humaines et sociales",
+    "event-place": "Limoges",
+    "page": "129-142",
+    "publisher": "FYP éditions",
+    "publisher-place": "Limoges",
+    "title": "Humanités digitales et (ré)organisation du savoir",
+    "author": [
+      {
+        "family": "Cormerais",
+        "given": "Franck"
+    	}
+    ],
+    "container-author": [
+      {
+        "family": "Le Deuff",
+        "given": "Olivier"
+    	}
+    ],
+    "issued": {
+      "date-parts": [
+        [
+        	"2014"
+        ]
+    	]
+    }
 	},
-	{
-		"id": "DacosMounier2010",
-		"type": "book",
-		"event-place": "Paris",
-		"ISBN": "978-2-7071-5729-4",
-		"language": "French",
-		"note": "OCLC: 695888589",
-		"publisher": "La Découverte",
-		"publisher-place": "Paris",
-		"source": "Open WorldCat",
-		"title": "L'édition électronique",
-		"author": [
-			{
-				"family": "Dacos",
-				"given": "Marin"
-			},
-			{
-				"family": "Mounier",
-				"given": "Pierre"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2010"
-				]
-			]
-		}
+  {
+    "id": "DacosMounier2010",
+    "type": "book",
+    "event-place": "Paris",
+    "ISBN": "978-2-7071-5729-4",
+    "language": "French",
+    "note": "OCLC: 695888589",
+    "publisher": "La Découverte",
+    "publisher-place": "Paris",
+    "source": "Open WorldCat",
+    "title": "L'édition électronique",
+    "author": [
+      {
+        "family": "Dacos",
+        "given": "Marin"
+    	},
+      {
+        "family": "Mounier",
+        "given": "Pierre"
+    	}
+    ],
+    "issued": {
+      "date-parts": [
+        [
+        	"2010"
+        ]
+    	]
+    }
 	},
-	{
-		"id": "DeleuzeGuattari1976",
-		"type": "book",
-		"event-place": "Paris",
-		"ISBN": "978-2-7073-0113-0",
-		"language": "French",
-		"note": "OCLC: 823697908",
-		"publisher": "Les Editions de Minuit",
-		"publisher-place": "Paris",
-		"source": "Open WorldCat",
-		"title": "Rhizome: introduction",
-		"title-short": "Rhizome",
-		"author": [
-			{
-				"family": "Deleuze",
-				"given": "Gilles"
-			},
-			{
-				"family": "Guattari",
-				"given": "Félix"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1976"
-				]
-			]
-		}
+  {
+    "id": "DeleuzeGuattari1976",
+    "type": "book",
+    "event-place": "Paris",
+    "ISBN": "978-2-7073-0113-0",
+    "language": "French",
+    "note": "OCLC: 823697908",
+    "publisher": "Les Editions de Minuit",
+    "publisher-place": "Paris",
+    "source": "Open WorldCat",
+    "title": "Rhizome: introduction",
+    "title-short": "Rhizome",
+    "author": [
+      {
+        "family": "Deleuze",
+        "given": "Gilles"
+    	},
+      {
+        "family": "Guattari",
+        "given": "Félix"
+    	}
+    ],
+    "issued": {
+      "date-parts": [
+        [
+        	"1976"
+        ]
+    	]
+    }
 	},
-	{
-		"id": "DeleuzeGuattari1980",
-		"type": "book",
-		"event-place": "Paris",
-		"ISBN": "978-2-7073-0307-3",
-		"language": "French",
-		"note": "OCLC: 982180210",
-		"publisher": "Les Editions de Minuit",
-		"publisher-place": "Paris",
-		"source": "Open WorldCat",
-		"title": "Mille plateaux, capitalisme et schizophrénie",
-		"author": [
-			{
-				"family": "Deleuze",
-				"given": "Gilles"
-			},
-			{
-				"family": "Guattari",
-				"given": "Félix"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1980"
-				]
-			]
-		}
+  {
+    "id": "DeleuzeGuattari1980",
+    "type": "book",
+    "event-place": "Paris",
+    "ISBN": "978-2-7073-0307-3",
+    "language": "French",
+    "note": "OCLC: 982180210",
+    "publisher": "Les Editions de Minuit",
+    "publisher-place": "Paris",
+    "source": "Open WorldCat",
+    "title": "Mille plateaux, capitalisme et schizophrénie",
+    "author": [
+      {
+        "family": "Deleuze",
+        "given": "Gilles"
+    	},
+      {
+        "family": "Guattari",
+        "given": "Félix"
+    	}
+    ],
+    "issued": {
+      "date-parts": [
+        [
+        	"1980"
+        ]
+    	]
+    }
 	},
-	{
-		"id": "Eco1979",
-		"type": "book",
-		"event-place": "Paris",
-		"ISBN": "978-2-253-04879-4",
-		"language": "Translation of: Lector in fabula (Milano: Bompiani, 1979).",
-		"note": "OCLC: 1000907641",
-		"publisher": "Grasset",
-		"publisher-place": "Paris",
-		"source": "Open WorldCat",
-		"title": "Lector in fabula",
-		"author": [
-			{
-				"family": "Eco",
-				"given": "Umberto"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1979"
-				]
-			]
-		}
+  {
+    "id": "Eco1979",
+    "type": "book",
+    "event-place": "Paris",
+    "ISBN": "978-2-253-04879-4",
+    "language": "Translation of: Lector in fabula (Milano: Bompiani, 1979).",
+    "note": "OCLC: 1000907641",
+    "publisher": "Grasset",
+    "publisher-place": "Paris",
+    "source": "Open WorldCat",
+    "title": "Lector in fabula",
+    "author": [
+      {
+        "family": "Eco",
+        "given": "Umberto"
+    	}
+    ],
+    "issued": {
+      "date-parts": [
+        [
+        	"1979"
+        ]
+    	]
+    }
 	},
-	{
-		"id": "Eco1994",
-		"type": "book",
-		"abstract": "Dans cet essai, l'auteur démonte les mécanismes de la lecture, étudie les rapports entre lecteur et histoire, entre fiction et réalité pour déjouer les pièges de leur interpénétration. Pour lui, plus on analyse une oeuvre, plus la jouissance de lire est grande. Il illustre ses thèses avec une foison d'exemples hétéroclites, utilisant même ses propres écrits.",
-		"event-place": "Paris",
-		"ISBN": "978-2-246-48721-0",
-		"language": "French",
-		"note": "OCLC: 35790281",
-		"publisher": "Grasset",
-		"publisher-place": "Paris",
-		"source": "Open WorldCat",
-		"title": "Six promenades dans les bois du roman et d'ailleurs",
-		"author": [
-			{
-				"family": "Eco",
-				"given": "Umberto"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1994"
-				]
-			]
-		}
+  {
+    "id": "Eco1994",
+    "type": "book",
+    "abstract": "Dans cet essai, l'auteur démonte les mécanismes de la lecture, étudie les rapports entre lecteur et histoire, entre fiction et réalité pour déjouer les pièges de leur interpénétration. Pour lui, plus on analyse une oeuvre, plus la jouissance de lire est grande. Il illustre ses thèses avec une foison d'exemples hétéroclites, utilisant même ses propres écrits.",
+    "event-place": "Paris",
+    "ISBN": "978-2-246-48721-0",
+    "language": "French",
+    "note": "OCLC: 35790281",
+    "publisher": "Grasset",
+    "publisher-place": "Paris",
+    "source": "Open WorldCat",
+    "title": "Six promenades dans les bois du roman et d'ailleurs",
+    "author": [
+      {
+        "family": "Eco",
+        "given": "Umberto"
+    	}
+    ],
+    "issued": {
+      "date-parts": [
+        [
+        	"1994"
+        ]
+    	]
+    }
 	},
-	{
-		"id": "Escarpit1973",
-		"type": "book",
-		"event-place": "Paris",
-		"publisher": "PUF",
-		"publisher-place": "Paris",
-		"title": "L’écrit et la communication.",
-		"author": [
-			{
-				"family": "Escarpit",
-				"given": "Robert"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1973"
-				]
-			]
-		}
+  {
+    "id": "Escarpit1973",
+    "type": "book",
+    "event-place": "Paris",
+    "publisher": "PUF",
+    "publisher-place": "Paris",
+    "title": "L’écrit et la communication.",
+    "author": [
+      {
+        "family": "Escarpit",
+        "given": "Robert"
+    	}
+    ],
+    "issued": {
+      "date-parts": [
+        [
+        	"1973"
+        ]
+    	]
+    }
 	},
-	{
-		"id": "Kraus1999",
-		"type": "article-journal",
-		"abstract": "Ce travail envisage une analyse systématique de l’approche d’une histoire culturelle du social, telle qu’elle est effectuée par Roger Chartier, Professeur à l’E.H.E.S.S., Paris. En premier lieu, l’article vise à saisir le mode d’approche de Roger Chartier à l’intérieur de son champ de travail (l’histoire de la lecture) comme une méthode spécifique mais généralisable. Il s’agit d’abord de dégager ses catégories analytiques et ses modèles explicatifs, puis de les relier à l’histoire culturelle de l’Ancien Régime (XVIe-XVIIIe siècles). Des concepts centraux comme « l’appropriation » et les « pratiques de la lecture » doivent alors être examinés sous le double point de vue de leur réflexion théorique et de leur utilisation pratique par Roger Chartier.",
-		"container-title": "Labyrinthe",
-		"DOI": "10.4000/labyrinthe.56",
-		"ISSN": "1950-6031",
-		"issue": "3",
-		"language": "fr",
-		"page": "13-25",
-		"source": "journals.openedition.org",
-		"title": "Appropriation et pratiques de la lecture. Les fondements méthodologiques et théoriques de l’approche de l’histoire culturelle de Roger Chartier",
-		"URL": "http://journals.openedition.org/labyrinthe/56",
-		"author": [
-			{
-				"family": "Kraus",
-				"given": "Dorothea"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2019",
-					10,
-					1
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"1999"
-				]
-			]
-		}
+  {
+    "id": "Kraus1999",
+    "type": "article-journal",
+    "abstract": "Ce travail envisage une analyse systématique de l’approche d’une histoire culturelle du social, telle qu’elle est effectuée par Roger Chartier, Professeur à l’E.H.E.S.S., Paris. En premier lieu, l’article vise à saisir le mode d’approche de Roger Chartier à l’intérieur de son champ de travail (l’histoire de la lecture) comme une méthode spécifique mais généralisable. Il s’agit d’abord de dégager ses catégories analytiques et ses modèles explicatifs, puis de les relier à l’histoire culturelle de l’Ancien Régime (XVIe-XVIIIe siècles). Des concepts centraux comme « l’appropriation » et les « pratiques de la lecture » doivent alors être examinés sous le double point de vue de leur réflexion théorique et de leur utilisation pratique par Roger Chartier.",
+    "container-title": "Labyrinthe",
+    "DOI": "10.4000/labyrinthe.56",
+    "ISSN": "1950-6031",
+    "issue": "3",
+    "language": "fr",
+    "page": "13-25",
+    "source": "journals.openedition.org",
+    "title": "Appropriation et pratiques de la lecture. Les fondements méthodologiques et théoriques de l’approche de l’histoire culturelle de Roger Chartier",
+    "URL": "http://journals.openedition.org/labyrinthe/56",
+    "author": [
+      {
+        "family": "Kraus",
+        "given": "Dorothea"
+    	}
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+        	"2019",
+        	10,
+        	1
+        ]
+    	]
+    },
+    "issued": {
+      "date-parts": [
+        [
+        	"1999"
+        ]
+    	]
+    }
 	},
-	{
-		"id": "Pédauque2007",
-		"type": "book",
-		"abstract": "Dans cet ouvrage, ont été réunies les synthèses des travaux des groupes de travail du réseau. Les douze chapitres proposent les principaux résultats des échanges sur les thématiques suivantes : recherches sur le document numérique, numérisation, lecture sur supports numériques, temps et document numérique, Web sémantique, rapport des experts aux corpus scientifiques, corpus textuels et terminologies, annotations autour de documents collaboratifs, document et organisation, rapport des auteurs aux documents numériques, publication sur le Web,bibliothèques numériques.",
-		"event-place": "Toulouse",
-		"ISBN": "978-2-85428-728-8",
-		"language": "Français",
-		"number-of-pages": "213",
-		"publisher": "Editions Cépaduès",
-		"publisher-place": "Toulouse",
-		"source": "Amazon",
-		"title": "La redocumentarisation du monde",
-		"author": [
-			{
-				"family": "Pédauque",
-				"given": "Roger T."
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2007"
-				]
-			]
-		}
+  {
+    "id": "Pedauque2007",
+    "type": "book",
+    "abstract": "Dans cet ouvrage, ont été réunies les synthèses des travaux des groupes de travail du réseau. Les douze chapitres proposent les principaux résultats des échanges sur les thématiques suivantes : recherches sur le document numérique, numérisation, lecture sur supports numériques, temps et document numérique, Web sémantique, rapport des experts aux corpus scientifiques, corpus textuels et terminologies, annotations autour de documents collaboratifs, document et organisation, rapport des auteurs aux documents numériques, publication sur le Web,bibliothèques numériques.",
+    "event-place": "Toulouse",
+    "ISBN": "978-2-85428-728-8",
+    "language": "Français",
+    "number-of-pages": "213",
+    "publisher": "Editions Cépaduès",
+    "publisher-place": "Toulouse",
+    "source": "Amazon",
+    "title": "La redocumentarisation du monde",
+    "author": [
+      {
+        "family": "Pédauque",
+        "given": "Roger T."
+    	}
+    ],
+    "issued": {
+      "date-parts": [
+        [
+        	"2007"
+        ]
+    	]
+    }
 	},
-	{
-		"id": "Pedauque2006",
-		"type": "book",
-		"event-place": "Caen",
-		"publisher": "C&F éditions",
-		"publisher-place": "Caen",
-		"title": "Le document à la lumière du numérique",
-		"author": [
-			{
-				"family": "Pédauque",
-				"given": "Roger T."
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2006"
-				]
-			]
-		}
+  {
+    "id": "Pedauque2006",
+    "type": "book",
+    "event-place": "Caen",
+    "publisher": "C&F éditions",
+    "publisher-place": "Caen",
+    "title": "Le document à la lumière du numérique",
+    "author": [
+      {
+        "family": "Pédauque",
+        "given": "Roger T."
+    	}
+    ],
+    "issued": {
+      "date-parts": [
+        [
+        	"2006"
+        ]
+    	]
+    }
 	},
-	{
-		"id": "Serres2012",
-		"type": "paper-conference",
-		"event": "5ème Séminaire du GRCDI, La translittératie en débat : regards croisés des cultures de l’information (infodoc, médias, informatique) et des disciplines.",
-		"event-place": "Rennes",
-		"publisher-place": "Rennes",
-		"title": "Repères sur la translittératie",
-		"author": [
-			{
-				"family": "Serres",
-				"given": "Alexandre"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2012"
-				]
-			]
-		}
+  {
+    "id": "Serres2012",
+    "type": "paper-conference",
+    "event": "5ème Séminaire du GRCDI, La translittératie en débat : regards croisés des cultures de l’information (infodoc, médias, informatique) et des disciplines.",
+    "event-place": "Rennes",
+    "publisher-place": "Rennes",
+    "title": "Repères sur la translittératie",
+    "author": [
+      {
+        "family": "Serres",
+        "given": "Alexandre"
+    	}
+    ],
+    "issued": {
+      "date-parts": [
+        [
+        	"2012"
+        ]
+    	]
+    }
 	},
-	{
-		"id": "Souchier1996",
-		"type": "article-journal",
-		"abstract": "L'objectif de cet article n'est pas de proposer une nouvelle théorie susceptible de changer radicalement notre point de vue sur l'analyse de l'écriture1, mais bien de poser un certain nombre d'interrogations à propos de l'introduction de l'écran et des nouvelles technologies dans l'univers de l'écrit. Au fond, comment une analyse de l'écrit peut- elle aujourd'hui s'inscrire dans l'arrière plan historique et culturel de l'écriture, dans une sémiologie «infra-ordinaire», tout en observant ce qui bouge dans les pratiques en fonction de la matérialité, de la technologie et des données socio-économiques.",
-		"container-title": "Communication & Langages",
-		"DOI": "10.3406/colan.1996.2662",
-		"issue": "1",
-		"language": "fre",
-		"page": "105-119",
-		"source": "www.persee.fr",
-		"title": "L'écrit d'écran, pratiques d'écriture & informatique",
-		"URL": "https://www.persee.fr/doc/colan_0336-1500_1996_num_107_1_2662",
-		"volume": "107",
-		"author": [
-			{
-				"family": "Souchier",
-				"given": "Emmanuël"
-			}
-		],
-		"accessed": {
-			"date-parts": [
-				[
-					"2019",
-					10,
-					1
-				]
-			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"1996"
-				]
-			]
-		}
+  {
+    "id": "Souchier1996",
+    "type": "article-journal",
+    "abstract": "L'objectif de cet article n'est pas de proposer une nouvelle théorie susceptible de changer radicalement notre point de vue sur l'analyse de l'écriture1, mais bien de poser un certain nombre d'interrogations à propos de l'introduction de l'écran et des nouvelles technologies dans l'univers de l'écrit. Au fond, comment une analyse de l'écrit peut- elle aujourd'hui s'inscrire dans l'arrière plan historique et culturel de l'écriture, dans une sémiologie «infra-ordinaire», tout en observant ce qui bouge dans les pratiques en fonction de la matérialité, de la technologie et des données socio-économiques.",
+    "container-title": "Communication & Langages",
+    "DOI": "10.3406/colan.1996.2662",
+    "issue": "1",
+    "language": "fre",
+    "page": "105-119",
+    "source": "www.persee.fr",
+    "title": "L'écrit d'écran, pratiques d'écriture & informatique",
+    "URL": "https://www.persee.fr/doc/colan_0336-1500_1996_num_107_1_2662",
+    "volume": "107",
+    "author": [
+      {
+        "family": "Souchier",
+        "given": "Emmanuël"
+    	}
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+        	"2019",
+        	10,
+        	1
+        ]
+    	]
+    },
+    "issued": {
+      "date-parts": [
+        [
+        	"1996"
+        ]
+    	]
+    }
 	},
-	{
-		"id": "Xiberras2014",
-		"type": "article-journal",
-		"container-title": "Société",
-		"issue": "126",
-		"page": "91-108",
-		"title": "Hyper-lectures quotidiennes sur Internet",
-		"author": [
-			{
-				"family": "Xiberras",
-				"given": "Martine"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2014"
-				]
-			]
-		}
+  {
+    "id": "Xiberras2014",
+    "type": "article-journal",
+    "container-title": "Société",
+    "issue": "126",
+    "page": "91-108",
+    "title": "Hyper-lectures quotidiennes sur Internet",
+    "author": [
+      {
+        "family": "Xiberras",
+        "given": "Martine"
+    	}
+    ],
+    "issued": {
+      "date-parts": [
+        [
+        	"2014"
+        ]
+    	]
+    }
 	}
 ]

@@ -2,7 +2,7 @@
 title: Corps, livre et design
 subtitle: >
   Quand le numérique invite à repenser la place du corps dans les dispositifs de lecture
-weight: 106
+weight: 116
 number: 16
 bibfile: bibliography/art16.json
 type: hybritexte
@@ -243,7 +243,7 @@ C’est là, nous semble-t-il, l’une des fonctions primordiales du champ du de
 ## Notes
 {{< /q-class >}}
 
-[^productions-graphiques]: Sur cette question pour le numérique, voir notamment {{< hl-cite "Souchier 2019" >}}. 
+[^productions-graphiques]: Sur cette question pour le numérique, voir notamment Emmanuel Souchier {{< hl-cite "Souchier 2019" >}}. 
 
 [^gibson-affordance]: C’est toute la question de l’affordance. Pour exemple : la tablette d’argile est incurvée parce qu’elle tient dans le creux de la main ; la hauteur d’un rouleau égyptien est relative à la taille de la cuisse du scribe, qui doit pouvoir appuyer son support sur lui pour écrire ; enfin, par exemple, le livre dit « de poche » est fait pour être facilement tenu entre les deux mains d’un lecteur nomade, et bien sûr glissé dans sa poche. La notion d’affordance est empruntée ici à Gibson {{< hl-cite "Gibson 1977" >}}, {{< hl-cite "Gibson 1979" >}}.
 

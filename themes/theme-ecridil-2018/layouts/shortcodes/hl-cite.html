@@ -38,40 +38,43 @@
     <a href="#{{- $id | urlize -}}"
        class="quire-citation"
        itemprop="citation">(<span class="visually-hidden">Citation: </span>
-        {{- $reference := . -}}
+      {{- $reference := . -}}
 
-        {{- range first 1 $currentRef.author }}
-        {{- $author := . -}}
-        <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-          {{- with $author.given -}}
-          <meta itemprop="givenName" content="{{ . }}">
-          {{- end -}}
-          {{ with $author.family -}}
-          <span itemprop="familyName">{{ . | markdownify }}</span>
-          {{- end -}}
-        </span>
+      {{- if not $currentRef.author -}}
+      {{ errorf "This publication has no author: (id: %s)" $currentRef.id }}
+      {{- end -}}
+      {{- range first 1 $currentRef.author }}
+      {{- $author := . -}}
+      <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+        {{- with $author.given -}}
+        <meta itemprop="givenName" content="{{ . }}">
         {{- end -}}
-        {{ if gt (len $currentRef.author) 1 -}}
-        <em>&amp; al.</em>
-        {{- end }}
-        {{ if and (isset $currentRef "issued") (isset $currentRef.issued "date-parts") }}
-          {{/* range of dates */}}
-          <span itemprop="datePublished">
-          {{- range $index, $dateParts := (index .issued "date-parts") -}}
-          {{/* Separate other years by comma */}}
-          {{- if gt $index 0 -}}, {{ end -}}
-          {{/* First element in date-part is the year */}}
-          {{- range first 1 $dateParts -}}
-          {{- . -}}
-          {{- end -}}
-          {{- end -}}
-          </span>
+        {{ with $author.family -}}
+        <span itemprop="familyName">{{ . | markdownify }}</span>
         {{- end -}}
-        {{- with $pages -}}
-        , pp.&nbsp;{{ . }}
-        {{- end -}}
-        <span class="quire-citation__content">{{ partial "bibliography/apa-style.html" $currentRef }}</span>)</a>
-  {{- else -}}
+      </span>
+      {{- end -}}
+      {{ if gt (len $currentRef.author) 1 }}
+      <em>&amp; al.</em>
+      {{- end }}
+      {{ if and (isset $currentRef "issued") (isset $currentRef.issued "date-parts") }}
+      {{/* range of dates */}}
+      <span itemprop="datePublished">
+      {{- range $index, $dateParts := (index .issued "date-parts") -}}
+      {{/* Separate other years by comma */}}
+      {{- if gt $index 0 -}}, {{ end -}}
+      {{/* First element in date-part is the year */}}
+      {{- range first 1 $dateParts -}}
+      {{- . -}}
+      {{- end -}}
+      {{- end -}}
+      </span>
+      {{- end -}}
+      {{- with $pages -}}
+      , pp.&nbsp;{{ . }}
+      {{- end -}}
+      <span class="quire-citation__content">{{ partial "bibliography/apa-style.html" $currentRef }}</span>)</a>
+    {{- else -}}
     {{/* 
       Did not find reference with matchin ID
     */}}

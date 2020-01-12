@@ -1,10 +1,10 @@
 ---
-title: {{ .Title }}
+title: {{ .Name }}
 subtitle: >
   
-weight: 
-number: 
-bibfile: bibliography/art00.json
+weight: 1{{ .Name }}
+number: {{ .Name }}
+bibfile: bibliography/art{{ .Name }}.json
 type: hybritexte
 abstract: >
   
