@@ -44,17 +44,15 @@ Les modes proposés par le prototype se trouvent aujourd’hui mieux précisés 
 
 ## 3. La lecture appropriative et la mise en crise du « livre classique »
 
+{{< hl-augmentation 3 none >}}
+
 C’est à partir du plan de composition que se manifestent les pratiques lectoriales. Le plan, comme structure du livre électronique, était envisagé dans le _Codex Atlanticus_ comme une alternative au modèle arborescent du livre classique, dont la critique fut réalisée dans _Rhizome_ {{< hl-cite "DeleuzeGuattari1976" >}}, texte repris dans _Mille-Plateaux_. Voici comment ces auteurs présentent cette opposition : « Un premier type de livre, c’est le livre-racine. L’arbre est déjà l’image du monde, ou bien la racine est l’image de l’arbre-monde. C’est le livre classique, comme belle intériorité organique, signifiante et subjective […]. Le système-radicelle, ou racine fasciculée, est la seconde figure du livre, dont notre modernité se réclame volontiers. Cette fois, la racine principale a avorté, ou se détruit vers son extrémité ; vient se greffer sur elle une multiplicité immédiate et quelconque de racines secondaires qui prennent un grand développement. » {{< hl-cite "DeleuzeGuattari1980" 11-12 >}}
 
-Le système-radicelle se retrouve dans le _Codex Atlanticus_ (_cf_. schéma n°1) 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/ART020.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/ART020.png "image_tooltip")
-
-Schéma n°1 : « Architecture du prototype _Codex Atlanticus_ »
+Le système-radicelle se retrouve dans le _Codex Atlanticus_ (_cf_. schéma n°1).
 
 Les bords, en jaune dans le schéma, forment les unités d’introduction au livre numérique. Ils correspondent à la plus grande unité de la structure, c’est l’équivalent de la partie dans un livre. Les seuils correspondent à l’équivalent d’un chapitre. Les strates correspondent à la section. Les plateaux correspondent à la plus petite unité du contenu. Un travail de « redocumentarisation » {{< hl-cite "Pedauque2006" >}} traduit l’éclatement de la forme canonique du livre ; ce travail est un préalable aux modes de lectures proposés dans le prototype. 
+
+{{< hl-augmentation none 4 >}}
 
 ## 4. Les deux premiers modes de la lecture appropriative du codex atlanticus
 
@@ -68,125 +66,15 @@ Les deux derniers modes de la lecture appropriative, dans le _Codex Atlanticus_,
 
 La lecture 3, ou lecture « encyclopédique », consiste à mettre à disposition du lecteur un ensemble varié d’outils linguistiques, afin de mieux appréhender chaque plateau (unité de contenu) du livre (_cf_. tableau n°1). Nous sommes donc en présence de l’appareil critique interne. 
 
-<table>
-  <tr>
-   <td colspan="2" ><strong> Fonctionnalités  </strong>
-<p>
-<strong>interne au plateau</strong>
-   </td>
-   <td><strong>Aide </strong>
-<p>
-<strong>contextuelle</strong>
-   </td>
-   <td><strong>Activité  lectoriale</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Définition</strong>
-   </td>
-   <td> Précise un concept, une notion.
-   </td>
-   <td>Lexicographique
-<p>
- Dictionnairique
-   </td>
-   <td> Lecteur 
-<p>
- observateur
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Complément</strong>
-   </td>
-   <td>Apporte une remarque complémentaire formulée par l’auteur ou bien un témoignage écrit par un expert ou un critique.
-   </td>
-   <td> Encyclopédique 
-<p>
- 
-   </td>
-   <td> Lecteur 
-<p>
- connaisseur
-   </td>
-  </tr>
-</table>
-
-Tableau n°3 : « _Appareil critique 1- interne du Codex Atlanticus »_
+{{< hl-augmentation 4 none >}}
 
 Dans l’appareil critique interne du _Codex_, une distinction s’opère entre l’acquisition définitionnelle (lexique, dictionnaire) et le renforcement de la connaissance (encyclopédie). L’outil d’aide « Définition » se découvre au survol d’une zone active par le pointeur de la souris. La technique du _roll-over_ fait apparaître une définition. Il s’agit d’inciter le lecteur à s’accompagner du pointeur, lorsqu’il parcourt les lignes du plateau. Lorsque le lecteur a quitté l’espace actif, le message disparaît. Cette technique ralentit l’activité et rend possible une lecture continue du plateau. L’approche de la définition proposée s’inscrit dans une orientation commune de la compréhension, il s’agit moins de proposer un travail définitionnel exhaustif que de privilégier son emploi par des exemples choisis.
 
-L’outil d’aide « Complément » dans un plateau appelle un clic sur le mot sélectionné qui déclenche un lien hypertexte. Le complément se délivre dans une fenêtre, il apporte un supplément au lecteur en revenant sur un point particulier. Les deux aides internes au plateau autorisent un retour sur l’appareil critique qui apporte au lecteur une sémantisation du lexique et une sémiotisation des contenus ; ces aides peuvent aujourd’hui reposer sur la multimodalité du transmédia. 
+L’outil d’aide « Complément » dans un plateau appelle un clic sur le mot sélectionné qui déclenche un lien hypertexte. Le complément se délivre dans une fenêtre, il apporte un supplément au lecteur en revenant sur un point particulier. Les deux aides internes au plateau autorisent un retour sur l’appareil critique qui apporte au lecteur une sémantisation du lexique et une sémiotisation des contenus ; ces aides peuvent aujourd’hui reposer sur la multimodalité du transmédia.
+
+{{< hl-augmentation 5 none >}}
 
 Avec le quatrième mode de lecture, ou la lecture « réseau », l’appareil critique est externe au plateau. Un nouvel enrichissement de l’activité se déploie maintenant autour de cinq nouvelles fonctionnalités proposées par le prototype. En les examinant, nous allons remarquer qu’elles produisent une extension de l’activité du lecteur aussi bien que de celle de l’auteur (_cf_. tableau n° 4).
-
-<table>
-  <tr>
-   <td colspan="2" ><strong>Fonctionnalités externes</strong>
-   </td>
-   <td><strong> Activité lectoriale</strong>
-   </td>
-   <td><strong> Activité auctoriale</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Indexation</strong>
-   </td>
-   <td>Liste alphabétique de tous les termes ayant fait l’objet d’une définition dans une strate (partie du livre).
-   </td>
-   <td> Lecteur assembleur
-   </td>
-   <td> Implémentation logiciel 
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Documentation</strong>
-   </td>
-   <td>Ensemble de documents complémentaires fournis pour éclairer un plateau.
-   </td>
-   <td> Lecteur
-<p>
- butineur  
-   </td>
-   <td> Développement
-<p>
-transmédia  
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Diagrammatisation</strong>
-   </td>
-   <td>Présentation du contenu d’un plateau sous la forme de schémas conceptuels.
-   </td>
-   <td> Lecteur observateur
-   </td>
-   <td> Logiciel cartographique
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Evaluation</strong>
-   </td>
-   <td>Possibilité offerte au lecteur de tester sa compréhension à partir de QCM.
-   </td>
-   <td> Lecteur 
-<p>
- écriveur
-   </td>
-   <td> Développement  éditorial
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Dialogique</strong>
-   </td>
-   <td>Traduction du contenu dans la forme d’un jeu de questions-réponses.
-   </td>
-   <td> Lecteur débatteur
-   </td>
-   <td> Développement éditorial
-   </td>
-  </tr>
-</table>
-
-Tableau n° 4: « Appareil critique 2 externe au plateau »
 
 La fonction « indexation » rend possible une lecture indirecte et partielle ; il s’agit d’accéder au contenu à partir d’une sélection de notions ou de concepts. Dans l’index, les entrées sont présentées en italique avec un système de renvoi. Un parcours dans l’index introduit une « visite » dans une liste qui se comprend comme une « machine à rêver », selon l’expression de Roland Barthes dans sa préface au dictionnaire Hachette de l’édition 1980.
 
@@ -227,39 +115,8 @@ Ces caractéristiques démontrent l’importance des Humanités Digitales pour c
 
 ## Conclusion : l’huperlecture comme expérience renouvelée du lire
 
-La mutation contemporaine du livre implique l’apparition d’un nouveau régime de la lecture. Dans le tableau suivant, l’hyperlecture complète les formes classiques de la lecture qui s’inscrivent toujours dans un « milieu spirituel » à un moment historique.
+{{< hl-augmentation 6 none >}}
 
-<table>
-  <tr>
-   <td><strong>Lecture-intensive</strong>
-   </td>
-   <td>Lecture-religieuse
-   </td>
-   <td>Ancien régime
-   </td>
-   <td>Scriptorium
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Lecture-extensive</strong>
-   </td>
-   <td>Lecture-connaissance
-   </td>
-   <td>Modernité
-   </td>
-   <td>Imprimerie
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Lecture-appropriative</strong>
-   </td>
-   <td>Activités lectoriales
-   </td>
-   <td>Hypermodernité
-   </td>
-   <td>Internet
-   </td>
-  </tr>
-</table>
+La mutation contemporaine du livre implique l’apparition d’un nouveau régime de la lecture. Dans le tableau suivant, l’hyperlecture complète les formes classiques de la lecture qui s’inscrivent toujours dans un « milieu spirituel » à un moment historique.
 
 Sans aborder le lien entre les régimes de lecture et la transformation des lieux du savoir, il apparaît que le destin du livre relève aujourd’hui d’une conception à-venir de l’HyperEdition. Nous avons tenté par l’exposition de la lecture appropriative de réaliser un déplacement/dépassement des deux formes de lecture : « soit lecture publique (le locuteur s’exprime par personne interposée qui retrouve la phoné, la voix qui parle), soit langage intérieur qui ne se transmet pas en éléments sonores » {{< hl-cite "Benveniste2012" >}}. Cette opposition entre lecture publique et lecture intérieure se trouve battue en brèche par les activités lectoriales de la lecture appropriative. Il n’y a plus d’opposition entre le monde extérieur et le monde intérieur mais, plutôt, une hybridation du lecteur/scripteur dans les communautés interprétatives des réseaux.

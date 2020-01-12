@@ -83,9 +83,23 @@
       {{/* -------------------- BEGIN HTML BLOCK -------------------- */}}
       {{- if eq .type "html" -}}
       {{- if .content -}}
-      <div class="hybritexte-augmentation--html__content">
+      <figure class="hybritexte-augmentation--html__content">
         {{- .content | safeHTML -}}{{/* Just raw HTML */}}
-      </div>
+        
+        <figcaption class="hybritexte-augmentation--html__caption">
+          {{- if .title -}}
+          <span class="hybritexte-augmentation--html__title">
+            {{- .title | markdownify -}}
+          </span>
+          {{- end -}}
+
+          {{- if .caption -}}
+          <span class="hybritexte-augmentation--html__caption__text">
+            {{- .caption | markdownify -}}
+          </span>
+          {{- end -}}
+        </figcaption>
+      </figure>
       {{- end -}}
       {{- end -}}
       {{/* -------------------- END HTML BLOCK -------------------- */}}

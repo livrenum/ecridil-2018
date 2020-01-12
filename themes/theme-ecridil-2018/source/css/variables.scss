@@ -24,6 +24,7 @@ $family-secondary: $sans-serif;
 // headings and navigation items: $serif, $sans-serif, $slab-serif
 
 $quire-base-font-size: 14px;
+$table-font-size: $quire-base-font-size * 0.85;
 $page-content-font-size: 1.125rem;
 $quire-page-paragraph-style: null;
 // make the value null for paragraphs with no indent and a line space between
@@ -109,7 +110,7 @@ $quire-map-height: 500px;
 $quire-deepzoom-height: 500px;
 // default heights for maps and zooming image figures
 
-$hybrilivre-col-breakpoint: 680px;
+$hybrilivre-col-breakpoint: 768px;
 
 
 // Animations

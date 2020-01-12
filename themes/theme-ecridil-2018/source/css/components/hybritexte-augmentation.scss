@@ -3,6 +3,32 @@
 
 $column-gap: 2rem;
 
+%hl-augmentation {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  
+  > figure {
+    margin: 0 auto;
+  }
+}
+
+%hl-augmentation__caption {
+  font-style: normal;
+  text-align: left;
+  font-size: 1rem;
+  padding: 0 0 0 2rem;
+  margin: 1rem 0 0 1rem;
+  border-left: 2px solid $page-text-color;
+}
+
+%hl-augmentation__title {
+  font-size: 1rem;
+  font-weight: 500;
+  display: block;
+}
+
 .hybritexte-page {
   &__content {
     padding-bottom: 25%;
@@ -171,28 +197,18 @@ $column-gap: 2rem;
 
   // figure type
   &--figure {
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
+    @extend %hl-augmentation;
     
     .content & {
-      margin-left: 0;
-      margin-right: 0;
+      margin: 0 auto;
     }
 
     &__image {
       display: block;
-      margin: 0 auto;
       max-height: calc(80vh - 4rem);
     }
     &__caption {
-      font-style: normal;
-      text-align: left;
-      font-size: 1rem;
-      padding: 0 0 0 2rem;
-      margin: 2rem 0 0 1rem;
-      border-left: 2px solid $page-text-color;
+      @extend %hl-augmentation__caption;
       
       // bulma override necessary here
       .content & {
@@ -204,20 +220,14 @@ $column-gap: 2rem;
       }
     }
     &__title {
-      font-size: 1rem;
-      font-weight: 500;
-      display: block;
+      @extend %hl-augmentation__title;
     }
   }
 
   // text type
   &--text {
     line-height: 1.15;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    transition: all .4s;
-    height: 100%;
+    @extend %hl-augmentation;
 
     &__text-wrap {}
     
@@ -237,4 +247,20 @@ $column-gap: 2rem;
       }
     }
   }
+  
+  // html type
+  // useful for tables or custom embeds
+  &--html {
+    @extend %hl-augmentation;
+    
+    &__caption {
+      @extend %hl-augmentation__caption;
+    }
+ 
+    &__title {
+      @extend %hl-augmentation__title;
+    }
+  }
+  
 }
+
