@@ -47,7 +47,7 @@ contributor:
     type: primary
     first_name: Renée
     last_name: Bourassa
-    title: Chair
+    title: Chaire
     affiliation: Université Laval
     bio: "Design médias et culture numériques. Design du livre en contexte numérique et systèmes d’écritures. Pratiques créatives, expérientielles et culture participative. Design de personnages de synthèse. Dispositifs de la culture numérique : fictions transmédiatiques, dispositifs narratifs, dispositifs géolocalisés, cinéma numérique, dispositifs de réalité augmentée, environnements multimodaux, jeux vidéos."
     url: https://www.design.ulaval.ca/personnel/professeurs/renee-bourassa
@@ -56,10 +56,20 @@ contributor:
     type: primary
     first_name: Ximena
     last_name: Miranda
-    title: Chief Editor
+    title: Design
     affiliation: Université Laval
     bio: ""
     url: https://xmirandablog.wordpress.com/
+    pic: 
+  - id: lobrassard
+    type: primary
+    first_name: Louis-Olivier
+    last_name: Brassard
+    title: Développement
+    bio: "Designer et développeur web, étudiant en philosophie et littératures à l’Unviersité de Montréal."
+    affiliation: Université de Montréal
+    bio: ""
+    url: https://www.loupbrun.ca
     pic: 
   - id: smonjour
     type: primary
@@ -67,9 +77,6 @@ contributor:
     last_name: Monjour
     affiliation: Univeristé McGill
     title: Édition
-  - id: etadier
-    first_name: Elsa
-    last_name: Tadier
   - id: fcormerais
     first_name: Franck
     last_name: Cormerais
@@ -82,9 +89,54 @@ contributor:
   - id: cmuller
     first_name: Catherine
     last_name: Müller
-  - id: 
+  - id: cdevelotte
     first_name:
     last_name: 
+  - id: elhachani
+    first_name:
+    last_name: El Hachani
+  - id: jdrochon
+    first_name: Julien
+    last_name: Drochon
+  - id: mjahjah
+    first_name: Marc
+    last_name: Jahjah
+  - id: cjacquot
+    first_name: Clémence
+    last_name: Jacquot
+  - id: alaborderie
+    first_name: Arnaud
+    last_name: Laborderie
+  - id: nlacelle
+    first_name: Nathalie
+    last_name: Lacelle
+  - id: plieutier
+    first_name: Prune
+    last_name: Lieutier
+  - id: cmeynard
+    first_name: Cécile
+    last_name: Meynard
+  - id: egreslou
+    first_name: Elisabeth 
+    last_name: Greslou
+  - id: aperret
+    first_name: Arthur
+    last_name: Perret
+  - id: jlsoubret
+    first_name: Jean-Louis
+    last_name: Soubret
+  - id: esouchier
+    first_name: Emmanuel
+    last_name: Souchier
+  - id: etadier
+    first_name: Elsa
+    last_name: Tadier
+  - id: mmellet
+    first_name: Margot
+    last_name: Mellet
+  - id: mvitalirosati
+    first_name: Marcello
+    last_name: Vitali-Rosati
 
 
 # ------------------------------------------------------------------------------
@@ -163,7 +215,7 @@ revision_history:
   - date:
     summary:
 
-repository_url:
+repository_url: https://github.com/livrenum/ecridil-2018
 
 # ------------------------------------------------------------------------------
 # Promo Image

@@ -1,0 +1,418 @@
+[
+  {
+    "id": "Mezenec2017",
+    "type": "book",
+    "abstract": "D’images en rêves et en récits on monte : on pourrait être au cinéma, et c’est une histoire d’aujourd’hui. Un fils dépressif caché allongé, un père qu’on n’a aucun mal à imaginer hurlant vers le volcan, sorti tout droit de bourgeoisie et de chez Pasolini, un mec bien, Yacine, qui fait la lecture aux fœtus, une fille qui pédale, se blesse, vient et revient sur la plage où débarquent des migrants comme il en débarque tout l’été sur les rives de notre Méditerranée, et ça fait fuir les touristes — mais ça doit pas gêner assez, les corps défaits, puisque on continue de monter des murs, celui d’Erdine fait 12 kilomètres de long.\n\nIl faut l’entendre, la langue, elle porte en elle, au- dedans, porteuse et poreuse, le courage des migrations, la douleur des exils, la précision de survivre.\n\nJeu de fragments, bonds et rebonds, cheminement labyrinthique, avec Poreuse, Juliette Mézenc explose les limites d'un genre.",
+    "ISBN": "978-2-37177-494-0",
+    "language": "Français",
+    "number-of-pages": "168",
+    "publisher": "publie.net",
+    "title": "Poreuse",
+    "URL": "https://www.publie.net/livre/poreuse/",
+    "author": [
+      {
+        "family": "Mézenc",
+        "given": "Juliette"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2018",
+          8,
+          9
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2017",
+          9,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Cazier2017",
+    "type": "webpage",
+    "abstract": "Dans Poreuse, de Juliette Mézenc, la géographie ne se sépare pas du psychisme et des corps qui l’habitent – ou plutôt la traversent, y circulent, la hantent.",
+    "container-title": "Diacritik",
+    "language": "fr-FR",
+    "title": "L’écriture comme carte nomade : Juliette Mézenc, Poreuse",
+    "title-short": "L’écriture comme carte nomade",
+    "URL": "https://diacritik.com/2017/09/06/lecriture-comme-carte-nomade-juliette-mezenc-poreuse/",
+    "author": [
+      {
+        "family": "Cazier",
+        "given": "Jean-Philippe"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2018",
+          8,
+          9
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2017"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Souchier1998",
+    "type": "article-journal",
+    "container-title": "Les cahiers de mediologie",
+    "ISSN": "1270-0665",
+    "issue": "2",
+    "language": "fr",
+    "page": "137-145",
+    "source": "www.cairn.info",
+    "title": "L'image du texte pour une théorie de l'énonciation éditoriale",
+    "URL": "https://www.cairn.info/revue-les-cahiers-de-mediologie-1998-2-page-137.htm",
+    "volume": "6",
+    "author": [
+      {
+        "family": "Souchier",
+        "given": "Emmanuël"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2019",
+          10,
+          3
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "1998"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Souchier2007",
+    "type": "article-journal",
+    "abstract": "L'objet que réalise peu à peu l'écrivain est-il le même que celui que tient dans ses mains le lecteur ? L'écrivain travaille sur un texte. Le lecteur lit un livre. Une métamorphose a lieu entre une face imaginaire et toujours panoramique et un volume aux pages distinctes et injux- taposables. La consécration de l'écriture n'équivaut pas à l'actualisation de la lecture. Le latin est plus précis. Le scriptum se fait liber et un liber se fait lectura. Mais la lectio (qui est renonciation du livre, le lecteur tenant entre ses mains un livre) est une actualité physique, une concrétisation, un échange et une solidarité violente, plus ou moins aisée, qui suscite une signification qui ne préexiste pas dans le « texte » ou dans la page imaginaire. [...] Sans doute y a-t-il une espèce de «lecture qui gouverne le texte», une sorte de « typographie », de temporalité et d'espacement qui commande la page manuelle, un fantôme de volume muet et achevé qui assujettit pour celui qui écrit le travail vivant et quotidien.",
+    "container-title": "Communication & Langages",
+    "DOI": "10.3406/colan.2007.4688",
+    "issue": "1",
+    "language": "fre",
+    "page": "23-38",
+    "source": "www.persee.fr",
+    "title": "Formes et pouvoirs de l'énonciation éditoriale",
+    "URL": "https://www.persee.fr/doc/colan_0336-1500_2007_num_154_1_4688",
+    "volume": "154",
+    "author": [
+      {
+        "family": "Souchier",
+        "given": "Emmanuël"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2019",
+          10,
+          3
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2007"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Strauss1992",
+    "type": "book",
+    "event-place": "Paris",
+    "ISBN": "978-2-7384-1411-3",
+    "language": "Français",
+    "number-of-pages": "311",
+    "publisher": "L'Harmattan",
+    "publisher-place": "Paris",
+    "source": "Amazon",
+    "title": "La trame de la négociation: Sociologie qualitative et interactionnisme",
+    "title-short": "La trame de la négociation",
+    "author": [
+      {
+        "family": "Strauss",
+        "given": "Anselm"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1992"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Goffman1991",
+    "type": "book",
+    "collection-title": "Le Sens commun",
+    "event-place": "Paris",
+    "ISBN": "978-2-7073-1372-0",
+    "language": "Français",
+    "publisher": "Éditions de Minuit",
+    "publisher-place": "Paris",
+    "title": "Les Cadres de l’expérience",
+    "author": [
+      {
+        "family": "Goffman",
+        "given": "Ervin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1991",
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Deniau2015",
+    "type": "book",
+    "event-place": "Paris",
+    "publisher": "Vrin",
+    "publisher-place": "Paris",
+    "title": "Qu’est-ce-qu’interpréter ?",
+    "author": [
+      {
+        "family": "Deniau",
+        "given": "Guy"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2015"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "ChauvireOgien2002",
+    "type": "book",
+    "event-place": "Paris",
+    "publisher": "Éditions de l’École des Hautes Études en Sciences Sociales",
+    "publisher-place": "Paris",
+    "title": "La régularité. : Habitude, disposition et savoir-faire dans l’explication de l’action,",
+    "author": [
+      {
+        "family": "Chauviré",
+        "given": "Christiane"
+      }
+    ],
+    "collection-editor": [
+      {
+        "family": "Ogien",
+        "given": "Albert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2002"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Jacob2014",
+    "type": "book",
+    "abstract": "Comment les savoirs sont-ils produits ? Comment se transmettent-ils ? Quelle approche adopter pour apprendre à les observer ?  Qu’il s’agisse d’un laboratoire, d’une agora grecque, d’un jardin botanique, d’une table de travail ou d’une bibliothèque, chaque lieu de savoir possède une dynamique propre, conséquence de son histoire et de ses spécificités. En mêlant l’observation des pratiques à l’interprétation des méthodes de pensée, cet ouvrage étudie les lieux de l’activité savante dans une approche comparatiste.  Construit comme une invitation à la réflexion, situé à la frontière entre histoire et anthropologie, cet ouvrage tente de baliser les hypothèses et les enjeux d’une nouvelle approche des savoirs humains. Il s’adresse à tous les lecteurs qui souhaitent s’engager dans des cheminements parallèles ; il déploie des pistes de réflexion pour les humanités d’aujourd’hui et de demain.  Cet ouvrage a été réalisé avec le soutien du Labex Hastec.",
+    "ISBN": "978-2-8218-3458-3",
+    "language": "fr",
+    "note": "DOI: 10.4000/books.oep.423",
+    "publisher": "OpenEdition Press",
+    "source": "books.openedition.org",
+    "title": "Qu’est-ce qu’un lieu de savoir ?",
+    "URL": "http://books.openedition.org/oep/423",
+    "author": [
+      {
+        "family": "Jacob",
+        "given": "Christian"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2019",
+          10,
+          3
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2014"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Ingold2017",
+    "type": "book",
+    "abstract": "D'où proviennent les formes ? Dans ce livre l'anthropologue Tim Ingold propose de déconstruire le modèle philosophique hylémorphique qui, depuis Aristote, pense l'acte de fabrication comme l'imposition d'une forme, ou d'un projet, à la matière inerte. Ce renversement théorique n'est possible qu'à la faveur d'une approche matérialiste de la fabrication qui révèle la correspondance des pratiques avec les matériaux, leur itinérance au sein de la matière pour engendrer des formes. Cette réflexion conduit Ingold à faire la proposition d'une pédagogie participante suggérant une nouvelle conception de l'enseignement fondée sur l'élucidation des pratiques constitutives des gestes de fabrication. L'anthropologie, l'archéologie, l'art et l'architecture ne sont pas ici considérées comme des disciplines académiques, mais comme des manières de faire qui explorent chacune, à leur façon, les conditions et les potentiels de la vie humaine au sein de son environnement.",
+    "event-place": "Belleveaux",
+    "ISBN": "978-2-36751-010-1",
+    "language": "Français",
+    "number-of-pages": "320",
+    "publisher": "éditions Dehors",
+    "publisher-place": "Belleveaux",
+    "title": "Faire. Anthropologie, Archéologie, Art et Architecture",
+    "author": [
+      {
+        "family": "Ingold",
+        "given": "Tim"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2017"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Mezenec2012-16h08",
+    "type": "personal_communication",
+    "title": "[Courriel adressé aux deux autres collaboratrices, 20/04/2012 à 16h08]",
+    "author": [
+      {
+        "family": "Mézenc",
+        "given": "Juliette"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2012",
+          4,
+          20
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Mezenec2012-17h18",
+    "type": "personal_communication",
+    "title": "[Courriel adressé aux collaboratrices de Poreuse, Roxane Lecomte et Christine Jeanney, 08/10/2012 à 17h18]",
+    "author": [
+      {
+        "family": "Mézenc",
+        "given": "Juliette"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2012",
+          10,
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Jeanney2012-20h08",
+    "type": "personal_communication",
+    "title": "[Courriel  aux deux autres collaboratricestres, 23/04/2012 à 20h08]",
+    "author": [
+      {
+        "family": "Jeanney",
+        "given": "Christine"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2012",
+          4,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Jeanney2012-9h59",
+    "type": "personal_communication",
+    "title": "[Courriel de Christine Jeanney aux autres collaboratrices, 27/04/2012 à 9h59]",
+    "author": [
+      {
+        "family": "Jeanney",
+        "given": "Christine"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2012",
+          4,
+          27
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Mezenec2012-11h53",
+    "type": "personal_communication",
+    "title": "[Courriel adressé aux deux autres collaboratrices, 19/03/2012 à 11h53]",
+    "author": [
+      {
+        "family": "Mézenc",
+        "given": "Juliette"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2012",
+          3,
+          19
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Mezenec2012-12h00",
+    "type": "personal_communication",
+    "title": "[Courriel aux deux autres collaboratrices, 08/10/2012 à 12h00]",
+    "author": [
+      {
+        "family": "Mézenc",
+        "given": "Juliette"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2012",
+          10,
+          8
+        ]
+      ]
+    }
+  }
+]

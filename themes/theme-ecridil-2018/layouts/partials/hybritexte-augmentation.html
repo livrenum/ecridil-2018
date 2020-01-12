@@ -151,9 +151,13 @@
       </span>
       {{ end }}
 
-      {{ if .caption}}
+      {{ if or .caption .credit }}
       <span class="hybritexte-augmentation--figure__caption__text">
         {{ .caption | markdownify }}
+        <span class="sr-only">
+          Crédits :
+        </span>
+        {{ .credit | markdownify }}
       </span>
       {{ end }}
     </figcaption>

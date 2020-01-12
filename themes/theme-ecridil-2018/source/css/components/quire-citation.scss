@@ -13,6 +13,8 @@ $fadeDuration: .35s;
 // -----------------------------------------------------------------------------
 .quire-citation {
   display: inline-block;
+  vertical-align: baseline; // compensate for lower height
+  line-height: 1.42;
   position: relative;
   text-indent: 0;
   font-size: .85em; // reduce to avoid some breaks

@@ -379,6 +379,9 @@ body {
   blockquote {
     padding: 0 0 0 $blockquote-left-padding;
     margin: 3em 0 3em 0;
+    &:not(:last-child) {
+      margin-bottom: 3em; // override…
+    }
     font-size: $blockquote-font-size;
     border-left: none;
     background-color: transparent;
@@ -387,6 +390,12 @@ body {
     @media print {
       border-left-width: 0;
     }
+  }
+  
+  ol, ul {
+    // use padding instead of margin to avoid 50% width column overflow
+    margin-left: 0;
+    padding-left: 1.65em;
   }
 
   .leaflet-control {
