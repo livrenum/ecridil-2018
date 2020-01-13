@@ -1,0 +1,412 @@
+[
+  {
+    "id": "DeHaro2011",
+    "type": "post-weblog",
+    "abstract": "Internet n'est pas absent de la littérature contemporaine, mais elle doit se réinventer (et s'augmenter) pour l'intégrer. Quelques pionniers ont déjà commencé.",
+    "container-title": "OWNI",
+    "language": "fr-FR",
+    "title": "Plaidoyer pour une littérature augmentée",
+    "URL": "http://owni.fr/2011/02/16/plaidoyer-pour-une-litterature-augmentee/",
+    "author": [
+      {
+        "family": "De Haro",
+        "given": "Sarah"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2011",
+          2,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Lattice2018",
+    "type": "webpage",
+    "container-title": "Wki UQAM",
+    "genre": "Wiki",
+    "title": "Wiki du LATTICE",
+    "URL": "https://wiki.uqam.ca/display/CEIMLAT/Accueil+LATICCE",
+    "author": [
+      {
+        "family": "Laboratoire de recherche sur la découvrabilité et les transformations des industries culturelles à l’ère du commerce électronique",
+        "given": ""
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2018"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "BolkaDespresLonnet2016",
+    "type": "chapter",
+    "abstract": "L'étude que nous présentons dans cette communication repose sur un projet de webdocumentaire intitulé « horizons dévoilés ». L'originalité de ce projet vient de ce qu'il cherche à impliquer des femmes en situation de rupture professionnelle et sociale dans toutes les étapes, de la conception à la mise en oeuvre. L'observation ethnographique montre l'intérêt d'une telle démarche. La collaboration avec un photographe professionnel, l'implication dans des séances de test ou encore la participation à l'organisation d'une exposition contribuent largement à changer le regard que les femmes portent sur elles-mêmes. Nous avons également pu mesurer les multiples difficultés qui doivent encore être résolues, qu'elles concernent l'autonomie effective des femmes impliquées, l'ergonomie du dispositif ou encore la disponibilité d'outils de conception et d'écriture adaptés aux tablettes numériques.",
+    "container-title": "Terminaux et environnements numériques mobiles dans l'espace francophone.",
+    "publisher": "L'Harmattan",
+    "source": "HAL Archives Ouvertes",
+    "title": "Co-conception d'un webdocumentaire avec des femmes éloignées de l'emploi",
+    "URL": "https://hal.archives-ouvertes.fr/hal-01614058",
+    "author": [
+      {
+        "family": "Després-Lonnet",
+        "given": "Marie"
+      },
+      {
+        "family": "Bolka-Tabary",
+        "given": "Laure"
+      },
+      {
+        "family": "Thiault",
+        "given": "Florence"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Kiyindou",
+        "given": "A"
+      },
+      {
+        "family": "Damone",
+        "given": "E"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2016"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Hallo2014",
+    "type": "webpage",
+    "abstract": "A Vast and Poetic storyworld unfolding on multiple platforms   An ecological fable for the anthropocene KIDS    Learn More",
+    "language": "en-US",
+    "title": "Wuxia le renard",
+    "URL": "https://www.wuxiathefox.com",
+    "author": [
+      {
+        "family": "Hallo Architekt",
+        "given": ""
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2014"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "GouvQC2017",
+    "type": "webpage",
+    "abstract": "État des lieux sur les métadonnées relatives aux contenus culturels",
+    "container-title": "Gouvernement du Québec",
+    "language": "fr",
+    "title": "État des lieux sur les métadonnées relatives aux contenus culturels",
+    "URL": "http://www.stat.gouv.qc.ca/statistiques/culture/etat-lieux-metadonnees.html",
+    "author": [
+      {
+        "family": "Québec",
+        "given": "Institut de la Statistique",
+        "dropping-particle": "du"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2017"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Fonfon",
+    "type": "webpage",
+    "title": "Fonfon interactif",
+    "URL": "http://www.laboiteapitons.com/fonfon/",
+    "author": [
+      {
+        "family": "La boîte à pitons",
+        "given": ""
+      }
+    ]
+  },
+  {
+    "id": "ClubCreaturesMysterieuses",
+    "type": "webpage",
+    "abstract": "Le Club des créatures mystérieuses rassemble des enfants qui, partout dans le monde, cherchent à explorer et à approfondir leurs connaissances sur les étranges créatures qui les entourent.",
+    "container-title": "Le monde des créatures mystérieuses",
+    "title": "Le club des créatures mystérieuses",
+    "URL": "http://www.clubdescreaturesmysterieuses.com/fr/accueil",
+    "author": [
+      {
+        "family": "La boîte à pitons",
+        "given": ""
+      },
+      {
+        "family": "Yoozoo",
+        "given": ""
+      }
+    ]
+  },
+  {
+    "id": "ToutGarni",
+    "type": "webpage",
+    "abstract": "Mais qui a commandé la pizza d’Arthur ? C’est le mystère de Tout garni, l’aventure numérique « all dressed » passionnante et délirante de La Pastèque. Un projet en collaboration avec Vali Fugulin et le studio Dpt. ! #toutgarni #lapasteque",
+    "language": "Français",
+    "title": "Tout Garni",
+    "URL": "http://toutgarni.telequebec.tv",
+    "author": [
+      {
+        "family": "La Pastèque",
+        "given": ""
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2017"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "SourisGrise2014",
+    "type": "post-weblog",
+    "abstract": "Le guide des meilleures applications pour les enfants. Année 2014, année folle",
+    "container-title": "La Souris Grise",
+    "language": "fr-FR",
+    "title": "Smartphones, tablettes, consoles pour enfants : 2014, l'année numérique folle",
+    "title-short": "Smartphones, tablettes, consoles pour enfants",
+    "URL": "http://souris-grise.fr/2014-le-temps-des-annees-numeriques-folles/",
+    "author": [
+      {
+        "literal": "La Souris Grise"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2014",
+          1,
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "id": "JeantetLaborderieHellegouarch2018",
+    "type": "article-journal",
+    "abstract": "The digitization of literary heritage, and the advent of tactile tablets as a new literary medium, deeply change the access of literary works and the reader’s experience. By examining the enhanced digital edition of Voltaire’s Candide published by the French national Library (BnF), Voltaire Foundation, and Orange, this article will explore the different aspects of an enhanced eBook, from conception to the reader’s experience. This digitized classic of literature, thanks to multimedia and multimodality, gives an updated interpretation of the book and provokes a significant change in the reader’s involvement.",
+    "container-title": "Revue de recherches en littératie médiatique multimodale",
+    "DOI": "10.7202/1050941ar",
+    "ISSN": "2368-9242",
+    "journalAbbreviation": "rechercheslmm",
+    "language": "fr",
+    "source": "DOI.org (Crossref)",
+    "title": "REMÉDIATISER LE PATRIMOINE LITTÉRAIRE À TRAVERS LE LIVRE ENRICHI : QUELLES EXPÉRIENCES DE LECTURE ?",
+    "title-short": "REMÉDIATISER LE PATRIMOINE LITTÉRAIRE À TRAVERS LE LIVRE ENRICHI",
+    "URL": "http://id.erudit.org/iderudit/1050941ar",
+    "volume": "8",
+    "author": [
+      {
+        "family": "Laborderie",
+        "given": "Arnaud"
+      },
+      {
+        "family": "Jeantet",
+        "given": "Claire"
+      },
+      {
+        "family": "Hellégouarc’h",
+        "given": "Pascale"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2018",
+          8,
+          20
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Lieutier2016",
+    "type": "post-weblog",
+    "container-title": "The Joan Ganz Cooney Center",
+    "genre": "Blogue",
+    "language": "en-US",
+    "title": "Joan Ganz Cooney Center - Creating to Learn, One Story After Another",
+    "URL": "http://joanganzcooneycenter.org/2016/04/12/creating-to-learn-one-story-after-another/",
+    "author": [
+      {
+        "family": "Lieutier",
+        "given": "Prune"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2016",
+          4,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Mediavilla2018",
+    "type": "post-weblog",
+    "container-title": "Newbeezer (initialement Les ?chos)",
+    "language": "Français",
+    "title": "Dix ans après sa création, les numéros fou dans l'App Store",
+    "URL": "https://newsbeezer.com/france/dix-ans-apres-sa-creation-les-numeros-fou-dans-lapp-store/",
+    "author": [
+      {
+        "family": "Mediavilla",
+        "given": "Lucas"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2018",
+          7,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Paulson2018",
+    "type": "webpage",
+    "abstract": "C'est une première dans l'histoire d'Apple : le nombre d'applications disponibles sur l'App Store a reculé sur l'ensemble de l'année dernière, passant de 2,2 millions en janvier 2017 à 2,1 millions en décembre.",
+    "container-title": "Clubic",
+    "language": "fr",
+    "title": "App Store : le nombre d’apps recule en 2017 (mais pas pour le Play Store)",
+    "title-short": "App Store",
+    "URL": "https://www.clubic.com/play-store/actualite-843381-app-store-nombre-apps-recul-2017.html",
+    "author": [
+      {
+        "family": "Paulson",
+        "given": "Alexandre"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2018",
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": "PerrinDouceuAcerra2018",
+    "type": "article-journal",
+    "abstract": "Cette contribution se propose d’analyser le logiciel réalisé dans le cadre du projet de recherche et développement LINUM. Lire, dire, écrire avec la littérature pour la jeunesse et le numérique (oct. 2014 – oct. 2017). Conçu comme un prototype d’enrichissements didactique et pédagogique pour enseigner et apprendre la lecture littéraire au cycle 3 de l’école primaire française, il permet aussi la constitution de données de recherche par les remontées de traces des activités des élèves comme de l’enseignant dans le cadre d’une expérimentation en classe. LINUM questionne donc à la fois les démarches d’élaboration des ressources numériques et les pratiques effectives d’enseignement et apprentissage dégagées par l’utilisation d’un dispositif didactique numérique en classe de littérature. L’article interroge ces deux aspects pour montrer d’une part en quoi l’élaboration de la ressource LINUM a tenté de modéliser un dispositif didactique pour enseigner la lecture littéraire qui prenne en compte les travaux récents des didacticiens de la littérature ; d’autre part comment les enseignants du panel expérimental se sont emparés de l’outil dans leurs classes. Après avoir défini le cadre théorique didactique et les contraintes technologiques qui ont guidé la conception de l’outil, la ressource sera décrite pour mettre en évidence la manière dont cet objet numérique configure un dispositif d’enseignement de la lecture littéraire. Enfin, une étude de cas fondée sur l’examen des parcours didactiques de deux enseignants expérimentateurs éclairera quelques modalités d’usage scolaire de la ressource pour mieux comprendre comment le numérique peut contribuer à organiser et révéler des pratiques effectives de lecture littéraire à l’école.",
+    "container-title": "Revue de recherches en littératie médiatique multimodale",
+    "DOI": "https://doi.org/10.7202/1050936ar",
+    "journalAbbreviation": "rechercheslmm",
+    "language": "fr",
+    "source": "www.erudit.org",
+    "title": "Linum : un projet numérique pour interroger l’enseignement de la la lecture littéraire",
+    "title-short": "LINUM",
+    "URL": "http://www.erudit.org/fr/revues/rechercheslmm/2018-v8-rechercheslmm03931/1050936ar/",
+    "volume": "8",
+    "author": [
+      {
+        "family": "Perrin-Doucey",
+        "given": "Agnès"
+      },
+      {
+        "family": "Acerra",
+        "given": "Eleonora"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2018"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Statista2017",
+    "type": "webpage",
+    "abstract": "Cette statistique représente le nombre d'applications disponibles au téléchargement sur les principaux app stores au premier trimestre 2018.",
+    "container-title": "Statista",
+    "language": "fr",
+    "title": "Applications disponibles sur les app stores 2017",
+    "URL": "https://fr.statista.com/statistiques/571454/nombre-d-applications-disponibles-sur-les-principaux-app-stores/",
+    "issued": {
+      "date-parts": [
+        [
+          "2017"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Bouchardon2014",
+    "type": "book",
+    "collection-title": "Cultures numériques",
+    "edition": "Hermann",
+    "event-place": "Paris",
+    "ISBN": "978-2-7056-8802-8",
+    "publisher-place": "Paris",
+    "title": "La valeur heuristique de la littérature numérique",
+    "author": [
+      {
+        "family": "Bouchardon",
+        "given": "Serge"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2014",
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Vissac2018",
+    "type": "article-journal",
+    "container-title": "Revue de recherches en littératie médiatique multimodale",
+    "DOI": "https://doi.org/10.7202/1050943ar",
+    "title": "Kalces",
+    "URL": "https://www.erudit.org/en/journals/rechercheslmm/2018-v8-rechercheslmm03931/1050943ar/",
+    "volume": "8",
+    "author": [
+      {
+        "family": "Vissac",
+        "given": "Guillaume"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2018",
+          8,
+          20
+        ]
+      ]
+    }
+  }
+]

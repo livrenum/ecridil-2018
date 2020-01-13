@@ -1,0 +1,1300 @@
+[
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/DEQWQE3Y",
+		"type": "book",
+		"title": "L’innovation ordinaire",
+		"publisher": "Presses Universitaires de France",
+		"source": "www.cairn.info",
+		"abstract": "« L’innovation n’est ni une bonne ni une mauvaise chose, elle est une “destruction créatrice”. Elle détruit l’ancien pour créer le nouveau […]. Cette circonstance de perpétuel changement représente la nouvelle donne du fonctionnement des firmes […]. La nouveauté, pour “prendre”, ne doit pas être en surplomb par rapport aux pratiques sociales. Elle doit faire l’objet d’une appropriation. Cette idée est majeure pour les sciences sociales comme pour les pratiques gestionnaires. L’innovation représente ainsi une activité collective. »  Les entreprises contemporaines se caractérisent en premier lieu par le mouvement, résultat d’un flux permanent d’innovations produisant à la fois engagement et lassitude, remise en ordre et déviance. Cette expérience bouleverse les cadres sociaux convenus et amène les acteurs à se mettre à distance de leurs investissements cognitifs et affectifs. En choisissant d’agir ou de se mettre en retrait, ceux-ci deviennent ambivalents. Le sociologue, quant à lui, cherche à comprendre, non plus le fonctionnement des entreprises, mais ce qui leur permet de « tenir » dans ces transformations et contradictions permanentes.",
+		"URL": "https://www.cairn.info/l-innovation-ordinaire--9782130583530.htm",
+		"ISBN": "978-2-13-058353-0",
+		"note": "DOI: 10.3917/puf.alter.2010.01",
+		"language": "fr",
+		"author": [
+			{
+				"family": "Alter",
+				"given": "Norbert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/CJXEPMQY",
+		"type": "article-journal",
+		"title": "Écrire numérique : du texte littéraire entendu comme processus",
+		"container-title": "Itinéraires. Littérature, textes, cultures",
+		"issue": "1",
+		"author": [
+			{
+				"family": "Audet",
+				"given": "René"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/J8ZS4TF4",
+		"type": "book",
+		"title": "Makers",
+		"publisher": "Seuil",
+		"publisher-place": "Paris",
+		"edition": "Sciences humaines",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Berrebi-Hoffmann",
+				"given": "Isabelle"
+			},
+			{
+				"family": "Bureau",
+				"given": "Marie-Christine"
+			},
+			{
+				"family": "Lallement",
+				"given": "Marie-Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/XGVE9KBU",
+		"type": "chapter",
+		"title": "Éthique et complexité",
+		"container-title": "Complexité et organisations",
+		"publisher": "Eyrolles",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Bibard",
+				"given": "Laurent"
+			}
+		],
+		"container-author": [
+			{
+				"family": "Bibard",
+				"given": "Laurent"
+			},
+			{
+				"family": "Morin",
+				"given": "Edgar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/FE2FBQ48",
+		"type": "chapter",
+		"title": "Manager l’inattendu : la complexité, un sensemaking distribué",
+		"container-title": "Complexité et organisations",
+		"publisher": "Eyrolles",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Bibard",
+				"given": "Laurent"
+			}
+		],
+		"container-author": [
+			{
+				"family": "Bibard",
+				"given": "Laurent"
+			},
+			{
+				"family": "Morin",
+				"given": "Edgar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/ZRSUMQD9",
+		"type": "book",
+		"title": "Protocoles éditoriaux: qu'est-ce que publier?",
+		"publisher": "Armand Colin",
+		"publisher-place": "Paris",
+		"source": "Open WorldCat",
+		"event-place": "Paris",
+		"ISBN": "978-2-200-28067-3",
+		"note": "OCLC: 858169065",
+		"title-short": "Protocoles éditoriaux",
+		"language": "French",
+		"editor": [
+			{
+				"family": "Bomsel",
+				"given": "Olivier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/6KEIEWZM",
+		"type": "book",
+		"title": "L'économie immatérielle: industries et marchés d'expériences",
+		"publisher": "Gallimard",
+		"publisher-place": "Paris",
+		"source": "Open WorldCat",
+		"event-place": "Paris",
+		"ISBN": "978-2-07-036024-6",
+		"note": "OCLC: 804867319",
+		"title-short": "L'économie immatérielle",
+		"language": "French",
+		"author": [
+			{
+				"family": "Bomsel",
+				"given": "Olivier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/DNHSPQXF",
+		"type": "article-journal",
+		"title": "Devenirs numériques de l’édition",
+		"container-title": "Sciences du Design",
+		"page": "27-33",
+		"volume": "2",
+		"issue": "8",
+		"author": [
+			{
+				"family": "Bourassa",
+				"given": "Renée"
+			},
+			{
+				"family": "Haute",
+				"given": "Lucille"
+			},
+			{
+				"family": "Rouffineau",
+				"given": "Gilles"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/UJV7A9QP",
+		"type": "book",
+		"title": "Quelles humanités numériques pour l'éducation ?",
+		"publisher": "Éditions MkF",
+		"publisher-place": "Paris",
+		"source": "journals.openedition.org",
+		"event-place": "Paris",
+		"abstract": "De nombreux enseignants-chercheurs en Sciences de l’information et de la communication ont depuis longtemps organisé leurs enseignements autour de l’exploration des processus de communication numérique, ainsi que de la maîtrise des technologies elles-mêmes. Légitimement, ces chercheurs s’interrogent sur l’émergence récente d’une pédagogie issue du courant des Humanités numériques (et de ses déclinaisons : Digital Studies et autres Humanités digitales). D’emblée, il convient de dire que les SI...",
+		"URL": "http://journals.openedition.org/rfsic/2652",
+		"language": "fr",
+		"author": [
+			{
+				"family": "Bourgatte",
+				"given": "Michaël"
+			}
+		],
+		"editor": [
+			{
+				"family": "Ferloni",
+				"given": "Mikaël"
+			},
+			{
+				"family": "Laurent",
+				"given": "Tessier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/4HVZ5GG2",
+		"type": "book",
+		"title": "Digital Humanities",
+		"publisher": "The MIT Press",
+		"publisher-place": "Cambridge",
+		"event-place": "Cambridge",
+		"author": [
+			{
+				"family": "Burdick",
+				"given": "Anne"
+			},
+			{
+				"family": "Drucker",
+				"given": "Johanna"
+			},
+			{
+				"family": "Lunenfeld",
+				"given": "Peter"
+			},
+			{
+				"family": "Presner",
+				"given": "Todd"
+			},
+			{
+				"family": "Schnapp",
+				"given": "Jeffrey"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/J8R6FUZU",
+		"type": "article-journal",
+		"title": "Digital learning, digital scholarship and design thinking",
+		"container-title": "Design Studies",
+		"issue": "32",
+		"author": [
+			{
+				"family": "Burdick",
+				"given": "Anne"
+			},
+			{
+				"family": "Willis",
+				"given": "Holly"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/637EGN9V",
+		"type": "book",
+		"title": "Dictionnaire encyclopédique de l’information et de la documentation",
+		"publisher": "Nathan",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"editor": [
+			{
+				"family": "Cacaly",
+				"given": "Serge"
+			},
+			{
+				"family": "Le Coadic",
+				"given": "Yves F."
+			},
+			{
+				"family": "Melot",
+				"given": "Michel"
+			},
+			{
+				"family": "Monart",
+				"given": "Paul-Dominique"
+			},
+			{
+				"family": "Sutter",
+				"given": "Éric"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/USFXIYA6",
+		"type": "paper-conference",
+		"title": "Édition et publication des contenus : regard transversal sur la transformation des modèles",
+		"publisher-place": "Marseille",
+		"event": "Séminaire INRIA. Publier, éditer, éditorialiser : nouveaux enjeux de la production numérique",
+		"event-place": "Marseille",
+		"author": [
+			{
+				"family": "Chartron",
+				"given": "Ghislaine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/L4MPGV7R",
+		"type": "book",
+		"title": "Qu'est-ce que le numérique ?",
+		"publisher": "Presses Universitaires de France",
+		"publisher-place": "Paris",
+		"source": "www.cairn.info",
+		"event-place": "Paris",
+		"abstract": "Le numérique est un mot qui est passé rapidement dans notre vocabulaire. Mais que désigne-t-il à proprement parler ? Comment comprendre et définir cet objet, ce phénomène qui semble destiné à transformer notre quotidien ? Les dictionnaires restent un peu perplexes devant le numérique ; leurs définitions ne renvoient souvent qu’à l’aspect étymologique et technique – un secteur associé au calcul, au nombre –, et surtout aux dispositifs opposés à l’analogique. Dans notre usage, le numérique désigne bien autre chose. C’est pourquoi la question de sa définition mérite d’être posée, car elle soulève une difficulté particulière. Une difficulté à la fois épistémologique, institutionnelle et sociale, voire économique et politique, mais qui permet précisément de cerner la complexité du numérique dans son déploiement actuel.",
+		"URL": "https://www.cairn.info/qu-est-ce-que-le-numerique--9782130627180.htm",
+		"ISBN": "978-2-13-062718-0",
+		"note": "DOI: 10.3917/puf.doue.2013.01",
+		"language": "fr",
+		"author": [
+			{
+				"family": "Doueihi",
+				"given": "Milad"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/7FCN8DXK",
+		"type": "article-journal",
+		"title": "The Core of Design Thinking and Its Application",
+		"container-title": "Design Studies",
+		"page": "52-132",
+		"volume": "6",
+		"issue": "32",
+		"author": [
+			{
+				"family": "Dorst",
+				"given": "Kees"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/KS3QUAFI",
+		"type": "book",
+		"title": "Lector in fabula. Le rôle du lecteur",
+		"publisher": "Le livre de poche",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Eco",
+				"given": "Umberto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/5V2QRLSS",
+		"type": "book",
+		"title": "Serendipities: Language and Lunacy",
+		"publisher": "Columbia University Press",
+		"publisher-place": "Columbia",
+		"event-place": "Columbia",
+		"author": [
+			{
+				"family": "Eco",
+				"given": "Umberto"
+			}
+		],
+		"translator": [
+			{
+				"family": "Weaver",
+				"given": "William"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/2DK8U7GM",
+		"type": "article-journal",
+		"title": "Repenser les chaînes de publication par l’intégration des pratiques du développement logiciel",
+		"container-title": "Sciences du Design",
+		"page": "45-56",
+		"volume": "8",
+		"issue": "2",
+		"author": [
+			{
+				"family": "Fauchié",
+				"given": "Antoine"
+			},
+			{
+				"family": "Parisot",
+				"given": "Thomas"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/SVV25GDW",
+		"type": "book",
+		"title": "Planned Obsolescence. Publishing, Technology, and the Future of the Academy.",
+		"publisher": "New York University Publisher",
+		"publisher-place": "New York",
+		"event-place": "New York",
+		"author": [
+			{
+				"family": "Fitzpatrick",
+				"given": "Kathleen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/V4DGNRLG",
+		"type": "book",
+		"title": "The Aesthetics of Design.",
+		"publisher": "Oxford University Press",
+		"publisher-place": "New York",
+		"source": "Open WorldCat",
+		"event-place": "New York",
+		"abstract": "'The Aesthetics of Design' offers the first full treatment of design in the field of philosophical aesthetics, challenging the discipline to broaden its scope to include the quotidian objects and experiences of our everyday lives and concerns. In doing so it contributes to the growing field of everyday aesthetics.",
+		"URL": "http://site.ebrary.com/id/10720685",
+		"ISBN": "978-0-19-933323-3",
+		"note": "OCLC: 846652653",
+		"language": "English",
+		"author": [
+			{
+				"family": "Forsey",
+				"given": "Jane"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/R5EDXNZS",
+		"type": "article-journal",
+		"title": "A (cybernetic) musing: Design and cybernetics",
+		"container-title": "Cybernetics & Human Knowing",
+		"page": "175-186",
+		"volume": "16",
+		"issue": "31",
+		"author": [
+			{
+				"family": "Glanville",
+				"given": "Ranulph"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/UMMJ5U7S",
+		"type": "article-journal",
+		"title": "Comment le design intuitif communique-t-il ?",
+		"container-title": "MEI - Information et médiation",
+		"issue": "40",
+		"author": [
+			{
+				"family": "Guibourgué",
+				"given": "Jérôme"
+			},
+			{
+				"family": "Moutat",
+				"given": "Audrey"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/U934LUHZ",
+		"type": "article-journal",
+		"title": "L’énonciation éditoriale dans les écrits d’écran",
+		"container-title": "Communication et langages",
+		"page": "2-15",
+		"issue": "145",
+		"author": [
+			{
+				"family": "Jeanneret",
+				"given": "Yves"
+			},
+			{
+				"family": "Souchier",
+				"given": "Emmanuel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/GLAL4RN9",
+		"type": "chapter",
+		"title": "The Ten Faces of Innovation",
+		"container-title": "The Ten Faces of Innovation",
+		"publisher": "Currency/Doubleday",
+		"publisher-place": "New York",
+		"event-place": "New York",
+		"author": [
+			{
+				"family": "Kelley",
+				"given": "Tom"
+			},
+			{
+				"family": "Littman",
+				"given": "Jonathan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/986T8P8P",
+		"type": "article-journal",
+		"title": "An Attempt at a “Compositionist Manifesto”",
+		"container-title": "New Literary History",
+		"page": "47-190",
+		"issue": "41",
+		"author": [
+			{
+				"family": "Latour",
+				"given": "Bruno"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/5BJGCEF4",
+		"type": "book",
+		"title": "Théorie, méthodes et organisations de la conception",
+		"collection-title": "Sciences de la conception",
+		"publisher": "Presses des Mines",
+		"publisher-place": "Paris",
+		"number-of-pages": "462",
+		"edition": "1",
+		"source": "Amazon",
+		"event-place": "Paris",
+		"abstract": "Cet ouvrage présente les cours de conception créés et dispensés à MINES ParisTech depuis 20 ans. Il répond à un double objectif : préparer les futurs concepteurs (ingénieurs, designers, scientifiques,...) aux mutations à l’½uvre dans l’organisation de l’innovation dans les entreprises - grandes ou petites ; et développer un cursus de formation intégrant les plus récentes avancées en termes de théories et de méthodes de conception. Développé en partenariat avec les grandes firmes innovantes et adossé à un programme de recherche fondamentale, cet ouvrage traite des théories, des méthodes et des organisations de la conception. Pour parvenir à une synthèse claire et rigoureuse des travaux les plus récents menés dans de nombreux domaines (créativité, organisation, économie, mathématiques,...), l'ouvrage part des théories et des modèles formels de la conception et aborde ensuite les méthodes et les organisations des deux régimes de conception qui coexistent aujourd'hui dans l'industrie contemporaine : la conception réglée et la conception innovante. Ces fondations théoriques permettent aussi de dépasser les clivages disciplinaires (management, sciences de l'ingénieur, économie,...) et les clivages professionnels (ingénieurs, designers, commerciaux,...) en offrant une compréhension partagée de formes d'action collective critiques pour les industries et les sociétés contemporaines.",
+		"ISBN": "978-2-35671-140-3",
+		"language": "Français",
+		"author": [
+			{
+				"family": "Hatchuel",
+				"given": "Armand"
+			},
+			{
+				"family": "Weil",
+				"given": "Benoit"
+			},
+			{
+				"family": "Le Masson",
+				"given": "Pascal"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/3S87VC86",
+		"type": "chapter",
+		"title": "Transformer l’expérience humaine en science avec conscience",
+		"container-title": "Complexité et organisations: Faire face aux défis de demain",
+		"publisher": "Eyrolles",
+		"publisher-place": "Paris",
+		"source": "Amazon",
+		"event-place": "Paris",
+		"abstract": "Notre monde se complexifie de jour en jour sur tous les plans – économique et financier, géologique et géopolitique. Cet ouvrage propose, par le biais de contributions de chercheurs en sciences de gestion, de s'interroger sur cette complexité croissante. Il présente la manière dont, au sein de l'une des institutions d'enseignement des affaires les plus importantes en France et dans le monde, est mené l'effort d'une connaissance de la complexité de la vie économique et sociale fertile et revigorante pour tout le monde. Laquelle complexité est, comme le souligne avec fermeté Edgar Morin, non pas une notion solution ou réponse, mais une notion \" problème \" ou une notion qui implique un engagement déterminé pour l'avenir.",
+		"ISBN": "978-2-212-56837-0",
+		"language": "Français",
+		"author": [
+			{
+				"family": "Le Moigne",
+				"given": "Jean-Louis"
+			}
+		],
+		"container-author": [
+			{
+				"family": "Bibard",
+				"given": "Laurent"
+			},
+			{
+				"family": "Morin",
+				"given": "Edgard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/48IJY62N",
+		"type": "book",
+		"title": "La pensée sauvage",
+		"publisher": "Le livre de poche",
+		"publisher-place": "Paris",
+		"source": "Open WorldCat",
+		"event-place": "Paris",
+		"ISBN": "978-2-266-03816-4",
+		"note": "OCLC: 718475286",
+		"language": "French",
+		"author": [
+			{
+				"family": "Lévi-Strauss",
+				"given": "Claude"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1962"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/Y4U33F75",
+		"type": "article-journal",
+		"title": "Responsive Web Design",
+		"container-title": "A List Apart",
+		"volume": "306",
+		"author": [
+			{
+				"family": "Marcotte",
+				"given": "Ethan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/X6BZNR7T",
+		"type": "book",
+		"title": "Design et humanités numériques",
+		"collection-title": "Esthétique des données",
+		"publisher": "B42",
+		"publisher-place": "Paris",
+		"number-of-pages": "152",
+		"source": "Amazon",
+		"event-place": "Paris",
+		"abstract": "En étudiant des opérations et des systèmes techniques potentiellement ouverts à la recherche, cet essai interroge le rapport du design aux « humanités numériques » (digital humanities) qui se développent, dans le contexte francophone, depuis le milieu des années 2000. En quoi les environnements numériques contemporains actualisent-ils les modes de production et de transmission des savoirs ? Quelle est la place des designers dans des projets relevant des sciences humaines et sociales ? De la modélisation des connaissances à l'injonction à l'innovation et à la créativité, du design d'expérience aux conditionnements techniques, de l'étude de la rationalité numérique aux reconfigurations de la subjectivité, ce parcours réflexif montre que l'industrie des programmes, chaque jour un peu plus puissante, n'a pas épuisé tout le champ des possibles. En interrogeant et en révélant l'environnement technique dans lequel les humanités numériques opèrent, le travail des techniques numériques par le design montre ainsi qu'il reste de la place pour d'autres modulations, d'autres sensibilités, d'autres cultures.",
+		"ISBN": "978-2-917855-72-0",
+		"language": "Français",
+		"author": [
+			{
+				"family": "Masure",
+				"given": "Anthony"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/TY7SSKDQ",
+		"type": "book",
+		"title": "Design : introduction à l'histoire d'une discipline",
+		"publisher": "Le livre de poche",
+		"publisher-place": "Paris",
+		"number-of-pages": "208",
+		"source": "Amazon",
+		"event-place": "Paris",
+		"abstract": "C'est avec la rationalisation de l'organisation de la cuisine, pensée en 1841 aux États-Unis, que le design trouve son origine : l'agencement de la maison et des tâches à y accomplir doit être modifié rationnellement pour non seulement soulager le travail des femmes mais aussi démontrer le bien-fondé de l'abolition de l'esclavage. Dès sa naissance, le design affirme une vision politique du monde.  Pourtant c'est l'Exposition universelle de Londres de 1850 qui lance le design en tant que discipline à part entière. Mi-XIXe, la révolution industrielle européenne pousse les Britanniques à s'interroger les premiers sur les conséquences du progrès technique. Ancré dans l'économie, le design apparaît comme une réponse à l'industrialisation et à ses conséquences désastreuses sur le plan social : il entreprend d'abord la réconciliation entre l'art et la vie avant de se proposer de réformer les champs politique, social et artistique. En tentant de donner des formes au progrès contemporain et industriel, l'histoire du design se confond dès lors avec le mouvement moderne et ses utopies, devenant l'agent le plus visible d'un bonheur collectif jusqu'à nos jours... INÉDIT",
+		"ISBN": "978-2-266-19032-9",
+		"title-short": "Design",
+		"language": "Français",
+		"author": [
+			{
+				"family": "Midal",
+				"given": "Alexandra"
+			},
+			{
+				"family": "Laurent",
+				"given": "François"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/INR9IW3E",
+		"type": "paper-conference",
+		"title": "Les modèles socio-économiques contestés par les modèles d’affaires",
+		"event": "OMIC - Observatoire des mutations des industries culturelles",
+		"author": [
+			{
+				"family": "Miège",
+				"given": "Bertrand"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/AMWYV7TE",
+		"type": "chapter",
+		"title": "Complexité restreinte, complexité générale",
+		"container-title": "Complexité et organisations",
+		"publisher": "Eyrolles",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Morin",
+				"given": "Edgar"
+			}
+		],
+		"editor": [
+			{
+				"family": "Bibard",
+				"given": "Laurent"
+			},
+			{
+				"family": "Morin",
+				"given": "Edgar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/I8BSDQEF",
+		"type": "chapter",
+		"title": "Le comité-sphinx",
+		"container-title": "Complexité et organisations",
+		"publisher": "Eyrolles",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Morin",
+				"given": "Edgar"
+			}
+		],
+		"editor": [
+			{
+				"family": "Bibard",
+				"given": "Laurent"
+			},
+			{
+				"family": "Morin",
+				"given": "Edgar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/34Z89N8C",
+		"type": "book",
+		"title": "Les idées: leur habitat, leur vie, leurs mœurs, leur organisation",
+		"collection-title": "La Méthode 4",
+		"publisher": "Seuil",
+		"publisher-place": "Paris",
+		"source": "Open WorldCat",
+		"event-place": "Paris",
+		"ISBN": "978-2-02-013669-3",
+		"note": "OCLC: 27188291",
+		"title-short": "Les idées",
+		"language": "French",
+		"author": [
+			{
+				"family": "Morin",
+				"given": "Edgar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/9LSXYI4E",
+		"type": "book",
+		"title": "La vie de la vie",
+		"collection-title": "La Méthode 2",
+		"publisher": "Seuil",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"language": "French",
+		"author": [
+			{
+				"family": "Morin",
+				"given": "Edgar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/QF69CWE8",
+		"type": "article-journal",
+		"title": "The thinking eye: visual re-cognition in design emergence",
+		"container-title": "Design Studies",
+		"issue": "23",
+		"author": [
+			{
+				"family": "Oxman",
+				"given": "Rivka"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/AW8LTK3V",
+		"type": "article-journal",
+		"title": "Models of Enchantment and the Enchantment of Models",
+		"container-title": "Journal of Business Anthropology",
+		"page": "158-164",
+		"volume": "1",
+		"issue": "4",
+		"author": [
+			{
+				"family": "Roberts",
+				"given": "Simon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/EP4GX8IN",
+		"type": "article-journal",
+		"title": "L’effectuation, une approche pragmatique et pragmatiste de l’entrepreneuriat",
+		"container-title": "Revue de l’Entrepreneuriat",
+		"page": "67-72",
+		"volume": "10",
+		"issue": "3",
+		"author": [
+			{
+				"family": "Sarasvathy",
+				"given": "Saras"
+			},
+			{
+				"family": "Germain",
+				"given": "Olivier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/ANTU85ML",
+		"type": "article-journal",
+		"title": "Causation and Effectuation: Toward a Theoretical Shift from Economic Inevitability to Entrepreneurial Contingency",
+		"container-title": "Academy of Management Review",
+		"volume": "26",
+		"issue": "2",
+		"author": [
+			{
+				"family": "Sarasvathy",
+				"given": "Saras"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/ZV5XHLT5",
+		"type": "chapter",
+		"title": "Knowledge Design. Incubating new knowledge forms /genres / spaces in the laboratory of the digital humanities",
+		"container-title": "Herrenhausen lectures",
+		"publisher": "VolkswagenStiftung",
+		"publisher-place": "Hannover",
+		"event-place": "Hannover",
+		"author": [
+			{
+				"family": "Schnapp",
+				"given": "Jeffrey"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/MSDRS5VR",
+		"type": "article-journal",
+		"title": "L’image du texte pour une théorie de l’énonciation éditoriale",
+		"container-title": "Les cahiers de médiologie",
+		"volume": "13745",
+		"issue": "6",
+		"author": [
+			{
+				"family": "Souchier",
+				"given": "Emmanuël"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/CRMQIBTC",
+		"type": "article-journal",
+		"title": "La mémoire de l’oubli : éloge de l’aliénation",
+		"container-title": "Communication et langages",
+		"page": "3-19",
+		"volume": "172",
+		"author": [
+			{
+				"family": "Souchier",
+				"given": "Emmanuël"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/8IU5KF2R",
+		"type": "book",
+		"title": "Design et innovation dans la chaîne du livre: Ecrire, éditer, lire à l'ère numérique",
+		"publisher": "Presses Universitaires de France",
+		"number-of-pages": "256",
+		"edition": "1",
+		"source": "Amazon",
+		"abstract": "L’objectif de cet ouvrage est double : d’une part, repenser les enjeux, modèles et usages d’écriture, d’édition et de lecture en termes d’innovation sociale ; d’autre part, contribuer aux humanités numériques par la recherche en design et en sciences de l’information et de la communication. À partir des trois usages fondamentaux de la chaîne du livre sont présentées différentes formes d’édition de la recherche (chapitres, restitutions d’ateliers et des débats participatifs, sélection de tweets) permettant de repenser l’écriture, l’édition et la lecture à l’ère du numérique. Quels sont les mécanismes et enjeux du geste technique d’écrire ? Qu’est-ce que « publier » dans une société numérique ? Comment le numérique transforme-t-il l’idée et l’acte d’écrire ? Dans quelle mesure les interfaces numériques refaçonnent-elles les activités d’écriture et de lecture à l’écran ? Différents contenus médiatiques sont proposés au lecteur pour augmenter l’expérience de lecture de l’ouvrage.",
+		"title-short": "Design et innovation dans la chaîne du livre",
+		"language": "Français",
+		"author": [
+			{
+				"family": "Catoir-Brisson",
+				"given": "Marie-Julie"
+			},
+			{
+				"family": "Vial",
+				"given": "Stéphane"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					4,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/BN9H3DKM",
+		"type": "article-journal",
+		"title": "Le tournant design des humanités numériques",
+		"container-title": "Revue française des sciences de l’information et de la communication",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Vial",
+				"given": "Stéphane"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/3H7PURW4",
+		"type": "article-journal",
+		"title": "Qu’est-ce que l’éditorialisation ?",
+		"container-title": "Sens Public",
+		"author": [
+			{
+				"family": "Vitali Rosati,",
+				"given": "Marcello"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/YWPCHNWM",
+		"type": "article-journal",
+		"title": "Défense et illustration des sciences de la communication, Protection and promotion of communication sciences",
+		"container-title": "Hermès, La Revue",
+		"page": "13-21",
+		"volume": "1",
+		"issue": "71",
+		"author": [
+			{
+				"family": "Wolton",
+				"given": "Dominique"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/NV26SDSU",
+		"type": "article-journal",
+		"title": "Diversité des ontologies de la communication et de l’action collective",
+		"container-title": "Revue française des sciences de l’information et de la communication",
+		"issue": "9",
+		"author": [
+			{
+				"family": "Zackland",
+				"given": "Manuel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/YM5GE6BQ",
+		"type": "chapter",
+		"title": "Design et création Vers une théorie interdisciplinaire radicale du Design",
+		"container-title": "Wikicréation",
+		"author": [
+			{
+				"family": "Zackland",
+				"given": "Manuel"
+			}
+		],
+		"container-author": [
+			{
+				"family": "Darras",
+				"given": "Bernard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	}
+]

@@ -1,0 +1,206 @@
+[
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/CYEEJQ4S",
+		"type": "book",
+		"title": "L’écran comme mobile",
+		"publisher": "Éditions Mamco",
+		"publisher-place": "Genève",
+		"event-place": "Genève",
+		"author": [
+			{
+				"family": "Boissier",
+				"given": "Jean-Louis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/B3TI4CPW",
+		"type": "chapter",
+		"title": "L’édition du texte informatisé, une pratique de lecture.",
+		"container-title": "Design & innovation dans la chaîne du livre. Écrire, éditer, lire à l’ère du numérique",
+		"publisher": "Presses universitaires de France",
+		"publisher-place": "Paris",
+		"page": "115-128",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Candel",
+				"given": "Étienne"
+			}
+		],
+		"collection-editor": [
+			{
+				"family": "Vial",
+				"given": "Stéphane"
+			},
+			{
+				"family": "Catoir-Brisson",
+				"given": "Marie-Julie"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/KKS9VGAI",
+		"type": "book",
+		"title": "Back Office, 2. Penser classer documenter",
+		"publisher": "2018",
+		"publisher-place": "Paris",
+		"edition": "Éditions B42",
+		"event-place": "Paris",
+		"author": [
+			{
+				"literal": "Collectif"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/APMX7AK3",
+		"type": "book",
+		"title": "Dispositifs interactifs et installations situées",
+		"publisher": "Presses universitaires de Rennes",
+		"publisher-place": "Rennes",
+		"event-place": "Rennes",
+		"author": [
+			{
+				"family": "Guelton",
+				"given": "Bernard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/W2UJJIDE",
+		"type": "book",
+		"title": "Pour une esthétique de la réception",
+		"publisher": "Gallimard",
+		"publisher-place": "2010",
+		"event-place": "2010",
+		"author": [
+			{
+				"family": "Jauss",
+				"given": "Hans Robert"
+			}
+		],
+		"issued": {
+			"literal": "Paris"
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/SY77PMRB",
+		"type": "book",
+		"title": "The imaginary app",
+		"publisher": "MIT Press",
+		"publisher-place": "Cambridge",
+		"event-place": "Cambridge",
+		"author": [
+			{
+				"family": "Miller",
+				"given": "Paul"
+			}
+		],
+		"collection-editor": [
+			{
+				"family": "Matviyenko",
+				"given": "Sviltana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/9Y8EGARU",
+		"type": "chapter",
+		"title": "Deux modèles d’installation située entre 1060 et 1990. Interfaces-Mondes, notes sur les deux modèles d’installation située",
+		"container-title": "Dispositifs interactifs et interactions situées",
+		"publisher": "Presses universitaires de Rennes",
+		"publisher-place": "Rennes",
+		"page": "37-56",
+		"event-place": "Rennes",
+		"author": [
+			{
+				"family": "Quinz",
+				"given": "Emmanuele"
+			}
+		],
+		"collection-editor": [
+			{
+				"family": "Guelton",
+				"given": "Bernard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/VFSKYDJP",
+		"type": "book",
+		"title": "Éditions off-line. Projet critique de publications numériques 1989-2001",
+		"publisher": "Éditions B42",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Rouffineau",
+				"given": "Gilles"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/xoMtnVMt/items/PZ4AHYTP",
+		"type": "book",
+		"title": "Qu’est-ce que la littérature?",
+		"publisher": "Gallimard",
+		"publisher-place": "Paris",
+		"event-place": "Paris",
+		"author": [
+			{
+				"family": "Sartre",
+				"given": "Jean-Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	}
+]

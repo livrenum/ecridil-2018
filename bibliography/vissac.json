@@ -1,0 +1,26 @@
+[
+	{
+		"id": "http://zotero.org/groups/2305940/items/KDUZJ2KY",
+		"type": "article-journal",
+		"container-title": "Revue de recherches en littératie médiatique multimodale",
+		"DOI": "https://doi.org/10.7202/1050943ar",
+		"title": "Kalces",
+		"URL": "https://www.erudit.org/en/journals/rechercheslmm/2018-v8-rechercheslmm03931/1050943ar/",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Vissac",
+				"given": "Guillaume"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					8,
+					20
+				]
+			]
+		}
+	}
+]
