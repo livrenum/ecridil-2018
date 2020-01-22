@@ -80,11 +80,11 @@
     "type": "webpage",
     "container-title": "Wki UQAM",
     "genre": "Wiki",
-    "title": "Wiki du LATTICE",
+    "title": "Wiki du Laboratoire de recherche sur la découvrabilité et les transformations des industries culturelles à l’ère du commerce électronique",
     "URL": "https://wiki.uqam.ca/display/CEIMLAT/Accueil+LATICCE",
     "author": [
       {
-        "family": "Laboratoire de recherche sur la découvrabilité et les transformations des industries culturelles à l’ère du commerce électronique",
+        "family": "LATTICE",
         "given": ""
       }
     ],
