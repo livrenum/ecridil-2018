@@ -41,8 +41,8 @@
       {{- $reference := . -}}
 
       {{- if not $currentRef.author -}}
-      {{ errorf "This publication has no author: (id: %s)" $currentRef.id }}
-      {{- end -}}
+      <span rel="noauthor">S. A.</span>
+      {{- else -}}
       {{- range first 1 $currentRef.author }}
       {{- $author := . -}}
       <span itemprop="author" itemscope itemtype="https://schema.org/Person">
@@ -56,6 +56,7 @@
       {{- end -}}
       {{ if gt (len $currentRef.author) 1 }}
       <em>&amp; al.</em>
+      {{- end -}}
       {{- end }}
       {{ if and (isset $currentRef "issued") (isset $currentRef.issued "date-parts") }}
       {{/* range of dates */}}

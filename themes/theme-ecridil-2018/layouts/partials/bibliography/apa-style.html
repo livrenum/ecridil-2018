@@ -15,6 +15,8 @@
 <span itemscope itemtype="https://schema.org/Book">
   {{/* BEGIN author part */}}
   {{ $authors := .author }}
+  {{- if not $authors -}}
+  {{- else -}}
   {{- $totalAuthors := len $authors -}}
   {{- range $authorIndex, $author := .author -}}
   <span itemprop="author" itemscope itemtype="https://schema.org/Person">
@@ -33,6 +35,7 @@
   {{- if and (gt $totalAuthors 1) (ne $totalAuthors (add $authorIndex 1) ) -}}, 
   {{ end -}}
   {{ if eq $totalAuthors (add $authorIndex 2) -}}&amp; {{ end -}}{{/* Last name has ampersand */}}
+  {{- end -}}
   {{- end -}}
   {{/* END author part */}}
 
@@ -106,6 +109,7 @@
 <span itemscope itemtype="https://schema.org/Book">
   {{/* BEGIN author part */}}
   {{ $authors := .author }}
+  {{- if $authors -}}
   {{- $totalAuthors := len $authors -}}
   {{- range $authorIndex, $author := .author -}}
   <span itemprop="author" itemscope itemtype="https://schema.org/Person">
@@ -125,6 +129,7 @@
   {{- if and (gt $totalAuthors 1) (ne $totalAuthors (add $authorIndex 1) ) -}}, 
   {{ end -}}
   {{ if eq $totalAuthors (add $authorIndex 2) -}}&amp; {{ end -}}{{/* Last name has ampersand */}}
+  {{- end -}}
   {{- end -}}
   {{/* END author part */}}
 

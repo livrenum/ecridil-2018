@@ -1,5 +1,57 @@
 [
   {
+    "id": "PoirierGenet2014",
+    "type": "chapter",
+    "collection-title": "Parcours numérique",
+    "container-title": "Pratiques de l’édition numérique",
+    "event-place": "Montréal",
+    "ISBN": "978-2-8218-5072-9",
+    "page": "15-29",
+    "publisher": "Presses de l’Université de Montréal",
+    "publisher-place": "Montréal",
+    "source": "OpenEdition Books",
+    "title": "Chapitre 1. La fonction éditoriale et ses défis",
+    "URL": "http://books.openedition.org/pum/312",
+    "author": [
+      {
+        "family": "Poirier",
+        "given": "Patrick"
+      },
+      {
+        "family": "Genêt",
+        "given": "Pascal"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Vitali-Rosati",
+        "given": "Marcello"
+      },
+      {
+        "family": "Sinatra",
+        "given": "Michael E."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          1,
+          22
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2014",
+          9,
+          26
+        ]
+      ]
+    }
+  },
+  {
     "id": "DeHaro2011",
     "type": "post-weblog",
     "abstract": "Internet n'est pas absent de la littérature contemporaine, mais elle doit se réinventer (et s'augmenter) pour l'intégrer. Quelques pionniers ont déjà commencé.",
@@ -191,7 +243,7 @@
     "URL": "http://souris-grise.fr/2014-le-temps-des-annees-numeriques-folles/",
     "author": [
       {
-        "literal": "La Souris Grise"
+        "family": "La Souris Grise"
       }
     ],
     "issued": {
@@ -214,8 +266,8 @@
     "journalAbbreviation": "rechercheslmm",
     "language": "fr",
     "source": "DOI.org (Crossref)",
-    "title": "REMÉDIATISER LE PATRIMOINE LITTÉRAIRE À TRAVERS LE LIVRE ENRICHI : QUELLES EXPÉRIENCES DE LECTURE ?",
-    "title-short": "REMÉDIATISER LE PATRIMOINE LITTÉRAIRE À TRAVERS LE LIVRE ENRICHI",
+    "title": "Remédiatiser le patrimoine littéraire à travers le livre enrichi : quelles expérienes de lecture ?",
+    "title-short": "Remédiatiser le patrimoine littéraire à travers le livre enrichi",
     "URL": "http://id.erudit.org/iderudit/1050941ar",
     "volume": "8",
     "author": [
@@ -359,7 +411,12 @@
           "2017"
         ]
       ]
-    }
+    },
+    "author": [
+      {
+        "family": "Statista"
+      }
+    ]
   },
   {
     "id": "Bouchardon2014",

@@ -451,6 +451,22 @@ body {
 .hybritexte-page {
   &__header {
 //    min-height: calc(100vh - #{$navbar-height});
+    
+    &-image-container {
+      padding-bottom:  50%;
+      @media screen and (min-width: $tablet) {
+        padding-bottom:  33%;
+      }
+      position: relative;
+      overflow: hidden;
+      
+      img {
+        position: absolute;
+        object-fit: cover;
+        width: 100%;
+        height: auto;
+      }
+    }
 
     &__title {
 
@@ -480,18 +496,18 @@ body {
       z-index: 1;
       margin-bottom: .5rem;
 
-      margin-left: 1.28em; // must match pseudo-element negative left
+      margin-left: 0.95em; // must match pseudo-element negative left
 
       &::before {
         content: '';
-        height: 1.5em;
-        width: 1.5em;
+        height: 1.32em;
+        width: 1.32em;
         background-color: $paper-accent;
         position: absolute;
         bottom: -.1rem;
         z-index: -1;
 
-        left: -1.28em; // must match number margin-left
+        left: -0.95em; // must match number margin-left
       }
     }
 
