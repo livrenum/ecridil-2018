@@ -453,18 +453,23 @@ body {
 //    min-height: calc(100vh - #{$navbar-height});
     
     &-image-container {
-      padding-bottom:  50%;
-      @media screen and (min-width: $tablet) {
-        padding-bottom:  33%;
-      }
-      position: relative;
       overflow: hidden;
+      max-height: 50vh;
+      @media screen and (min-width: $tablet) {
+        max-height:  40vh;
+      }
       
       img {
-        position: absolute;
+        @supports (object-fit: cover) {
+          height: 50vh;
+
+          @media screen and (min-width: $tablet) {
+            height:  40vh;
+          }
+        }
         object-fit: cover;
         width: 100%;
-        height: auto;
+        display: block;
       }
     }
 
@@ -475,6 +480,8 @@ body {
       font-style: italic;
       line-height: 1.14;
       margin-bottom: 1rem;
+      padding-top: 0.9rem;
+      margin-top: 0;
 
       font-style: normal;
       font-weight: 500;
@@ -496,18 +503,18 @@ body {
       z-index: 1;
       margin-bottom: .5rem;
 
-      margin-left: 0.95em; // must match pseudo-element negative left
+      margin-left: 1.28em; // must match pseudo-element negative left
 
       &::before {
         content: '';
-        height: 1.32em;
-        width: 1.32em;
+        height: 1.5em;
+        width: 1.5em;
         background-color: $paper-accent;
         position: absolute;
-        bottom: -.1rem;
+        bottom: 0;
         z-index: -1;
 
-        left: -0.95em; // must match number margin-left
+        left: -1.28em; // must match number margin-left
       }
     }
 

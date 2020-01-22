@@ -11,6 +11,8 @@ abstract: >
 contributor:
   - id: mjahjah
   - id: cjacquot
+
+image: media/couverture.jpg
 ---
 
 {{< hl-augmentation "couverture" >}}

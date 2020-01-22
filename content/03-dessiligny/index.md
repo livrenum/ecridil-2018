@@ -10,6 +10,8 @@ abstract: >
   Le numérique invite à repenser la place du corps dans les dispositifs de lecture.
 contributor:
   - id: deseilligny
+
+image: media/couverture.jpg
 ---
 
 > Mais qu’est-ce que c’est que toute cette histoire de livres ?

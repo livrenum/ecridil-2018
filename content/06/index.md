@@ -11,6 +11,8 @@ abstract: >
 contributor:
   - id: bepron
   - id: cmuller
+
+image: media/couverture.jpg
 ---
 
 Depuis les travaux de l’anthropologue britannique Jack Goody {{< hl-cite "Goody1978" >}} sur l’écriture en tant que première « technologie de l’intellect » dans l’histoire des sociétés – avec le langage –, il semble évident que les interfaces d’édition sont des outils qui conditionnent notre façon de penser à travers l’écriture, c’est-à-dire une façon d’interagir, d’ordonner et de mettre en réseau notre pensée. Ce conditionnement, loin d’être une pure contrainte technique, peut se transformer en réelle opportunité dans la conception éditoriale du livre en contexte numérique. Au point de questionner, voire d’éclater le concept même de ce qui fait livre. Cette métamorphose du livre en « objet éditorial » numérique d’un nouveau type, un objet à lire, est au cœur du projet de recherche financé par l’ANR sur _HyperOtlet_ engagé par l’Enssib depuis 2017 avec le Centre Maurice Halbwachs (CNRS) qui est porteur du projet, en partenariat avec le laboratoire MICA (Université Bordeaux 3), le Mundaneum de Mons et la MSH-Paris Nord.
