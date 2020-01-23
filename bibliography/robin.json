@@ -1,0 +1,30 @@
+[
+	{
+		"id": "http://zotero.org/groups/2305940/items/E485VEU4",
+		"type": "book",
+		"event-place": "Paris",
+		"language": "French",
+		"note": "OCLC: 962020683",
+		"publisher": "La Documentation française",
+		"publisher-place": "Paris",
+		"source": "Open WorldCat",
+		"title": "Les livres dans l'univers numérique",
+		"author": [
+			{
+				"family": "Robin",
+				"given": "Christian"
+			},
+			{
+				"family": "Rouet",
+				"given": "François"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	}
+]

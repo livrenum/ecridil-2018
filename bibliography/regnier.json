@@ -1,0 +1,43 @@
+[
+	{
+		"id": "http://zotero.org/groups/2305940/items/E5R34HVL",
+		"type": "book",
+		"abstract": "À l'ère du numérique, l'avenir des formes traditionnelles de la culture, de la connaissance et de l'érudition se trouve mis en question. Le statut de l'écriture et de l'édition critique, héritées d'une longue tradition, évolue : l'autorité des objets culturels séculaires est remplacée par la création de nouveaux espaces et médias pour la connaissance. Voici une exploration de la manière dont la transition du manuscrit et de l'imprimé vers les diverses formes de remédiations, numériques et de présentations change les procédés utilisés par les éditeurs, chercheurs, pour gérer les problèmes pratiques de l'édition critique tout en générant diverses conceptions de la nature des textes et de leur transmission., Daniel Apollon, Philippe Régnier, Claire Belisle,",
+		"language": "fr",
+		"number-of-pages": "410",
+		"publisher": "L'Harmattan",
+		"title": "L'édition critique à l'ère numérique",
+		"author": [
+			{
+				"family": "Apollon",
+				"given": "Daniel"
+			},
+			{
+				"family": "Régnier",
+				"given": "Philippe"
+			},
+			{
+				"family": "Bélisle",
+				"given": "Claire"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					9,
+					25
+				]
+			]
+		}
+	}
+]

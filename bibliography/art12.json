@@ -1,463 +1,565 @@
 [
-	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/RA2NEGZ5",
-		"type": "chapter",
-		"title": "Read/Write Book : Le livre inscriptible",
-		"container-title": "Read/Write Book : Le livre inscriptible",
-		"collection-title": "Read/Write Book",
-		"publisher": "OpenEdition Press",
-		"publisher-place": "Marseille",
-		"page": "13–16",
-		"event-place": "Marseille",
-		"URL": "http://books.openedition.org/oep/136",
-		"ISBN": "978-2-8218-0952-9",
-		"title-short": "Read/Write Book",
-		"author": [
-			{
-				"family": "Dacos",
-				"given": "Marin"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2010",
-					3
-				]
-			]
-		},
-		"accessed": {
-			"date-parts": [
-				[
-					"2019",
-					9,
-					6
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/DLUU5FYR",
-		"type": "article-journal",
-		"title": "L’île des savoirs choisis. D’HyperNietzsche à ScholarSource : pour une infrastructure de recherche sur le Web",
-		"container-title": "Recherches & Travaux",
-		"page": "279–301",
-		"issue": "72",
-		"abstract": "Pour étudier les sources primaires nécessaires à ses travaux, un chercheur se rend habituellement dans des lieux d’archives ou dans des bibliothèques ; en bibliothèque il lit non seulement les sources primaires mais aussi les sources secondaires, revues, monographies, éditions critiques, qu’il peut dans un certain nombre de cas se procurer également chez les libraires ; les cours à l’université, les séminaires et les colloques lui donnent l’occasion d’échanger ses connaissances avec ses collè...",
-		"URL": "http://journals.openedition.org/recherchestravaux/121",
-		"ISSN": "0151-1874",
-		"title-short": "L’île des savoirs choisis. D’HyperNietzsche à ScholarSource",
-		"language": "fr",
-		"author": [
-			{
-				"family": "D’Iorio",
-				"given": "Paolo"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2008",
-					6
-				]
-			]
-		},
-		"accessed": {
-			"date-parts": [
-				[
-					"2019",
-					9,
-					6
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/8FIMTNDT",
-		"type": "article-journal",
-		"title": "La connaissance est un réseau",
-		"container-title": "Les Cahiers du numerique",
-		"page": "37–54",
-		"volume": "Vol. 10",
-		"issue": "3",
-		"URL": "https://www.cairn.info/revue-les-cahiers-du-numerique-2014-3-page-37.htm?contenu=resume",
-		"ISSN": "1622-1494",
-		"language": "fr",
-		"author": [
-			{
-				"family": "Grandjean",
-				"given": "Martin"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2014",
-					9
-				]
-			]
-		},
-		"accessed": {
-			"date-parts": [
-				[
-					"2019",
-					9,
-					6
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/YLA4G3QF",
-		"type": "chapter",
-		"title": "CLELIA : Un modèle documentaire et une plateforme de gestion de manuscrits",
-		"container-title": "Traitements et pratiques documentaires : vers un changement de paradigme ?",
-		"collection-title": "Sciences et techniques de l'information",
-		"publisher": "ADBS",
-		"page": "317–334",
-		"author": [
-			{
-				"family": "Lebarbé",
-				"given": "Thomas"
-			},
-			{
-				"family": "Meynard",
-				"given": "Cécile"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2008"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/J3NP4S55",
-		"type": "article-journal",
-		"title": "Nouvelles pratiques éditoriales, nouvelles lectures : les enjeux de l’édition électronique de manuscrits littéraires",
-		"container-title": "Mémoires du livre / Studies in Book Culture",
-		"volume": "1",
-		"issue": "1",
-		"abstract": "Les projets de valorisation de manuscrits de grands auteurs fleurissent sur la Toile. Outils de spécialistes ou vitrines pour le grand public, ces sites offrent diverses représentations du livre en sa genèse. Cette nouvelle jeunesse qu'apportent la numérisation et la transcription des manuscrits est génératrice de nouvelles pratiques et de nouveaux usages. Le manuscrit devient manipulable à l'envi pour l'oeil aguerri du littéraire, corpus pour le linguiste et objet de curiosité documenté pour l'amateur.",
-		"URL": "http://www.erudit.org/fr/revues/memoires/2009-v1-n1-memoires3559/038635ar/",
-		"ISSN": "1920-602X",
-		"title-short": "Nouvelles pratiques éditoriales, nouvelles lectures",
-		"language": "fr",
-		"author": [
-			{
-				"family": "Lebarbé",
-				"given": "Thomas"
-			},
-			{
-				"family": "Meynard",
-				"given": "Cécile"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2009"
-				]
-			]
-		},
-		"accessed": {
-			"date-parts": [
-				[
-					"2019",
-					9,
-					6
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/N7VEDWBU",
-		"type": "book",
-		"title": "Stendhal, Journaux et papiers",
-		"publisher": "ELLUG",
-		"publisher-place": "Grenoble",
-		"edition": "2013",
-		"event-place": "Grenoble",
-		"author": [
-			{
-				"family": "Meynard",
-				"given": "Cécile"
-			},
-			{
-				"family": "Jacquelot",
-				"given": "Hélène",
-				"dropping-particle": "de"
-			},
-			{
-				"family": "Corredor",
-				"given": "Marie-Rose"
-			}
-		]
-	},
-	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/73QTXMQJ",
-		"type": "chapter",
-		"title": "Donner à voir, à lire, à comprendre : destinataires et finalités d’une édition polymorphe des manuscrits de Stendhal",
-		"container-title": "Patrimoine littéraire en ligne : la renaissance du lecteur",
-		"collection-title": "Corpus",
-		"collection-number": "9",
-		"publisher": "LLSETI",
-		"publisher-place": "Chambery",
-		"page": "97–116",
-		"event-place": "Chambery",
-		"author": [
-			{
-				"family": "Meynard",
-				"given": "Cécile"
-			},
-			{
-				"family": "Lebarbé",
-				"given": "Thomas"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2015"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/BB3IM52S",
-		"type": "chapter",
-		"title": "Introduction",
-		"container-title": "Patrimoine littéraire en ligne : la renaissance du lecteur",
-		"collection-title": "Corpus",
-		"collection-number": "9",
-		"publisher": "LLSETI",
-		"publisher-place": "Chambery",
-		"event-place": "Chambery",
-		"author": [
-			{
-				"family": "Pety",
-				"given": "Dominique"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2015"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/KC6ZC37R",
-		"type": "article-journal",
-		"title": "Informatique et pratiques écrivantes",
-		"container-title": "Traverses",
-		"page": "121–130",
-		"issue": "43",
-		"author": [
-			{
-				"family": "Pomian",
-				"given": "Joanna"
-			},
-			{
-				"family": "Souchier",
-				"given": "Emmanuël"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1988"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/P66FT5RW",
-		"type": "article-journal",
-		"title": "Les machines écrivantes ou l'écriture virtuelle",
-		"container-title": "Traverses",
-		"page": "108–119",
-		"issue": "44-45",
-		"author": [
-			{
-				"family": "Pomian",
-				"given": "Joanna"
-			},
-			{
-				"family": "Souchier",
-				"given": "Emmanuël"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1988"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/T5BCTU58",
-		"type": "chapter",
-		"title": "Vers une nouvelle économie politique de l’édition critique",
-		"container-title": "L’édition critique à l’ère du numérique",
-		"collection-title": "Socio-économie de la chaîne du livre",
-		"publisher": "L'Harmatan",
-		"author": [
-			{
-				"family": "Régnier",
-				"given": "Philippe"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2017"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/HD42U8GU",
-		"type": "article-journal",
-		"title": "Christian Robin, Les livres dans l´univers numérique",
-		"container-title": "Lectures",
-		"abstract": "« L’histoire des moyens de communication nous montre que chacun d’entre eux s´ajoute à l´autre : le cinéma n’a pas supplanté le théâtre, ni la télévision le cinéma. Nous le constatons dans les usages des produits culturels, où les plus gros \"consommateurs\" cumulent les différentes pratiques culturelles : un comédien amateur va au théâtre, lit des livres, se rend au cinéma et utilise internet en moyenne beaucoup plus souvent qu’une personne qui ne va jamais au théâtre. Les livres numériques co...",
-		"URL": "http://journals.openedition.org/lectures/7217",
-		"ISSN": "2116-5289",
-		"language": "fr",
-		"author": [
-			{
-				"family": "Premat",
-				"given": "Christophe"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2012",
-					1
-				]
-			]
-		},
-		"accessed": {
-			"date-parts": [
-				[
-					"2019",
-					9,
-					6
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/JW254YUJ",
-		"type": "book",
-		"title": "Pour une définition du « numérique »",
-		"abstract": "Pour avoir une idée précise des possibilités apportées par le numérique à l'édition, il est indispensable de pouvoir assumer le point de vue du lecteur : (...)",
-		"URL": "http://www.parcoursnumeriques-pum.ca/les-potentialites-du-texte-numerique",
-		"language": "fr",
-		"author": [
-			{
-				"family": "Vitali-Rosati",
-				"given": "Marcello"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2015",
-					5
-				]
-			]
-		},
-		"accessed": {
-			"date-parts": [
-				[
-					"2019",
-					9,
-					6
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/6CCCPM7Z",
-		"type": "book",
-		"title": "Qu’est-ce que l’éditorialisation ?",
-		"URL": "http://blog.sens-public.org/marcellovitalirosati/quest-ce-que-leditorialisation/",
-		"language": "fr",
-		"author": [
-			{
-				"family": "Vitali-Rosati",
-				"given": "Marcello"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2014",
-					6
-				]
-			]
-		},
-		"accessed": {
-			"date-parts": [
-				[
-					"2019",
-					9,
-					6
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/local/xoMtnVMt/items/H6NIXLA8",
-		"type": "chapter",
-		"title": "Introduction",
-		"container-title": "Pratiques de l’édition numérique",
-		"collection-title": "Parcours numérique",
-		"publisher": "Presses de l’Université de Montréal",
-		"publisher-place": "Montréal",
-		"page": "7–11",
-		"event-place": "Montréal",
-		"URL": "http://books.openedition.org/pum/308",
-		"ISBN": "978-2-8218-5072-9",
-		"author": [
-			{
-				"family": "Sinatra",
-				"given": "Michaël E."
-			},
-			{
-				"family": "Vitali-Rosati",
-				"given": "Marcello"
-			}
-		],
-		"editor": [
-			{
-				"family": "Sinatra",
-				"given": "Michael E."
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2014",
-					9
-				]
-			]
-		},
-		"accessed": {
-			"date-parts": [
-				[
-					"2019",
-					9,
-					6
-				]
-			]
-		}
-	}
+  {
+    "id": "Dacos2010",
+    "type": "chapter",
+    "title": "Read/Write Book : Le livre inscriptible",
+    "container-title": "Read/Write Book : Le livre inscriptible",
+    "collection-title": "Read/Write Book",
+    "publisher": "OpenEdition Press",
+    "publisher-place": "Marseille",
+    "page": "13–16",
+    "event-place": "Marseille",
+    "URL": "http://books.openedition.org/oep/136",
+    "ISBN": "978-2-8218-0952-9",
+    "title-short": "Read/Write Book",
+    "author": [
+      {
+        "family": "Dacos",
+        "given": "Marin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2010",
+          3
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2019",
+          9,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "id": "http://zotero.org/users/local/xoMtnVMt/items/DLUU5FYR",
+    "type": "article-journal",
+    "title": "L’île des savoirs choisis. D’HyperNietzsche à ScholarSource : pour une infrastructure de recherche sur le Web",
+    "container-title": "Recherches & Travaux",
+    "page": "279–301",
+    "issue": "72",
+    "abstract": "Pour étudier les sources primaires nécessaires à ses travaux, un chercheur se rend habituellement dans des lieux d’archives ou dans des bibliothèques ; en bibliothèque il lit non seulement les sources primaires mais aussi les sources secondaires, revues, monographies, éditions critiques, qu’il peut dans un certain nombre de cas se procurer également chez les libraires ; les cours à l’université, les séminaires et les colloques lui donnent l’occasion d’échanger ses connaissances avec ses collè...",
+    "URL": "http://journals.openedition.org/recherchestravaux/121",
+    "ISSN": "0151-1874",
+    "title-short": "L’île des savoirs choisis. D’HyperNietzsche à ScholarSource",
+    "language": "fr",
+    "author": [
+      {
+        "family": "D’Iorio",
+        "given": "Paolo"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2008",
+          6
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2019",
+          9,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Grandjean2014",
+    "type": "article-journal",
+    "title": "La connaissance est un réseau",
+    "container-title": "Les Cahiers du numerique",
+    "page": "37–54",
+    "volume": "Vol. 10",
+    "issue": "3",
+    "URL": "https://www.cairn.info/revue-les-cahiers-du-numerique-2014-3-page-37.htm?contenu=resume",
+    "ISSN": "1622-1494",
+    "language": "fr",
+    "author": [
+      {
+        "family": "Grandjean",
+        "given": "Martin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2014",
+          9
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2019",
+          9,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "id": "MeynardLebarbe2008",
+    "type": "chapter",
+    "title": "CLELIA : Un modèle documentaire et une plateforme de gestion de manuscrits",
+    "container-title": "Traitements et pratiques documentaires : vers un changement de paradigme ?",
+    "collection-title": "Sciences et techniques de l'information",
+    "publisher": "ADBS",
+    "page": "317–334",
+    "author": [
+      {
+        "family": "Lebarbé",
+        "given": "Thomas"
+      },
+      {
+        "family": "Meynard",
+        "given": "Cécile"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2008"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "MeynardLebarbe2009",
+    "type": "article-journal",
+    "title": "Nouvelles pratiques éditoriales, nouvelles lectures : les enjeux de l’édition électronique de manuscrits littéraires",
+    "container-title": "Mémoires du livre / Studies in Book Culture",
+    "volume": "1",
+    "issue": "1",
+    "abstract": "Les projets de valorisation de manuscrits de grands auteurs fleurissent sur la Toile. Outils de spécialistes ou vitrines pour le grand public, ces sites offrent diverses représentations du livre en sa genèse. Cette nouvelle jeunesse qu'apportent la numérisation et la transcription des manuscrits est génératrice de nouvelles pratiques et de nouveaux usages. Le manuscrit devient manipulable à l'envi pour l'oeil aguerri du littéraire, corpus pour le linguiste et objet de curiosité documenté pour l'amateur.",
+    "URL": "http://www.erudit.org/fr/revues/memoires/2009-v1-n1-memoires3559/038635ar/",
+    "ISSN": "1920-602X",
+    "title-short": "Nouvelles pratiques éditoriales, nouvelles lectures",
+    "language": "fr",
+    "author": [
+      {
+        "family": "Lebarbé",
+        "given": "Thomas"
+      },
+      {
+        "family": "Meynard",
+        "given": "Cécile"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2009"
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2019",
+          9,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "id": "MeynardJacquelot",
+    "type": "book",
+    "title": "Stendhal, Journaux et papiers",
+    "publisher": "ELLUG",
+    "publisher-place": "Grenoble",
+    "edition": "2013",
+    "event-place": "Grenoble",
+    "author": [
+      {
+        "family": "Meynard",
+        "given": "Cécile"
+      },
+      {
+        "family": "Jacquelot",
+        "given": "Hélène",
+        "dropping-particle": "de"
+      },
+      {
+        "family": "Corredor",
+        "given": "Marie-Rose"
+      }
+    ]
+  },
+  {
+    "id": "MeynardLebarbe2015_voir_lire_comprendre",
+    "type": "chapter",
+    "title": "Donner à voir, à lire, à comprendre : destinataires et finalités d’une édition polymorphe des manuscrits de Stendhal",
+    "container-title": "Patrimoine littéraire en ligne : la renaissance du lecteur",
+    "collection-title": "Corpus",
+    "collection-number": "9",
+    "publisher": "LLSETI",
+    "publisher-place": "Chambery",
+    "page": "97–116",
+    "event-place": "Chambery",
+    "author": [
+      {
+        "family": "Meynard",
+        "given": "Cécile"
+      },
+      {
+        "family": "Lebarbé",
+        "given": "Thomas"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2015"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "MeynardLebarbe2015_introduction",
+    "type": "chapter",
+    "title": "Introduction",
+    "container-title": "Patrimoine littéraire en ligne : la renaissance du lecteur",
+    "collection-title": "Corpus",
+    "collection-number": "9",
+    "publisher": "LLSETI",
+    "publisher-place": "Chambery",
+    "event-place": "Chambery",
+    "author": [
+      {
+        "family": "Pety",
+        "given": "Dominique"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2015"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "PomianSouchier1988_informatique",
+    "type": "article-journal",
+    "title": "Informatique et pratiques écrivantes",
+    "container-title": "Traverses",
+    "page": "121–130",
+    "issue": "43",
+    "author": [
+      {
+        "family": "Pomian",
+        "given": "Joanna"
+      },
+      {
+        "family": "Souchier",
+        "given": "Emmanuël"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1988"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "PomianSouchier1988_machines",
+    "type": "article-journal",
+    "title": "Les machines écrivantes ou l'écriture virtuelle",
+    "container-title": "Traverses",
+    "page": "108–119",
+    "issue": "44-45",
+    "author": [
+      {
+        "family": "Pomian",
+        "given": "Joanna"
+      },
+      {
+        "family": "Souchier",
+        "given": "Emmanuël"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1988"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "http://zotero.org/users/local/xoMtnVMt/items/HD42U8GU",
+    "type": "article-journal",
+    "title": "Christian Robin, Les livres dans l´univers numérique",
+    "container-title": "Lectures",
+    "abstract": "« L’histoire des moyens de communication nous montre que chacun d’entre eux s´ajoute à l´autre : le cinéma n’a pas supplanté le théâtre, ni la télévision le cinéma. Nous le constatons dans les usages des produits culturels, où les plus gros \"consommateurs\" cumulent les différentes pratiques culturelles : un comédien amateur va au théâtre, lit des livres, se rend au cinéma et utilise internet en moyenne beaucoup plus souvent qu’une personne qui ne va jamais au théâtre. Les livres numériques co...",
+    "URL": "http://journals.openedition.org/lectures/7217",
+    "ISSN": "2116-5289",
+    "language": "fr",
+    "author": [
+      {
+        "family": "Premat",
+        "given": "Christophe"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2012",
+          1
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2019",
+          9,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "id": "VitaliRosati2015",
+    "type": "book",
+    "title": "Pour une définition du « numérique »",
+    "abstract": "Pour avoir une idée précise des possibilités apportées par le numérique à l'édition, il est indispensable de pouvoir assumer le point de vue du lecteur : (...)",
+    "URL": "http://www.parcoursnumeriques-pum.ca/les-potentialites-du-texte-numerique",
+    "language": "fr",
+    "author": [
+      {
+        "family": "Vitali-Rosati",
+        "given": "Marcello"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2015",
+          5
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2018",
+          10,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "id": "VitaliRosati2014",
+    "type": "book",
+    "title": "Qu’est-ce que l’éditorialisation ?",
+    "URL": "http://blog.sens-public.org/marcellovitalirosati/quest-ce-que-leditorialisation/",
+    "language": "fr",
+    "author": [
+      {
+        "family": "Vitali-Rosati",
+        "given": "Marcello"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2014",
+          6
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2018",
+          10,
+          30
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Regnier2017",
+    "type": "book",
+    "abstract": "À l'ère du numérique, l'avenir des formes traditionnelles de la culture, de la connaissance et de l'érudition se trouve mis en question. Le statut de l'écriture et de l'édition critique, héritées d'une longue tradition, évolue : l'autorité des objets culturels séculaires est remplacée par la création de nouveaux espaces et médias pour la connaissance. Voici une exploration de la manière dont la transition du manuscrit et de l'imprimé vers les diverses formes de remédiations, numériques et de présentations change les procédés utilisés par les éditeurs, chercheurs, pour gérer les problèmes pratiques de l'édition critique tout en générant diverses conceptions de la nature des textes et de leur transmission., Daniel Apollon, Philippe Régnier, Claire Belisle,",
+    "language": "fr",
+    "number-of-pages": "410",
+    "publisher": "L'Harmattan",
+    "title": "L'édition critique à l'ère numérique",
+    "author": [
+      {
+        "family": "Apollon",
+        "given": "Daniel"
+      },
+      {
+        "family": "Régnier",
+        "given": "Philippe"
+      },
+      {
+        "family": "Bélisle",
+        "given": "Claire"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          1,
+          23
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2017",
+          9,
+          25
+        ]
+      ]
+    }
+  },
+  {
+    "id": "SinatraVitaliRosati2018",
+    "type": "chapter",
+    "collection-title": "Parcours numérique",
+    "container-title": "Pratiques de l’édition numérique",
+    "event-place": "Montréal",
+    "ISBN": "978-2-8218-5072-9",
+    "page": "7-11",
+    "publisher": "Presses de l’Université de Montréal",
+    "publisher-place": "Montréal",
+    "source": "OpenEdition Books",
+    "title": "Introduction",
+    "URL": "http://books.openedition.org/pum/308",
+    "author": [
+      {
+        "family": "Sinatra",
+        "given": "Michaël E."
+      },
+      {
+        "family": "Vitali-Rosati",
+        "given": "Marcello"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Sinatra",
+        "given": "Michael E."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2018",
+          10,
+          30
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2014",
+          9,
+          26
+        ]
+      ]
+    }
+  },
+  {
+    "id": "SinclairRockwell2014",
+    "type": "chapter",
+    "collection-title": "Parcours numérique",
+    "container-title": "Pratiques de l’édition numérique",
+    "event-place": "Montréal",
+    "ISBN": "978-2-8218-5072-9",
+    "page": "191-204",
+    "publisher": "Presses de l’Université de Montréal",
+    "publisher-place": "Montréal",
+    "source": "OpenEdition Books",
+    "title": "Chapitre 12. Les potentialités du texte numérique",
+    "URL": "http://books.openedition.org/pum/337",
+    "author": [
+      {
+        "family": "Sinclair",
+        "given": "Stéfan"
+      },
+      {
+        "family": "Rockwell",
+        "given": "Geoffrey"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Vitali-Rosati",
+        "given": "Marcello"
+      },
+      {
+        "family": "Sinatra",
+        "given": "Michael E."
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2018",
+          10,
+          30
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          "2014",
+          9,
+          26
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Robin2016",
+    "type": "book",
+    "event-place": "Paris",
+    "language": "French",
+    "note": "OCLC: 962020683",
+    "publisher": "La Documentation française",
+    "publisher-place": "Paris",
+    "source": "Open WorldCat",
+    "title": "Les livres dans l'univers numérique",
+    "author": [
+      {
+        "family": "Robin",
+        "given": "Christian"
+      },
+      {
+        "family": "Rouet",
+        "given": "François"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2016"
+        ]
+      ]
+    }
+  }
 ]
