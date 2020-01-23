@@ -2,6 +2,18 @@
    {
       "author": "",
       "caption": "",
+      "content": "Le monde de l’édition – et plus encore le milieu de l’édition littéraire –, au Québec comme ailleurs, connaît aujourd’hui un des bouleversements les plus importants de son histoire.",
+      "copyright": "",
+      "id": "firstQuote",
+      "medium": "",
+      "src": "",
+      "title": "",
+      "type": "text",
+      "year": ""
+   },
+   {
+      "author": "",
+      "caption": "",
       "content": "Cependant, le développement de nouveaux types de formats, plus interactifs et dynamiques, comme les Epubs 4, et leur intégration dans les dispositifs de prêts numériques en bibliothèques, pourrait devenir une voie intéressante à explorer pour les éditeur.trices, notamment jeunesse.",
       "copyright": "",
       "id": "8",
@@ -94,6 +106,19 @@
       "src": "",
       "title": "",
       "type": "text",
+      "year": ""
+   },
+   {
+      "author": "",
+      "caption": "",
+      "content": "Il s’agit de PDFs enrichis intégrant des animations, des effets sonores et un faible niveau d’interactivité.",
+      "copyright": "",
+      "id": "transmediaReading",
+      "medium": "",
+      "src": "",
+      "title": "",
+      "type": "youtube",
+      "youtubeId": "ALUMBwwtB2E",
       "year": ""
    }
 ]
