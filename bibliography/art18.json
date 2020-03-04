@@ -1,0 +1,812 @@
+[
+  {
+    "id": "AnthologiaPalatina2018",
+    "DOI": "10.11588/DIGLIT.3449",
+    "issued": {
+      "date-parts": [[2018]]
+    },
+    "language": "grc",
+    "publisher": "University Library Heidelberg",
+    "source": "DOI.org (Datacite)",
+    "title": "Anthologia Palatina",
+    "type": "article-journal",
+    "URL": "https://digi.ub.uni-heidelberg.de/diglit/cpgraec23"
+  },
+  {
+    "id": "Aubreton1968",
+    "abstract": "La critique, depuis un siècle, fait remonter à une édition de Céphalas du ixe siècle le recueil actuel de l'Anthologie grecque. Il nous est parvenu d'abord par une collection due à Pla- nude, le Marcianus 481, puis par un manuscrit plus ancien, le Palatinus gr. 23. En fait, ni l'un ni l'autre ne sont la copie du recueil de Céphalas ; celui-ci a voulu seulement donner des exemples de la production épigrammatique du passé, en suivant toutefois un plan qui lui est personnel : c'est ce qui ressort de l'examen de ses exordes à chaque livre. Mais son plan sera repris, et son œuvre a servi de base aux compilateurs qui ont travaillé sur la même matière aux Xe et XIe siècles. On citera l'exemplaire de Michel l'Archiviste qui a servi aux corrections d'une partie du Palatinus, les deux manuscrits dont s'est servi Planude pour son édition à la fin du XIIIe siècle et que l'auteur de l'article essaie de reconstituer. Mais le seul recueil ancien est le Palatinus, manuscrit Ρ de l'Anthologie Palatine, qui a été rédigé non au Xe siècle, mais dans la seconde moitié du XIe par une équipe de scribes dirigée par un maître d 'œuvre désigné sous le nom de scribe J. Il est aussi l'exemplaire le plus complet, malgré une lacune importante que l'Anthologie de Planude ne compensera qu'en partie. Ce codex porte la trace des apports successifs : addition d'ecphrasis et de livres nouveaux tant au début qu'à la fin du recueil, d' épigrammes aussi dans les livres traditionnels ; enfin, des lemmes intégrés au texte ou en marge témoignent de sources diverses. C'est donc une œuvre originale et non la copie d'un travail antérieur : l'Index vêtus, œuvre du scribe J, en fait foi. Ainsi donc, ce Palatinus comme les modèles de Planude ne sont pas en dépendance d'une tradition unique ; chacun de ces codices avait sa physionomie particulière, comportant un nombre d' épigrammes très différent, l'un pourvu d'indications (lemmes et auteurs) que l'autre ignore, et nous conservant des leçons dont les unes sont certainement anciennes, alors que d'autres sont sans doute des corrections de philologue, et de Planude en particulier. Fait curieux, leur dépendance originelle du noyau constitué par Céphalas fait qu'ils suivent un ordre assez semblable à celui qui nous est connu par le Palatinus. Ce même ordre se retrouve dans certaines syllogae beaucoup plus restreintes qui elles aussi présentent des leçons personnelles qui ne sont pas toutes des erreurs de copistes. Mais d'autres syllogae semblent se référer à ces groupes d'épigrammes que connurent tant Céphalas que ses successeurs pour la composition de leurs compilations. Quant à Planude, il ne connaîtra, pour son édition ordonnée selon de nouveaux principes, que des éditions en cours d'achèvement ; car le Palatinus demeurera inconnu jusqu'au xvne siècle. Mais le manuscrit autographe de Planude n'est pas celui qui a servi de modèle aux manuscrits et éditions imprimées des XVe et XVIe siècles. Un intermédiaire a réuni en un seul ensemble les deux parties du Marcianus. Ce manuscrit, très abîmé, a été retrouvé à Paris : c'est le Parisinus gr. 2744, contemporain de Planude et rédigé selon ses instructions.",
+    "accessed": {
+      "date-parts": [[2020, 3, 4]]
+    },
+    "author": [{
+      "family": "Aubreton",
+      "given": "Robert"
+    }],
+    "container-title": "Revue des Études Anciennes",
+    "DOI": "10.3406/rea.1968.3808",
+    "issue": "1",
+    "issued": {
+      "date-parts": [[1968]]
+    },
+    "language": "fre",
+    "note": "Company: Persée - Portail des revues scientifiques en SHS\nDistributor: Persée - Portail des revues scientifiques en SHS\nInstitution: Persée - Portail des revues scientifiques en SHS\nLabel: Persée - Portail des revues scientifiques en SHS",
+    "page": "32-82",
+    "publisher": "Presses Universitaires de Bordeaux",
+    "source": "www.persee.fr",
+    "title": "La tradition manuscrite des épigrammes de l'Anthologie palatine",
+    "type": "article-journal",
+    "URL": "https://www.persee.fr/doc/rea_0035-2004_1968_num_70_1_3808",
+    "volume": "70"
+  },
+  {
+    "id": "Blackwell2009",
+    "author": [{
+      "family": "Blackwell",
+      "given": "Christopher"
+    }, {
+      "family": "Martin",
+      "given": "Thomas R."
+    }],
+    "container-title": "Digital Humanities Quarterly",
+    "container-title-short": "DHQ",
+    "ISSN": "1938-4122",
+    "issue": "1",
+    "issued": {
+      "date-parts": [[2009, 2, 26]]
+    },
+    "title": "Technology, Collaboration, and Undergraduate Research",
+    "type": "article-journal",
+    "volume": "003"
+  },
+  {
+    "id": "Blanchard2002",
+    "accessed": {
+      "date-parts": [[2020, 3, 4]]
+    },
+    "author": [{
+      "family": "Blanchard",
+      "given": "Gilles"
+    }, {
+      "family": "Olsen",
+      "given": "Mark"
+    }],
+    "container-title": "Recherches sur Diderot et sur l'Encyclopédie",
+    "container-title-short": "rde",
+    "DOI": "10.4000/rde.122",
+    "ISSN": "0769-0886, 1955-2416",
+    "issue": "31-32",
+    "issued": {
+      "date-parts": [[2002, 4, 15]]
+    },
+    "language": "fr",
+    "page": "45-70",
+    "source": "DOI.org (Crossref)",
+    "title": "Le système de renvoi dans l’Encyclopédie : Une cartographie des structures de connaissances au XVIIIe siècle",
+    "title-short": "Le système de renvoi dans l’Encyclopédie",
+    "type": "article-journal",
+    "URL": "http://journals.openedition.org/rde/122"
+  },
+  {
+    "id": "Blum1991",
+    "accessed": {
+      "date-parts": [[2020, 3, 4]]
+    },
+    "author": [{
+      "family": "Blum",
+      "given": "Rudolf"
+    }],
+    "ISBN": "978-0-299-13173-9",
+    "issued": {
+      "date-parts": [[1991]]
+    },
+    "language": "English",
+    "note": "OCLC: 1043364254",
+    "publisher": "University of Wisconsin Press",
+    "publisher-place": "Madison",
+    "source": "Open WorldCat",
+    "title": "Kallimachos: the Alexandrian Library and the Origins of Bibliography.",
+    "title-short": "Kallimachos",
+    "translator": [{
+      "family": "Wellisch",
+      "given": "Hans H"
+    }],
+    "type": "book",
+    "URL": "http://qut.eblib.com.au/patron/FullRecord.aspx?p=3445144"
+  },
+  {
+    "id": "Bodard2010",
+    "abstract": "This text explores the challenges and opportunities presented to classical scholarship by digital practice and resources. It shows that traditionally rigorous scholarship is as central to digital research as it is to mainstream classical studies.",
+    "accessed": {
+      "date-parts": [[2020, 3, 4]]
+    },
+    "author": [{
+      "family": "Bodard",
+      "given": "Gabriel"
+    }, {
+      "family": "Mahony",
+      "given": "Simon"
+    }],
+    "ISBN": "978-0-7546-9523-3 978-1-315-57721-0",
+    "issued": {
+      "date-parts": [[2010]]
+    },
+    "language": "English",
+    "note": "OCLC: 647925972",
+    "publisher": "Ashgate",
+    "publisher-place": "Farnham, Surrey, England; Burlington, VT",
+    "source": "Open WorldCat",
+    "title": "Digital research in the study of classical antiquity",
+    "type": "book",
+    "URL": "http://site.ebrary.com/id/10385816"
+  },
+  {
+    "id": "Brunck1772",
+    "author": [{
+      "family": "Brunck",
+      "given": "Rich. Fr. Phil"
+    }],
+    "issued": {
+      "date-parts": [[1772]]
+    },
+    "language": "Greek, Ancient",
+    "note": "OCLC: 82977351",
+    "publisher": "Typis Ioannis Henrici Heitz",
+    "publisher-place": "Argentorati",
+    "source": "Open WorldCat",
+    "title": "Analecta veterum poetarum Graecorum",
+    "type": "book"
+  },
+  {
+    "id": "Cameron1993",
+    "author": [{
+      "family": "Cameron",
+      "given": "Rondo Etc"
+    }, {
+      "family": "Cameron",
+      "given": "Alan"
+    }],
+    "issued": {
+      "date-parts": [[1993]]
+    },
+    "publisher": "Clarendon Press",
+    "publisher-place": "Oxford",
+    "source": "Amazon",
+    "title": "The Greek Anthology: From Meleager to Planudes by Rondo Etc Cameron",
+    "title-short": "The Greek Anthology",
+    "type": "book"
+  },
+  {
+    "id": "Coffee2012",
+    "abstract": "This paper describes a new digital approach to intertextual study involving the creation of a free online tool for the automatic detection of parallel phrases. A test comparison of Vergil’s Aeneid and Lucan’s Civil War shows that the tool can identify a substantial number of meaningful intertexts, both previously recorded and unrecorded. Analysis of these results demonstrates how automatic detection can provide more comprehensive and accessible perspectives on intertextuality as an aggregate phenomenon. Identification of the language features necessary to detect intertexts also provides a path toward improved automatic detection and more precise definitions of intertextuality.",
+    "accessed": {
+      "date-parts": [[2020, 3, 4]]
+    },
+    "author": [{
+      "family": "Coffee",
+      "given": "Neil"
+    }, {
+      "family": "Koenig",
+      "given": "Jean-Pierre"
+    }, {
+      "family": "Poornima",
+      "given": "Shakthi"
+    }, {
+      "family": "Ossewaarde",
+      "given": "Roelant"
+    }, {
+      "family": "Forstall",
+      "given": "Christopher"
+    }, {
+      "family": "Jacobson",
+      "given": "Sarah"
+    }],
+    "container-title": "Transactions of the American Philological Association",
+    "DOI": "10.1353/apa.2012.0010",
+    "ISSN": "2575-7199",
+    "issue": "2",
+    "issued": {
+      "date-parts": [[2012, 11, 25]]
+    },
+    "language": "en",
+    "page": "383-422",
+    "publisher": "Johns Hopkins University Press",
+    "source": "Project MUSE",
+    "title": "Intertextuality in the Digital Age",
+    "type": "article-journal",
+    "URL": "https://muse.jhu.edu/article/490829",
+    "volume": "142"
+  },
+  {
+    "id": "Conca2005",
+    "author": [{
+      "family": "Conca",
+      "given": "Fabrizio"
+    }, {
+      "family": "Marzi",
+      "given": "Mario"
+    }, {
+      "family": "Zanetto",
+      "given": "Giuseppe"
+    }],
+    "issued": {
+      "date-parts": [[2005]]
+    },
+    "language": "Italian",
+    "note": "OCLC: 150419871",
+    "publisher": "Unione Tipografico-Editrice Torinese",
+    "publisher-place": "Torino",
+    "source": "Open WorldCat",
+    "title": "Antologia palatina",
+    "type": "book"
+  },
+  {
+    "id": "Crane2009",
+    "author": [{
+      "family": "Crane",
+      "given": "Gregory"
+    }, {
+      "family": "Seales",
+      "given": "Brent"
+    }, {
+      "family": "Terras",
+      "given": "Melissa"
+    }],
+    "container-title": "Digital Humanities Quarterly",
+    "container-title-short": "DHQ",
+    "ISSN": "1938-4122",
+    "issue": "1",
+    "issued": {
+      "date-parts": [[2009, 2, 26]]
+    },
+    "title": "Cyberinfrastructure for Classical Philology",
+    "type": "article-journal",
+    "volume": "003"
+  },
+  {
+    "id": "Crane1992",
+    "abstract": "\"Perseus is a multimedia interactive database that will advance the study of ancient Greek civilization, expanding the ways in which Greek literature, history, art, and archaeology can be examined\"--Videodisc slipcase.",
+    "director": [{
+      "family": "Crane",
+      "given": "Gregory"
+    }, {
+      "literal": "Annenberg/CPB Project"
+    }],
+    "ISBN": "978-0-300-05086-8",
+    "issued": {
+      "date-parts": [[1992]]
+    },
+    "language": "English",
+    "note": "OCLC: 25979554",
+    "publisher": "Yale University Press",
+    "publisher-place": "New Haven, Conn.",
+    "source": "Open WorldCat",
+    "title": "Perseus: interactive sources and studies on ancient Greece",
+    "title-short": "Perseus",
+    "type": "motion_picture"
+  },
+  {
+    "id": "Derose1997",
+    "abstract": "THE WAY IN WHICH TEXT IS represented on a computer affects the kinds of uses to which it can be put by its creator and by subsequent users. The electronic document model currently in use is impoverished and restrictive. The authors argue that text is best represented as an ordered hierarchy of content object (OHCO), because that is what text really is. This model conforms with emerging standards such as SGML and contains within it advantages for the writer, publisher, and researcher. The authors then describe how the hierarchical model can allow future use and reuse of the document as a database, hypertext, or network.",
+    "accessed": {
+      "date-parts": [[2020, 3, 4]]
+    },
+    "author": [{
+      "family": "DeRose",
+      "given": "Steven J."
+    }, {
+      "family": "Durand",
+      "given": "David G."
+    }, {
+      "family": "Mylonas",
+      "given": "Elli"
+    }, {
+      "family": "Renear",
+      "given": "Allen H."
+    }],
+    "container-title": "ACM SIGDOC Asterisk Journal of Computer Documentation",
+    "container-title-short": "SIGDOC Asterisk J. Comput. Doc.",
+    "DOI": "10.1145/264842.264843",
+    "ISSN": "0731-1001",
+    "issue": "3",
+    "issued": {
+      "date-parts": [[1997, 8, 1]]
+    },
+    "page": "1–24",
+    "source": "ACM Digital Library",
+    "title": "What is text, really?",
+    "type": "article-journal",
+    "URL": "https://doi.org/10.1145/264842.264843",
+    "volume": "21"
+  },
+  {
+    "id": "Doueihi2011",
+    "author": [{
+      "family": "Doueihi",
+      "given": "Milad"
+    }],
+    "ISBN": "978-2-02-100089-4",
+    "issued": {
+      "date-parts": [[2011]]
+    },
+    "language": "French",
+    "note": "OCLC: 912481640",
+    "publisher": "Editions du Seuil",
+    "publisher-place": "Paris",
+    "source": "Open WorldCat",
+    "title": "Pour un humanisme numérique",
+    "type": "book"
+  },{
+    "id": "Dubner1864",
+    "abstract": "Epigrammatum Anthologia palatina : cum Planudeis et appendice nova epigrammatum veterum ex libris et marmoribus ductorum annotatione inedita Boissonadii, Chardonis de La Rochette, Bothii, partim inedita Jacobsii, metrica versione Hugonis Grotii et apparatu critico. Volume 1 / instruxit Fred Dübner -- 1864-1890 -- livre",
+    "accessed": {
+      "date-parts": [[2020, 3, 4]]
+    },
+    "author": [{
+      "family": "Dübner",
+      "given": "Jean-Frédéric"
+    }, {
+      "family": "Jacobs",
+      "given": "Friedrich"
+    }, {
+      "family": "Cougny",
+      "given": "Edme"
+    }],
+    "issued": {
+      "date-parts": [[1864], [1890]]
+    },
+    "language": "FR",
+    "publisher": "A. F. Didot",
+    "publisher-place": "Paris",
+    "source": "gallica.bnf.fr",
+    "title": "Epigrammatum Anthologia palatina : cum Planudeis et appendice nova epigrammatum veterum ex libris et marmoribus ductorum annotatione inedita Boissonadii, Chardonis de La Rochette, Bothii, partim inedita Jacobsii, metrica versione Hugonis Grotii et apparatu critico. Volume 1 / instruxit Fred Dübner",
+    "title-short": "Epigrammatum Anthologia palatina",
+    "type": "book",
+    "URL": "https://gallica.bnf.fr/ark:/12148/bpt6k6220123k"
+  },
+  {
+    "id": "Gutzwiller2007",
+    "abstract": "This book is a guide to the extraordinarily diverse literature of the Hellenistic period. - A guide to the literature of the Hellenistic age, from the death of Alexander the Great in 323 BCE to the Battle of Actium in 31 BC - Provides overviews of the social, political, intellectual and literary historical contexts in which Hellenistic literature was produced - Introduces the major writers and genres of the period - Provides information about style, meter and languages to aid readers with no prior knowledge of the language in understanding technical aspects of literary Greek - Distinctive in its coverage of current issues in Hellenistic criticism, including audience reception, the political and social background, and Hellenistic theories of literature.",
+    "accessed": {
+      "date-parts": [[2020, 3, 4]]
+    },
+    "author": [{
+      "family": "Gutzwiller",
+      "given": "Kathryn J"
+    }],
+    "ISBN": "978-1-78268-837-2",
+    "issued": {
+      "date-parts": [[2007]]
+    },
+    "language": "English",
+    "note": "OCLC: 854470176",
+    "publisher": "Blackwell Pub.",
+    "publisher-place": "Malden, Mass.",
+    "source": "Open WorldCat",
+    "title": "A guide to Hellenistic literature",
+    "type": "book",
+    "URL": "http://www.credoreference.com/book/wileyghli"
+  },
+  {
+    "id": "Gutzwiller1998",
+    "author": [{
+      "family": "Gutzwiller",
+      "given": "Kathryn J"
+    }],
+    "ISBN": "978-0-520-20857-5",
+    "issued": {
+      "date-parts": [[1998]]
+    },
+    "language": "English",
+    "note": "OCLC: 441767597",
+    "publisher": "University of California Press",
+    "publisher-place": "Berkeley (CA); Los Angeles; London",
+    "source": "Open WorldCat",
+    "title": "Poetic garlands: Hellenistic epigrams in context",
+    "title-short": "Poetic garlands",
+    "type": "book"
+  },
+  {
+    "id": "Gutzwiller1997",
+    "accessed": {
+      "date-parts": [[2020, 3, 4]]
+    },
+    "archive": "JSTOR",
+    "author": [{
+      "family": "Gutzwiller",
+      "given": "Kathryn"
+    }],
+    "container-title": "Transactions of the American Philological Association (1974-)",
+    "DOI": "10.2307/284391",
+    "ISSN": "0360-5949",
+    "issued": {
+      "date-parts": [[1997]]
+    },
+    "page": "169-200",
+    "publisher": "[Johns Hopkins University Press, American Philological Association]",
+    "source": "JSTOR",
+    "title": "The Poetics of Editing in Meleager's Garland",
+    "type": "article-journal",
+    "URL": "https://www.jstor.org/stable/284391",
+    "volume": "127"
+  },
+  {
+    "id": "Jacobs1813",
+    "author": [{
+      "family": "Jacobs",
+      "given": "Friedrich"
+    }],
+    "issued": {
+      "date-parts": [[1813]]
+    },
+    "language": "Latin",
+    "note": "OCLC: 492426758",
+    "publisher": "in libraria Dyckiana",
+    "publisher-place": "Lipsiae",
+    "source": "Open WorldCat",
+    "title": "Anthologia graeca ad fidem codicis olim palatini, nunc parisini... edita: Curavit, epigrammata in codice palatino desiderata et annotationem criticam adjecit Fridericus Jacobs,... [Accesserunt supplementa variarum lectionum, ex ipso codice palatino summa denuo diligentia collato, ab Antonio Jacobo Paulssen",
+    "title-short": "Anthologia graeca ad fidem codicis olim palatini, nunc parisini... edita",
+    "type": "book"
+  },
+  {
+    "id": "Jacobs1794",
+    "author": [{
+      "family": "Jacobs",
+      "given": "Friedrich"
+    }],
+    "issued": {
+      "date-parts": [[1794]]
+    },
+    "language": "Latin",
+    "note": "OCLC: 759608586",
+    "publisher": "In bibliopolio Dyckio",
+    "publisher-place": "Lipsiae",
+    "source": "Open WorldCat",
+    "title": "Anthologia graeca, sive Poetarum graecorum lusus, ex recensione Brunckii ... Indices et commentarium adjecit Fridericus Jacobs.",
+    "type": "book"
+  },
+  {
+    "id": "Jordanous2012",
+    "accessed": {
+      "date-parts": [[2020, 3, 4]]
+    },
+    "author": [{
+      "family": "Jordanous",
+      "given": "Anna"
+    }, {
+      "family": "Lawrence",
+      "given": "K. Faith"
+    }, {
+      "family": "Hedges",
+      "given": "Mark"
+    }, {
+      "family": "Tupman",
+      "given": "Charlotte"
+    }],
+    "container-title": "Proceedings of the 2nd International Conference on Web Intelligence, Mining and Semantics",
+    "event": "International Conference on Web Intelligence, Mining and Semantics",
+    "ISBN": "978-1-4503-0915-8",
+    "issued": {
+      "date-parts": [[2012, 6]]
+    },
+    "language": "en",
+    "note": "Meeting Name: International Conference on Web Intelligence, Mining and Semantics",
+    "publisher": "ACM",
+    "publisher-place": "New York, New York, USA",
+    "source": "kar.kent.ac.uk",
+    "title": "Exploring manuscripts: sharing ancient wisdoms across the semantic web",
+    "title-short": "Exploring manuscripts",
+    "type": "paper-conference",
+    "URL": "http://dx.doi.org/10.1145/2254129.2254184"
+  },
+  {
+    "id": "Levy1994",
+    "author": [{
+      "family": "Lévy",
+      "given": "Pierre"
+    }],
+    "ISBN": "978-2-7071-2402-9",
+    "issued": {
+      "date-parts": [[1994]]
+    },
+    "language": "French",
+    "note": "OCLC: 444739573",
+    "publisher": "Découverte",
+    "publisher-place": "Paris",
+    "source": "Open WorldCat",
+    "title": "L'intelligence collective: pour une anthropologie du cyberspace",
+    "title-short": "L'intelligence collective",
+    "type": "book"
+  },
+  {
+    "id": "McGuire2013",
+    "abstract": "Introduction Here is a radical statement: A publisher's job is to provide good APIs (Application Programming Interfaces) for their books. Now that almost all books are made into digital...",
+    "issued": {
+      "date-parts": [[2013]]
+    },
+    "author": [{
+      "family": "McGuire",
+      "given": "Hugh"
+    }],
+    "container-title": "Tools of Change for Publishing",
+    "language": "en-US",
+    "note": "Library Catalog: toc.oreilly.com",
+    "title": "A Publisher's Job Is to Provide a Good API for Books",
+    "type": "webpage",
+    "URL": "http://toc.oreilly.com/2013/02/a-publishers-job-is-to-provide-a-good-api-for-books.html"
+  },
+  {
+    "id": "Paton1916",
+    "author": [{
+      "family": "Paton",
+      "given": "William Roger"
+    }],
+    "ISBN": "978-0-674-99074-6 978-0-434-99067-2 978-0-674-99075-3 978-0-434-99068-9 978-0-674-99093-7 978-0-434-99084-9 978-0-674-99094-4 978-0-674-99095-1 978-0-434-99086-3",
+    "issued": {
+      "date-parts": [[1916]]
+    },
+    "language": "English",
+    "note": "OCLC: 781383723",
+    "publisher": "Harvard University Press ; Heinemann",
+    "publisher-place": "Cambridge, Mass.; London",
+    "source": "Open WorldCat",
+    "title": "The Greek anthology",
+    "type": "book"
+  },
+  {
+    "id": "Paton2014",
+    "author": [{
+      "family": "Paton",
+      "given": "William Roger"
+    }, {
+      "family": "Tueller",
+      "given": "Michael A"
+    }],
+    "ISBN": "978-0-674-99688-5",
+    "issued": {
+      "date-parts": [[2014]]
+    },
+    "language": "English",
+    "note": "OCLC: 903328288",
+    "publisher": "Harvard University Press",
+    "publisher-place": "Cambridge, Massachusetts; London",
+    "source": "Open WorldCat",
+    "title": "The Greek anthology",
+    "type": "book"
+  },
+  {
+    "id": "Pfeiffer1968",
+    "author": [{
+      "family": "Pfeiffer",
+      "given": "Rudolf"
+    }],
+    "issued": {
+      "date-parts": [[1968]]
+    },
+    "language": "English",
+    "note": "OCLC: 865273522",
+    "publisher": "Clarendon",
+    "publisher-place": "Oxford",
+    "source": "Open WorldCat",
+    "title": "History of classical scholarship: from the beginnings to the end of the Hellenistic age",
+    "title-short": "History of classical scholarship",
+    "type": "book"
+  },
+  {
+    "id": "Romanello2009",
+    "abstract": "This paper discusses the main issues encountered in the design of a domain ontology to represent ancient literary texts that survive only in fragments, i.e. through quotations embedded in other texts. The design approach presented in the paper combines a knowledge domain analysis conducted through semantic spaces with the integration of well established ontologies and the application of ontology design patterns. After briefy describing the specifc meaning of “fragment” in a literary context, the paper gives insights into the main conceptual issues of the ontology design process. Lastly, it outlines the overall architecture of protocols, services and data repositories which is required to implement a digital edition of fragments based on the proposed ontology.",
+    "author": [{
+      "family": "Romanello",
+      "given": "Matteo"
+    }, {
+      "family": "Boschetti",
+      "given": "Federico"
+    }, {
+      "family": "Berti",
+      "given": "Monica"
+    }, {
+      "family": "Babeu",
+      "given": "Alison"
+    }, {
+      "family": "Crane",
+      "given": "Gregory"
+    }],
+    "issued": {
+      "date-parts": [[2009]]
+    },
+    "language": "en",
+    "page": "22",
+    "source": "Zotero",
+    "title": "Rethinking Critical Editions of Fragmentary Texts by Ontologies",
+    "type": "article-journal"
+  },
+  {
+    "id": "Schreibman2016",
+    "author": [{
+      "family": "Schreibman",
+      "given": "Susan"
+    }, {
+      "family": "Siemens",
+      "given": "Raymond"
+    }, {
+      "family": "Unsworth",
+      "given": "John"
+    }],
+    "ISBN": "978-1-118-68059-9 978-1-118-68064-3",
+    "issued": {
+      "date-parts": [[2016]]
+    },
+    "language": "English",
+    "note": "OCLC: 1126366812",
+    "publisher": "Wiley Blackwell",
+    "publisher-place": "Malden [etc.",
+    "source": "Open WorldCat",
+    "title": "A new companion to digital humanities",
+    "type": "book"
+  },
+  {
+    "id": "Solomon1993",
+    "author": [{
+      "family": "Solomon",
+      "given": "Jon"
+    }],
+    "ISBN": "978-0-8165-1390-1",
+    "issued": {
+      "date-parts": [[1993]]
+    },
+    "language": "English",
+    "note": "OCLC: 797363755",
+    "publisher": "University of Arizona Press",
+    "publisher-place": "Tucson, Ariz.; London",
+    "source": "Open WorldCat",
+    "title": "Accessing antiquity: the computerization of classical studies",
+    "title-short": "Accessing antiquity",
+    "type": "book"
+  },
+  {
+    "id": "Terras",
+    "author": [{
+      "family": "Terras",
+      "given": "Melissa"
+    }],
+    "language": "en",
+    "page": "20",
+    "source": "Zotero",
+    "title": "The Digital Classicist: Disciplinary Focus and Interdisciplinary Vision",
+    "type": "article-journal"
+  },
+  {
+    "id": "Anacreon901",
+    "abstract": "Codicis Anthologiæ Palatini pars altera [XIV-XV, — fol. 615-662] -- 0901-1000 -- manuscrits",
+    "accessed": {
+      "date-parts": [[2020, 3, 4]]
+    },
+    "author": [{
+      "family": "texte",
+      "given": "ANACREON Teius Auteur",
+      "dropping-particle": "du"
+    }, {
+      "family": "texte",
+      "given": "ANASTASIUS ὁ Τραυλός Auteur",
+      "dropping-particle": "du"
+    }, {
+      "family": "texte",
+      "given": "ARETHAS Cæsariensis Auteur",
+      "dropping-particle": "du"
+    }, {
+      "family": "texte",
+      "given": "BESANTINUS Rhodius Auteur",
+      "dropping-particle": "du"
+    }, {
+      "family": "texte",
+      "given": "COMETAS Auteur",
+      "dropping-particle": "du"
+    }, {
+      "family": "texte",
+      "given": "CONSTANTINUS Rhodius Auteur",
+      "dropping-particle": "du"
+    }, {
+      "family": "texte",
+      "given": "CONSTANTINUS Siculus Auteur",
+      "dropping-particle": "du"
+    }, {
+      "family": "texte",
+      "given": "CYRUS poeta Auteur",
+      "dropping-particle": "du"
+    }, {
+      "family": "texte",
+      "given": "DOSIADES Auteur",
+      "dropping-particle": "du"
+    }, {
+      "family": "texte",
+      "given": "GREGORIUS Nazianzenus (S ) Auteur",
+      "dropping-particle": "du"
+    }, {
+      "family": "IGNATIUS",
+      "given": "diaconus magnæ ecclesiæ CP Auteur",
+      "dropping-particle": "du texte"
+    }, {
+      "family": "texte",
+      "given": "JOANNES Gazæus grammaticus Auteur",
+      "dropping-particle": "du"
+    }, {
+      "family": "LEO VI Sapiens",
+      "given": "imperator CP Prochiron legum Auteur",
+      "dropping-particle": "du texte"
+    }, {
+      "family": "texte",
+      "given": "METRODORUS Auteur",
+      "dropping-particle": "du"
+    }, {
+      "family": "texte",
+      "given": "SOCRATES Atheniensis Auteur",
+      "dropping-particle": "du"
+    }, {
+      "family": "texte",
+      "given": "THEOCRITUS Auteur",
+      "dropping-particle": "du"
+    }, {
+      "family": "texte",
+      "given": "THEOPHANES Auteur",
+      "dropping-particle": "du"
+    }],
+    "genre": "manuscript",
+    "issued": {
+      "date-parts": [[901], [1000]]
+    },
+    "language": "FR",
+    "source": "gallica.bnf.fr",
+    "title": "Codicis Anthologiæ Palatini pars altera [XIV-XV, — fol. 615-662]",
+    "type": "manuscript",
+    "URL": "https://gallica.bnf.fr/ark:/12148/btv1b8470199g"
+  },
+  {
+    "id": "VitaliRosati2018",
+    "author": [{
+      "family": "Vitali Rosati",
+      "given": "Marcello"
+    }],
+    "collection-number": "26",
+    "collection-title": "Theory On Demand",
+    "ISBN": "978-94-92302-20-5",
+    "issued": {
+      "date-parts": [[2018]]
+    },
+    "language": "en",
+    "note": "OCLC: 1060195410",
+    "number-of-pages": "116",
+    "publisher": "Institute of Network Cultures",
+    "publisher-place": "Amsterdam",
+    "source": "Open WorldCat",
+    "title": "On editorialization: structuring space and authority in the digital age",
+    "title-short": "On editorialization",
+    "type": "book",
+    "URL": "https://networkcultures.org/blog/publication/tod-26-on-editorialization-structuring-space-and-authority-in-the-digital-age/"
+  },
+  {
+    "id": "Waltz1928",
+    "author": [{
+      "family": "Waltz",
+      "given": "Pierre"
+    }, {
+      "family": "Guillon",
+      "given": "Jean"
+    }],
+    "collection-editor": [{
+      "family": "Budé",
+      "given": "Guillaume"
+    }],
+    "collection-number": "8",
+    "collection-title": "Universités de France",
+    "issued": {
+      "date-parts": [[1928]]
+    },
+    "language": "fre",
+    "note": "Country: FR\nIn-8 °. Collection des Universités de France publ. sous le patronage de l'Association Guillaume Budé.",
+    "publisher": "Les Belles Lettres",
+    "publisher-place": "Paris",
+    "source": "BnF Catalogue général (http://catalogue.bnf.fr)",
+    "title": "Anthologie grecque. Première partie",
+    "title-short": "Anthologie grecque",
+    "type": "book"
+  }
+]
