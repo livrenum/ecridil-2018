@@ -1,6 +1,6 @@
 [
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/DEQWQE3Y",
+    "id": "Alter2010",
     "type": "book",
     "title": "L’innovation ordinaire",
     "publisher": "Presses Universitaires de France",
@@ -34,7 +34,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/CJXEPMQY",
+    "id": "Audet2014",
     "type": "article-journal",
     "title": "Écrire numérique : du texte littéraire entendu comme processus",
     "container-title": "Itinéraires. Littérature, textes, cultures",
@@ -54,7 +54,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/J8ZS4TF4",
+    "id": "BerrebiHoffman2018",
     "type": "book",
     "title": "Makers",
     "publisher": "Seuil",
@@ -84,7 +84,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/XGVE9KBU",
+    "id": "Bibard2018a",
     "type": "chapter",
     "title": "Éthique et complexité",
     "container-title": "Complexité et organisations",
@@ -116,7 +116,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/FE2FBQ48",
+    "id": "Bibard2018b",
     "type": "chapter",
     "title": "Manager l’inattendu : la complexité, un sensemaking distribué",
     "container-title": "Complexité et organisations",
@@ -148,7 +148,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/ZRSUMQD9",
+    "id": "Bomsel2013",
     "type": "book",
     "title": "Protocoles éditoriaux: qu'est-ce que publier?",
     "publisher": "Armand Colin",
@@ -159,6 +159,12 @@
     "note": "OCLC: 858169065",
     "title-short": "Protocoles éditoriaux",
     "language": "French",
+    "author": [
+      {
+        "family": "Bomsel",
+        "given": "Olivier"
+      }
+    ],
     "editor": [
       {
         "family": "Bomsel",
@@ -174,7 +180,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/6KEIEWZM",
+    "id": "Bomsel2010",
     "type": "book",
     "title": "L'économie immatérielle: industries et marchés d'expériences",
     "publisher": "Gallimard",
@@ -200,7 +206,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/DNHSPQXF",
+    "id": "BourassaAl2018",
     "type": "article-journal",
     "title": "Devenirs numériques de l’édition",
     "container-title": "Sciences du Design",
@@ -230,7 +236,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/UJV7A9QP",
+    "id": "BourgatteFerloniTessier2016",
     "type": "book",
     "title": "Quelles humanités numériques pour l'éducation ?",
     "publisher": "Éditions MkF",
@@ -252,8 +258,8 @@
         "given": "Mikaël"
       },
       {
-        "family": "Laurent",
-        "given": "Tessier"
+        "family": "Tessier",
+        "given": "Laurent"
       }
     ],
     "issued": {
@@ -274,7 +280,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/4HVZ5GG2",
+    "id": "BurdickAl2012",
     "type": "book",
     "title": "Digital Humanities",
     "publisher": "The MIT Press",
@@ -311,7 +317,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/J8R6FUZU",
+    "id": "BurdickWillis2011",
     "type": "article-journal",
     "title": "Digital learning, digital scholarship and design thinking",
     "container-title": "Design Studies",
@@ -335,7 +341,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/637EGN9V",
+    "id": "CacalyAl1997",
     "type": "book",
     "title": "Dictionnaire encyclopédique de l’information et de la documentation",
     "publisher": "Nathan",
@@ -372,7 +378,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/USFXIYA6",
+    "id": "Chartron2016",
     "type": "paper-conference",
     "title": "Édition et publication des contenus : regard transversal sur la transformation des modèles",
     "publisher-place": "Marseille",
@@ -393,7 +399,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/L4MPGV7R",
+    "id": "Doueihi2013",
     "type": "book",
     "title": "Qu'est-ce que le numérique ?",
     "publisher": "Presses Universitaires de France",
@@ -429,7 +435,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/7FCN8DXK",
+    "id": "Dorst2011",
     "type": "article-journal",
     "title": "The Core of Design Thinking and Its Application",
     "container-title": "Design Studies",
@@ -451,7 +457,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/KS3QUAFI",
+    "id": "Eco1979",
     "type": "book",
     "title": "Lector in fabula. Le rôle du lecteur",
     "publisher": "Le livre de poche",
@@ -472,7 +478,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/5V2QRLSS",
+    "id": "EcoWeaver1998",
     "type": "book",
     "title": "Serendipities: Language and Lunacy",
     "publisher": "Columbia University Press",
@@ -499,7 +505,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/2DK8U7GM",
+    "id": "FauchieParisot2018",
     "type": "article-journal",
     "title": "Repenser les chaînes de publication par l’intégration des pratiques du développement logiciel",
     "container-title": "Sciences du Design",
@@ -525,7 +531,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/SVV25GDW",
+    "id": "Fitzpatrick2011",
     "type": "book",
     "title": "Planned Obsolescence. Publishing, Technology, and the Future of the Academy.",
     "publisher": "New York University Publisher",
@@ -546,7 +552,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/V4DGNRLG",
+    "id": "Forsey2013",
     "type": "book",
     "title": "The Aesthetics of Design.",
     "publisher": "Oxford University Press",
@@ -582,7 +588,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/R5EDXNZS",
+    "id": "Glanville2009",
     "type": "article-journal",
     "title": "A (cybernetic) musing: Design and cybernetics",
     "container-title": "Cybernetics & Human Knowing",
@@ -604,7 +610,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/UMMJ5U7S",
+    "id": "GuibourgueMoutat2017",
     "type": "article-journal",
     "title": "Comment le design intuitif communique-t-il ?",
     "container-title": "MEI - Information et médiation",
@@ -628,7 +634,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/U934LUHZ",
+    "id": "JeanneretSouchier2005",
     "type": "article-journal",
     "title": "L’énonciation éditoriale dans les écrits d’écran",
     "container-title": "Communication et langages",
@@ -647,13 +653,13 @@
     "issued": {
       "date-parts": [
         [
-          "2015"
+          "2005"
         ]
       ]
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/GLAL4RN9",
+    "id": "KelleyLittman2005",
     "type": "chapter",
     "title": "The Ten Faces of Innovation",
     "container-title": "The Ten Faces of Innovation",
@@ -679,7 +685,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/986T8P8P",
+    "id": "Latour2010",
     "type": "article-journal",
     "title": "An Attempt at a “Compositionist Manifesto”",
     "container-title": "New Literary History",
@@ -700,7 +706,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/5BJGCEF4",
+    "id": "HatchuelWeilMasson2014",
     "type": "book",
     "title": "Théorie, méthodes et organisations de la conception",
     "collection-title": "Sciences de la conception",
@@ -736,7 +742,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/3S87VC86",
+    "id": "Lemoigne2018",
     "type": "chapter",
     "title": "Transformer l’expérience humaine en science avec conscience",
     "container-title": "Complexité et organisations: Faire face aux défis de demain",
@@ -772,7 +778,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/48IJY62N",
+    "id": "LeviStrauss1962",
     "type": "book",
     "title": "La pensée sauvage",
     "publisher": "Le livre de poche",
@@ -797,7 +803,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/Y4U33F75",
+    "id": "Marcotte2010",
     "type": "article-journal",
     "title": "Responsive Web Design",
     "container-title": "A List Apart",
@@ -817,7 +823,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/X6BZNR7T",
+    "id": "Masure2017",
     "type": "book",
     "title": "Design et humanités numériques",
     "collection-title": "Esthétique des données",
@@ -844,7 +850,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/TY7SSKDQ",
+    "id": "MidalLaurent2009",
     "type": "book",
     "title": "Design : introduction à l'histoire d'une discipline",
     "publisher": "Le livre de poche",
@@ -875,7 +881,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/INR9IW3E",
+    "id": "Miege2016",
     "type": "paper-conference",
     "title": "Les modèles socio-économiques contestés par les modèles d’affaires",
     "event": "OMIC - Observatoire des mutations des industries culturelles",
@@ -894,7 +900,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/AMWYV7TE",
+    "id": "Morin2018a",
     "type": "chapter",
     "title": "Complexité restreinte, complexité générale",
     "container-title": "Complexité et organisations",
@@ -926,7 +932,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/I8BSDQEF",
+    "id": "Morin2018b",
     "type": "chapter",
     "title": "Le comité-sphinx",
     "container-title": "Complexité et organisations",
@@ -958,7 +964,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/34Z89N8C",
+    "id": "Morin1991",
     "type": "book",
     "title": "Les idées: leur habitat, leur vie, leurs mœurs, leur organisation",
     "collection-title": "La Méthode 4",
@@ -985,7 +991,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/9LSXYI4E",
+    "id": "Morin1985",
     "type": "book",
     "title": "La vie de la vie",
     "collection-title": "La Méthode 2",
@@ -1008,7 +1014,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/QF69CWE8",
+    "id": "Oxman2002",
     "type": "article-journal",
     "title": "The thinking eye: visual re-cognition in design emergence",
     "container-title": "Design Studies",
@@ -1028,7 +1034,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/AW8LTK3V",
+    "id": "Roberts2015",
     "type": "article-journal",
     "title": "Models of Enchantment and the Enchantment of Models",
     "container-title": "Journal of Business Anthropology",
@@ -1050,7 +1056,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/EP4GX8IN",
+    "id": "SarasvathyGermain2011",
     "type": "article-journal",
     "title": "L’effectuation, une approche pragmatique et pragmatiste de l’entrepreneuriat",
     "container-title": "Revue de l’Entrepreneuriat",
@@ -1076,7 +1082,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/ANTU85ML",
+    "id": "Sarasvathy2001",
     "type": "article-journal",
     "title": "Causation and Effectuation: Toward a Theoretical Shift from Economic Inevitability to Entrepreneurial Contingency",
     "container-title": "Academy of Management Review",
@@ -1097,7 +1103,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/ZV5XHLT5",
+    "id": "Schnapp2014",
     "type": "chapter",
     "title": "Knowledge Design. Incubating new knowledge forms /genres / spaces in the laboratory of the digital humanities",
     "container-title": "Herrenhausen lectures",
@@ -1119,7 +1125,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/MSDRS5VR",
+    "id": "Souchier1998",
     "type": "article-journal",
     "title": "L’image du texte pour une théorie de l’énonciation éditoriale",
     "container-title": "Les cahiers de médiologie",
@@ -1140,7 +1146,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/CRMQIBTC",
+    "id": "Souchier2012",
     "type": "article-journal",
     "title": "La mémoire de l’oubli : éloge de l’aliénation",
     "container-title": "Communication et langages",
@@ -1161,7 +1167,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/8IU5KF2R",
+    "id": "Vial2017",
     "type": "book",
     "title": "Design et innovation dans la chaîne du livre: Ecrire, éditer, lire à l'ère numérique",
     "publisher": "Presses Universitaires de France",
@@ -1192,7 +1198,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/BN9H3DKM",
+    "id": "Vial2016",
     "type": "article-journal",
     "title": "Le tournant design des humanités numériques",
     "container-title": "Revue française des sciences de l’information et de la communication",
@@ -1231,7 +1237,7 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/YWPCHNWM",
+    "id": "Wolton2015",
     "type": "article-journal",
     "title": "Défense et illustration des sciences de la communication, Protection and promotion of communication sciences",
     "container-title": "Hermès, La Revue",
@@ -1253,14 +1259,14 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/NV26SDSU",
+    "id": "Zacklad2016",
     "type": "article-journal",
     "title": "Diversité des ontologies de la communication et de l’action collective",
     "container-title": "Revue française des sciences de l’information et de la communication",
     "issue": "9",
     "author": [
       {
-        "family": "Zackland",
+        "family": "Zacklad",
         "given": "Manuel"
       }
     ],
@@ -1273,13 +1279,13 @@
     }
   },
   {
-    "id": "http://zotero.org/users/local/xoMtnVMt/items/YM5GE6BQ",
+    "id": "Zacklad2017",
     "type": "chapter",
     "title": "Design et création Vers une théorie interdisciplinaire radicale du Design",
     "container-title": "Wikicréation",
     "author": [
       {
-        "family": "Zackland",
+        "family": "Zacklad",
         "given": "Manuel"
       }
     ],
