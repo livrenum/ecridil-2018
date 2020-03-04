@@ -33,7 +33,7 @@
         {{- if eq $len 1 -}}
           <span class="quire-contributor">{{ template "name-check" (dict "Site" $.Site "contributor" .) }}</span>
         {{- else if eq (add $index 1) $len -}}
-          <span class="quire-contributor"> and {{ template "name-check" (dict "Site" $.Site "contributor" .) }}</span>
+          <span class="quire-contributor"> et {{ template "name-check" (dict "Site" $.Site "contributor" .) }}</span>
         {{- else -}}
           {{- if eq $len 2 -}}
             <span class="quire-contributor">{{ template "name-check" (dict "Site" $.Site "contributor" .) }} </span>
@@ -50,7 +50,7 @@
         {{- if eq $len 1 -}}
           <span class="quire-contributor">{{ template "name-check" (dict "Site" $.Site "contributor" .) }}</span>
         {{- else if eq (add $index 1) $len -}}
-          <span class="quire-contributor"> and {{ template "name-check" (dict "Site" $.Site "contributor" .) }}</span>
+          <span class="quire-contributor"> et {{ template "name-check" (dict "Site" $.Site "contributor" .) }}</span>
         {{- else -}}
           {{- if eq $len 2 -}}
             <span class="quire-contributor">{{ template "name-check" (dict "Site" $.Site "contributor" .) }} </span>
