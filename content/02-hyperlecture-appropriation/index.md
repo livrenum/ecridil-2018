@@ -4,7 +4,7 @@ subtitle: >
   Une dynamique pour les Humanités Digitales
 weight: 102
 number: 2
-bibfile: bibliography/art02.json
+citedBibFile: bibliography/art02.json
 type: hybritexte
 abstract: >
   Cet article se comprend comme un retour sur le concept de « lecture appropriative », tel qu’il fut développé en 2007 dans un prototype de livre électronique universitaire nommé Codex Atlanticus. À partir de ce régime de lecture, nous voudrions aborder les enjeux de l’hyperlecture pour les humanités digitales et souligner l’évolution du livre universitaire. Dans un premier moment, nous présenterons une actualisation du concept de lecture appropriative sans revenir en détail sur une expérimentation déjà ancienne. Dans un second moment, nous nous nous pencherons sur l’évolution des pratiques lectoriales, ce qui permettra d’aborder dans un troisième moment la crise du livre classique. Les quatrième et cinquième moments seront consacrés aux formes spécifiques de la lecture appropriative et à la notion de lecture savante. Enfin, nous présenterons une métamorphose du lecteur autour de la figure de lettré du digital. La lecture appropriative trouve aujourd’hui un contexte favorable avec le projet RENum (Robert Escarpit numérique) financé par la région Nouvelle Aquitaine et un programme du MICA sur l’HyperEdition. 
@@ -126,3 +126,7 @@ La mutation contemporaine du livre implique l’apparition d’un nouveau régim
 Sans aborder le lien entre les régimes de lecture et la transformation des lieux du savoir, il apparaît que le destin du livre relève aujourd’hui d’une conception à-venir de l’HyperEdition. Nous avons tenté par l’exposition de la lecture appropriative de réaliser un déplacement/dépassement des deux formes de lecture : « soit lecture publique (le locuteur s’exprime par personne interposée qui retrouve la phoné, la voix qui parle), soit langage intérieur qui ne se transmet pas en éléments sonores » {{< hl-cite "Benveniste2012" >}}. Cette opposition entre lecture publique et lecture intérieure se trouve battue en brèche par les activités lectoriales de la lecture appropriative. Il n’y a plus d’opposition entre le monde extérieur et le monde intérieur mais, plutôt, une hybridation du lecteur/scripteur dans les communautés interprétatives des réseaux.
 
 {{< hl-augmentation none 6 >}}
+
+## Bibliographie
+
+{{< hl-custom-bibliography "bibliography/art02.json" >}}

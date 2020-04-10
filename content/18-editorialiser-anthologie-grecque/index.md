@@ -4,7 +4,7 @@ subtitle: >
   L’API comme livre numérique
 weight: 118
 number: 18
-bibfile: bibliography/art18.json
+citedBibFile: bibliography/art18.json
 type: hybritexte
 abstract: >
   
@@ -145,6 +145,9 @@ Notre projet en est actuellement à sa troisième année de développement. Nous
 
 Conformément aux principes des _Digitals Classics_, et plus, généralement, des _Digital Humanities_ {{< hl-cite "Schreibman2016" >}}, nous participons ainsi aux projets encyclopédiques en prenant une part active dans la mutualisation tout comme dans l’universalisation des savoirs. Ce projet révèle aussi le potentiel de l’éditorialisation pour repenser et republier des œuvres de notre patrimoine littéraire à l’époque du numérique.
 
+## Bibliographie
+
+{{< hl-cited-bibliography >}}
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
@@ -162,5 +165,6 @@ Conformément aux principes des _Digitals Classics_, et plus, généralement, de
      D’Ioro 2008.
 
 [^5]:
-
      À l’heure actuelle, Perseus ne dispose pas, en effet, de traduction française, anglaise et italienne des épigrammes, ni du texte grec des scholies. Il s’agit donc d’un enrichissement des épigrammes issues de l’édition Loeb.
+
+

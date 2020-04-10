@@ -14,17 +14,16 @@
 
 {{- $errorMissingPartialStyle := dict "Style de citation" "q-cite" "message" "Aucun modèle ne correspond au style de citation entré. Assurez-vous que le style explicité dans `.Site.params` se trouve dans `partials/bibliography`. Par exemple : " "example" "citationStyle: apa" -}}
 
-{{ $cited := $.Page.Scratch.Get "hlcited" }}
+{{ $references := .references }}
 
-{{ if $cited }}
-<section class="quire-page__content__references backmatter">
-  <h2 id="bibliography">Bibliographie</h2>
+{{ if $references }}
+<section class="quire-page__content__references backmatter" id="bibliography">
   <dl>
     {{/* -------------------- BEGIN RANGE BIBLIOGRAPHY -------------------- */}}
-    {{- range $citedIndex, $citedRef := $cited -}}
-      {{ $currentRef := index $cited $citedIndex }}
+    {{- range $refIndex, $refObject := $references -}}
+      {{ $currentRef := index $references $refIndex }}
 
-      {{ $citationStyle := ($.Param "citationStyle") | default "apa" }}
+      {{ $citationStyle := .citationStyle | default "apa" }}
 
       {{ $partialPath := string (printf "bibliography/%s-style.html" $citationStyle) }}
 

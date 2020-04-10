@@ -11,16 +11,6 @@
 {{/* 
   Set references
 */}}
-{{ $bibliographyPath := $.Page.Params.bibfile }}
-
-{{- if and $bibliographyPath (fileExists $bibliographyPath) -}}
-  {{/* -------------------- BEGIN JSON BIB -------------------- */}}
-  {{ $.Page.Scratch.Set "bibliography" (getJSON $bibliographyPath) }}
-  {{/* -------------------- END JSON BIB -------------------- */}}
-{{- else -}}
-  {{/* -------------------- NO BIB SET -------------------- */}}
-{{ errorf "No bib set!" }}
-{{- end -}}
 
 <article class="{{ partial "page-class.html" . }} quire-page hybritexte-page" id="main" role="main">
   {{/* partial "page-header.html" . */}}
@@ -65,8 +55,6 @@
 
       {{ if .Content }}
       {{ .Content }}
-      
-      {{ partial "page-bibliography.html" . }}
       {{ end }}
     </div>
   </section>

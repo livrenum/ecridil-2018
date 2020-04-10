@@ -4,7 +4,7 @@ subtitle: >
   Une édition multiformes et multisupports des manuscrits de Stendhal
 weight: 112
 number: 12
-bibfile: bibliography/art12.json
+citedBibFile: bibliography/art12.json
 type: hybritexte
 abstract: >
   
@@ -187,6 +187,9 @@ Cette édition multi-supports permet un retour aux documents laissés par Stendh
 
 Sinclair et Rockwell expliquent dans leur conclusion que « le vrai potentiel du texte numérique réside en sa capacité de faire proliférer les représentations des textes et de nous amener à poser de nouvelles questions interprétatives » {{< hl-cite "Dacos2010" 13 >}}. Et de fait, commencer à travailler avec le numérique, c’est prendre le risque d’ouvrir la boîte de Pandore, et donc de faire naître de nouvelles idées, de nouvelles envies… le problème étant de trouver les moyens humains, financiers, etc., pour suivre l’imagination débordante des chercheurs enthousiastes !
 
+## Bibliographie
+
+{{< hl-cited-bibliography >}}
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
@@ -268,5 +271,3 @@ Sinclair et Rockwell expliquent dans leur conclusion que « le vrai potentiel du
 
 [^26]:
      Dominique Pety, reprenant les analyses fondatrices de George Landow et Jay Bolter, parle ainsi d’une « textualité éclatée au gré des liens établis et des extraits rassemblés » par les lecteurs {{< hl-cite "MeynardLebarbe2015_introduction" >}}. Elle évoque très justement « la figure d’un lecteur actif, étroitement associé à l’interprétation, voire à la construction et à l’invention du texte ».
-
-

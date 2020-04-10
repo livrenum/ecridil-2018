@@ -27,12 +27,16 @@
 {{- else -}}
   {{- $id := .Get 0 -}}
   {{- $pages := .Get 1 -}}
-    
-{{ $bibliographyPath := $.Page.Params.bibfile }}
 
-{{- $bibliography := getJSON $bibliographyPath -}}
+  {{/* bibliographyPath must be relative to project root */}}
+  {{- $bibliographyPath := $.Page.Params.citedBibFile -}}
+
+  {{- $bibliography := getJSON $bibliographyPath -}}
+
   {{- range where $bibliography "id" "eq" $id -}}
     {{- $currentRef := . -}}
+
+    {{/* Add to the collection of cited references */}}
     {{- $.Page.Scratch.SetInMap "hlcited" $id $currentRef -}}
 
     <a href="#{{- $id | urlize -}}"

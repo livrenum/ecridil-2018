@@ -1,0 +1,23 @@
+{{/*
+
+  This shortcode includes a all the works from a specific
+  CSL-JSON file. Example:
+
+  {{< hl-custom-bibliography "path/to/bib.json" >}}
+
+  The first positional parameter is the path to the
+  bibliography file. It must be relative to the root
+  of the Hugo project.
+
+*/}}
+
+{{- $errorMissingValue := dict "shortcode" "hl-cite" "message" "1 value must be supplied with this shortcode. The first is required and should match the file path to a CSL-JSON file relative to the root of the project." "example" "{{< hl-custom-bibliography &#34;path/to/bib.json&#34; >}}" -}}
+
+
+{{- if ne (len .Params) 1 -}}
+  {{- partial "error-message.html" $errorMissingValue -}}
+{{- else -}}
+  {{- $bibliography := dict "references" (getJSON (.Get 0)) }}
+  {{- partial "bibliography/page-bibliography.html" $bibliography }}
+
+{{ end -}}

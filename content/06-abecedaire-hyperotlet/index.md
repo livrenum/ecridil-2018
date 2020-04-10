@@ -4,7 +4,7 @@ subtitle: >
   L’Abécédaire des mondes lettrés, un outil d’écriture collaborative savante
 weight: 106
 number: 06
-bibfile: bibliography/art06.json
+citedBibFile: bibliography/art06.json
 type: hybritexte
 abstract: >
   
@@ -181,6 +181,13 @@ La seconde fonctionnalité est une forme d’affichage et de navigation exploita
 
 Ce projet nous a permis de tester et d’explorer des formes éditoriales numériques nouvelles qui s’enrichiront de nouvelles fonctionnalités dans le cadre du projet _HyperOtlet_. Une réalisation qui en appelle d’autres sur la base de ce développement d’un outil d’éditorialisation. En effet, cet outil a été placé sous une licence _Creative Commons_, et est disponible aux communautés universitaires sur le [GitLab de l’In2P3](https://gitlab.in2p3.fr/Enssib/abcdev). Un projet qui s’enrichira également, nous l’espérons, des appropriations multiples que pourront en faire les communautés des humanités numériques.
 
+
+## Bibliographie
+
+{{< hl-cited-bibliography >}}
+
+
+<!-- Footnotes themselves at the bottom. -->
 ## Notes
 
 [^1]:

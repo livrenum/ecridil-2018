@@ -4,7 +4,7 @@ subtitle: >
   Quand le numérique invite à repenser la place du corps dans les dispositifs de lecture
 weight: 116
 number: 16
-bibfile: bibliography/art16.json
+citedBibFile: bibliography/art16.json
 type: hybritexte
 abstract: >
   Le numérique invite à repenser la place du corps dans les dispositifs de lecture.
@@ -239,9 +239,12 @@ C’est là, nous semble-t-il, l’une des fonctions primordiales du champ du de
 
 {{< hl-augmentation none 8 >}}
 
-{{< q-class backmatter >}}
+
+## Bibliographie
+
+{{< hl-cited-bibliography >}}
+
 ## Notes
-{{< /q-class >}}
 
 [^productions-graphiques]: Sur cette question pour le numérique, voir notamment Emmanuel Souchier {{< hl-cite "Souchier 2019" >}}. 
 

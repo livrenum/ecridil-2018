@@ -4,7 +4,7 @@ subtitle: >
   Scénographies du livre en régime numérique
 weight: 103
 number: 3
-bibfile: bibliography/art03.json
+citedBibFile: bibliography/art03.json
 type: hybritexte
 abstract: >
   Le numérique invite à repenser la place du corps dans les dispositifs de lecture.
@@ -143,6 +143,13 @@ Ce faisant, ce sont aussi les médiations du lire et de la lecture qui sont déc
 
 Toutes ces modalités de convocation de l’objet livre comme objet symbolique investi de fonctions sociales, communautaires, culturelles, mettent en valeur enfin, en creux ou de manière plus franche, le livre en tant qu’objet d’une industrie : lorsque les youtubeuses exhibent leurs piles de livre, elles suggèrent surtout l’usage du service de presse et la course à la visibilité pour chaque titre ; lorsque Samantha Bailly évoque l’opération _Book fairies_ c’est aussi pour fidéliser ses lecteurs dans un environnement concurrentiel et inventer des formes promotionnelles ludiques et originales, soulignant les enjeux nouveaux auxquels sont confrontés les auteurs pour monter en visibilité. 
 
+
+## Bibliographie
+
+{{< hl-cited-bibliography >}}
+
+
+<!-- Footnotes themselves at the bottom. -->
 ## Notes
 
 [^powell]: La référence est citée par Powell.

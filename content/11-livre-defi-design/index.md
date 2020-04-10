@@ -4,7 +4,7 @@ subtitle: >
   L’intersection numérique de la création et de l’édition
 weight: 111
 number: 11
-bibfile: bibliography/art11.json
+citedBibFile: bibliography/art11.json
 type: hybritexte
 abstract: >
   De plus en plus, la création d’œuvres littéraires interactives pour les jeunes publics s’accompagne de la mise en place tâtonnante, et encore grandement itérative, de nouveaux modes de travail, individuels comme collaboratifs. Qu’il s’agisse du travail artistique multimodal (texte, image, musique, effet sonore, narration), de la conception technologique et du développement d’un environnement interactif ou encore de la gestion d’un projet (financement, direction, etc.), nous vivons une ère d’innovation fort stimulante pour le domaine de l’édition. Les différents acteurs impliqués (artistes, concepteurs et gestionnaires) commencent peu à peu à identifier les composantes et les limites de leurs rôles respectifs, apprenant à travailler ensemble dans des dynamiques qu’ils avaient encore trop peu ou jamais explorées. La connaissance grandissante des potentiels technologiques, la diversification des équipes avec l’ajout de modalités sensorielles et l’avènement de nouveaux types de partenariats entre différentes entités de création, de recherche ou d’éducation sont autant de facteurs d’évolution du domaine. 

@@ -4,7 +4,7 @@ subtitle: >
   L’énonciation éditoriale de Poreuse
 weight: 109
 number: 09
-bibfile: bibliography/art09.json
+citedBibFile: bibliography/art09.json
 type: hybritexte
 abstract: >
   
@@ -208,6 +208,12 @@ Comme on parle de « cognition distribuée » (c’est-à-dire d’une externali
 L’autorité distribuée invite à penser l’espace éditorial comme une énigme, un « lieu de savoir » {{< hl-cite "Jacob2014" >}} dans lequel agissent des forces et des matériaux, des formes et des actants dans un processus continu de croissance, de mélange et d’écoulement<sup> </sup>{{< hl-cite "Ingold2017" >}}. C’est à cette anthropologie matérielle de l’autorité distribuée que nous souhaiterions désormais travailler, en croisant les apports des approches communicationnelles et socio-stylistiques.
 
 
+## Bibliographie
+
+{{< hl-cited-bibliography >}}
+
+
+<!-- Footnotes themselves at the bottom. -->
 ## Notes
 
 [^1]: Voir le texte programmatique de la collection sur Publie.net : https://www.publie.net/categorie-produit/temps-reel/. Source consultée le 9/08/2018
