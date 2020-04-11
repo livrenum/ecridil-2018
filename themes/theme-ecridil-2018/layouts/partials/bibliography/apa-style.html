@@ -1,9 +1,13 @@
 {{/* 
   APA-Style Citation
 
-  Template : 
+  Book Template : 
 
     Author Surname, First Initial. Second Initial. (Year). <i>Book title: Subtitle</i>. Place of Publication: Publisher. [DOI]
+
+  Journal Template:
+
+    Author, I. N. (Year). Title of the article. <i>Title of the Journal or Periodical, volume number(issue number)</i>, page numbers. [DOI]
 
   https://apastyle.apa.org/style-grammar-guidelines/references/examples
 
@@ -12,7 +16,9 @@
 {{/* -------------------- BEGIN TYPES -------------------- */}}
 {{/* -------------------- BEGIN BOOK TYPE -------------------- */}}
 {{- if eq .type "book" -}}
-<span itemscope itemtype="https://schema.org/Book">
+<span itemscope 
+      itemtype="https://schema.org/Book"
+      data-type="book">
   {{/* BEGIN author part */}}
   {{ $authors := .author }}
   {{- if not $authors -}}
@@ -28,13 +34,13 @@
     {{ substr . 0 1 }}.
     {{- end -}}{{/* First letter (initial). */}}
     {{- with $author.secondInitial -}}
-    &nbsp;
+    &#32;
     <meta itemprop="additionalName" content="{{ . }}" />
     {{- substr . 0 1 -}}.{{- end -}}
   </span>
-  {{- if and (gt $totalAuthors 1) (ne $totalAuthors (add $authorIndex 1) ) -}}, 
+  {{- if and (gt $totalAuthors 1) (lt (add $authorIndex 1) $totalAuthors) -}},&#32;
   {{ end -}}
-  {{ if eq $totalAuthors (add $authorIndex 2) -}}&amp; {{ end -}}{{/* Last name has ampersand */}}
+  {{ if eq $totalAuthors (add $authorIndex 2) -}}&#32;&amp;&#32;{{ end -}}{{/* Last name has ampersand */}}
   {{- end -}}
   {{- end -}}
   {{/* END author part */}}
@@ -76,37 +82,104 @@
   {{- end -}}
   {{- if and (isset . "publisher-place") (isset . "publisher") }}&nbsp;: {{ end -}}
   {{ with .publisher -}}
-    <span itemprop="publisher" itemtype="http://schema.org/Organization" itemscope="">
-      <span itemprop="name">
-      {{- . -}}.
-      </span>
-    </span>
-  {{- end }}
+    <span itemprop="publisher" itemtype="http://schema.org/Organization" itemscope=""><span itemprop="name">
+      {{- . -}}
+      </span></span>
+  {{- end }}{{ if or (isset . "publisher-place") (isset . "publisher") }}.{{ end }}
 
   {{/* BEGIN DOI */}}
   {{ with .DOI -}}
-  <span>
-    <a href="https://doi.org/{{- . -}}">https://doi.org/{{- . -}}</a>
-  </span>
+  <a href="https://doi.org/{{- . -}}"
+     class="pas-espace-fine">https://doi.org/{{- . -}}</a>
   {{- end -}}
   {{/* END DOI */}}
 </span>
 {{/* -------------------- END BOOK TYPE -------------------- */}}
 
 {{/* -------------------- BEGIN ARTICLE TYPE -------------------- */}}
-{{- else if eq .type "article-journal" -}}
+{{- else if or (eq .type "article-journal") (eq .type "article") -}}
 <span id="{{ urlize .id }}"
      itemscope
-     itemtype="https://schema.org/Article">
-  
-  <dt>Article Title</dt>
-  <dd>Article Desc</dd>
+     itemtype="https://schema.org/Article"
+     data-type="article">
+  {{/* BEGIN author part */}}
+  {{ $authors := .author }}
+  {{- if not $authors -}}
+  {{- else -}}
+  {{- $totalAuthors := len $authors -}}
+  {{- range $authorIndex, $author := .author -}}
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+    {{- with $author.family -}}
+    <span itemprop="familyName">{{ . }}</span>
+    {{- end }}, 
+    {{- with $author.given -}}
+    <meta itemprop="givenName" content="{{ . }}" />
+    {{ substr . 0 1 }}.
+    {{- end -}}{{/* First letter (initial). */}}
+    {{- with $author.secondInitial -}}
+    &#32;
+    <meta itemprop="additionalName" content="{{ . }}" />
+    {{- substr . 0 1 -}}.{{- end -}}
+  </span>
+  {{- if and (gt $totalAuthors 1) (lt (add $authorIndex 1) $totalAuthors) -}},&#32;
+  {{ end -}}
+  {{ if eq $totalAuthors (add $authorIndex 2) -}}&#32;&amp;&#32;{{ end -}}{{/* Last name has ampersand */}}
+  {{- end -}}
+  {{- end -}}
+  {{/* END author part */}}
+
+  {{/* BEGIN issued (year of publication) */}}
+  {{- if and (isset . "issued") (isset .issued "date-parts") -}}
+    {{/* range of dates */}}
+    (<span itemprop="datePublished">
+    {{- range $index, $dateParts := (index .issued "date-parts") -}}
+    {{- if gt $index 0 -}}, {{ end -}}{{/* Separate other years by comma */}}
+    {{- range first 1 $dateParts -}}{{/* First element in date-part is the year */}}
+    {{- . -}}
+    {{- end -}}
+    {{- end -}}
+    </span>).
+  {{- end }}
+  {{/* END issued */}}
+
+  {{- if .title -}}
+  <span itemprop="name">
+    {{- .title | markdownify -}}
+    {{- if .subtitle }}&nbsp;: {{ .subtitle | markdownify }}{{- end -}}
+  </span>.
+  {{- end -}}
+
+  {{ if isset . "container-title" }}
+  <i>{{/* italicize journal title */}}
+    <span itemprop="publisher"
+          itemtype="http://schema.org/Organization"
+          itemscope="">
+    {{- echoParam . "container-title" -}}</span>
+    {{- if isset . "volume" -}}
+    ,&#32;{{- .volume -}}
+    {{- end -}}
+    {{- if isset . "issue" }}({{ .issue }})
+    {{- end -}}
+    </i>.{{- end -}}
+  {{- if isset . "page" -}}
+  &#32;<span>{{ replace .page "-" "–" }}.</span>
+  {{- end -}}
+
+  {{/* BEGIN DOI */}}
+  {{ with .DOI -}}
+  <a href="https://doi.org/{{ . }}"
+     class="pas-espace-fine">https://doi.org/{{ . }}
+  </a>
+  {{- end -}}
+  {{/* END DOI */}}
 </span>
 {{/* -------------------- END ARTICLE TYPE -------------------- */}}
 
 {{/* -------------------- BEGIN DEFAULT APA -------------------- */}}
 {{- else -}}
-<span itemscope itemtype="https://schema.org/Book">
+<span itemscope
+      itemtype="https://schema.org/Book"
+      data-type="{{ .type | default "default" }}">
   {{/* BEGIN author part */}}
   {{ $authors := .author }}
   {{- if $authors -}}
@@ -117,18 +190,18 @@
     <span itemprop="familyName">{{ . }}</span>
     {{- end }}, 
     {{- with $author.given -}}
-    &nbsp;
+    &#32;
     <meta itemprop="givenName" content="{{ . }}" />
     {{ substr . 0 1 }}.
     {{- end -}}{{/* First letter (initial). */}}
     {{- with $author.secondInitial -}}
-    &nbsp;
+    &#32;
     <meta itemprop="additionalName" content="{{ . }}" />
     {{- substr . 0 1 -}}.{{- end -}}
   </span>
-  {{- if and (gt $totalAuthors 1) (ne $totalAuthors (add $authorIndex 1) ) -}}, 
+  {{- if and (gt $totalAuthors 1) (lt (add $authorIndex 1) $totalAuthors) -}},&#32;
   {{ end -}}
-  {{ if eq $totalAuthors (add $authorIndex 2) -}}&amp; {{ end -}}{{/* Last name has ampersand */}}
+  {{ if eq $totalAuthors (add $authorIndex 2) -}}&#32;&amp;&#32;{{ end -}}{{/* Last name has ampersand */}}
   {{- end -}}
   {{- end -}}
   {{/* END author part */}}
@@ -168,20 +241,18 @@
     {{- echoParam . "publisher-place" | markdownify -}}
   </span>
   {{- end -}}
-  {{- if and (isset . "publisher-place") (isset . "publisher") }}&nbsp;: {{ end -}}
-  {{ with .publisher -}}
+  {{- if and (isset . "publisher-place") (isset . "publisher") }}&nbsp;:&#32;{{ end -}}
+  {{- with .publisher -}}
     <span itemprop="publisher" itemtype="http://schema.org/Organization" itemscope="">
       <span itemprop="name">
-      {{- . -}}.
-      </span>
-    </span>
-  {{- end }}
+      {{- . -}}
+      </span></span>
+  {{- end }}{{ if or (isset . "publisher-place") (isset . "publisher") }}.{{ end }}
 
   {{/* BEGIN DOI */}}
   {{ with .DOI -}}
-  <span class="pas-espace-fine">
-    https://doi.org/{{ . }}
-  </span>
+  <a href="https://doi.org/{{ . }}"
+     class="pas-espace-fine">https://doi.org/{{ . }}</a>
   {{- end -}}
   {{/* END DOI */}}
 </span>
