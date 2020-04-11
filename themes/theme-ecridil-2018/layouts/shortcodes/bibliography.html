@@ -1,21 +1,23 @@
 {{/*
 
-  This shortcode includes works from a CSL-JSON file.
+  This shortcode renders entries from a CSL-JSON file.
 
   Examples:
 
-  1. Include all works from a `bib.json` file located
+  1. Render all works from a `bib.json` file located
      in a page leaf bundle:
 
   {{< bibliography >}}
 
 
-  2. Include all works from a specified JSON file:
+  2. Render all works from a specified JSON file,
+     located *inside* the Hugo project directory:
 
   {{< bibliography "path/to/bib.json" >}}
 
 
-  3. Include only the cited works:
+  3. Render only cited works cited in the page
+     (with the use of `{{< cite >}}` shortcode):
 
   {{< bibliography cited >}}
 
@@ -29,10 +31,23 @@
 
   {{< bibliography src="path/to/bib.json" cited="true" >}}
 
-  The first positional points to the bibliography file.
+
+  6. Bibliography file may be located at a URL, thanks to Hugo’s
+     `getJSON` function.
+     *Note however that this method may have some drawbacks if you are reloading
+     often, see the Hugo docs regarding potential issues:*
+     https://gohugo.io/templates/data-templates/#livereload-with-data-files
+
+  {{< bibliography "https://example.com/my/bib.json" >}}
+
+
+  The first positional param points to the bibliography file.
   It is optional if you have a `bib.json` in a page leaf bundle.
   It must be relative to the root of the Hugo project.
-  By default, it 
+
+  By default, all entries of the bibliography file are rendered; you can chose
+  to render only those cited on the page (using the {{< cite >}} shortcode) by
+  including the `cited` parameter (or `cited="true"` if using named params).
 
 */}}
 
@@ -54,12 +69,11 @@
   {{- if eq (.Get 1) "cited" }}{{- $citedOnly = true }}{{ end }}
 {{- end }}
 
+{{- if $citedOnly }}{{/* Render cited references only */}}
 
-{{/* Cited references only */}}
-{{- if $citedOnly }}
-{{ $references = $.Page.Scratch.Get "citedBib" }}
+  {{ $references = $.Page.Scratch.Get "citedBib" }}
 
-{{- else }}{{/* Full bibliography */}}
+{{- else }}{{/* Render the full bibliography */}}
 
   {{- $bibliographyPath := "" }}
   {{- $pageResource := $.Page.Resources.GetMatch "*bib*.json" -}}
@@ -69,8 +83,8 @@
   {{- $bibliographyPath = $src }}
 
   {{/* 2. Specified in page front-matter */}}
-  {{- else if $.Page.Params.citedBibFile }}
-  {{- $bibliographyPath = $.Page.Params.citedBibFile }}
+  {{- else if $.Page.Params.bibFile }}
+  {{- $bibliographyPath = $.Page.Params.bibFile }}
 
   {{/* 3. Page resource bib.json */}}
   {{- else if $pageResource }}
@@ -78,7 +92,7 @@
   {{- $bibliographyPath = $constructedBibResource }}
   {{- end }}
 
-{{- $references = getJSON $bibliographyPath }}
+  {{- $references = getJSON $bibliographyPath }}
 
 {{- end }}
 
