@@ -207,7 +207,7 @@ Par ailleurs, les investissements publics annoncés récemment dans les secteurs
 
 ## Bibliographie
 
-{{< hl-cited-bibliography >}}
+{{< bibliography >}}
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes

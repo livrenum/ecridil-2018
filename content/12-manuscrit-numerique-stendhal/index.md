@@ -188,7 +188,7 @@ Sinclair et Rockwell expliquent dans leur conclusion que « le vrai potentiel du
 
 ## Bibliographie
 
-{{< hl-cited-bibliography >}}
+{{< bibliography >}}
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes

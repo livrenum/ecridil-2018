@@ -145,7 +145,7 @@ Toutes ces modalités de convocation de l’objet livre comme objet symbolique i
 
 ## Bibliographie
 
-{{< hl-cited-bibliography >}}
+{{< bibliography >}}
 
 
 <!-- Footnotes themselves at the bottom. -->

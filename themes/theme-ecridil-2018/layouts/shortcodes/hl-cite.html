@@ -32,27 +32,37 @@
 {{- $id := .Get 0 -}}
 {{- $pages := .Get 1 -}}
 
-{{- $bibliographyPath := "" }}
+{{/* -------------------- BEGIN Citation style -------------------- */}}
 
-{{/* `specifiedBib` must be relative to project root */}}
-{{- $specifiedBib := $.Page.Params.citedBibFile }}
+{{- $citationStyle := "apa" }}
+{{- if $.Site.Params.citationStyle }}
+  {{- if templates.Exists (printf "aprtials/bibliography/%s-style.html" $.Site.Params.citationStyle) }}
+    {{- $citationStyle = $.Site.Params.citationStyle }}
+  {{- end }}
+{{- end }}
+{{- $partialPath := string (printf "bibliography/%s-style.html" $citationStyle) }}
+{{/* -------------------- END Citation style -------------------- */}}
+
+{{/* -------------------- BEGIN Bibliography path -------------------- */}}
+{{- $bibliographyPath := "" }}
 
 {{/* Default: check for a JSON file in the leaf bundle. */}}
 {{- $pageResource := $.Page.Resources.GetMatch "*bib*.json" -}}
 {{- if $pageResource }}
 {{- $constructedBibResource := printf "content/%s%s" $.Page.File.Dir $pageResource.Name }}
-{{ $bibliographyPath = $constructedBibResource }}
+{{- $bibliographyPath = $constructedBibResource }}
 {{- end }}
 
 {{/* If a `citedBibFile` is specified in the page front-matter, it takes precedence
   over a page resource. */}}
+{{/* `specifiedBib` must be relative to project root */}}
 {{- if $.Page.Params.citedBibFile }}
 {{- $bibliographyPath = $.Page.Params.citedBibFile -}}
 {{- end }}
 
-{{ if gt (len $bibliographyPath) 1 }}{{/* Begin Bibliography Loop */}}
+{{ if gt (len $bibliographyPath) 0 }}{{/* Begin Bibliography Loop */}}
 {{- $bibliography := getJSON $bibliographyPath -}}
-
+{{/* -------------------- END Bibliography path -------------------- */}}
 {{- range where $bibliography "id" "eq" $id -}}
   {{- $currentRef := . -}}
 
@@ -98,7 +108,7 @@
       , pp.&nbsp;{{ . }}
       {{- end -}}
     </a>)
-    <span class="quire-citation__content">{{ partial "bibliography/apa-style.html" $currentRef }}</span></span>
+    <span class="quire-citation__content">{{ partial $partialPath $currentRef }}</span></span>
   {{- else -}}
   {{/* 
     Did not find reference with matchin ID

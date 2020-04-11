@@ -1,0 +1,86 @@
+{{/*
+
+  This shortcode includes works from a CSL-JSON file.
+
+  Examples:
+
+  1. Include all works from a `bib.json` file located
+     in a page leaf bundle:
+
+  {{< bibliography >}}
+
+
+  2. Include all works from a specified JSON file:
+
+  {{< bibliography "path/to/bib.json" >}}
+
+
+  3. Include only the cited works:
+
+  {{< bibliography cited >}}
+
+
+  4. Combine both options:
+
+  {{< bibliography "path/to/bib.json" cited >}}
+
+
+  5. You can also use named params for clarity:
+
+  {{< bibliography src="path/to/bib.json" cited="true" >}}
+
+  The first positional points to the bibliography file.
+  It is optional if you have a `bib.json` in a page leaf bundle.
+  It must be relative to the root of the Hugo project.
+  By default, it 
+
+*/}}
+
+{{- $src := "" }}
+{{- $citedOnly := false }}
+{{- $references := false }}
+
+{{- if .IsNamedParams }}
+  {{- with .Get "src" }}{{ $src = . }}{{ end }}
+  {{- if .Get "cited" }}{{ $citedOnly = true }}{{ end }}
+{{- else }}
+  {{- with .Get 0 }}
+    {{- if eq . "cited" }}
+      {{- $citedOnly = true }}
+    {{- else }}{{/* assume path to bib */}}
+      {{- $src = . }}
+    {{ end }}
+  {{ end }}
+  {{- if eq (.Get 1) "cited" }}{{- $citedOnly = true }}{{ end }}
+{{- end }}
+
+
+{{/* Cited references only */}}
+{{- if $citedOnly }}
+{{ $references = $.Page.Scratch.Get "citedBib" }}
+
+{{- else }}{{/* Full bibliography */}}
+
+  {{- $bibliographyPath := "" }}
+  {{- $pageResource := $.Page.Resources.GetMatch "*bib*.json" -}}
+
+  {{/* Specified in shortcode */}}
+  {{- if gt (len $src) 1 }}
+  {{- $bibliographyPath = $src }}
+
+  {{/* 2. Specified in page front-matter */}}
+  {{- else if $.Page.Params.citedBibFile }}
+  {{- $bibliographyPath = $.Page.Params.citedBibFile }}
+
+  {{/* 3. Page resource bib.json */}}
+  {{- else if $pageResource }}
+  {{- $constructedBibResource := printf "content/%s%s" $.Page.File.Dir $pageResource.Name }}
+  {{- $bibliographyPath = $constructedBibResource }}
+  {{- end }}
+
+{{- $references = getJSON $bibliographyPath }}
+
+{{- end }}
+
+{{- $bibParams := dict "references" $references }}
+{{- partial "bibliography/bibliography-list.html" $bibParams }}

@@ -241,7 +241,7 @@ Ce modèle, comme le cas sur lequel il est fondé et qu'il traite, est une versi
 
 ## Bibliographie
 
-{{< hl-cited-bibliography >}}
+{{< bibliography >}}
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes

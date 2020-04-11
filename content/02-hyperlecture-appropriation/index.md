@@ -128,4 +128,4 @@ Sans aborder le lien entre les régimes de lecture et la transformation des lieu
 
 ## Bibliographie
 
-{{< hl-cited-bibliography >}}
+{{< bibliography >}}

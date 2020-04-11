@@ -4,7 +4,6 @@ subtitle: >
   L’Abécédaire des mondes lettrés, un outil d’écriture collaborative savante
 weight: 106
 number: 06
-citedBibFile: bibliography/art06.json
 type: hybritexte
 abstract: >
   
@@ -184,7 +183,7 @@ Ce projet nous a permis de tester et d’explorer des formes éditoriales numér
 
 ## Bibliographie
 
-{{< hl-cited-bibliography >}}
+{{< bibliography >}}
 
 
 <!-- Footnotes themselves at the bottom. -->

@@ -135,7 +135,7 @@ Conformément aux principes des _Digitals Classics_, et plus, généralement, de
 
 ## Bibliographie
 
-{{< hl-cited-bibliography >}}
+{{< bibliography >}}
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes

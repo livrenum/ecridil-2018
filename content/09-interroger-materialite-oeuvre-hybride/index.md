@@ -209,7 +209,7 @@ L’autorité distribuée invite à penser l’espace éditorial comme une énig
 
 ## Bibliographie
 
-{{< hl-cited-bibliography >}}
+{{< bibliography >}}
 
 
 <!-- Footnotes themselves at the bottom. -->

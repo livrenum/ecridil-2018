@@ -241,7 +241,7 @@ C’est là, nous semble-t-il, l’une des fonctions primordiales du champ du de
 
 ## Bibliographie
 
-{{< hl-cited-bibliography >}}
+{{< bibliography >}}
 
 ## Notes
 
