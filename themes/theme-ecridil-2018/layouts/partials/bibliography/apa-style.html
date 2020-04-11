@@ -94,7 +94,7 @@
 {{/* -------------------- END BOOK TYPE -------------------- */}}
 
 {{/* -------------------- BEGIN ARTICLE TYPE -------------------- */}}
-{{- else if eq .type "article" -}}
+{{- else if eq .type "article-journal" -}}
 <span id="{{ urlize .id }}"
      itemscope
      itemtype="https://schema.org/Article">
@@ -179,7 +179,7 @@
 
   {{/* BEGIN DOI */}}
   {{ with .DOI -}}
-  <span>
+  <span class="pas-espace-fine">
     https://doi.org/{{ . }}
   </span>
   {{- end -}}
