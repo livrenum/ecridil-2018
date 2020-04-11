@@ -2,5 +2,13 @@
     "brackets-latex.texBinDirectory": "/usr/texbin",
     "brackets-latex.outputDirectory": "out",
     "brackets-latex.compiler": "pdflatex",
-    "brackets-latex.mainFile": null
+    "brackets-latex.mainFile": null,
+    "brackets-file-tree-exclude.excludeList": [
+      "/.git/",
+      "/dist/",
+      "/bower_components/",
+      "/node_modules/",
+      "/vendor/",
+      "/site/"
+  ]
 }
