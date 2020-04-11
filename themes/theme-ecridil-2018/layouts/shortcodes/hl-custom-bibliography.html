@@ -18,6 +18,6 @@
   {{- partial "error-message.html" $errorMissingValue -}}
 {{- else -}}
   {{- $bibliography := dict "references" (getJSON (.Get 0)) }}
-  {{- partial "bibliography/page-bibliography.html" $bibliography }}
+  {{- partial "bibliography/bibliography-list.html" $bibliography }}
 
 {{ end -}}

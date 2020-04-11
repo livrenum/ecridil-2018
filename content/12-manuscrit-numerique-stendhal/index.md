@@ -4,7 +4,6 @@ subtitle: >
   Une édition multiformes et multisupports des manuscrits de Stendhal
 weight: 112
 number: 12
-citedBibFile: bibliography/art12.json
 type: hybritexte
 abstract: >
   

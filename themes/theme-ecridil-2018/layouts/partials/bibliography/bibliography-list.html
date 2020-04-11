@@ -1,0 +1,81 @@
+{{/* 
+  Bibliography List
+
+  - You can change the citation style in the site's `config.yml` file.
+  - Citation templates must be put in the `layouts/partials/bibliography` directory 
+    and must have a matching template (e.g. `apa-style.html` for `apa`).
+  - This partial expects an object:
+    
+    references: the references collection
+    citationStyle (optional): specify the citation style.
+
+  CSL-JSON spec:
+  https://citeproc-js.readthedocs.io/en/latest/csl-json/markup.html
+*/}}
+
+{{- $errorMissingPartialStyle := dict "Style de citation" "q-cite" "message" "Aucun modèle ne correspond au style de citation entré. Assurez-vous que le style explicité dans `.Site.params` se trouve dans `partials/bibliography`. Par exemple : " "example" "citationStyle: apa" -}}
+
+{{ $references := .references }}
+
+{{ if $references }}
+<section class="quire-page__content__references backmatter">
+  <dl>
+    {{/* -------------------- BEGIN RANGE BIBLIOGRAPHY -------------------- */}}
+    {{- range $refIndex, $refObject := $references -}}
+      {{- $currentRef := index $references $refIndex }}
+
+      {{- $citationStyle := .citationStyle | default "apa" }}
+      {{- if $.Params.citationStyle }}
+      {{ $citationStyle = $.Params.citationStyle }}
+      {{- end }}
+
+      {{- $partialPath := string (printf "bibliography/%s-style.html" $citationStyle) }}
+
+      <div id="{{ $currentRef.id | urlize }}">
+        <dt>
+          {{/* 
+            Author-date in-text citation
+          */}}
+
+          {{ $authors := .author }}
+          {{- if not $authors -}}
+          (S. A.){{/* Fallback if no authors are specified */}}
+          {{- else -}}
+
+          {{- $totalAuthors := len $authors -}}
+          {{- range $authorIndex, $author := .author -}}{{/* BEGIN authors loop */}}
+
+          {{- with $author.family -}}
+          {{ . }}
+          {{- end }}
+          {{- if and (gt $totalAuthors 1) (lt (add $authorIndex 2) $totalAuthors) -}},&#32;
+          {{ end -}}
+          {{ if eq $totalAuthors (add $authorIndex 2) -}}&#32;&amp;&#32;{{ end -}}{{/* Last name has ampersand */}}
+          {{- end -}}
+
+          {{- end -}}{{/* END authors loop */}}
+
+          {{/* Begin Issued */}}
+          ({{- if and (isset $currentRef "issued") (isset .issued "date-parts") -}}
+          {{- range $index, $dateParts := (index $currentRef.issued "date-parts") -}}
+          {{- if gt $index 0 -}},&#32;{{ end -}}
+          {{- range first 1 $dateParts -}}{{- . -}}{{- end -}}
+          {{- end -}}
+          {{- else -}}
+          <i>s.d.</i>{{/* Fallback if no date */}}
+          {{- end -}}){{/* End Issued */}}</dt>
+
+        <dd>
+          {{/*
+            Full bibliographic notice
+          */}}
+
+          {{- partial $partialPath $currentRef -}}
+
+        </dd>
+      </div>
+    {{- end -}}
+    {{/* -------------------- END RANGE BIBLIOGRAPHY -------------------- */}}
+  </dl>
+</section>
+{{ end }}

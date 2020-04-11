@@ -4,7 +4,6 @@ subtitle: >
   L’API comme livre numérique
 weight: 118
 number: 18
-citedBibFile: bibliography/art18.json
 type: hybritexte
 abstract: >
   

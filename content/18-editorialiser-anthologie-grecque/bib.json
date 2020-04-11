@@ -379,7 +379,7 @@
     },
     "language": "English",
     "note": "OCLC: 854470176",
-    "publisher": "Blackwell Pub.",
+    "publisher": "Blackwell Pub",
     "publisher-place": "Malden, Mass.",
     "source": "Open WorldCat",
     "title": "A guide to Hellenistic literature",
@@ -521,7 +521,7 @@
     "id": "McGuire2013",
     "abstract": "Introduction Here is a radical statement: A publisher's job is to provide good APIs (Application Programming Interfaces) for their books. Now that almost all books are made into digital...",
     "issued": {
-      "date-parts": [[2013]]
+      "date-parts": [[2013, 10, 5]]
     },
     "author": [{
       "family": "McGuire",

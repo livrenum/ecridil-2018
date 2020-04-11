@@ -4,7 +4,6 @@ subtitle: >
   Scénographies du livre en régime numérique
 weight: 103
 number: 3
-citedBibFile: bibliography/art03.json
 type: hybritexte
 abstract: >
   Le numérique invite à repenser la place du corps dans les dispositifs de lecture.

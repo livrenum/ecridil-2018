@@ -35,7 +35,7 @@
     "accessed": {
       "date-parts": [
         [
-          "2020",
+          2020,
           1,
           22
         ]
@@ -44,7 +44,7 @@
     "issued": {
       "date-parts": [
         [
-          "2014",
+          2014,
           9,
           26
         ]
@@ -68,7 +68,7 @@
     "issued": {
       "date-parts": [
         [
-          "2011",
+          2011,
           2,
           11
         ]
@@ -91,7 +91,7 @@
     "issued": {
       "date-parts": [
         [
-          "2018"
+          2018
         ]
       ]
     }
@@ -168,9 +168,7 @@
     "URL": "http://www.stat.gouv.qc.ca/statistiques/culture/etat-lieux-metadonnees.html",
     "author": [
       {
-        "family": "Québec",
-        "given": "Institut de la Statistique",
-        "dropping-particle": "du"
+        "family": "Institut de la Statistique du Québec"
       }
     ],
     "issued": {
@@ -188,8 +186,7 @@
     "URL": "http://www.laboiteapitons.com/fonfon/",
     "author": [
       {
-        "family": "La boîte à pitons",
-        "given": ""
+        "family": "La boîte à pitons"
       }
     ]
   },
@@ -202,12 +199,10 @@
     "URL": "http://www.clubdescreaturesmysterieuses.com/fr/accueil",
     "author": [
       {
-        "family": "La boîte à pitons",
-        "given": ""
+        "family": "La boîte à pitons"
       },
       {
-        "family": "Yoozoo",
-        "given": ""
+        "family": "Yoozoo"
       }
     ]
   },

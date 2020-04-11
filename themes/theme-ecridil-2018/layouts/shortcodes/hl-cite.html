@@ -13,6 +13,10 @@
 
   The text element between the author date reference and the page can be changed
   with the `citationPageLocationDivider` property in `config.yml`.
+    
+  The bibliography file must be a CSL-JSON, specified either in page’s front-
+  matter with the `citedBibFile` parameter, or in a leaf bundle, with "bib" in
+  the file name.
 
 */}}
 
@@ -23,69 +27,86 @@
 {{- $errorMissingReference := dict "shortcode" "hl-cite" "message" "The short reference supplied doesn’t match one in the project’s `references.yml` file" "example" "{{< q-cite &#34;Faure 1909&#34; >}}<br /><br />short: &#34;Faure 1909&#34;" -}}
 
 {{- if and (ne (len .Params) 1) (ne (len .Params) 2) -}}
-  {{- partial "error-message.html" $errorMissingValue -}}
+{{- partial "error-message.html" $errorMissingValue -}}
 {{- else -}}
-  {{- $id := .Get 0 -}}
-  {{- $pages := .Get 1 -}}
+{{- $id := .Get 0 -}}
+{{- $pages := .Get 1 -}}
 
-  {{/* bibliographyPath must be relative to project root */}}
-  {{- $bibliographyPath := $.Page.Params.citedBibFile -}}
+{{- $bibliographyPath := "" }}
 
-  {{- $bibliography := getJSON $bibliographyPath -}}
+{{/* `specifiedBib` must be relative to project root */}}
+{{- $specifiedBib := $.Page.Params.citedBibFile }}
 
-  {{- range where $bibliography "id" "eq" $id -}}
-    {{- $currentRef := . -}}
+{{/* Default: check for a JSON file in the leaf bundle. */}}
+{{- $pageResource := $.Page.Resources.GetMatch "*bib*.json" -}}
+{{- if $pageResource }}
+{{- $constructedBibResource := printf "content/%s%s" $.Page.File.Dir $pageResource.Name }}
+{{ $bibliographyPath = $constructedBibResource }}
+{{- end }}
 
-    {{/* Add to the collection of cited references */}}
-    {{- $.Page.Scratch.SetInMap "hlcited" $id $currentRef -}}
+{{/* If a `citedBibFile` is specified in the page front-matter, it takes precedence
+  over a page resource. */}}
+{{- if $.Page.Params.citedBibFile }}
+{{- $bibliographyPath = $.Page.Params.citedBibFile -}}
+{{- end }}
 
-    <span class="quire-citation"
-          itemprop="citation">(<a href="#{{- $id | urlize -}}"><span class="visually-hidden">Citation: </span>
-        {{- $reference := . -}}
+{{ if gt (len $bibliographyPath) 1 }}{{/* Begin Bibliography Loop */}}
+{{- $bibliography := getJSON $bibliographyPath -}}
 
-        {{- if not $currentRef.author -}}
-        <span rel="noauthor">S. A.</span>
-        {{- else -}}
-        {{- range first 1 $currentRef.author }}
-        {{- $author := . -}}
-        <span itemprop="author" itemscope itemtype="https://schema.org/Person">
-          {{- with $author.given -}}
-          <meta itemprop="givenName" content="{{ . }}">
-          {{- end -}}
-          {{ with $author.family -}}
-          <span itemprop="familyName">{{ . | markdownify }}</span>
-          {{- end -}}
-        </span>
+{{- range where $bibliography "id" "eq" $id -}}
+  {{- $currentRef := . -}}
+
+  {{/* Add to the collection of cited references */}}
+  {{- $.Page.Scratch.SetInMap "citedBib" $id $currentRef -}}
+
+  <span class="quire-citation"
+        itemprop="citation">(<a href="#{{- $id | urlize -}}"><span class="visually-hidden">Citation: </span>
+      {{- $reference := . -}}
+
+      {{- if not $currentRef.author -}}
+      <span rel="noauthor">S. A.</span>
+      {{- else -}}
+      {{- range first 1 $currentRef.author }}
+      {{- $author := . -}}
+      <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+        {{- with $author.given -}}
+        <meta itemprop="givenName" content="{{ . }}">
         {{- end -}}
-        {{ if gt (len $currentRef.author) 1 }}
-        <em>&amp; al.</em>
+        {{ with $author.family -}}
+        <span itemprop="familyName">{{ . | markdownify }}</span>
         {{- end -}}
-        {{- end }}
-        {{ if and (isset $currentRef "issued") (isset $currentRef.issued "date-parts") }}
-        {{/* range of dates */}}
-        <span itemprop="datePublished">
-        {{- range $index, $dateParts := (index .issued "date-parts") -}}
-        {{/* Separate other years by comma */}}
-        {{- if gt $index 0 -}}, {{ end -}}
-        {{/* First element in date-part is the year */}}
-        {{- range first 1 $dateParts -}}
-        {{- . -}}
-        {{- end -}}
-        {{- end -}}
-        </span>
-        {{- end -}}
-        {{- with $pages -}}
-        , pp.&nbsp;{{ . }}
-        {{- end -}}
-      </a>)
-      <span class="quire-citation__content">{{ partial "bibliography/apa-style.html" $currentRef }}</span></span>
-    {{- else -}}
-    {{/* 
-      Did not find reference with matchin ID
-    */}}
-    {{- $particularIdErr := printf $defaultErrString (.Get 0) -}}
-    {{- $errorNoMatchingId := dict "shortcode" "hl-cite" "message" $particularIdErr "example" "{{< hl-cite &#34;Faure 1909&#34; >}}" -}}
+      </span>
+      {{- end -}}
+      {{ if gt (len $currentRef.author) 1 }}
+      <em>&amp; al.</em>
+      {{- end -}}
+      {{- end }}
+      {{ if and (isset $currentRef "issued") (isset $currentRef.issued "date-parts") }}
+      {{/* range of dates */}}
+      <span itemprop="datePublished">
+      {{- range $index, $dateParts := (index .issued "date-parts") -}}
+      {{/* Separate other years by comma */}}
+      {{- if gt $index 0 -}}, {{ end -}}
+      {{/* First element in date-part is the year */}}
+      {{- range first 1 $dateParts -}}
+      {{- . -}}
+      {{- end -}}
+      {{- end -}}
+      </span>
+      {{- end -}}
+      {{- with $pages -}}
+      , pp.&nbsp;{{ . }}
+      {{- end -}}
+    </a>)
+    <span class="quire-citation__content">{{ partial "bibliography/apa-style.html" $currentRef }}</span></span>
+  {{- else -}}
+  {{/* 
+    Did not find reference with matchin ID
+  */}}
+  {{- $particularIdErr := printf $defaultErrString (.Get 0) -}}
+  {{- $errorNoMatchingId := dict "shortcode" "hl-cite" "message" $particularIdErr "example" "{{< hl-cite &#34;Faure 1909&#34; >}}" -}}
 
-    {{- partial "error-message.html" $errorNoMatchingId -}}
-  {{- end -}}
-{{- end -}}
+  {{- partial "error-message.html" $errorNoMatchingId -}}
+{{- end }}
+{{- end }}
+{{- end }}{{/* End Bibliography Loop */}}

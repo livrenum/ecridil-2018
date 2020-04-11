@@ -4,7 +4,6 @@ subtitle: >
   L’énonciation éditoriale de Poreuse
 weight: 109
 number: 09
-citedBibFile: bibliography/art09.json
 type: hybritexte
 abstract: >
   

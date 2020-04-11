@@ -200,8 +200,7 @@ function mapSetup() {
 }
 
 function espacesInsecablesSetup() {
-  console.log('espoace fine est ', espaceFine)
-  espaceFine(document.querySelectorAll(':not(.pas-espace-fine)'))
+  espaceFine()
 }
 
 function deepZoomSetup() {

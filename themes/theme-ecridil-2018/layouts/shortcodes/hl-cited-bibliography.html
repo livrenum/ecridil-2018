@@ -1,2 +1,2 @@
-{{ $bibliography := dict "references" ($.Page.Scratch.Get "hlcited") }}
-{{ partial "bibliography/page-bibliography.html" $bibliography }}
+{{ $bibliography := dict "references" ($.Page.Scratch.Get "citedBib") }}
+{{ partial "bibliography/bibliography-list.html" $bibliography }}
