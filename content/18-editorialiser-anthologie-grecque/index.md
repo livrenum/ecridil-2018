@@ -13,7 +13,6 @@ contributor:
   - id: mvitalirosati
 ---
 
-
 ## Introduction
 
 Si, comme l’avance Milad Doueihi {{< hl-cite "Doueihi2011" >}}, l’anthologie représente « la forme et le format par excellence de la civilisation numérique », c’est bien dans l’Antiquité que ce mode éditorial a vu le jour. Le modèle canonique de ce « genre littéraire » (s’il en est un) est L_a Couronne de Méléagre_, recueil d'épigrammes composé au premier siècle avant J.-C. qui représente la source première de ce que l'on appelle aujourd'hui l'Anthologie grecque. La quasi-totalité des collections d’épigrammes grecques nous est parvenue à travers un manuscrit unique : le Codex Palatinus 23, conservé à la Bibliothèque Palatine d'Heidelberg {{< hl-cite "Aubreton1968" >}}. Or, la forme anthologique est par nature difficile à saisir : peut-on parler d'une œuvre ? Dans le cas du manuscrit palatin, qui regroupe des épigrammes écrites au long de seize siècles de production littéraire, de la main de plus de cent auteurs, cette question est d'autant plus pertinente. Si l'on ne peut pas considérer l'anthologie comme une œuvre unitaire, quelle en est alors la nature ? Et comment rendre compte de cette forme littéraire particulière dans une édition ? Pour répondre à ces questions, la Chaire de Recherche du Canada sur les écritures numériques (la CRC) et son équipe internationale et interdisciplinaire (dirigée par Marcello Vitali-Rosati), en collaboration avec Elsa Bouchard, a initié le projet d'une édition collaborative numérique de l'Anthologie, conforme aux standards de l'édition savante numérique, tout en proposant une vision innovante de l'édition web fondée sur l'intelligence collective {{< hl-cite "Levy1994" >}}.
@@ -28,7 +27,6 @@ Ce travail s'inscrit dans la tradition des _Digital Humanities_, correspondant e
 L'un des premiers problèmes qu'un éditeur rencontre lorsqu'il aborde le matériel textuel de l'Anthologie grecque est d'en élaborer une définition claire, soit de comprendre la nature et les finalités de l'objet qu'est l'Anthologie grecque pour en proposer une édition pertinente et respectueuse du texte et de ses fonctions anthologiques. Il serait possible de concevoir comme définition de départ, définition provisoire, que l'Anthologie grecque est un recueil d’épigrammes composé au X<sup>e</sup> siècle. Le manuscrit sur lequel se fondent les éditions de l'Anthologie est le Codex Palatinus 23 (« Cod. Pal. graec. 23 Anthologia Palatina (Konstantinopel, 2. Hälfte 9. Jh. und 1. Hälfte 10. Jh.) » 2018), un manuscrit datant d’environ 940 dont la quasi-totalité est conservée à la Bibliothèque Palatine de Heidelberg suite à sa découverte en 1606 par Claude Saumaise. Le Codex Palatinus 23 trouve sa source dans une anthologie antérieure, composée environ un demi-siècle auparavant par Constantin Céphalas. Selon nos connaissances actuelles {{< hl-cite "Aubreton1968" 43 >}}, la majorité des épigrammes présentes dans le Codex Palatinus 23 dériveraient du travail de Céphalas. Ainsi, à partir de ces premières informations, l’Anthologie grecque correspondrait fondamentalement à l’Anthologie Palatine.
 
 Or, à la consultation des éditions les plus courantes (soit les éditions de Paton et Waltz), on peut remarquer que la généalogie de l'anthologie se complique. D'ordinaire, aux quinze livres de l’Anthologie qui correspondent à la division du codex Palatinus, les éditeurs ajoutent le tome XVI sous le titre d’_Appendix Planudea_ – c’est notamment le cas de l’édition Loeb de 1916 par Paton et de l’édition Belles Lettres de Waltz en 1927. Maxime Planude, grammairien, philologue et théologien byzantin, avait en effet composé sa propre anthologie en 1301 {{< hl-cite "Aubreton1968" >}}. Cette version comprend une partie des épigrammes du Codex Palatinus, auxquelles s'ajoutent d’autres épigrammes absentes de ce premier manuscrit. L'Anthologie grecque se présente donc comme un objet reconstitué _a posteriori_ par les éditeurs modernes qui, ce faisant, tentent de rendre compte de manière quelque peu exhaustive de l’épigrammatique grecque. Cependant, l'origine de l'anthologie dépasse la chronologie que nous avons établie jusqu'ici. La version de Céphalas elle-même se fonde sur des sources qui lui sont antérieures, dont les plus notables sont les suivantes : la Couronne de Méléagre, la Couronne de Philippe de Thessalonique et le Cycle d’Agathias de Myrina, respectivement du I<sup>er</sup>  siècle av. J.-C., du I<sup>er</sup> siècle ap. J.-C. et du VI<sup>e</sup> siècle ap. J.-C. {{< hl-cite "Gutzwiller1997" >}}  Parmi ces sources, la plus ancienne, celle composée par Méléagre de Gadara, se présente comme la première collection d’épigrammes réunies en un seul volume. En accord avec le goût de l’époque, Méléagre dit « tisser » avec ces textes « une couronne de fleurs » (traduction littérale du grec « anthologia »). Dans le poème de sa couronne, que nous retrouvons au début du livre IV du codex Palatinus 23, Méléagre liste ces poètes en les mettant chacun en parallèle avec une fleur :
-
 
 > Μοῦσα φίλα, τίνι τάνδε φέρεις πάγκαρπον ἀοιδάν; / ἢ τίς ὁ καὶ τεύξας ὑμνοθετᾶν στέφανον; / ἄνυσε μὲν Μελέαγρος, ἀριζάλῳ δὲ Διοκλεῖ / μναμόσυνον ταύταν ἐξεπόνησε χάριν, / πολλὰ μὲν ἐμπλέξας Ἀνύτης κρίνα, πολλὰ δὲ Μοιροῦς / λείρια, καὶ Σαπφοῦς βαιὰ μέν, ἀλλὰ ῥόδα …[^1]
 
@@ -55,8 +53,6 @@ Ajoutons peut-être, et même si cela peut sembler évident, que toutes les édi
 ## L’imaginaire anthologique
 
 À la lumière de ce qui précède, notre thèse de fond est en effet la suivante : l'Anthologie ne doit pas être considérée comme une « œuvre », mais comme un imaginaire collectif dynamique et ouvert. Cette hypothèse, qui va nous conduire à opter pour une _éditorialisation_ (nous reviendrons sur ce terme dans un instant) plutôt qu’une édition de l’AP, se fonde sur quatre considérations :
-
-
 
 1. Au plan historique (et génétique), l'anthologie est d'abord le fruit d'une contribution massive et transéculaire. 
 2. Au plan du contenu, elle se caractérise par une hétérogénéité fondamentale (en termes formels et thématiques, notamment). 
@@ -92,9 +88,8 @@ De manière concrète, nous avons pensé un environnement numérique dans lequel
 
 
 ## Méthodologie et aspects techniques
+
 Du point de vue méthodologique et technique, nous avons décidé de mettre en place une infrastructure numérique qui reflète au mieux les hypothèses théoriques précédemment décrites. La volonté de sortir du paradigme canonique de l'édition savante nous a poussé en particulier à effectuer 3 choix stratégiques :
-
-
 
 1. Créer une base de données ouverte interrogeable _via_ une API.
 2. Permettre une structuration libre des données, en évitant d'imposer une approche épistémologique prédéterminée. 
@@ -104,11 +99,9 @@ Le choix de la base de donnée ouverte, interrogeable par une API, vient jouer a
 
 Enfin, pour encourager les échanges et l'interactivité entre les différents contributeurs – sur le modèle du dialogue qui s'est tissé, à travers les siècles, entre les différents poètes de l'Anthologie – nous avons créé un environnement numérique éditorial fondé sur une logique contributive, de manière à favoriser la constitution d'une véritable communauté de contributeurs (l'API). En particulier, nous avons lancé un vaste projet pédagogique, en partenariat avec des établissements secondaires dans lesquels le grec est massivement enseigné. Encadrés par des professeurs, les élèves réalisent par petits groupes des traductions du texte, puis les mettent en ligne. Ce projet présente de nombreux avantages au plan pédagogique :
 
-
-
-*   apprentissage de la langue, 
-*   analyse des textes, 
-*   apprentissage des outils numériques d'édition. 
+* apprentissage de la langue, 
+* analyse des textes, 
+* apprentissage des outils numériques d'édition. 
 
 L'ensemble de ce travail réalisé par la communauté amateure facilitera le travail de la communauté scientifique, en produisant des contenus exploitables pour la recherche. Par ailleurs, ce choix se fonde sur un positionnement épistémologique fort, puisqu'il gomme les frontières entre le travail de la communauté scientifique et l'apport des amateurs. Il entre tout à fait en résonance avec les positionnements théoriques et méthodologiques préconisés dans les _Digital Classics_ {{< hl-cite "Blackwell2009" >}}.
 
@@ -116,9 +109,8 @@ Comme il a été mentionné précédemment, l’idée même de « vérité » du
 
 
 ## Description de l'infrastructure éditoriale
+
 Notre infrastructure peut être décrite selon trois aspects :
-
-
 
 1. la base de données relationnelles ; 
 2. l'API ; 
@@ -131,16 +123,13 @@ L'objectif principal d'une édition est celui d'une structuration des contenus p
 
 
 ## Conclusion et retombées attendues
+
 Notre projet en est actuellement à sa troisième année de développement. Nous avons pu apprécier l'enthousiasme des diverses communautés qui se sont investies dans son activité éditoriale {{< hl-cite "McGuire2013" >}}, faisant ainsi résonner ce matériel au-delà de la sphère proprement académique. Le potentiel d'appropriation de l'Anthologie grecque par les lecteurs contemporains est donc bien réel. Ainsi, le pari que nous faisions de sa vitalité dans l'imaginaire contemporain a été gagné. Au vu de son développement actuel, nous pouvons identifier quatre retombées attendues du projet :
-
-
 
 1. Renouveler l'approche philologique pour épouser le projet anthologique. Notre projet constitue avant tout une expérimentation en _Digital Classics_ ; il a donc une nature de prototype, mais nous sommes convaincus de son potentiel comme modèle réutilisable par d'autres entreprises éditoriales.
 2. Actualiser la réception de l’Anthologie grecque. En permettant aux utilisateurs de l’API de relier aux épigrammes grecs tout objet littéraire ou artistique qui trouve écho chez eux, notre projet amène les lecteurs contemporains à s’approprier ces textes de l’Antiquité. Leur réception en est actualisée, illustrant, par là-même, la manière dont les motifs littéraires traversent les siècles.
 3. Repenser les frontières entre savant et non-savant. En renouvelant l'approche philologique classique, nous avons été amenés à déplacer les frontières entre pratiques savantes et pratiques amateures, tant au niveau de la production que de la diffusion des contenus éditoriaux.
 4. Enrichir les épigrammes anthologiques par des éditions multiples et multilingues. Il va de soi que notre projet doit favoriser l'avancement des connaissances et servir l'intérêt de la communauté scientifique. En effet, parallèlement à cette appropriation « grand public » et aux usages ludiques que permet notre approche, les données de la base peuvent aussi être structurées de façon scientifique. En particulier, notre projet contribue à l'enrichissement de la base de Perseus, dont nous sommes partenaires, et qui récupérera en format xml/epidoc l'ensemble des textes, traductions et alignements produits, ainsi que d'autres informations pertinentes, grâce à des requêtes sur l'API {{< hl-cite "Crane1992" >}}[^5]. Par ailleurs, le projet contribue à la production de données sémantiques grâce à l'alignement de nos données avec les référentiels du _linked-data_ {{< hl-cite "Romanello2009" >}}. L'API interroge notamment Wikidata à la volée afin d'en récupérer les données déjà existantes (par exemple, les informations sur un auteur ou sur une ville). L'ensemble des données récoltées sur la plateforme seront ensuite réinjectées sur Wikidata _via_ l'API.
-
-
 5. Repenser le format livresque. La conception de l'API, ainsi que la réflexion qui la précède et innerve sa structure, amène à repenser le format classique du livre par une éditorialisation ouverte exposant le matériel textuel et la dynamique de l'imaginaire anthologique.
 
 Conformément aux principes des _Digitals Classics_, et plus, généralement, des _Digital Humanities_ {{< hl-cite "Schreibman2016" >}}, nous participons ainsi aux projets encyclopédiques en prenant une part active dans la mutualisation tout comme dans l’universalisation des savoirs. Ce projet révèle aussi le potentiel de l’éditorialisation pour repenser et republier des œuvres de notre patrimoine littéraire à l’époque du numérique.
