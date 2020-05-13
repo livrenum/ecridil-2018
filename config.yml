@@ -12,9 +12,7 @@ baseURL: ""
 title: "Colloque ECRiDiL 2018"
 languageCode: "fr"
 defaultContentLanguage: "fr"
-theme: 
-- theme-ecridil-2018
-- hugo-cite
+theme: "theme-ecridil-2018"
 publishDir: site
 
 footnoteReturnLinkContents: "↩"
