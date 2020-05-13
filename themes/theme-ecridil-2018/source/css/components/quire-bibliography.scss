@@ -2,14 +2,18 @@
 // Quire-bibliography.scss
 // -----------------------------------------------------------------------------
 
+// changed
 // .quire-page__content__references
+// to
+// .hugo-cite-bibliography
+// https://github.com/loup-brun/hugo-cite/
 // -----------------------------------------------------------------------------
-.quire-page__content__references {
+.hugo-cite-bibliography {
   margin-top: 2rem;
   
   :target {
     // transition: account for scroll behavior delay
-    animation: highlight 3s;
+    animation: highlight 4s;
   }
 
   dt {

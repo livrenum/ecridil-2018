@@ -1,0 +1,51 @@
+/* =============================================================================
+/* Hugo-Cite.css
+/* ----------------------------------------------------------------------------- */
+
+.hugo-cite-intext {
+  display: inline-block;
+  vertical-align: baseline; /*compensate for lower height */
+  position: relative;
+  font-size: .85em; /* reduce to avoid some breaks */
+}
+.hugo-cite-intext 
+  .hugo-cite-citation {
+    visibility: hidden;
+    padding: 1rem;
+    position: absolute;
+    width: 350px;
+    max-width: 100vw;
+    bottom: 140%;
+    left: 0;
+    margin-left: -50px;
+    
+    background-color: $page-color;
+    color: inherit;
+    border: 1px solid $quire-page-link-color;
+    border-radius: .25em;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, .3);
+
+    z-index: 2;
+    transition:
+      visibility 0s .3s,
+      transform .3s ease 0s,
+      opacity .3s ease 0s;
+    opacity: 0;
+    transform: translateY(-8px);
+}
+.hugo-cite-intext:hover
+  .hugo-cite-citation {
+    visibility: visible;
+    transition: visibility 0s 0s, transform .3s, opacity .3s;
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Visually Hidden utility class */
+.visually-hidden {
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+}
