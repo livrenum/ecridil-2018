@@ -16,7 +16,7 @@
 // Variables
 // -----------------------------------------------------------------------------
 $counter-number-offset: .75em; // must be of same unit as `$quire-page-indent-size`
-$counter-font-size:     .67em; // must be of same unit as `$quire-page-indent-size`
+$counter-font-size:     .85em; // must be of same unit as `$quire-page-indent-size`
 $counter-number-width:  2em; // must be of same unit as `$counter-number-offset`
 
 %disabled-paragraph-counter {
@@ -234,6 +234,7 @@ body {
 
 .quire-page__content {
   font-size: $page-content-font-size;
+  font-size: 2rem;
   line-height: $quire-page-line-height;
   font-weight: 400;
   padding-bottom: 8rem;
@@ -299,8 +300,8 @@ body {
         width: $counter-number-width;
         font-style: normal;
         font-size: $counter-font-size;
-        color: rgba($page-text-color, 0.4);
-        line-height: $quire-page-line-height * 1em / $counter-font-size;
+        color: $paper-accent;
+//        line-height: $quire-page-line-height * 1em / $counter-font-size;
         margin-top: .15em; // micro-adjustment
 
         @media (min-width: $hybrilivre-col-breakpoint) {

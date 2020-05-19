@@ -27,6 +27,7 @@ class Augmentations {
         container: '.hybritexte-page__scroll-wrapper',
         step: '.hybritexte-augmentation--step-marker',
         offset: 0,
+//        offset: document.querySelector('.quire-navbar').getBoundingClientRect().height,
         progress: true
       })
 

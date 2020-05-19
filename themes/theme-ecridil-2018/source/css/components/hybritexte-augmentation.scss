@@ -10,7 +10,7 @@ $column-gap: 2rem;
   justify-content: flex-start;
   
   > figure {
-    margin: 0 auto;
+    margin: 0;
     
     img { }
   }
@@ -20,8 +20,8 @@ $column-gap: 2rem;
   font-style: normal;
   text-align: left;
   font-size: 1rem;
-  padding: 0 0 0 2rem;
-  margin: 1rem 0 0 1rem;
+  padding: 0 0 0 1.5rem;
+  margin: 1.5rem 0 0;
   border-left: 2px solid $page-text-color;
 }
 
@@ -34,19 +34,21 @@ $column-gap: 2rem;
 .hybritexte-page {
   &__content {
     padding-bottom: 25%;
+    font-size: $page-content-font-size;
   }
-  .container {  
+  .container {
     // leave left margin for paragraph counters 
-    margin-left: 3 * 14px;
+    margin-left: 3rem;
 
     @media (min-width: 600px) {
-      margin-left: 4 * 14px;
+      margin-left: 4rem;
+      margin-right: 0;
     }
   }
 }
 
 .hybritexte-page__scroll-wrapper {
-  position: relative;
+  margin-left: 1.5rem;
 }
 
 .hybritexte-augmentation--step-marker {
@@ -64,13 +66,11 @@ $column-gap: 2rem;
       content: "";
       position: absolute;
       display: inline-block;
-      width: 1.5rem;
-      height: 1.5rem;
+      width: 1rem;
       background-color: $light;
       top: 0;
-      left: 50%;
+      left: 58%;
       border-top: 1px solid rgba($page-text-color, 0.1);
-      border-bottom: 1px solid rgba($page-text-color, 0.1);
     }
   }
 }
@@ -89,7 +89,7 @@ $column-gap: 2rem;
         position: absolute;
         top: 0;
         z-index: 0;
-        left: 50%;
+        left: 58%;
         width: 6%;
         height: 100%;
         border-left: 1px solid rgba($page-text-color, 0.15);
@@ -102,14 +102,14 @@ $column-gap: 2rem;
 
 .has-2-columns > :not(.right-column) {
   @media (min-width: $hybrilivre-col-breakpoint) {
-    max-width: 50%;
-    max-width: calc(50% - #{$column-gap});
+    max-width: 58%;
+    max-width: calc(58% - #{$column-gap});
   }
 }
 // ensure blockquotes fit as well, since they have an extra margin-left
 .has-2-columns > blockquote:not(.right-column) {
   @media (min-width: $hybrilivre-col-breakpoint) {
-    max-width: calc(50% - #{$column-gap} - 1.5em);
+    max-width: calc(58% - #{$column-gap} - 1.5em);
   }
 }
 
@@ -119,8 +119,8 @@ $column-gap: 2rem;
   
   @media (min-width: $hybrilivre-col-breakpoint) {
     display: block;
-    max-width: calc(50% - #{$column-gap});
-    width: 50%;
+    max-width: calc(42% - #{$column-gap});
+    width: 42%;
     float: right;
     clear: both; // addresses the bug when 2 floating elements could be side-to-side
     position: absolute;
@@ -144,17 +144,15 @@ $column-gap: 2rem;
 
     // 2-column only styles
     @media (min-width: $hybrilivre-col-breakpoint) {
-//      width: 50%;
-//      float: right;
-      padding-top: 1.5rem;
+      padding-top: 0;
+      transition: padding .3s;
       padding-bottom: 1.5rem;
       margin-top: 0;
       margin-bottom: 0;
-//      position: absolute;
       height: 100vh;
       z-index: 2;
       // page background color when augmentations overlap
-      background-color: $light;
+      background-color: $page-color;
 
       &::before {
         display: block;
@@ -163,14 +161,14 @@ $column-gap: 2rem;
         width: 100%;
         height: 15vh;
         top: -15vh;
-        background-image: linear-gradient(0deg, rgba($light, 1), rgba($light, 0));
+        background-image: linear-gradient(0deg, rgba($page-color, 1), rgba($page-color, 0));
         z-index: 4;
       }
       // sticky class
       &.is-stuck {
         position: sticky;
-        z-index: 2;
-        top: $navbar-height;
+        padding-top: $navbar-height; // compensate for navbar
+        top: 0;
         bottom: 0;
       }
   
@@ -182,6 +180,7 @@ $column-gap: 2rem;
 
       &__inner {
         height: 100%;
+        padding-top: 1rem;
 
         // fade inner container
         &.fade-in.js-enabled {
@@ -209,7 +208,6 @@ $column-gap: 2rem;
     &__image {
       display: block;
       max-height: calc(80vh - 4rem);
-      align-self: center; // flexbox stuff
     }
     &__caption {
       @extend %hl-augmentation__caption;
