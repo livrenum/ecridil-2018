@@ -72,6 +72,7 @@ $navbar-height: 3rem !default;
       // make it min-height for now
 //      height: 100vh;
       min-height: 100vh;
+      padding-top: $navbar-height;
 //      left: 0;
 //      position: absolute;
       transition: all $transition-default-duration $ease-out-quart 0s;

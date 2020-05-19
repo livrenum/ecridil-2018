@@ -170,7 +170,7 @@ $column-gap: 2rem;
       &.is-stuck {
         position: sticky;
         z-index: 2;
-        top: 0;
+        top: $navbar-height;
         bottom: 0;
       }
   
