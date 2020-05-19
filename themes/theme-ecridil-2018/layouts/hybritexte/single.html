@@ -15,12 +15,12 @@
 <article class="{{ partial "page-class.html" . }} quire-page hybritexte-page" id="main" role="main">
   {{/* partial "page-header.html" . */}}
   <header class="hybritexte-page__header">
-    {{/*- if .Params.image -}}
-    <section class="hybritexte-page__header-image-container">
+    {{- if .Params.image -}}
+    <section class="hybritexte-page__header__image-container">
       <img src="{{ .Params.image }}" />
     </section>
-    {{- end -*/}}
-    <div class="container is-fluid has-2-columns">
+    {{- end -}}
+    <div class="container is-fluid">
 
       {{/* Page Title */}}
       <h1 class="hybritexte-page__header__title" id="{{ .Title | urlize }}">
