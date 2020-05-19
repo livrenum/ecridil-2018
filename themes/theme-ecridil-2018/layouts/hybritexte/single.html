@@ -25,7 +25,9 @@
       {{/* Page Title */}}
       <h1 class="hybritexte-page__header__title" id="{{ .Title | urlize }}">
         {{ with .Params.number }}<span class="hybritexte-page__header__number">{{ . }}<span class="visually-hidden">.</span></span></br>{{ end }}
-        {{ .Title | markdownify }}
+        <span style="position: relative; z-index: 1">
+          {{ .Title | markdownify }}
+        </span>
       </h1>
 
       {{/* Contributors, if any */}}

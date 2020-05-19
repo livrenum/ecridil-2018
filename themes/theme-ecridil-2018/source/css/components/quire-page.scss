@@ -482,7 +482,7 @@ body {
       font-style: italic;
       line-height: 1.14;
       margin-bottom: 1rem;
-      padding-top: 0.9rem;
+//      padding-top: 0.9rem;
       margin-top: 0 !important;
 
       font-style: normal;
@@ -503,7 +503,8 @@ body {
       font-size: 4.5rem;
       position: relative;
       z-index: 1;
-      margin-bottom: .5rem;
+      padding-top: .3em;
+      margin-bottom: .3em;
 
       margin-left: 1.28em; // must match pseudo-element negative left
 
@@ -513,7 +514,7 @@ body {
         width: 1.5em;
         background-color: $paper-accent;
         position: absolute;
-        bottom: 0;
+        top: 0;
         z-index: -1;
 
         left: -1.28em; // must match number margin-left
