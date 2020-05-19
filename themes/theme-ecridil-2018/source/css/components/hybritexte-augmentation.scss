@@ -8,6 +8,7 @@ $column-gap: 2rem;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
+  padding-right: 1rem;
   
   > figure {
     margin: 0;
@@ -33,7 +34,7 @@ $column-gap: 2rem;
 
 .hybritexte-page {
   &__content {
-    padding-bottom: 25%;
+    padding-bottom: 10%;
     font-size: $page-content-font-size;
   }
   .container {
@@ -218,7 +219,7 @@ $column-gap: 2rem;
       }
       
       &__text {
-        
+        padding-right: 1.5rem;
       }
     }
     &__title {

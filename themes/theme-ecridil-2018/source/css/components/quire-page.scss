@@ -386,7 +386,7 @@ body {
       margin-bottom: 3em; // override…
     }
     font-size: $blockquote-font-size;
-    border-left: none;
+    border-left: 1px solid rgba($page-text-color, 0.4);
     background-color: transparent;
     font-style: normal;
 
@@ -457,14 +457,27 @@ body {
     position: relative;
     padding-bottom: 3rem;
     
+    .container {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      @media (min-width: $hybrilivre-col-breakpoint) {
+        flex-direction: row;
+      }
+    }
+
+    
+    &__title-container {
+      order: 1;
+    }
+    
     &__image-container {
-      position: absolute;
-      top: 0;
-      left: 50%;
-      width: 50%;
-      height: 100%;
-      height: calc(100vh - #{$navbar-height});
-      overflow: hidden;
+      order: 2;
+      padding: 1.5rem;
+      @media (min-width: $hybrilivre-col-breakpoint) {
+        height: 100%;
+        overflow: hidden;
+      }
       
       img {
         @supports (object-fit: cover) {
@@ -499,26 +512,17 @@ body {
     }
 
     &__number {
-      display: inline-block;
+      display: block;
+      height: 1.5em;
+      width: 1.5em;
       font-size: 4.5rem;
-      position: relative;
-      z-index: 1;
-      padding-top: .3em;
-      margin-bottom: .3em;
-
-      margin-left: 1.28em; // must match pseudo-element negative left
-
-      &::before {
-        content: '';
-        height: 1.5em;
-        width: 1.5em;
-        background-color: $paper-accent;
-        position: absolute;
-        top: 0;
-        z-index: -1;
-
-        left: -1.28em; // must match number margin-left
-      }
+      line-height: 1.75em;
+      white-space: nowrap;
+      overflow: visible;
+      background-color: $paper-accent;
+      text-align: right;
+      text-indent: .8em;
+      margin-bottom: .5rem;
     }
 
     &__contributor {
@@ -539,7 +543,7 @@ body {
   }
   
   &__abstract {
-    
+    padding-right: 1.5rem;
   }
   
   &__content {
