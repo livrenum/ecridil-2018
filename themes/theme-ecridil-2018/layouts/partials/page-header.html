@@ -10,7 +10,6 @@
 {{- else -}}
   <section class="quire-page__header hero {{ if in .Params.class "splash" }} quire-page__header--full-height{{ end }}">
 {{- end -}}
-  <div class="hero-body">
 
       {{/* Page Title */}}
       <h1 class="quire-page__header__title" id="{{ .Title | urlize }}">
@@ -44,5 +43,4 @@
       {{ end }}
       {{ end }}
 
-  </div>
 </section>
