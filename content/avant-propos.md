@@ -1,6 +1,6 @@
 ---
 title: "À propos"
-weight: 1001
+weight: 3
 ---
 
 ## Colloque ÉCRIDIL 2018
