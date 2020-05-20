@@ -1,5 +1,5 @@
 ---
-title: "À propos"
+title: "Avant-propos"
 weight: 3
 ---
 
