@@ -46,7 +46,7 @@
 {{- $validTypes := slice "image" "figure-group" "text" "html" "comment" "audio" "video" "youtube" "iframe" -}}
 
 <div class="hybritexte-augmentation__augmentation right-column {{ if eq .type "empty" }}is-empty{{ end }}" {{ with .id }}data-augmentation-id="{{ . }}" id="hybritexte-augmentation-{{ . }}"{{ end }}>
-  <div class="hybritexte-augmentation__augmentation__inner fade-in">
+  <div class="hybritexte-augmentation__augmentation__inner">
     
     {{/* -------------------- EMTPY TYPE BLOCK -------------------- */}}
     {{- if eq .type "empty" -}}

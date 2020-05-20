@@ -47,7 +47,7 @@ class Augmentations {
     let augmentations = Array.prototype.slice.call(document.querySelectorAll('[data-augmentation-id]'))
     // js-enabled by default, but could be disabled in augmentations options
     augmentations.forEach(function(b) {
-      b.querySelector('.hybritexte-augmentation__inner').classList.add('js-enabled')
+      b.querySelector('.hybritexte-augmentation__augmentation__inner').classList.add('js-enabled')
     })
   }
 
