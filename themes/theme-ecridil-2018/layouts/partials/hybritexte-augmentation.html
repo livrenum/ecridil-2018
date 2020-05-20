@@ -12,7 +12,7 @@
 
   Properties:
   - id
-  - type {string} image|text|comment|audio|video|iframe
+  - type {string} image|text|empty|... (see more below)
   - title {string} markdown-formatted string
   - author {string}
   - caption {string} markdown-formatted string
@@ -20,7 +20,7 @@
   - year_of_publication {string}
   - src {string} nom du fichier média
   - location {string}
-  - medium
+  - medium {string}
   - caption {string} markdown-formatted string
 
   Available types:
@@ -36,28 +36,29 @@
 
 */}}
 
-{{ if isset . "sticky" }}
-{{ $.Scratch.Set "sticky" .sticky }}
-{{ else }}
-{{ $.Scratch.Set "sticky" true }}
-{{ end }}
+{{/* In case explicit non-sticky */}}
+{{- if isset . "sticky" }}
+{{- $.Scratch.Set "sticky" .sticky }}
+{{- else }}
+{{- $.Scratch.Set "sticky" true }}
+{{- end -}}
 
-{{ $validTypes := slice "image" "figure-group" "text" "html" "comment" "audio" "video" "youtube" "iframe" }}
+{{- $validTypes := slice "image" "figure-group" "text" "html" "comment" "audio" "video" "youtube" "iframe" -}}
 
 <div class="hybritexte-augmentation__augmentation right-column {{ if eq .type "empty" }}is-empty{{ end }}" {{ with .id }}data-augmentation-id="{{ . }}" id="hybritexte-augmentation-{{ . }}"{{ end }}>
   <div class="hybritexte-augmentation__augmentation__inner fade-in">
     
     {{/* -------------------- EMTPY TYPE BLOCK -------------------- */}}
-    {{ if eq .type "empty" }}
+    {{- if eq .type "empty" -}}
     {{/* Just an empty block! */}}
-    {{ else }}
+    {{- else }}
     {{/* -------------------- BEGIN CONDITIONAL ID BLOCK -------------------- */}}
-    {{ if eq .id nil }}
+    {{- if eq .id nil -}}
     
     {{- $errorNoId := dict "message" "Aucun ID n'est associé. <br><br>Exemple :" "example" "id: 1" -}}
-    {{ partial "error-message.html" $errorNoId }}
+    {{- partial "error-message.html" $errorNoId -}}
 
-    {{ else }}
+    {{- else -}}
 
     {{/* -------------------- BEGIN VALID TYPES -------------------- */}}
     {{- if and (isset . "type") (in $validTypes .type) -}}
@@ -65,7 +66,7 @@
   
     {{/* -------------------- BEGIN TEXT TYPE -------------------- */}}
     {{- if eq .type "text" -}}
-      {{ if .content }}
+      {{- if .content -}}
       <div class="hybritexte-augmentation--text__text-wrap">
         <blockquote class="hybritexte-augmentation--text__blockquote">
 
@@ -76,7 +77,7 @@
           {{- end -}}
         </blockquote>
       </div>
-      {{ end }}
+      {{- end -}}
     {{- end -}}
     {{/* -------------------- END TEXT TYPE -------------------- */}}
       
