@@ -281,6 +281,7 @@ function smoothScrollAnchors() {
 
   // anchors (incl. footnotes) are found in the #content div
   let $content = $('#content')
+  let $navbar = $('.quire-navbar.is-fixed')
   
   $content.find('a[href^=\\#]').on('click', function (ev) {
     // prevent default behavior
@@ -289,10 +290,16 @@ function smoothScrollAnchors() {
     let targetHash = $(this).attr('href')
     
     let targetElem = document.getElementById(targetHash.slice(1))
+    
+    targetElem.classList.remove('active');
+
+//    $(this).velocity('scroll', {duration: 0})
+    
+    window.history.pushState(null, null, targetHash);
 
     $(targetElem).velocity('scroll', {
       duration: 1200,
-      offset: $('.quire-navbar.is-fixed').height() || 0,
+      offset: -$navbar.height() || 0,
       // easeOutExpo bezier curve
       // https://easings.net/#easeOutExpo
       easing: [0.19, 1, 0.22, 1],
@@ -301,7 +308,9 @@ function smoothScrollAnchors() {
         // BUT change the hash when the animation is
         // *complete* otherwise the browser will instantly jump
         // to the target and not animate scroll.
-        window.location.hash = targetHash
+        //window.location.hash = targetHash
+
+        targetElem.classList.add('is-active')
       }
     })
   })

@@ -11,7 +11,7 @@
 .hugo-cite-bibliography {
   margin-top: 2rem;
   
-  :target {
+  :target, .is-active {
     // transition: account for scroll behavior delay
     animation: highlight 4s;
   }
