@@ -24,7 +24,7 @@ $family-secondary: $sans-serif;
 // headings and navigation items: $serif, $sans-serif, $slab-serif
 
 $quire-base-font-size: 16px;
-$table-font-size: $quire-base-font-size * 0.85;
+$table-font-size: $quire-base-font-size * 0.6875; // 16px -> 11px
 $page-content-font-size: 1.125rem;
 $quire-page-paragraph-style: null;
 // make the value null for paragraphs with no indent and a line space between
