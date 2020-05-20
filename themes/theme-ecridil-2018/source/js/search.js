@@ -15,9 +15,12 @@ class Search {
       })
       this.field('content')
       this.ref('id')
-      data.forEach(item => {
-        this.add(item)
-      })
+      console.log('lunr data', data)
+      if (data && data.length) {
+        data.forEach(item => {
+          this.add(item)
+        })
+      }
     })
   }
   

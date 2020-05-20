@@ -15,11 +15,15 @@ class Augmentations {
    */
   setupAugmentations() {
     
+    let stepElements = document.querySelector('.hybritexte-augmentation--step-marker')
+    let scrollWrapper = document.querySelector('.hybritexte-augmentation--step-marker')
     // check if there is a correct scroll wrapper
     // if not, we cannot use the scrolling functionality
-    if (!document.querySelector('.hybritexte-page__scroll-wrapper')) {
+    if (!scrollWrapper ||
+       !stepElements) {
       return
     }
+    
 
     // setup new scrollama instance
     this.scroller = new scrollama()

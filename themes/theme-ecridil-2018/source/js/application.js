@@ -228,7 +228,6 @@ function navigationTeardown() {
 let augmentations
 function augmentationsSetup() {
   if (!augmentations) {
-    console.log('about to setup augmentations')
     augmentations = new Augmentations()
   } else {
   }
@@ -293,6 +292,7 @@ function smoothScrollAnchors() {
 
     $(targetElem).velocity('scroll', {
       duration: 1200,
+      offset: $('.quire-navbar.is-fixed').height() || 0,
       // easeOutExpo bezier curve
       // https://easings.net/#easeOutExpo
       easing: [0.19, 1, 0.22, 1],
