@@ -237,7 +237,7 @@ body {
   font-size: 2rem;
   line-height: $quire-page-line-height;
   font-weight: 400;
-  padding-bottom: 8rem;
+  padding-bottom: 3rem;
 
   @if $family-primary != $serif {
     font-size: 1.25rem;
