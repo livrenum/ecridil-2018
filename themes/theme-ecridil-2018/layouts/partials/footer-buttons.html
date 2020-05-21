@@ -1,19 +1,19 @@
-<div class="{{ if eq $.Site.Params.pdf true }} visually-hidden {{ end }} quire-contents-buttons remove-from-epub">
-  <ul>
+<div class="{{ if eq $.Site.Params.pdf true }} visually-hidden {{ end }} quire-contents-buttons has-text-centered remove-from-epub">
       {{ with .Next }}
       {{- if and (ne .Params.online false) (ne .Type "data") -}}
-      <li class="quire-nav-button prev">
-          <a href="{{ .Permalink }}">{{- partial "icon.html" (dict "type" "left-arrow" "description" "Go back a page") -}} <span class="nav-title">{{ $.Site.Params.prevPageButtonText }}</span></a>
+      <a class="quire-nav-button button is-medium is-outlined prev"
+         a href="{{ .Permalink }}">{{- partial "icon.html" (dict "type" "left-arrow" "description" "Go back a page") -}} <span class="nav-title">{{ $.Site.Params.prevPageButtonText }}</span>
           <span class="visually-hidden">Previous Page (left keyboard arrow or swipe)</span>
-      </li>
+      </a>
+
       {{ end }}
       {{ end }}
       {{ with .Prev }}
       {{- if and (ne .Params.online false) (ne .Type "data") -}}
-      <li class="quire-nav-button next">
-          <a href="{{ .Permalink }}"><span class="nav-title">{{ $.Site.Params.nextPageButtonText }}</span> {{- partial "icon.html" (dict "type" "right-arrow" "description" "Go to next page") -}}</a>
+      <a class="quire-nav-button button is-medium is-filled next"
+         href="{{ .Permalink }}"><span class="nav-title">{{ $.Site.Params.nextPageButtonText }}</span> {{- partial "icon.html" (dict "type" "right-arrow" "description" "Go to next page") -}}
           <span class="visually-hidden">Next Page (right keyboard arrow or swipe)</span>
-      </li>
+      </a>
       {{ end }}
       {{ end }}
   </ul>

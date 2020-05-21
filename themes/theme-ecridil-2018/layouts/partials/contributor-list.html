@@ -66,7 +66,7 @@
 
     {{- if eq .contributorType "all" }}
 
-      <ul>
+      <ul class="unstyled-list">
         {{- range .range -}}
           <li class="quire-contributor">{{ template "name-check" (dict "Site" $.Site "contributor" .) }}</li>
         {{- end }}
@@ -74,7 +74,7 @@
 
     {{- else }}
 
-        <ul>
+        <ul class="unstyled-list">
           {{- range where .range "type" .contributorType -}}
             <li class="quire-contributor">{{ template "name-check" (dict "Site" $.Site "contributor" .) }}</li>
           {{- end }}
@@ -86,7 +86,7 @@
 
     {{- if eq .contributorType "all" }}
 
-      <ul>
+      <ul class="unstyled-list">
         {{- range .range -}}
           <li class="quire-contributor">
             {{- template "name-check" (dict "Site" $.Site "contributor" .) -}}
@@ -103,7 +103,7 @@
 
     {{- else }}
 
-      <ul>
+      <ul class="unstyled-list">
         {{- range where .range "type" .contributorType -}}
           <li class="quire-contributor">
             {{ template "name-check" (dict "Site" $.Site "contributor" .) }}

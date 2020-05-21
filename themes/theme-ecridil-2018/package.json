@@ -59,7 +59,7 @@
     "lunr": "^2.3.3",
     "mem": "^4.3.0",
     "photoswipe": "^4.1.2",
-    "scrollama": "^1.4.4",
+    "scrollama": "^2.2.1",
     "smoothstate": "github:miguel-perez/smoothState.js",
     "template-polyfill": "^2.0.0",
     "velocity-animate": "^1.5.2"

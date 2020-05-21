@@ -34,6 +34,12 @@ $quire-menu-width: 350px !default;
 $navbar-height: 3rem !default;
 
 
+html {
+  // remove bulma overflow properties
+  // so that scrollama does not complain
+  // https://github.com/russellgoldenberg/scrollama/pull/106
+  overflow: initial;
+}
 // .quire
 // -----------------------------------------------------------------------------
 .quire {
@@ -43,6 +49,7 @@ $navbar-height: 3rem !default;
   &__secondary {
     background-color: $quire-menu-color;
     padding: 1em;
+    padding-top: $navbar-height; // comepnsate for close button;
 
     @include foreground-color($quire-menu-color, $quire-menu-text-color);
 
@@ -68,23 +75,19 @@ $navbar-height: 3rem !default;
     .quire__primary {
       display: flex;
       flex-direction: column;
-      // Louis : wondering why this 100vh is set
-      // make it min-height for now
-//      height: 100vh;
+      // Height is *intentionnally* 100vh to make scrolling happen here,
+      // not on body/html element.
       min-height: 100vh;
       padding-top: $navbar-height;
-//      left: 0;
-//      position: absolute;
       transition: all $transition-default-duration $ease-out-quart 0s;
       width: 100%;
 
       .quire-page {
-        // hybrilivre : we don't want the code below
-        // scrolling is done normally, on the html/body element
-//        flex: 1 1 auto;
+//         scrolling is done here, not on the body/html
+        flex: 1 1 auto;
 //        -webkit-overflow-scrolling: touch;
 //        overflow-y: scroll;
-//        position: relative;
+        position: relative;
       }
 
       .section {

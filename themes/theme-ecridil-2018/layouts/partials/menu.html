@@ -4,13 +4,31 @@ available on all pages. For users with Javascript enabled, this menu is hidden
 by default. Users with JS disabled will alwasy see the menu in its expanded state.
 */}}
 
+{{- if isset $.Site.Params "imagedir" }}
+{{ $.Scratch.Set "imageDir" $.Site.Params.imageDir }}
+{{ else }}
+{{ $.Scratch.Set "imageDir" "" }}
+{{ end -}}
+{{- $imgDir := $.Scratch.Get "imageDir" -}}
+
 {{- $contents := dict "contentsScope" .Site.Pages "contentsType" .Site.Params.menuType "contentsLocation" ".Params.menu" "contentsPage" . }}
 
 <div  class="quire-menu menu"
       role="banner"
       id="site-menu__inner">
-  <button class="button float-left"
-          onclick="toggleMenu()">&times; Femer</button>
+  <button class="button close-button"
+          onclick="toggleMenu()"
+          aria-controls="quire-menu">
+    <svg>
+          <switch>
+            <use xlink:href="#close-icon"></use>
+            <foreignObject width="32" height="32">
+                <img src="{{ $imgDir | absURL }}/icons/close.png" alt="" />
+            </foreignObject>
+          </switch>
+        </svg>
+        <span class="visually-hidden">Fermer</span>
+  </button>
 
   {{ partial "menu-header.html" . }}
 

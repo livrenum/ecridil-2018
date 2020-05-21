@@ -28,10 +28,9 @@ class Augmentations {
     // setup new scrollama instance
     this.scroller = new scrollama()
       .setup({
-        container: '.hybritexte-page__scroll-wrapper',
+//        container: '.hybritexte-page__scroll-wrapper',
         step: '.hybritexte-augmentation--step-marker',
         offset: 0,
-//        offset: document.querySelector('.quire-navbar').getBoundingClientRect().height,
         progress: true
       })
 
@@ -58,13 +57,9 @@ class Augmentations {
   handleStep(response) {
     let augmentations = Array.prototype.slice.call(document.querySelectorAll('.hybritexte-augmentation__augmentation'))
     // reset augmentations
-    // actually we don't want this to be reset for all augmentations, every time, necessarily.
-    // see per-direction logic below
-//
-//    augmentations.forEach(function(b) {
-//      b.classList.remove('is-active', 'is-stuck')
-//    })
-    // END reset augmentations
+    augmentations.forEach(function(b) {
+      b.classList.remove('is-active', 'is-stuck')
+    })
 
     let beforeId = response.element.getAttribute('data-augmentation-before')
     let afterId = response.element.getAttribute('data-augmentation-after')

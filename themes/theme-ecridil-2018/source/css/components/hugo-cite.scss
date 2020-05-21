@@ -11,6 +11,10 @@
 .hugo-cite-intext 
   .hugo-cite-citation {
     visibility: hidden;
+    display: none;
+    @media screen and (min-width: $hybrilivre-col-breakpoint) {
+      display: block;
+    }
     padding: 1rem;
     position: absolute;
     width: 350px;

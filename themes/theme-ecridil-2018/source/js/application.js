@@ -258,14 +258,14 @@ function scrollToHash() {
     if ($targetHashEl.length) {
       $targetHashEl.velocity('scroll', {
         duration: 1200,
-        offset: $navbar.height() || 0
+        offset: -$navbar.height() || 0
       })
     } else {
       // if no hash target element is found,
       // default to scrolling the document to the top
-      $('html').velocity('scroll', {
+      $('html, body').velocity('scroll', {
         duration: 1200,
-        offset: $navbar.height() || 0
+        offset: -$navbar.height() || 0
       })
     }
   }

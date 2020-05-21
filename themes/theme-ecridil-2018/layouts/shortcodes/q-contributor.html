@@ -179,7 +179,7 @@
 {{/* List layout: Bio */}}
 {{/* ---------------------------------------------------------------------- */}}
 {{- if eq $listFormat "bio" -}}
-<ul class="quire-contributors-list {{ $listFormat }}">
+<ul class="quire-contributors-list unstyled-list {{ $listFormat }}">
 {{- range ($.Page.Scratch.GetSortedMapValues "contributorlist") -}}
 {{- $nameid := plainify (replace (index . 0) " " "-") -}}
 
@@ -238,7 +238,7 @@
 {{/* List layout: Name, name-title */}}
 {{/* ---------------------------------------------------------------------- */}}
 {{- else if or (or (eq $listFormat "name") (eq $listFormat "name-title")) (eq $listFormat "name-title-block") -}}
-<ul class="quire-contributors-list {{ $listFormat }} {{ with ($.Get "align") }}align-{{ . }}{{ end }}">
+<ul class="quire-contributors-list unstyled-list {{ $listFormat }} {{ with ($.Get "align") }}align-{{ . }}{{ end }}">
 {{- range ($.Page.Scratch.GetSortedMapValues "contributorlist") -}}
 {{- $nameid := plainify (replace (index . 0) " " "-") -}}
   <li class="quire-contributor" id="{{ $nameid }}">
@@ -268,7 +268,7 @@
 {{/* List layout: Initials */}}
 {{/* ---------------------------------------------------------------------- */}}
 {{- else if eq $listFormat "initials" -}}
-<ul class="quire-contributors-list {{ $listFormat }} {{ with ($.Get "align") }}align-{{ . }}{{ end }}">
+<ul class="quire-contributors-list unstyled-list {{ $listFormat }} {{ with ($.Get "align") }}align-{{ . }}{{ end }}">
   {{- if ($.Page.Scratch.GetSortedMapValues "contributorlist") -}}
   {{- $len := len ($.Page.Scratch.GetSortedMapValues "contributorlist") -}}
   {{- if gt $len 0 -}}

@@ -155,7 +155,7 @@
 {{/* List layout: Bio */}}
 {{/* ---------------------------------------------------------------------- */}}
 {{- if eq $listType "bio" -}}
-<ul class="quire-contributors-list">
+<ul class="quire-contributors-list unstyled-list">
 {{- range ($.Page.Scratch.GetSortedMapValues "contributorlist") -}}
 {{- $nameid := plainify (replace (index . 0) " " "-") -}}
   <li class="quire-contributor media" id="{{ $nameid }}">
@@ -197,7 +197,7 @@
 {{/* List layout: Name, Name-plus */}}
 {{/* ---------------------------------------------------------------------- */}}
 {{- else if or (eq $listType "name") (eq $listType "name-plus") -}}
-<ul class="quire-contributors-list disabled-paragraph-counter">
+<ul class="quire-contributors-list unstyled-list disabled-paragraph-counter">
 {{- range ($.Page.Scratch.GetSortedMapValues "contributorlist") -}}
 {{- $nameid := plainify (replace (index . 0) " " "-") -}}
   <li class="quire-contributor" id="{{ $nameid }}">
@@ -223,7 +223,7 @@
 {{/* List layout: Initials */}}
 {{/* ---------------------------------------------------------------------- */}}
 {{- else if eq $listType "initials" -}}
-<ul class="quire-contributors-list">
+<ul class="quire-contributors-list unstyled-list">
   {{- $len := len ($.Page.Scratch.GetSortedMapValues "contributorlist") -}}
   {{- if gt $len 0 -}}
   <li class="quire-contributor">

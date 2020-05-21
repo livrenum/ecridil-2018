@@ -35,7 +35,6 @@ $column-gap: 2rem;
 
 .hybritexte-page {
   &__content {
-    padding-bottom: 10%;
     font-size: $page-content-font-size;
   }
   .container {
@@ -85,7 +84,7 @@ $column-gap: 2rem;
     &::before {
       // do not show column separator under the breakpoint
       display: none;
-      @media (min-width: $hybrilivre-col-breakpoint) {
+      @media screen and (min-width: $hybrilivre-col-breakpoint) {
         display: block;
         content: '';
         position: absolute;
