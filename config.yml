@@ -57,3 +57,5 @@ params:
   bodyPageStart: 100
   backmatterPageStart: 1000
   citationStyle: apa
+  prevPageButtonText: Précédente
+  nextPageButtonText: Page suivante

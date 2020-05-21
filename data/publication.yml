@@ -146,7 +146,7 @@ contributor:
 copyright: © 2020 LivreNum
 
 license:
-  name: Creative Commons Attribution 4.0 International License
+  name: Creative Commons Attribution 4.0 International
   abbreviation: CC BY
   url: http://creativecommons.org/licenses/by/4.0/deed.fr
   scope: full # full | text-only | some-exceptions
