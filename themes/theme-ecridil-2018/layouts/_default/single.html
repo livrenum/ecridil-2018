@@ -8,12 +8,15 @@
 <div class="{{ partial "page-class.html" . }}" id="main" role="main">
   {{ partial "page-header.html" . }}
 
-  <section class="section quire-page__content content" id="content">
+  <section class="section quire-page__content" id="content">
     <div class="container">
+      <div class="content">
+        {{ if .Content }}
+        {{ .Content }}
+        {{ end }}
+      </div>
 
-      {{ if .Content }}
-      {{ .Content }}
-      {{ end }}
+      {{- partial "footer-buttons.html" . -}}
     </div>
   </section>
 
