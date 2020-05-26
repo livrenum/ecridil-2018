@@ -42,13 +42,13 @@ class Navigation {
     document.addEventListener('keyup', this.boundKeyboardListener, false)
 
     let main = document.getElementById('main')
-    this.hammer = new Hammer(main)
-    this.hammer.on('swipe', this.boundSwipeListener)
+//    this.hammer = new Hammer(main)
+//    this.hammer.on('swipe', this.boundSwipeListener)
   }
 
   removeListeners() {
     document.removeEventListener('keyup', this.boundKeyboardListener, false)
-    this.hammer.destroy()
+//    this.hammer.destroy()
   }
 
   teardown() {
