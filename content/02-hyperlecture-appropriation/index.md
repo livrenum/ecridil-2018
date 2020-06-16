@@ -116,7 +116,7 @@ Le métadigital est
 
 Ces caractéristiques démontrent l’importance des Humanités Digitales pour créer du lien communautaire et la fabrication d’un sens partagé. L’enjeu pour les institutions de la formation et de la recherche est de parvenir à mettre en œuvre cette complexité du métadigital pour les lettrés de demain, ceci afin d’engager une réflexion sur l’époque du digital avec la question : qu’est-ce qu’un livre ? La question du livre augmenté relance celle du livre électronique {{< cite "DacosMounier2010" >}}. L’enchaînement de ces deux moments, compris comme une réflexion sur l’avenir de l’édition, possède comme arrière-plan la perspective d’une industrialisation des contenus numériques et de la lecture. L’hyperlecture et l’HyperEdition sont bien en train de métamorphoser les jeux et enjeux de la lecture.
 
-## Conclusion : l’huperlecture comme expérience renouvelée du lire
+## Conclusion : l’hyperlecture comme expérience renouvelée du lire
 
 {{< hl-augmentation 6 none >}}
 
