@@ -3,7 +3,6 @@ title: De l’Abécédaire à HyperOtlet
 subtitle: >
   L’Abécédaire des mondes lettrés, un outil d’écriture collaborative savante
 weight: 106
-number: 06
 type: hybritexte
 abstract: >
   

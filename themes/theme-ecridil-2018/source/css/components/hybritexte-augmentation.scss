@@ -22,6 +22,7 @@ $column-gap: 2rem;
   font-style: normal;
   text-align: left;
   font-size: .875rem; // 16px -> 14px
+  line-height: 1.15;
   padding: 0 0 0 1.5rem;
   margin: 1.5rem 0 0;
   border-left: 2px solid $page-text-color;
@@ -70,7 +71,7 @@ $column-gap: 2rem;
       width: 1rem;
       background-color: $light;
       top: 0;
-      left: 58%;
+      left: 66.667%;
       border-top: 1px solid rgba($page-text-color, 0.1);
     }
   }
@@ -90,7 +91,7 @@ $column-gap: 2rem;
         position: absolute;
         top: 0;
         z-index: 0;
-        left: 58%;
+        left: 66.667%;
         width: 6%;
         height: 100%;
         border-left: 1px solid rgba($page-text-color, 0.15);
@@ -103,14 +104,14 @@ $column-gap: 2rem;
 
 .has-2-columns > :not(.right-column) {
   @media (min-width: $hybrilivre-col-breakpoint) {
-    max-width: 58%;
-    max-width: calc(58% - #{$column-gap});
+    max-width: 66.667%;
+    max-width: calc(66.667% - #{$column-gap});
   }
 }
 // ensure blockquotes fit as well, since they have an extra margin-left
 .has-2-columns > blockquote:not(.right-column) {
   @media (min-width: $hybrilivre-col-breakpoint) {
-    max-width: calc(58% - #{$column-gap} - 1.5em);
+    max-width: calc(66.667% - #{$column-gap} - 1.5em);
   }
 }
 
@@ -120,8 +121,8 @@ $column-gap: 2rem;
   
   @media (min-width: $hybrilivre-col-breakpoint) {
     display: block;
-    max-width: calc(42% - #{$column-gap});
-    width: 42%;
+    max-width: calc(33.333% - 1px); // 1px space for vertical separator
+    width: 33.333%;
     float: right;
     clear: both; // addresses the bug when 2 floating elements could be side-to-side
     position: absolute;
@@ -147,7 +148,7 @@ $column-gap: 2rem;
     @media (min-width: $hybrilivre-col-breakpoint) {
       padding-top: 0;
       transition: padding .3s;
-      padding-bottom: 1.5rem;
+//      padding-bottom: 0;
       margin-top: 0;
       margin-bottom: 0;
       height: 100vh;
@@ -181,7 +182,7 @@ $column-gap: 2rem;
 
       &__inner {
         height: 100%;
-        padding-top: 1rem;
+//        padding-top: 1rem;
 
         // fade inner container
         &.fade-in.js-enabled {
@@ -204,7 +205,7 @@ $column-gap: 2rem;
     @extend %hl-augmentation;
     
     .content & {
-      margin: 0 auto;
+      margin: 0;
     }
 
     &__image {
@@ -244,8 +245,14 @@ $column-gap: 2rem;
     }
     
     &__blockquote {
+
+      // Nest inside .content to ensure styles are applied
       .content & {
-        font-size: $quire-base-font-size * 1.75;
+        padding-left: 1.25rem;
+        font-size: $quire-base-font-size * 1.5;
+        font-weight: 700;
+        border-left: 2px solid $paper-accent;
+        color: $paper-accent;
       }
       
       cite, footer  {

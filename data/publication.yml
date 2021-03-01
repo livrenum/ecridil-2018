@@ -43,7 +43,9 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: rbourassa
+  
+  - 
+    id: rbourassa
     type: primary
     first_name: Renée
     last_name: Bourassa
@@ -52,7 +54,9 @@ contributor:
     bio: "Design médias et culture numériques. Design du livre en contexte numérique et systèmes d’écritures. Pratiques créatives, expérientielles et culture participative. Design de personnages de synthèse. Dispositifs de la culture numérique : fictions transmédiatiques, dispositifs narratifs, dispositifs géolocalisés, cinéma numérique, dispositifs de réalité augmentée, environnements multimodaux, jeux vidéos."
     url: https://www.design.ulaval.ca/personnel/professeurs/renee-bourassa
     pic: contributors/renee-bourassa.jpg
-  - id: xmiranda
+
+  - 
+    id: xmiranda
     type: primary
     first_name: Ximena
     last_name: Miranda
@@ -61,7 +65,9 @@ contributor:
     bio: ""
     url: https://xmirandablog.wordpress.com/
     pic: 
-  - id: lobrassard
+
+  - 
+    id: lobrassard
     type: primary
     first_name: Louis-Olivier
     last_name: Brassard
@@ -71,70 +77,132 @@ contributor:
     bio: ""
     url: https://www.loupbrun.ca
     pic: 
-  - id: smonjour
+
+  - 
+    id: smonjour
     type: primary
     first_name: Servanne
     last_name: Monjour
     affiliation: Univeristé McGill
     title: Édition
-  - id: fcormerais
+  
+  - 
+    id: fcormerais
+    type: secondary
     first_name: Franck
     last_name: Cormerais
-  - id: deseilligny
+  
+  - 
+    id: deseilligny
+    type: secondary
     first_name: Oriane
     last_name: Deseilligny
-  - id: bepron
+  
+  - 
+    id: bepron
+    type: secondary
     first_name: Benoit 
     last_name: Epron
-  - id: cmuller
+  
+  - 
+    id: cmuller
+    type: secondary
     first_name: Catherine
     last_name: Müller
-  - id: cdevelotte
+  
+  - 
+    id: cdevelotte
+    type: secondary
     first_name:
     last_name: 
-  - id: elhachani
+  
+  - 
+    id: elhachani
+    type: secondary
     first_name:
     last_name: El Hachani
-  - id: jdrochon
+  
+  - 
+    id: jdrochon
+    type: secondary
     first_name: Julien
     last_name: Drochon
-  - id: mjahjah
+  
+  - 
+    id: mjahjah
+    type: secondary
     first_name: Marc
     last_name: Jahjah
-  - id: cjacquot
+  
+  - 
+    id: cjacquot
+    type: secondary
     first_name: Clémence
     last_name: Jacquot
-  - id: alaborderie
+  
+  - 
+    id: alaborderie
+    type: secondary
     first_name: Arnaud
     last_name: Laborderie
-  - id: nlacelle
+  
+  - 
+    id: nlacelle
+    type: secondary
     first_name: Nathalie
     last_name: Lacelle
-  - id: plieutier
+  
+  - 
+    id: plieutier
+    type: secondary
     first_name: Prune
     last_name: Lieutier
-  - id: cmeynard
+  
+  - 
+    id: cmeynard
+    type: secondary
     first_name: Cécile
     last_name: Meynard
-  - id: egreslou
+  
+  - 
+    id: egreslou
+    type: secondary
     first_name: Elisabeth 
     last_name: Greslou
-  - id: aperret
+  
+  - 
+    id: aperret
+    type: secondary
     first_name: Arthur
     last_name: Perret
-  - id: jlsoubret
+  
+  - 
+    id: jlsoubret
+    type: secondary
     first_name: Jean-Louis
     last_name: Soubret
-  - id: esouchier
+  
+  - 
+    id: esouchier
+    type: secondary
     first_name: Emmanuel
     last_name: Souchier
-  - id: etadier
+  
+  - 
+    id: etadier
+    type: secondary
     first_name: Elsa
     last_name: Tadier
-  - id: mmellet
+  
+  - 
+    id: mmellet
+    type: secondary
     first_name: Margot
     last_name: Mellet
-  - id: mvitalirosati
+  
+  - 
+    id: mvitalirosati
+    type: secondary
     first_name: Marcello
     last_name: Vitali-Rosati
 
@@ -143,7 +211,7 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2020 LivreNum
+copyright: © 2021 LivreNum
 
 license:
   name: Creative Commons Attribution 4.0 International

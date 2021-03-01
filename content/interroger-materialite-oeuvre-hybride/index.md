@@ -3,7 +3,6 @@ title: Interroger la matérialité numérique d’une œuvre hybride
 subtitle: >
   L’énonciation éditoriale de Poreuse
 weight: 109
-number: 09
 type: hybritexte
 abstract: >
   

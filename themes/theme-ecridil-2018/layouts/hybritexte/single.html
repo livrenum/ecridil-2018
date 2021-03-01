@@ -47,16 +47,17 @@
       {{- end -*/}}
     </div>
   </header>
+  
+  
+  {{/* Abstract before content */}}
+  {{ if .Params.abstract }}
+  <section class="container">
+    {{ partial "hybritexte-page-abstract.html" . }}
+  </section>
+  {{ end }}
 
   <section id="content" class="section quire-page__content hybritexte-page__content">
     <div class="container is-fluid has-2-columns with-separator content hybritexte-page__scroll-wrapper">
-      
-      {{/* Abstract before content */}}
-      {{ if .Params.abstract }}
-      <div class="right-column">
-        {{ partial "hybritexte-page-abstract.html" . }}
-      </div>
-      {{ end }}
 
       {{ if .Content }}
       {{ .Content }}

@@ -3,7 +3,6 @@ title: Entre livre-objet et objet livre
 subtitle: >
   Scénographies du livre en régime numérique
 weight: 103
-number: 3
 type: hybritexte
 abstract: >
   Le numérique invite à repenser la place du corps dans les dispositifs de lecture.
@@ -13,9 +12,11 @@ contributor:
 image: media/couverture.jpg
 ---
 
-> Mais qu’est-ce que c’est que toute cette histoire de livres ?
-> Le Livre n’est-il pas censé être sur le déclin, son autorité en plein effritement, l’assiette de son impôt informationnel en fuite vers des banlieues où s’alignent d’impeccables haies et pelouses de silicone ?
-> {{< cite "Baker2004" 264 >}}
+{{< hl-epigraph >}}
+Mais qu’est-ce que c’est que toute cette histoire de livres ?
+Le Livre n’est-il pas censé être sur le déclin, son autorité en plein effritement, l’assiette de son impôt informationnel en fuite vers des banlieues où s’alignent d’impeccables haies et pelouses de silicone ?
+ {{< cite "Baker2004" 264 >}}
+{{< /hl-epigraph >}}
 
 Lorsque Nicholson Baker écrit ces lignes, en 1995, il s’est livré à une véritable exploration des catalogues publicitaires de vente par correspondance de mobilier, en constatant la place accordée aux livres dans les salons ou dans les bibliothèques qui y figurent en photo. Nicholson Baker met ainsi en évidence la sélection de livres et de titres opérée par les décorateurs des marques pour venir garnir les étagères, les tables basses – en un mot les rendre plus vivants et habités. Livres anciens, grands formats, livres aux titres bien oubliés voire inconnus, tous ces objets sont destinés à décorer une pièce, créer une ambiance, stimuler la projection du client. Et Nicholson Baker ajoute : «  Les livres séduisent ceux qui feuillettent les catalogues, lecteurs aussi bien que non-lecteurs, les incitant à meubler des vies alternatives à leur profit – des vies où ils découvrent qu’ils sont enfin capables de faire cet exercice de yoga contorsionniste dont tant de gens ont parlé, et qu’ils peuvent “se pelotonner avec un bon livre”» {{< cite "Baker2004" 274 >}}[^powell].
 
