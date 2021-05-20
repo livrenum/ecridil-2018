@@ -13,7 +13,7 @@ contributor:
 image: media/couverture.jpg
 ---
 
-{{< hl-epigraphe >}}
+{{< hl-epigraph >}}
 
 Le monde de l’édition – et plus encore le milieu de l’édition littéraire –, au Québec comme ailleurs, connaît aujourd’hui un des bouleversements les plus importants de son histoire. 
 
