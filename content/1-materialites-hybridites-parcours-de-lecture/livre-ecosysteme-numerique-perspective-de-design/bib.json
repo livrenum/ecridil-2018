@@ -1,0 +1,1091 @@
+[
+	{
+		"id": "AudetLeDeuff2015",
+		"type": "chapter",
+		"container-title": "Le temps des humanités digitales : la mutation des sciences humaines et sociales",
+		"event-place": "Roubaix",
+		"page": "89-102",
+		"publisher": "Fyp éditions",
+		"publisher-place": "Roubaix",
+		"title": "Le long, le bref et le truchement numérique",
+		"title-short": "Le temps des humanités digitales",
+		"author": [
+			{
+				"family": "Audet",
+				"given": "René"
+			}
+		],
+		"container-author": [
+			{
+				"family": "Le Deuff",
+				"given": "Olivier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "Audetetal2006",
+		"type": "book",
+		"call-number": "NX456 .J48 2006",
+		"event-place": "Paris",
+		"ISBN": "978-2-914563-28-4",
+		"number-of-pages": "127",
+		"publisher": "Dis voir",
+		"publisher-place": "Paris",
+		"source": "Library of Congress ISBN",
+		"title": "Jeux et enjeux de la narrativité dans les pratiques contemporaines",
+		"editor": [
+			{
+				"family": "Audet",
+				"given": "René"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "Barbier",
+		"type": "book",
+		"abstract": "Vieille opposition dont les rapports structurent les représentations, les conduites individuelles et collectives, la distinction entre théorie et pratique est peut-être en train d’évoluer avec les transformations actuellement observables dans le domaine du travail, de la formation et de la recherche. Faisant appel à des spécialistes réputés, issus de différentes disciplines, ce livre collectif a précisément pour objet principal, à partir des expériences de recherche, d’enseignement et d’action de chacun des auteurs, de faire le point sur l’évolution des rapports entre savoirs théoriques et savoirs d’action et de favoriser ainsi l’ouverture d’un large débat interdisciplinaire sur cette question. Cet ouvrage est issu d’une table ronde organisée dans le cadre de la deuxième biennale de l’éducation et de la formation et du bicentenaire du Conservatoire national des arts et métiers.",
+		"ISBN": "978-2-13-058999-0",
+		"language": "fr",
+		"source": "www.cairn.info",
+		"title": "Savoirs théoriques et savoirs d'action",
+		"URL": "https://www.cairn.info/savoirs-theoriques-et-savoirs-d-action--9782130589990.htm",
+		"author": [
+			{
+				"family": "Barbier",
+				"given": "Jean-Marie"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "BolterGrusin1999",
+		"type": "book",
+		"abstract": "A new framework for considering how all media constantly borrow from and refashion other media.\n\nMedia critics remain captivated by the modernist myth of the new: they assume that digital technologies such as the World Wide Web, virtual reality, and computer graphics must divorce themselves from earlier media for a new set of aesthetic and cultural principles. In this richly illustrated study, Jay David Bolter and Richard Grusin offer a theory of mediation for our digital age that challenges this assumption. They argue that new visual media achieve their cultural significance precisely by paying homage to, rivaling, and refashioning such earlier media as perspective painting, photography, film, and television. They call this process of refashioning \"remediation,\" and they note that earlier media have also refashioned one another: photography remediated painting, film remediated stage production and photography, and television remediated film, vaudeville, and radio.",
+		"call-number": "P96.T42 B59 1998",
+		"event-place": "Cambridge, Mass",
+		"ISBN": "978-0-262-02452-5",
+		"number-of-pages": "295",
+		"publisher": "MIT Press",
+		"publisher-place": "Cambridge, Mass",
+		"source": "Library of Congress ISBN",
+		"title": "Remediation: Understanding New Media",
+		"title-short": "Remediation",
+		"author": [
+			{
+				"family": "Bolter",
+				"given": "J. David"
+			},
+			{
+				"family": "Grusin",
+				"given": "Richard A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "Bon2011",
+		"type": "book",
+		"abstract": "Nous vivons une des très rares mutations de l'écrit. Rares (la tablette, le rouleau, le codex, l'imprimerie), mais chaque fois irréversibles et globales. Ce que change Internet, ce n'est pas le rapport au livre, c'est le rapport au monde. Le numérique affecte la façon dont on écrit aussi bien que celle dont on lit, nos bibliothèques comme la trace que nous laissons parmi les autres. Il ne s'agit pas ici de prédire. Prendre le temps, au contraire, de considérer l'histoire récente de notre propre rapport à ces machines, comment nous nous en servons, ce qu'elles ouvrent de possibles. Prendre le temps de revenir à quelques oeuvres décisives, celles de Balzac ou de Rabelais en font partie, qui sont elles-mêmes l'empreinte d'une de ces transitions. Alors peut-être accepterons-nous de voir que s'offrent pour nos fables, nos récits, nos lettres, nos carnets privés, nos images aussi, d'autres vecteurs, une autre mémoire et de nouveaux modes de transmission. Nous sommes déjà après le livre. F. B François Bon, écrivain, est né en 1953. Impliqué très tôt dans l'exploration des technologies numériques, ce dont témoigne son blog et son site d'auteur, www.tierslivre.net, il a aussi fondé la coopérative d'édition numérique www.publie.net.",
+		"event-place": "Paris",
+		"ISBN": "978-2-02-105534-4",
+		"language": "Français",
+		"number-of-pages": "288",
+		"publisher": "Le Seuil",
+		"publisher-place": "Paris",
+		"title": "Après le livre",
+		"author": [
+			{
+				"family": "Bon",
+				"given": "François"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					9,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "BourassaHauteRuffineau2018",
+		"type": "article-journal",
+		"container-title": "Sciences du Design",
+		"ISSN": "2428-3711",
+		"issue": "2",
+		"language": "fr",
+		"note": "publisher: Presses Universitaires de France",
+		"page": "27-33",
+		"source": "www.cairn.info",
+		"title": "Devenirs numériques de l’édition",
+		"URL": "https://www.cairn.info/revue-sciences-du-design-2018-2-page-27.htm",
+		"volume": "n° 8",
+		"author": [
+			{
+				"family": "Bourassa",
+				"given": "Renée"
+			},
+			{
+				"family": "Haute",
+				"given": "Lucile"
+			},
+			{
+				"family": "Rouffineau",
+				"given": "Gilles"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					12,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "BourassaAudet2017",
+		"type": "chapter",
+		"container-title": "Design et innovation dans la chaine du livre",
+		"event-place": "Paris",
+		"ISBN": "978-2-13-078883-6",
+		"language": "fr",
+		"note": "page: 129-139\ncontainer-title: Design & innovation dans la chaîne du livre",
+		"publisher": "Presses Universitaires de France",
+		"publisher-place": "Paris",
+		"source": "www.cairn.info",
+		"title": "Hybridité du livre en contexte numérique : affordances, mutations, extensions",
+		"URL": "https://www.cairn.info/design-et-innovation-dans-la-chaine-du-livre--9782130788836-page-129.htm",
+		"author": [
+			{
+				"family": "Bourassa",
+				"given": "Renée"
+			},
+			{
+				"family": "Audet",
+				"given": "René"
+			}
+		],
+		"container-author": [
+			{
+				"family": "Vial",
+				"given": "Stéphane"
+			},
+			{
+				"family": "Catoir-Brisson",
+				"given": "Marie-Julie"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "Bourassa2015",
+		"type": "chapter",
+		"container-title": "Le sujet digital",
+		"event-place": "Paris",
+		"ISBN": "978-2-84066-794-0",
+		"language": "fr",
+		"page": "150-160",
+		"publisher": "Presses du réel",
+		"publisher-place": "Paris",
+		"source": "www.academia.edu",
+		"title": "Enjeux de la mémoire : Entre hypermnésie et oubli",
+		"title-short": "Enjeux de la mémoire",
+		"URL": "https://www.academia.edu/4719668/Enjeux_de_la_m%C3%A9moire_Entre_hypermn%C3%A9sie_et_oubli",
+		"author": [
+			{
+				"family": "Bourassa",
+				"given": "Renée"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "Bourassa2010",
+		"type": "book",
+		"language": "fr",
+		"publisher": "Montréal, Le Quartanier",
+		"title": "Les fictions hypermédiatiques : mondes fictionnels et espaces ludiques. Des arts de mémoire au cyberespace",
+		"author": [
+			{
+				"family": "Bourassa",
+				"given": "Renée"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "Bourassa2005",
+		"type": "article-journal",
+		"abstract": "Cet article retrace le périple des manuscrits antiques à partir d’un foyer de condensation, la bibliothèque alexandrine, puis de leur diaspora qui a suivi sa destruction pour finalement se transmettre à l’Europe de la Renaissance. Saisi à partir de sa fonction mnémonique dans le passage entre l’oralité et l’écriture, puis de sa valeur de prestige dans la constellation alexandrine, le manuscrit antique, à travers ses mutations et ses trajectoires, agit comme vecteur de constitution et de transmission culturelle. On peut ainsi apprécier le rôle des bibliothèques au sein d’une dynamique de condensation puis de dissémination des savoirs.\n          , \n            This article follows the journey of ancient manuscripts from a center of condensation, the Library of Alexandria, through the diaspora that followed its destruction and into its dissemination during the Renaissance in Europe. Understood, first, from the point of view of its mnemonic function in the passage from orality to writing and second, from its prestige value as part of the Alexandrian constellation, the ancient manuscript, vector of representations, is saved from the flames, wanders and ends up contributing to the intellectual awakening of Europe during the Renaissance. This journey emphasizes the role of libraries within the dynamic of condensation and dissemination of knowledge. It tries to grasp how the book, through its mutations and trajectories, acts as a vector of cultural constitution and transmission.",
+		"container-title": "Intermédialités",
+		"DOI": "10.7202/1005490ar",
+		"ISSN": "1920-3136, 1705-8546",
+		"issue": "5",
+		"journalAbbreviation": "im",
+		"page": "21-36",
+		"source": "DOI.org (Crossref)",
+		"title": "Circulations alexandrines",
+		"URL": "http://id.erudit.org/iderudit/1005490ar",
+		"author": [
+			{
+				"family": "Bourassa",
+				"given": "Renée"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "Carr2011",
+		"type": "book",
+		"abstract": "Finalist for the 2011 Pulitzer Prize in General Nonfiction: “Nicholas Carr has written a Silent Spring for the literary mind.”—Michael Agger, Slate“Is Google making us stupid?” When Nicholas Carr posed that question, in a celebrated Atlantic Monthly cover story, he tapped into a well of anxiety about how the Internet is changing us. He also crystallized one of the most important debates of our time: As we enjoy the Net’s bounties, are we sacrificing our ability to read and think deeply?Now, Carr expands his argument into the most compelling exploration of the Internet’s intellectual and cultural consequences yet published. As he describes how human thought has been shaped through the centuries by “tools of the mind”—from the alphabet to maps, to the printing press, the clock, and the computer—Carr interweaves a fascinating account of recent discoveries in neuroscience by such pioneers as Michael Merzenich and Eric Kandel. Our brains, the historical and scientific evidence reveals, change in response to our experiences. The technologies we use to find, store, and share information can literally reroute our neural pathways.Building on the insights of thinkers from Plato to McLuhan, Carr makes a convincing case that every information technology carries an intellectual ethic—a set of assumptions about the nature of knowledge and intelligence. He explains how the printed book served to focus our attention, promoting deep and creative thought. In stark contrast, the Internet encourages the rapid, distracted sampling of small bits of information from many sources. Its ethic is that of the industrialist, an ethic of speed and efficiency, of optimized production and consumption—and now the Net is remaking us in its own image. We are becoming ever more adept at scanning and skimming, but what we are losing is our capacity for concentration, contemplation, and reflection.Part intellectual history, part popular science, and part cultural criticism, The Shallows sparkles with memorable vignettes—Friedrich Nietzsche wrestling with a typewriter, Sigmund Freud dissecting the brains of sea creatures, Nathaniel Hawthorne contemplating the thunderous approach of a steam locomotive—even as it plumbs profound questions about the state of our modern psyche. This is a book that will forever alter the way we think about media and our minds.",
+		"edition": "Kindle Edition",
+		"language": "Anglais",
+		"number-of-pages": "289",
+		"publisher": "W. W. Norton & Company",
+		"title": "The Shallows: What the Internet Is Doing to Our Brains",
+		"title-short": "The Shallows",
+		"author": [
+			{
+				"family": "Carr",
+				"given": "Nicholas"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					6,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "Chartier2015",
+		"type": "chapter",
+		"collection-title": "Paroles en réseau",
+		"container-title": "Les métamorphoses du livre : Les rendez-vous de l'édition : le livre et le numérique",
+		"event-place": "Paris",
+		"ISBN": "978-2-84246-204-8",
+		"note": "container-title: Les métamorphoses du livre : Les rendez-vous de l'édition : le livre et le numérique",
+		"page": "1-33",
+		"publisher": "Éditions de la Bibliothèque publique d’information",
+		"publisher-place": "Paris",
+		"source": "OpenEdition Books",
+		"title": "Les métamorphoses du livre",
+		"URL": "http://books.openedition.org/bibpompidou/1701",
+		"author": [
+			{
+				"family": "Chartier",
+				"given": "Roger"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					1,
+					13
+				]
+			]
+		}
+	},
+	{
+		"id": "Clark2008",
+		"type": "book",
+		"ISBN": "0-19-533321-7",
+		"language": "en",
+		"publisher": "Oxford University Press",
+		"source": "PhilPapers",
+		"title": "Supersizing the Mind: Embodiment, Action, and Cognitive Extension",
+		"title-short": "Supersizing the Mind",
+		"author": [
+			{
+				"family": "Clark",
+				"given": "Andy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "Chalmers2008",
+		"type": "chapter",
+		"abstract": "A month ago, I bought an iPhone. The iPhone has already taken over some of the central functions of my brain. It has replaced part of my memory, storing phone numbers and addresses that I once would have taxed my brain with. It harbors my desires: I call up a memo with the names of my favorite dishes when I need to order at a local restaurant. I use it to calculate, when I need to figure out bills and tips. It is a tremendous resource in an argument, with Google ever present to help settle disputes. I make plans with it, using its calendar to help determine what I can and can’t do in the coming months. I even daydream on the iPhone, idly calling up words and images when my concentration slips. Friends joke that I should get the iPhone implanted into my brain. But if Andy Clark is right, all this would do is speed up the processing, and free up my hands. The iPhone is part of my mind already. Clark is a connoisseur of the myriad ways in which the mind relies on the world to get its work done. The first part of this marvelous book explores some of these ways: the extension of our bodies, the extension of our senses, and crucially, the use of language as a tool to extend our thought. The second part of the book defends the thesis that in at least some of these cases, the world is not serving as a mere instrument for the mind. Rather, the relevant parts of the world have become parts of my mind. My iPhone is not my tool, or at least it is not wholly my tool. Parts of it have become parts of me. This is the thesis of the extended mind: when parts of the environment are coupled to the brain in the right way, they become parts of the mind. The thesis has a long history: I am told that there are hints of it in Dewey, Heidegger, and Wittgenstein. But no-one has done as much to give life to the idea as Andy Clark. In a series of important books and articles—Being There, Natural-Born Cyborgs, “Magic words: How language augments human computation”, and many others—he has explored the many ways in which the boundaries between mind and world are far more flexible than one might have thought..",
+		"container-title": "Supersizing the Mind: Embodiment, Action, and Cognitive Extension",
+		"ISBN": "0-19-533321-7",
+		"language": "en",
+		"publisher": "Oxford University Press",
+		"source": "PhilPapers",
+		"title": "Foreword to Andy Clark's Supersizing the Mind",
+		"container-author": [
+			{
+				"family": "Clark",
+				"given": "Andy"
+			}
+		],
+		"author": [
+			{
+				"family": "Chalmers",
+				"given": "David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "deTonnac2009",
+		"type": "chapter",
+		"abstract": "Le gai savoir : rarement l’expression nietzschéenne se sera aussi bien appliquée qu’à ce livre… sur les livres ! Du papyrus au fichier électronique, nous traversons deux mille ans d’histoire du livre à travers une discussion à la fois érudite et humoristique, savante et subjec-tive, dialectique et anecdotique, curieuse et goûteuse. On y parcourt les temps et les lieux, les personnes réelles s’y mêlent aux personnages de fiction, on y fait l’éloge de la bêtise, on y analyse la passion du collectionneur, les raisons pour lesquelles telle époque engendre des chefs-d’œuvre, la manière dont fonctionnent la mémoire et le classement d’une bibliothèque. On y explique pourquoi « les poules ont mis un siècle pour apprendre à ne pas traverser la route » ou comment « notre connaissance du passé est due à des crétins, des imbéciles ou des adversaires ». Bref, on s’y amuse de la « furia littéraire » de deux passionnés qui nous entraînent dans leur folle farandole dont chaque tour surprend, distrait, enseigne. En ces temps d’obscurantisme galopant, c’est peut-être le plus bel hommage qui se puisse imaginer à la cul-ture de l’esprit, et l’antidote le plus efficace au désenchantement.",
+		"container-title": "N'espérez pas vous débarrasser des livres",
+		"event-place": "Paris",
+		"ISBN": "978-2-246-74271-5",
+		"language": "Français",
+		"publisher": "Grasset",
+		"publisher-place": "Paris",
+		"title": "Préface",
+		"container-author": [
+			{
+				"family": "Eco",
+				"given": "Umberto"
+			},
+			{
+				"family": "Carrière",
+				"given": "Jean-Claude"
+			}
+		],
+		"author": [
+			{
+				"family": "De Tonnac",
+				"given": "Jean-Philippe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					10,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "Drucker2014",
+		"type": "book",
+		"abstract": "In our current screen-saturated culture, we take in more information through visual means than at any point in history. The computers and smart phones that constantly flood us with images do more than simply convey information. They structure our relationship to information through graphical formats. Learning to interpret how visual forms not only present but produce knowledge, says Johanna Drucker, has become an essential contemporary skill.Graphesis provides a descriptive critical language for the analysis of graphical knowledge. In an interdisciplinary study fusing digital humanities with media studies and graphic design history, Drucker outlines the principles by which visual formats organize meaningful content. Among the most significant of these formats is the graphical user interface (GUI)--the dominant feature of the screens of nearly all consumer electronic devices. Because so much of our personal and professional lives is mediated through visual interfaces, it is important to start thinking critically about how they shape knowledge, our behavior, and even our identity.Information graphics bear tell-tale signs of the disciplines in which they originated: statistics, business, and the empirical sciences. Drucker makes the case for studying visuality from a humanistic perspective, exploring how graphic languages can serve fields where qualitative judgments take priority over quantitative statements of fact. Graphesis offers a new epistemology of the ways we process information, embracing the full potential of visual forms and formats of knowledge production.",
+		"event-place": "Cambridge, Massachusetts",
+		"ISBN": "978-0-674-72493-8",
+		"language": "Anglais",
+		"number-of-pages": "216",
+		"publisher": "Harvard University Press",
+		"publisher-place": "Cambridge, Massachusetts",
+		"title": "Graphesis – Visual Forms of Knowledge Production",
+		"author": [
+			{
+				"family": "Drucker",
+				"given": "Johanna"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					7,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "Drucker2001",
+		"type": "book",
+		"abstract": "The first full-length study of the development of artists' books as a 20th century art form. \"...a crucial contribution to the history of the book in visual culture.\"--Buzz Spectator. \"...the world of artists' books is made available to student and teacher, collector and connoisseur.\"--Library Journal.",
+		"event-place": "New York (N.Y.)",
+		"ISBN": "978-1-887123-02-0",
+		"language": "English",
+		"number-of-pages": "396",
+		"publisher": "Granary Books",
+		"publisher-place": "New York (N.Y.)",
+		"title": "The Century Of Artists Books",
+		"author": [
+			{
+				"family": "Drucker",
+				"given": "Johanna"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				],
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "Eisenstein2005",
+		"type": "book",
+		"abstract": "In 1979 Elizabeth Eisenstein provided the first full-scale treatment of the fifteenth-century printing revolution in the West in her monumental two-volume work, The Printing Press as an Agent of Change. This abridged edition, after summarising the initial changes introduced by the establishment of printing shops, goes on to discuss how printing challenged traditional institutions and affected three major cultural movements: the Renaissance, the Reformation and the rise of modern science. Also included is a later essay which aims to demonstrate that the cumulative processes created by printing are likely to persist despite the recent development of new communications technologies.",
+		"collection-title": "Canto Classics",
+		"edition": "2",
+		"event-place": "Cambridge",
+		"ISBN": "978-1-107-63275-2",
+		"note": "DOI: 10.1017/CBO9781139197038",
+		"publisher": "Cambridge University Press",
+		"publisher-place": "Cambridge",
+		"source": "Cambridge University Press",
+		"title": "The Printing Revolution in Early Modern Europe",
+		"URL": "https://www.cambridge.org/core/books/printing-revolution-in-early-modern-europe/85AE910ACCCFCE8C068DDA911990AEFC",
+		"author": [
+			{
+				"family": "Eisenstein",
+				"given": "Elizabeth L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "Martin1995",
+		"type": "book",
+		"abstract": "Cultural history on a grand scale, this immensely readable book—the summation of decades of study by one of the world's great scholars of the book—is the story of writing from its very beginnings to its recent transformations through technology.Traversing four millennia, Martin offers a chronicle of writing as a cultural system, a means of communication, and a history of technologies. He shows how the written word originated, how it spread, and how it figured in the evolution of civilization. Using as his center the role of printing in making the written way of thinking dominant, Martin examines the interactions of individuals and cultures to produce new forms of \"writing\" in the many senses of authorship, language rendition, and script.Martin looks at how much the development of writing owed to practical necessity, and how much to religious and social systems of symbols. He describes the precursors to writing and reveals their place in early civilization as mnemonic devices in service of the spoken word. The tenacity of the oral tradition plays a surprisingly important part in this story, Martin notes, and even as late as the eighteenth century educated individuals were trained in classical rhetoric and preferred to rely on the arts of memory. Finally, Martin discusses the changes to writing wrought by the electronic revolution, offering invaluable insights into the influence these new technologies have had on children born into the computer age.",
+		"edition": "1st edition",
+		"event-place": "Chicago",
+		"ISBN": "978-0-226-50836-8",
+		"language": "English",
+		"number-of-pages": "608",
+		"publisher": "University of Chicago Press",
+		"publisher-place": "Chicago",
+		"title": "The History and Power of Writing",
+		"author": [
+			{
+				"family": "Martin",
+				"given": "Henri-Jean"
+			}
+		],
+		"translator": [
+			{
+				"family": "Cochrane",
+				"given": "Lydia G."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "Goody1986",
+		"type": "book",
+		"abstract": "This book assesses the impact of writing on human societies, both in the Ancient Near East and in twentieth-century Africa, and highlights some general features of social systems that have been influenced by this major change in the mode of communication. Such features are central to any attempt at the theoretical definition of human society and such constituent phenomena as religious and legal systems, and in this study Professor Goody explores the role of a specific mechanism, the introduction of writing and the development of a written tradition, in the explanation of some important social differences and similarities. Goody argues that a shift of emphasis from productive to certain communicative processes is essential to account adequately for major changes in human societies. Whilst there have been previous descussions of the effect of literacy upon social organisation, no study has hitherto presented the general synthesis developed here.",
+		"collection-title": "Studies in Literacy, the Family, Culture and the State",
+		"event-place": "Cambridge",
+		"ISBN": "978-0-521-33962-9",
+		"note": "DOI: 10.1017/CBO9780511621598",
+		"publisher": "Cambridge University Press",
+		"publisher-place": "Cambridge",
+		"source": "Cambridge University Press",
+		"title": "The Logic of Writing and the Organization of Society",
+		"URL": "https://www.cambridge.org/core/books/logic-of-writing-and-the-organization-of-society/A58ECF96A6302FDC7972E713BDE5568D",
+		"author": [
+			{
+				"family": "Goody",
+				"given": "Jack"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "Guillaud2010",
+		"type": "chapter",
+		"collection-title": "Read/Write Book",
+		"container-title": "Read/Write Book : Le livre inscriptible",
+		"event-place": "Marseille",
+		"ISBN": "978-2-8218-0952-9",
+		"language": "fr",
+		"note": "container-title: Read/Write Book : Le livre inscriptible",
+		"page": "49-64",
+		"publisher": "OpenEdition Press",
+		"publisher-place": "Marseille",
+		"source": "OpenEdition Books",
+		"title": "Qu'est-ce qu'un livre à l'heure du numérique ?",
+		"URL": "http://books.openedition.org/oep/147",
+		"author": [
+			{
+				"family": "Guillaud",
+				"given": "Hubert"
+			}
+		],
+		"editor": [
+			{
+				"family": "Dacos",
+				"given": "Marin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					3,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "Dacos2010",
+		"type": "book",
+		"abstract": "En entrant dans l’ère de l’informatique en réseau, le livre devient inscriptible. Son développement ne suit plus la ligne droite de la traditionnelle chaîne du livre, mais se diffuse par ramifications réticulaires. Comme un oignon, il se pare de multiples couches d’informations, ajoutées par différents métiers, mais aussi par les lecteurs. Ensemble, ils participent à une vaste entreprise d’enrichissement documentaire qui multiplie les grilles de lecture du texte et en fait miroiter les multiples sens. Inscriptible, le livre s’insère désormais dans un système d’information riche, polymorphe, mouvant et encore très fragile. C’est le Read/Write Book.",
+		"collection-title": "Read/Write Book",
+		"event-place": "Marseille",
+		"ISBN": "978-2-8218-0952-9",
+		"language": "fr",
+		"note": "container-title: Read/Write Book : Le livre inscriptible\ncontainer-title: Read/Write Book : Le livre inscriptible\ncontainer-title: Read/Write Book : Le livre inscriptible\ncollection-title: Read/Write Book",
+		"number-of-pages": "198",
+		"publisher": "OpenEdition Press",
+		"publisher-place": "Marseille",
+		"source": "OpenEdition Books",
+		"title": "Read/Write Book : Le livre inscriptible",
+		"title-short": "Read/Write Book",
+		"URL": "http://books.openedition.org/oep/128",
+		"translator": [
+			{
+				"family": "Clayssen",
+				"given": "Virginie"
+			}
+		],
+		"editor": [
+			{
+				"family": "Dacos",
+				"given": "Marin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					3,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "Jones2014",
+		"type": "book",
+		"abstract": "In The Emergence of the Digital Humanities, Steven E. Jones examines this shift in our relationship to digital technology and the ways that it has affected humanities scholarship and the academy more broadly. Based on the premise that the network is now everywhere rather than merely \"out there,\" Jones links together seemingly disparate cultural events—the essential features of popular social media, the rise of motion-control gaming and mobile platforms, the controversy over the \"gamification\" of everyday life, the spatial turn, fabrication and 3D printing, and electronic publishing—and argues that cultural responses to changes in technology provide an essential context for understanding the emergence of the digital humanities as a new field of study in this millennium.",
+		"ISBN": "978-0-203-09308-5",
+		"language": "English",
+		"note": "Accepted: 2019-02-25 23:55",
+		"publisher": "Taylor & Francis",
+		"source": "library.oapen.org",
+		"title": "The Emergence of the Digital Humanities",
+		"URL": "https://library.oapen.org/handle/20.500.12657/25883",
+		"author": [
+			{
+				"family": "Jones",
+				"given": "Steven E."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "Kaplan2011",
+		"type": "book",
+		"title": "How books will become machines",
+		"URL": "https://fkaplan.files.wordpress.com/2011/08/kaplan-colloquelitteracies.pdf",
+		"author": [
+			{
+				"family": "Kaplan",
+				"given": "Frédéric"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "Levy2013",
+		"type": "chapter",
+		"abstract": "Les techniques ne sont pas seulement des outils, ce sont des structures de la perception. Elles condi-tionnent la manière dont le monde nous apparaît et dont les phénomènes nous sont donnés. Depuis près d’un demi-siècle, les technologies numériques nous apportent des perceptions d’un monde inconnu. Ces êtres qui émergent de nos écrans et de nos interfaces bouleversent l’idée que nous nous faisons de ce qui est réel et nous réapprennent à percevoir. Quel est l’être des êtres numériques ? Que devient notre être-dans-le-monde à l’heure des êtres numériques ? Le temps est venu d’analyser l’« ontophanie numé-rique » dans toute sa complexité. La prétendue différence entre le réel et le virtuel n’existe pas et n’a jamais existé. Nous vivons dans un environnement hybride, à la fois numérique et non numérique, en ligne et hors ligne, qu’il appartient aux designers de rendre habitable.",
+		"container-title": "L’être et l’écran",
+		"event-place": "Paris",
+		"ISBN": "978-2-13-062170-6",
+		"language": "fr",
+		"note": "DOI: 10.3917/puf.vials.2013.01",
+		"publisher": "Presses Universitaires de France",
+		"publisher-place": "Paris",
+		"title": "Préface",
+		"container-author": [
+			{
+				"family": "Vial",
+				"given": "Stéphane"
+			}
+		],
+		"author": [
+			{
+				"family": "Lévy",
+				"given": "Pierre"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "Rowlands2010",
+		"type": "book",
+		"abstract": "An investigation into the conceptual foundations of a new way of thinking about the mind that does not locate all cognition \"in the head.\"There is a new way of thinking about the mind that does not locate mental processes exclusively \"in the head.\" Some think that this expanded conception of the mind will be the basis of a new science of the mind. In this book, leading philosopher Mark Rowlands investigates the conceptual foundations of this new science of the mind. The new way of thinking about the mind emphasizes the ways in which mental processes are embodied (made up partly of extraneural bodily structures and processes), embedded (designed to function in tandem with the environment), enacted (constituted in part by action), and extended (located in the environment).The new way of thinking about the mind, Rowlands writes, is actually an old way of thinking that has taken on new form. Rowlands describes a conception of mind that had its clearest expression in phenomenology—in the work of Husserl, Heidegger, Sartre, and Merleau-Ponty. He builds on these views, clarifies and renders consistent the ideas of embodied, embedded, enacted, and extended mind, and develops a unified philosophical treatment of the novel conception of the mind that underlies the new science of the mind.",
+		"event-place": "Cambridge, Mass.",
+		"ISBN": "978-0-262-51858-1",
+		"language": "English",
+		"number-of-pages": "249",
+		"publisher": "Bradford Books",
+		"publisher-place": "Cambridge, Mass.",
+		"title": "The New Science of the Mind: From Extended Mind to Embodied Phenomenology",
+		"title-short": "The New Science of the Mind",
+		"author": [
+			{
+				"family": "Rowlands",
+				"given": "Mark"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "RyanThon2013",
+		"type": "book",
+		"call-number": "P96.N35 S76 2014",
+		"collection-title": "Frontiers of narrative",
+		"event-place": "Lincoln",
+		"ISBN": "978-0-8032-4563-1",
+		"number-of-pages": "363",
+		"publisher": "University of Nebraska Press",
+		"publisher-place": "Lincoln",
+		"source": "Library of Congress ISBN",
+		"title": "Storyworlds across media: toward a media-conscious narratology",
+		"title-short": "Storyworlds across media",
+		"editor": [
+			{
+				"family": "Ryan",
+				"given": "Marie-Laure"
+			},
+			{
+				"family": "Thon",
+				"given": "Jan-Noël"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "Saemmer2015",
+		"type": "book",
+		"collection-title": "Collection Papiers",
+		"event-place": "Villeurbanne",
+		"ISBN": "979-10-91281-45-4",
+		"language": "fre",
+		"note": "OCLC: 913837493",
+		"number-of-pages": "287",
+		"publisher": "Presses de l'Enssib",
+		"publisher-place": "Villeurbanne",
+		"title": "Rhétorique du texte numérique: figures de la lecture, anticipations de pratiques",
+		"title-short": "Rhétorique du texte numérique",
+		"author": [
+			{
+				"family": "Saemmer",
+				"given": "Alexandra"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "Saemmer2007",
+		"type": "book",
+		"abstract": "L'idée selon laquelle les écrans auraient produit une «société de l'image» constituant une menace pour le texte, ne se confirme pas sur le web : rares sont les sites qui relèvent intégralement de la création vidéo, photographique ou du dessin animé. Une majeure partie de la «matière» du web est textuelle. Mais celle-ci n'est plus travaillée et lue de la même manière que sur support papier - elle acquiert des qualités qui la rapprochent de l'image. Dans les calligrammes et les métaphores animés, dans l'animation syntaxique, dans les relations intersémiotiques entre le texte animé et l'image fixe, entre le texte fixe et l'image animée, c'est ainsi que se dessine la spécificité des Arts numériques par rapport aux Arts sur support papier, au cinéma et à la télévision. C'est d'un côté l'animation du texte par divers procédés de mise en mouvement, et d'un autre côté la dynamisation de l'écrit par le lien hypertexte, qui incitent un nombre grandissant d'artistes et d'internautes à s'engager dans des expériences de création et de lecture sur support numérique. Ces tendances commencent aujourd'hui à exercer une influence rétroactive sur toute la production graphique, sur l'art vidéo et le cinéma. Sont donc analysées dans ce livre des créations laissant pressentir la profonde transmutation de la matière textuelle dans les années à venir. Des typologies et grilles d'analyse développées à partir d'exemples aideront le lecteur à cerner avec précision l'action de l'hypertexte et de l'animation sur le texte numérique.  Alexandra Saemmer Depuis sa thèse de doctorat qui portait sur les versions textuelles et filmiques d'Agatha de Marguerite Duras (Duras et Musil, Rodopi, Amsterdam et New York, 2002), les relations entre le texte et les arts visuels se trouvent au centre des activités d'enseignement et de recherche de l'auteur. Actuellement enseignante à l'Université Lyon 2, Alexandra Saemmer est co-directrice du séminaire E-Formes (Écritures visuelles sur support numérique) au CIEREC de l'Université de Saint-Etienne.",
+		"event-place": "Saint-Étienne",
+		"ISBN": "978-2-86272-448-5",
+		"language": "Français",
+		"number-of-pages": "162",
+		"publisher": "PU Saint-Etienne",
+		"publisher-place": "Saint-Étienne",
+		"title": "Matières textuelles sur support numérique",
+		"author": [
+			{
+				"family": "Saemmer",
+				"given": "Alexandra"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					5,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "Schnapp2011",
+		"type": "paper-conference",
+		"event": "(Digital) Humanities Revisited – Challenges and Opportunities  in the Digital Age",
+		"event-place": "Hanover",
+		"publisher": "Herrenhausen Lectures",
+		"publisher-place": "Hanover",
+		"title": "Knowledge Design",
+		"URL": "http://jeffreyschnapp.com/wp-content/uploads/2011/06/HH_lectures_Schnapp_01.pdf",
+		"author": [
+			{
+				"family": "Schnapp",
+				"given": "Jeffrey"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					12,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "SchnappBattles2013",
+		"type": "book",
+		"call-number": "Z721 .S34 2014",
+		"collection-title": "MetaLABprojects",
+		"event-place": "Cambridge, Massachusetts",
+		"ISBN": "978-0-674-72503-4",
+		"number-of-pages": "167",
+		"publisher": "Harvard University Press",
+		"publisher-place": "Cambridge, Massachusetts",
+		"source": "Library of Congress ISBN",
+		"title": "The library beyond the book",
+		"author": [
+			{
+				"family": "Schnapp",
+				"given": "Jeffrey T."
+			},
+			{
+				"family": "Battles",
+				"given": "Matthew"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "Triclot2011",
+		"type": "book",
+		"call-number": "GV1469.3 .T75 2011",
+		"collection-title": "Zones",
+		"event-place": "Paris",
+		"ISBN": "978-2-35522-038-8",
+		"number-of-pages": "246",
+		"publisher": "Editions la Découverte",
+		"publisher-place": "Paris",
+		"source": "Library of Congress ISBN",
+		"title": "Philosophie des jeux vidéo",
+		"author": [
+			{
+				"family": "Triclot",
+				"given": "Mathieu"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "Vandendorpe1999",
+		"type": "book",
+		"abstract": "Jusque vers la fin des années 1970, on pouvait encore croire que l’ordinateur n’aurait d’effet que sur les domaines scientifique et technique. On se rend compte aujourd’hui que cet appareil et les technologies qui l’accompagnent sont en train de révolutionner la façon même dont notre civilisation crée, emmagasine et transmet le savoir. À terme, cette mutation influencera l’outil le plus précieux que l’homme ait inventé pour construire ses connaissances et élaborer son image de soi et du monde: le texte. On ne lit pas un hypertexte comme on lit un roman, et la navigation sur le Web procure une expérience différente de la lecture d’un livre ou du journal.\nC’est à ces bouleversements qui touchent tous les plans de notre civilisation qu’est consacré le présent ouvrage.",
+		"call-number": "P211 .V36 1999",
+		"event-place": "Montréal",
+		"ISBN": "978-2-89052-979-3",
+		"number-of-pages": "271",
+		"publisher": "Boréal",
+		"publisher-place": "Montréal",
+		"source": "Library of Congress ISBN",
+		"title": "Du papyrus à l'hypertexte: essai sur les mutations du texte et de la lecture",
+		"title-short": "Du papyrus à l'hypertexte",
+		"author": [
+			{
+				"family": "Vandendorpe",
+				"given": "Christian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "Vial2013",
+		"type": "book",
+		"abstract": "Les techniques ne sont pas seulement des outils, ce sont des structures de la perception. Elles conditionnent la manière dont le monde nous apparaît et dont les phénomènes nous sont donnés. Depuis près d’un demi-siècle, les technologies numériques nous apportent des perceptions d’un monde inconnu. Ces êtres qui émergent de nos écrans et de nos interfaces bouleversent l’idée que nous nous faisons de ce qui est réel et nous réapprennent à percevoir. Quel est l’être des êtres numériques ? Que devient notre être-dans- le-monde à l’heure des êtres numériques ? Le temps est venu d’analyser l’« ontophanie numérique » dans toute sa complexité.  La prétendue différence entre le réel et le virtuel n’existe pas et n’a jamais existé. Nous vivons dans un environnement hybride, à la fois numérique et non numérique, en ligne et hors ligne, qu’il appartient aux designers de rendre habitable.",
+		"event-place": "Paris",
+		"ISBN": "978-2-13-079612-1",
+		"language": "fr",
+		"publisher": "Presses Universitaires France",
+		"publisher-place": "Paris",
+		"title": "L’être et l'écran : Comment le numérique change la perception",
+		"title-short": "L’être et l'écran",
+		"author": [
+			{
+				"family": "Vial",
+				"given": "Stéphane"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "VitaliRosati2016",
+		"type": "article-journal",
+		"abstract": "Cet article présente les résultats de huit ans de travail sur le concept d'éditorialisation, réalisés dans le cadre du séminaire international « Écritures numériques et éditorialisation » que j'ai coorganisé avec Nicolas Sauret depuis 2008. Je propose de définir l'éditorialisation comme l'ensemble des dynamiques qui produisent l'espace numérique. Ces dynamiques …",
+		"container-title": "Sens public",
+		"ISSN": "2104-3272",
+		"language": "fr",
+		"note": "ISSN: 2104-3272\npublisher: Département des littératures de langue française",
+		"title": "Qu'est-ce que l'éditorialisation?",
+		"URL": "http://sens-public.org/articles/1184/",
+		"author": [
+			{
+				"family": "Vitali-Rosati",
+				"given": "Marcello"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					3,
+					18
+				]
+			]
+		}
+	}
+]
