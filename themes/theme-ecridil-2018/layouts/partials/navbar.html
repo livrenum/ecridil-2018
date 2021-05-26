@@ -53,7 +53,7 @@ search icons, and search results if enabled). It is visible on all pages.
         {{ else }}
         <li class="quire-navbar-page-controls__item quire-home-page">
           <a href='{{ relref . "cover.md" }}' rel="start">
-            <span class="visually-hidden">Home Page: </span>
+            <span class="visually-hidden">Accueil: </span>
             {{ if .Site.Data.publication.short_title }}
             {{ .Site.Data.publication.short_title | markdownify }}
             {{ else }}
@@ -66,13 +66,14 @@ search icons, and search results if enabled). It is visible on all pages.
         <li class="quire-navbar-page-controls__item quire-section-page">
           <a href="{{ .Section | relURL }}">
             <span class="visually-hidden">Section: </span>
-            <span class="quire-section-page__title">{{ .Section | humanize | title }}</span>
+            {{/* Hybrilivre: set title in `_index.md` front-matter for better control over spelling */}}
+            <span class="quire-section-page__title">{{ .CurrentSection.Params.short_title | default (.CurrentSection.Title | truncate 34) }}</span>
           </a>
         </li>
         {{ end }}
         {{ end }}
         <li class="quire-navbar-page-controls__item quire-current-page">
-          <span class="visually-hidden">Current Page: </span>
+          <span class="visually-hidden">Page actuelle: </span>
           <span class="quire-current-page__title">{{- with .Params.number }}{{ . }}. {{ end }}{{- if .Params.short_title }}{{ .Params.short_title | markdownify }} {{ else }}{{ .Title | markdownify | truncate 34 }}{{ end -}}</span>
         </li>
         {{ end }}

@@ -2,7 +2,7 @@
 title: Entre livre-objet et objet livre
 subtitle: >
   Scénographies du livre en régime numérique
-weight: 103
+weight: 501
 type: hybritexte
 abstract: >
   Le numérique invite à repenser la place du corps dans les dispositifs de lecture.

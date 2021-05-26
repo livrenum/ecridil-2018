@@ -1,14 +1,7 @@
 ---
-title: remerciements
+title: Remerciements
 subtitle: >
   
-weight: 1remerciements
-number: remerciements
-citedBibFile: bibliography/artremerciements.json
-type: hybritexte
-abstract: >
-  
-contributor:
-  - id: 
+weight: 1002
 ---
 
