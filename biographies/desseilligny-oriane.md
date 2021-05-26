@@ -1,0 +1,5 @@
+Oriane Deseilligny est maître de conférences en Sciences de l'Information et de la Communication à l’université Sorbonne Paris Nord et chercheuse au GRIPIC (Sorbonne Université). Depuis sa thèse consacrée à l’écriture de soi sur le web, elle s’intéresse aux pratiques d’écriture ordinaires, littéraires et journalistiques sur le web.
+
+http://www.gripic.fr/utilisateur/oriane-deseilligny
+
+Elle a récemment co-dirigé le dossier intitulé « Poétisation des réseaux sociaux », paru dans *Communication & Langages*, n°203, 2020/1. Dernier article co-écrit avec Adeline Wrona : « Peut-on habiter en poète les dispositifs médiatiques? », *Communication & Langages*, n°203, 2020/1. A paraître : « Glissements dans l’édition de fiction : confusion des genres ou altération de la littérature ? », *Communication & Langages*, n°207, 2021/1.

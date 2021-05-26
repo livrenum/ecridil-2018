@@ -1,0 +1,4 @@
+Jean-louis Soubret exerce des responsabilités de direction éditoriale dans le secteur de l’édition scientifique en sciences humaines depuis une vingtaine d’années.
+Après avoir obtenu son doctorat en sciences de l’information et de la communication à Hesam Université en 2020, il a été recruté comme enseignant chercheur par CY Tech.
+Il y développe d’une part un syllabus en design et l’enseigne aux élèves ingénieurs et participe d’autre part à la création d’un laboratoire de design à CY Université.
+Ses recherches portent sur le design des connaissances et l’environnement phygital hybride qui caractérise nos sociétés contemporaines dans la perspective du développement d’un design systémique.
