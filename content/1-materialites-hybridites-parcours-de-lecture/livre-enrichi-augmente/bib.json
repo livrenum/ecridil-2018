@@ -1,0 +1,643 @@
+[
+	{
+		"id": "DeleuzeGuattari1980",
+		"type": "book",
+		"event-place": "Paris",
+		"ISBN": "978-2-7073-0307-3",
+		"language": "French",
+		"note": "OCLC: 982180210",
+		"publisher": "Les Editions de Minuit",
+		"publisher-place": "Paris",
+		"source": "Open WorldCat",
+		"title": "Mille plateaux, capitalisme et schizophrénie",
+		"author": [
+			{
+				"family": "Deleuze",
+				"given": "Gilles"
+			},
+			{
+				"family": "Guattari",
+				"given": "Félix"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "BolterGrusin1999",
+		"type": "book",
+		"abstract": "A new framework for considering how all media constantly borrow from and refashion other media.\n\nMedia critics remain captivated by the modernist myth of the new: they assume that digital technologies such as the World Wide Web, virtual reality, and computer graphics must divorce themselves from earlier media for a new set of aesthetic and cultural principles. In this richly illustrated study, Jay David Bolter and Richard Grusin offer a theory of mediation for our digital age that challenges this assumption. They argue that new visual media achieve their cultural significance precisely by paying homage to, rivaling, and refashioning such earlier media as perspective painting, photography, film, and television. They call this process of refashioning \"remediation,\" and they note that earlier media have also refashioned one another: photography remediated painting, film remediated stage production and photography, and television remediated film, vaudeville, and radio.",
+		"call-number": "P96.T42 B59 1998",
+		"event-place": "Cambridge, Mass",
+		"ISBN": "978-0-262-02452-5",
+		"number-of-pages": "295",
+		"publisher": "MIT Press",
+		"publisher-place": "Cambridge, Mass",
+		"source": "Library of Congress ISBN",
+		"title": "Remediation: Understanding New Media",
+		"title-short": "Remediation",
+		"author": [
+			{
+				"family": "Bolter",
+				"given": "J. David"
+			},
+			{
+				"family": "Grusin",
+				"given": "Richard A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "Drucker2014",
+		"type": "book",
+		"abstract": "In our current screen-saturated culture, we take in more information through visual means than at any point in history. The computers and smart phones that constantly flood us with images do more than simply convey information. They structure our relationship to information through graphical formats. Learning to interpret how visual forms not only present but produce knowledge, says Johanna Drucker, has become an essential contemporary skill.Graphesis provides a descriptive critical language for the analysis of graphical knowledge. In an interdisciplinary study fusing digital humanities with media studies and graphic design history, Drucker outlines the principles by which visual formats organize meaningful content. Among the most significant of these formats is the graphical user interface (GUI)--the dominant feature of the screens of nearly all consumer electronic devices. Because so much of our personal and professional lives is mediated through visual interfaces, it is important to start thinking critically about how they shape knowledge, our behavior, and even our identity.Information graphics bear tell-tale signs of the disciplines in which they originated: statistics, business, and the empirical sciences. Drucker makes the case for studying visuality from a humanistic perspective, exploring how graphic languages can serve fields where qualitative judgments take priority over quantitative statements of fact. Graphesis offers a new epistemology of the ways we process information, embracing the full potential of visual forms and formats of knowledge production.",
+		"event-place": "Cambridge, Massachusetts",
+		"ISBN": "978-0-674-72493-8",
+		"language": "Anglais",
+		"number-of-pages": "216",
+		"publisher": "Harvard University Press",
+		"publisher-place": "Cambridge, Massachusetts",
+		"title": "Graphesis – Visual Forms of Knowledge Production",
+		"author": [
+			{
+				"family": "Drucker",
+				"given": "Johanna"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					7,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "Vandendorpe1999",
+		"type": "book",
+		"abstract": "Jusque vers la fin des années 1970, on pouvait encore croire que l’ordinateur n’aurait d’effet que sur les domaines scientifique et technique. On se rend compte aujourd’hui que cet appareil et les technologies qui l’accompagnent sont en train de révolutionner la façon même dont notre civilisation crée, emmagasine et transmet le savoir. À terme, cette mutation influencera l’outil le plus précieux que l’homme ait inventé pour construire ses connaissances et élaborer son image de soi et du monde: le texte. On ne lit pas un hypertexte comme on lit un roman, et la navigation sur le Web procure une expérience différente de la lecture d’un livre ou du journal.\nC’est à ces bouleversements qui touchent tous les plans de notre civilisation qu’est consacré le présent ouvrage.",
+		"event-place": "Paris",
+		"ISBN": "978-2-89052-979-3",
+		"number-of-pages": "271",
+		"publisher": "La Découverte",
+		"publisher-place": "Paris",
+		"title": "Du papyrus à l'hypertexte: essai sur les mutations du texte et de la lecture",
+		"title-short": "Du papyrus à l'hypertexte",
+		"author": [
+			{
+				"family": "Vandendorpe",
+				"given": "Christian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "Barbosa1992",
+		"type": "book",
+		"event-place": "Lisboa",
+		"publisher": "Universidade nova de Lisboa",
+		"publisher-place": "Lisboa",
+		"title": "Metamorfoses do real. Criaçâo literaria e computador",
+		"author": [
+			{
+				"family": "Barbosa",
+				"given": "Pedro"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "Bouchardon2006",
+		"type": "article-journal",
+		"abstract": "L’expression «récit interactif» semble relever d’une contradiction: comment concilier narrativité et interactivité, comment tenir ensemble le fait de prendre le lecteur par la main pour lui raconter une histoire et le fait de lui donner la main pour intervenir au cours du récit, et ceci à différents niveaux (histoire, structure du récit, narration)? Parmi les récits interactifs, le récit littéraire, qu’il soit hypertextuel, cinétique, génératif ou collectif, en particulier sur cet espace ouvert et complexe qu’est le web, correspond à un vaste champ d’expérimentation plus qu’à un genre autonome. L’analyse d’un corpus de cent oeuvres a mis en évidence la dimension heuristique de ces récits. Pour Serge Bouchardon, l’intérêt des récits littéraires interactifs ne réside pas tant dans la valeur des productions que dans leur faculté d’interrogation: du texte, du récit et de la littérature elle-même.",
+		"container-title": "NOESIS",
+		"issue": "10",
+		"language": "fre",
+		"note": "publisher: Persée - Portail des revues scientifiques en SHS",
+		"page": "79-93",
+		"title": "Le récit littéraire interactif : une valeur heuristique",
+		"title-short": "Le récit littéraire interactif",
+		"URL": "http://www.utc.fr/~bouchard/articles/Bouchardon-formules-2006.pdf",
+		"author": [
+			{
+				"family": "Bouchardon",
+				"given": "Serge"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "Chartron2011",
+		"type": "article-journal",
+		"abstract": "Sur la base des travaux réalisés dans le cadre de l'ANR Digital 3.0 PRISE , cette communication rend compte du bilan de l'atelier \" Culture, médias et numérique \", sur les tendances lourdes et les tensions majeures qui transforment actuellement les principales filières du document numérique, document étant entendu ici de façon extensive, à savoir la presse, les livres, l'audiovisuel, la musique (produits des industries culturelles). Les tendances et tensions identifiées concernent l'organisation économique, les régulations, les usages et les pratiques dominantes.",
+		"source": "Archive Ouverte en Sciences de l'Information et de la Communication  (AOSIC)",
+		"title": "Tendances lourdes et tensions pour les filières du document numérique",
+		"author": [
+			{
+				"family": "Chartron",
+				"given": "Ghislaine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					12,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "Citton2007",
+		"type": "book",
+		"abstract": "Ce livre se présente à la fois comme une intervention politique, comme un appel à la rénovation des études littéraires et comme un essai d'ontologie herméneutique. L'argumentation montre que les textes et les interprétations littéraires peuvent devenir le centre des débats les plus brûlants de l'actualité.",
+		"event-place": "Paris",
+		"ISBN": "978-2-35480-149-6",
+		"language": "Français",
+		"number-of-pages": "568",
+		"publisher": "Editions Amsterdam/Multitudes",
+		"publisher-place": "Paris",
+		"title": "Lire, interpréter, actualiser",
+		"author": [
+			{
+				"family": "Citton",
+				"given": "Yves"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "Carreto2007",
+		"type": "chapter",
+		"collection-title": "Autour du livre et de ses métiers",
+		"container-title": "Le livre et ses espaces",
+		"event-place": "Nanterre",
+		"ISBN": "978-2-8218-2691-5",
+		"note": "container-title: Le livre et ses espaces",
+		"page": "35-61",
+		"publisher": "Presses universitaires de Paris Nanterre",
+		"publisher-place": "Nanterre",
+		"source": "OpenEdition Books",
+		"title": "Topique et utopie du livre au Moyen Âge : le texte (im)possible",
+		"title-short": "Topique et utopie du livre au Moyen Âge",
+		"URL": "http://books.openedition.org/pupo/476",
+		"author": [
+			{
+				"family": "Carreto",
+				"given": "Carlos F. Clamote"
+			}
+		],
+		"editor": [
+			{
+				"family": "Milon",
+				"given": "Alain"
+			},
+			{
+				"family": "Perelman",
+				"given": "Marc"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "Cormerais2007",
+		"type": "article-journal",
+		"abstract": "Dans   cet   article   nous   présentons   les   fonctionnalités   d’un   livre   électronique développé dans un projet intitulé Codex Atlanticus. Nous associerons à cette présentation des éléments d’une réflexion heuristique relative à la conception du prototype qui débouche sur la proposition d’une lecture appropriative.",
+		"language": "fr",
+		"page": "13",
+		"source": "Zotero",
+		"title": "« La lecture appropriative » - Un prototype de livre électronique universitaire",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Cormerais",
+				"given": "Franck"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "DujolMercier2017",
+		"type": "book",
+		"abstract": "Dans une société de l'information, la question des parcours et des choix menant à telle ou telle information lors d'une recherche est fondamentale, et la médiation numérique des savoirs est particulièrement développée. Cette dernière doit être au service du partage et du développement des savoirs et des savoir-faire. Les auteurs s'intéressent à sa mise en oeuvre, concrète. Ils prônent une modification de l'activité principale des bibliothèques : de la constitution de collections vers des activités de curation et de médiations numériques de contenus.",
+		"ISBN": "978-2-923563-44-2",
+		"language": "French",
+		"note": "OCLC: 1013974817",
+		"source": "Open WorldCat",
+		"title": "Médiation numérique des savoirs: des enjeux aux dispositifs",
+		"title-short": "Médiation numérique des savoirs",
+		"URL": "http://mediation-numerique-des-savoirs.org/",
+		"author": [
+			{
+				"family": "Dujol",
+				"given": "Lionel"
+			},
+			{
+				"family": "Mercier",
+				"given": "Silvère"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "Eco1962",
+		"type": "book",
+		"abstract": "L'oeuvre ouverte: Essais, Depuis le début du siècle sont apparues des oeuvres qui s'offrent à une pluralité d'organisations ...",
+		"event-place": "Paris",
+		"language": "fr",
+		"publisher": "Le Seuil",
+		"publisher-place": "Paris",
+		"title": "L'Œuvre ouverte",
+		"title-short": "L'Œeuvre ouverte",
+		"author": [
+			{
+				"family": "Eco",
+				"given": "Umberto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1962"
+				]
+			]
+		}
+	},
+	{
+		"id": "Foucault1969",
+		"type": "book",
+		"event-place": "Paris",
+		"ISBN": "978-2-07-011987-5",
+		"language": "fre",
+		"note": "OCLC: 845373364",
+		"publisher": "Gallimard",
+		"publisher-place": "Paris",
+		"title": "L’Archéologie du savoir",
+		"author": [
+			{
+				"family": "Foucault",
+				"given": "Michel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1969"
+				]
+			]
+		}
+	},
+	{
+		"id": "Kermode1985",
+		"type": "book",
+		"abstract": "Frank Kermode is one of our most distinguished and beloved critics of English literature. Here, he contributes a new epilogue to his collection of classic lectures on the relationship of fiction to age-old concepts of apocalyptic chaos and crisis. Prompted by the approach of the millennium, he revisits the book which brings his highly concentrated insights to bear on some of the most unyielding philosophical and aesthetic enigmas. Examining the works of writers from Plato to William Burroughs, Kermode shows how they have persistently imposed their \"fictions\" upon the face of eternity and how these have reflected the apocalyptic spirit. Kermode then discusses literature at a time when new fictive explanations, as used by Spenser and Shakespeare, were being devised to fit a world of uncertain beginning and end. He goes on to deal perceptively with modern literature - with \"traditionalists\" such as Yeats, Eliot, and Joyce, as well as contemporary \"schismatics,\" the French \"new novelists,\" and such seminal figures as Jean-Paul Sartre and Samuel Beckett. Whether weighing the difference between modern and earlier modes of apocalyptic thought, considering the degeneration of fiction into myth, or commenting on the vogue of the Absurd, Kermode is distinctly lucid, persuasive, witty, and prodigal of ideas.",
+		"event-place": "Oxford",
+		"ISBN": "978-0-19-513612-8",
+		"language": "Anglais",
+		"publisher": "Oxford Univcersity Press",
+		"publisher-place": "Oxford",
+		"title": "The Sense of an Ending: Studies in the Theory of Fiction",
+		"title-short": "The Sense of an Ending",
+		"author": [
+			{
+				"family": "Kermode",
+				"given": "Frank"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "Mortimer1985",
+		"type": "book",
+		"abstract": "La clôture narrative / Armine Kotin Mortimer -- 1985 -- livre",
+		"event-place": "Paris",
+		"language": "FR",
+		"publisher": "José Corti",
+		"publisher-place": "Paris",
+		"source": "gallica.bnf.fr",
+		"title": "La clôture narrative",
+		"URL": "https://gallica.bnf.fr/ark:/12148/bpt6k3322394k",
+		"author": [
+			{
+				"family": "Kotin Mortimer",
+				"given": "Armine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "Laborderie2017",
+		"type": "thesis",
+		"genre": "Theses",
+		"publisher": "Université Paris 8",
+		"source": "HAL Archives Ouvertes",
+		"title": "Le Livre augmenté, de la remédiatisation à l'éditorialisation",
+		"URL": "https://hal.archives-ouvertes.fr/tel-02136897",
+		"author": [
+			{
+				"family": "Laborderie",
+				"given": "Arnaud"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "Laborderieetal2018",
+		"type": "article-journal",
+		"container-title": "Revue de recherches en littératie médiatique multimodale",
+		"issue": "août",
+		"note": "publisher: Groupe de Recherche en Littératie Médiatique Multimodale",
+		"source": "HAL Archives Ouvertes",
+		"title": "Remédiatiser le patrimoine littéraire à travers le livre enrichi : quelles expériences de lecture ?",
+		"title-short": "Remédiatiser le patrimoine littéraire à travers le livre enrichi",
+		"URL": "https://hal.archives-ouvertes.fr/hal-01872610",
+		"volume": "Vol. 8",
+		"author": [
+			{
+				"family": "Laborderie",
+				"given": "Arnaud"
+			},
+			{
+				"family": "Jeantet",
+				"given": "Claire"
+			},
+			{
+				"family": "Hellégouarch",
+				"given": "Pascale"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "Martin1996",
+		"type": "book",
+		"abstract": "Qu'en sera-t-il demain de l'écrit ? Quel est l'avenir du livre et de la lecture ? Henri-Jean Martin, professeur à l'école des Chartes et directeur [...]",
+		"event-place": "Paris",
+		"language": "fr",
+		"publisher": "Librairie Perrin",
+		"publisher-place": "Paris",
+		"title": "Histoire et pouvoirs de l'écrit",
+		"author": [
+			{
+				"family": "Martin",
+				"given": "Henri-Jean"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "Paveau2017",
+		"type": "book",
+		"abstract": "\"Les formes numériques du discours sont devenues dominantes dans nos sociétés : pour lire la presse, commander un billet de train ou souhaiter un anniversaire, nous passons volontiers par Internet et ses multiples possibilités d'échange communicationnel. Le discours s'est technologisé et nos modes d'écriture et de lecture portent les traces de cette conversion numérique du langage. Cet ouvrage offre une synthèse de ces transformations saisies par le prisme de l'analyse du discours numérique, nouvelle approche qui décrit les formes et les pratiques discursives, de l'hypertexte au hashtag en passant par le commentaire, l'écrilecture, le profil, le trolling, la trace numérique, et toutes les façons d'écrire et d'interagir en ligne. Construit comme un dictionnaire proposant des synthèses claires et référencées, il propose des concepts et des outils méthodologiques nécessaires à l'analyse de la communication numérique.\"--Page 4 of cover",
+		"call-number": "P120.I6 P394 2017",
+		"collection-title": "Collection Cultures numériques",
+		"event-place": "Paris",
+		"ISBN": "978-2-7056-9321-3",
+		"note": "OCLC: on1019661441",
+		"number-of-pages": "396",
+		"publisher": "Hermann",
+		"publisher-place": "Paris",
+		"source": "Library of Congress ISBN",
+		"title": "L'analyse du discours numérique : dictionnaire des formes et des pratiques",
+		"title-short": "L'analyse du discours numérique",
+		"author": [
+			{
+				"family": "Paveau",
+				"given": "Marie-Anne"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "hVoltaire1980",
+		"type": "book",
+		"collection-number": "directeur de l'édition Nicholas Cronk ; 48",
+		"collection-title": "Les œuvres complètes de Voltaire",
+		"event-place": "Oxford",
+		"ISBN": "978-0-7294-0118-0",
+		"language": "fre",
+		"note": "OCLC: 995159138",
+		"number-of-pages": "288",
+		"publisher": "Voltaire Foundation",
+		"publisher-place": "Oxford",
+		"source": "Gemeinsamer Bibliotheksverbund ISBN",
+		"title": "Candide ou L' optimisme",
+		"author": [
+			{
+				"family": "Voltaire",
+				"given": ""
+			}
+		],
+		"editor": [
+			{
+				"family": "Pomeau",
+				"given": "René"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "Souchier1998",
+		"type": "article-journal",
+		"container-title": "Les cahiers de mediologie",
+		"ISSN": "1270-0665",
+		"issue": "2",
+		"language": "fr",
+		"note": "publisher: Gallimard",
+		"page": "137-145",
+		"source": "www.cairn.info",
+		"title": "L'image du texte pour une théorie de l'énonciation éditoriale",
+		"URL": "https://www.cairn.info/revue-les-cahiers-de-mediologie-1998-2-page-137.htm",
+		"volume": "N° 6",
+		"author": [
+			{
+				"family": "Souchier",
+				"given": "Emmanuël"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					31
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "Souchier2010",
+		"type": "speech",
+		"event": "Le rendez-vous des Lettres. Les métamorphoses du livre et de la lecture à l’heure du numérique",
+		"event-place": "Paris, Bibliothèque nationale de France",
+		"publisher-place": "Paris, Bibliothèque nationale de France",
+		"title": "La \"lettrure\" : renaissance de l’écriture-lecture dans l’espace du numérique",
+		"author": [
+			{
+				"family": "Souchier",
+				"given": "Emmanuel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					11,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "SinatraVitaliRosati2014",
+		"type": "book",
+		"collection-title": "Parcours numériques",
+		"event-place": "Montréal",
+		"ISBN": "978-2-7606-3202-8",
+		"publisher": "Les Presses de l'Université de Montréal,",
+		"publisher-place": "Montréal",
+		"title": "Pratiques de l'édition numérique",
+		"author": [
+			{
+				"family": "Sinatra",
+				"given": "Michaël"
+			},
+			{
+				"family": "Vitali-Rosati",
+				"given": "Marcello"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	}
+]
