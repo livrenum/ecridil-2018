@@ -1,27 +1,25 @@
-- Contenu: "Candide, l\u2019\xE9dition enrichie. BnF, Orange, Voltaire Foundation,\
-    \ 2013. Application iPad \xE0 t\xE9l\xE9charger gratuitement sur iTunes : http://bit.ly/Lyx9zb.\
-    \ D\xE9monstration vid\xE9o : http://bit.ly/LPUw8f. Site web : https://candide.bnf.fr/"
+- Contenu: "Candide, l\u2019édition enrichie. BnF, Orange, Voltaire Foundation,\
+    \ 2013. Application iPad \xE0 télécharger gratuitement sur iTunes : http://bit.ly/Lyx9zb.\
+    \ Démonstration vidéo : http://bit.ly/LPUw8f. Site web : https://candide.bnf.fr/"
   author: Arnaud Laborderie
-  caption: "Liens vers l'\xE9dition enrichie de Candide"
-  content: "Liens vers l'\xE9dition enrichie de Candide"
+  caption: "Liens vers l'édition enrichie de Candide"
+  content: "Liens vers l'édition enrichie de Candide"
   copyright: ''
   id: '1'
-  location: ''
   medium: ''
   src: ''
-  title: "Liens vers l'\xE9dition enrichie de Candide"
+  title: "Liens vers l'édition enrichie de Candide"
   type: Commentaire
   year: ''
 - Contenu: ''
   author: ''
-  caption: "Capture d'\xE9cran de la page https://candide.bnf.fr/jardin"
+  caption: "Capture d’écran de la page https://candide.bnf.fr/jardin"
   content: ''
   copyright: "CE PROGRAMME A USAGE PEDAGOGIQUE PEUT FAIRE L'OBJET DE DIFFUSION COLLECTIVE\
-    \ GRATUITE. TOUT USAGE PEDAGOGIQUE DES DOCUMENTS EST AUTORIS\xC9"
+    \ GRATUITE. TOUT USAGE PEDAGOGIQUE DES DOCUMENTS EST AUTORISÉ"
   id: '10'
-  location: ./media
   medium: ''
-  src: 1.jpg
+  src: media/art10-10.jpg
   title: Le Jardin
   type: image
   year: ''
@@ -31,7 +29,6 @@
   content: ''
   copyright: ''
   id: '11'
-  location: ''
   medium: ''
   src: ''
   title: ''
@@ -39,92 +36,86 @@
   year: ''
 - Contenu: "Miroir du livre-application, le site web permet d\u2019ouvrir les usages\
     \ en rendant les contenus accessibles \xE0 tous. Il comprend les outils d\u2019\
-    \xE9ditorialisation permettant au lecteur de concevoir son arbre \xE0 partir de\
+    éditorialisation permettant au lecteur de concevoir son arbre \xE0 partir de\
     \ ses favoris. En ligne : http://candide.bnf.fr"
   author: ''
   caption: ''
   content: ''
   copyright: ''
   id: '12'
-  location: ''
   medium: ''
   src: ''
   title: ''
   type: commentaire
   year: ''
-- Contenu: "L\u2019\xAB exp\xE9rience utilisateur \xBB d\xE9signe la qualit\xE9 de\
-    \ l\u2019exp\xE9rience v\xE9cue par l\u2019utilisateur dans le maniement des interfaces,\
-    \ en prenant en compte les notions d\u2019ergonomie et d\u2019utilisabilit\xE9\
-    , caract\xE9risant notamment la facilit\xE9 ou la difficult\xE9 du parcours de\
-    \ l\u2019utilisateur \xE0 travers le service num\xE9rique propos\xE9."
+- Contenu: "L\u2019\xAB expérience utilisateur \xBB désigne la qualité de\
+    \ l\u2019expérience vécue par l\u2019utilisateur dans le maniement des interfaces,\
+    \ en prenant en compte les notions d\u2019ergonomie et d\u2019utilisabilité\
+    , caractérisant notamment la facilité ou la difficulté du parcours de\
+    \ l\u2019utilisateur \xE0 travers le service numérique proposé."
   author: ''
-  caption: "L'\xAB exp\xE9rience utilisateur \xBB"
+  caption: "L'\xAB expérience utilisateur \xBB"
   content: ''
   copyright: ''
   id: '13'
-  location: ''
   medium: ''
   src: ''
   title: ''
   type: commentaire
   year: ''
-- Contenu: "\xC9tude r\xE9alis\xE9e par Nathalie Salmon et Sandrine Le Lann (Orange\
-    \ Lab) sur Dream Orange (http://dream.orange.fr) dans le cadre du Caf\xE9 num\xE9\
-    rique, du 24 mars au 6 avril 2014, avec 32 participants s\xE9lectionn\xE9s parmi\
+- Contenu: "Étude réalisée par Nathalie Salmon et Sandrine Le Lann (Orange\
+    \ Lab) sur Dream Orange (http://dream.orange.fr) dans le cadre du Café numé\
+    rique, du 24 mars au 6 avril 2014, avec 32 participants sélectionnés parmi\
     \ 138 candidats."
   author: ''
   caption: ''
   content: ''
   copyright: ''
   id: '14'
-  location: ''
   medium: ''
   src: ''
   title: ''
   type: commentaire avec hyperlien
   year: ''
-- Contenu: "Exp\xE9rimentations en classes pilotes men\xE9es par la mission TICE de\
-    \ l\u2019acad\xE9mie de Grenoble et par l\u2019inspection de lettres, dont le\
-    \ bilan a \xE9t\xE9 fait au colloque EcriTech\u20194. Nice, les 11 et 12 avril\
+- Contenu: "Expérimentations en classes pilotes menées par la mission TICE de\
+    \ l\u2019académie de Grenoble et par l\u2019inspection de lettres, dont le\
+    \ bilan a été fait au colloque EcriTech\u20194. Nice, les 11 et 12 avril\
     \ 2013. En ligne : http://www.ecritech.fr/accueil-2013/"
   author: ''
   caption: ''
   content: ''
   copyright: ''
   id: '15'
-  location: ''
   medium: ''
   src: ''
   title: ''
   type: commentaire avec lien
   year: ''
-- Contenu: "Format de description \xE9lectronique de l\u2019information textuelle,\
+- Contenu: "Format de description électronique de l\u2019information textuelle,\
     \ la TEI (Text Encoding Initiative) propose des recommandations d\u2019encodage\
-    \ visant \xE0 fournir des formats ouverts, normalis\xE9s et interop\xE9rables,\
-    \ qui favorisent l\u2019\xE9change des textes dans le domaine des humanit\xE9\
-    s num\xE9riques. En savoir plus : www.tei-c.org"
+    \ visant \xE0 fournir des formats ouverts, normalisés et interopérables,\
+    \ qui favorisent l\u2019échange des textes dans le domaine des humanité\
+    s numériques. En savoir plus : www.tei-c.org"
   author: ''
   caption: ''
   content: ''
   copyright: ''
   id: '16'
-  location: ''
   medium: ''
   src: ''
   title: ''
   type: commentaire
   year: ''
-- Contenu: "Format de description \xE9lectronique de l\u2019information textuelle,\
+- Contenu: "Format de description électronique de l\u2019information textuelle,\
     \ la TEI (Text Encoding Initiative) propose des recommandations d\u2019encodage\
-    \ visant \xE0 fournir des formats ouverts, normalis\xE9s et interop\xE9rables,\
-    \ qui favorisent l\u2019\xE9change des textes dans le domaine des humanit\xE9\
-    s num\xE9riques. En savoir plus : www.tei-c.org"
+    \ visant \xE0 fournir des formats ouverts, normalisés et interopérables,\
+    \ qui favorisent l\u2019échange des textes dans le domaine des humanité\
+    s numériques. En savoir plus : www.tei-c.org"
   author: ''
   caption: ''
   content: ''
   copyright: ''
   id: '17'
-  location: ''
   medium: ''
   src: ''
   title: ''
@@ -136,103 +127,95 @@
   content: ''
   copyright: ''
   id: '18'
-  location: ''
   medium: ''
   src: ''
   title: ''
   type: commentaire
   year: ''
-- Contenu: "La \xAB lettrure \xBB d\xE9signait au Moyen \xC2ge la lecture et l\u2019\
-    \xE9criture comme une seule et m\xEAme activit\xE9."
+- Contenu: "La \xAB lettrure \xBB désignait au Moyen \xC2ge la lecture et l\u2019\
+    écriture comme une seule et m\xEAme activité."
   author: ''
   caption: ''
   content: ''
   copyright: ''
   id: '19'
-  location: ''
   medium: ''
   src: ''
   title: ''
   type: commentaire
   year: ''
 - author: ''
-  caption: "Capture d'\xE9cran du site web https://candide.bnf.fr/"
+  caption: "Capture d’écran du site web https://candide.bnf.fr/"
   content: ''
   copyright: "CE PROGRAMME A USAGE PEDAGOGIQUE PEUT FAIRE L'OBJET DE DIFFUSION COLLECTIVE\
-    \ GRATUITE. TOUT USAGE PEDAGOGIQUE DES DOCUMENTS EST AUTORIS\xC9"
+    \ GRATUITE. TOUT USAGE PEDAGOGIQUE DES DOCUMENTS EST AUTORISÉ"
   id: '2'
-  location: ./media
   medium: ''
-  src: 2.png
+  src: media/art10-02.png
   title: Candide ou l'Optimiste par BnF et Orange
   type: image
   year: ''
-- Contenu: "Pluriel de corpus : \xAB ensemble de documents, artistiques ou non, regroup\xE9\
-    s dans une optique pr\xE9cise. \xBB"
+- Contenu: "Pluriel de corpus : \xAB ensemble de documents, artistiques ou non, regroupé\
+    s dans une optique précise. \xBB"
   author: ''
   caption: ''
   content: ''
   copyright: ''
   id: '20'
-  location: ''
   medium: ''
   src: ''
   title: ''
   type: commentaire
   year: ''
-- Contenu: "Au Moyen \xC2ge, la compilatio est une pratique de lecture et d\u2019\xE9\
-    criture qui consiste \xE0 assembler des morceaux de textes et des bribes ant\xE9\
-    rieurement r\xE9dig\xE9s dans un livre formant un tout coh\xE9rent."
+- Contenu: "Au Moyen \xC2ge, la compilatio est une pratique de lecture et d\u2019é\
+    criture qui consiste \xE0 assembler des morceaux de textes et des bribes anté\
+    rieurement rédigés dans un livre formant un tout cohérent."
   author: ''
   caption: ''
   content: ''
   copyright: ''
   id: '21'
-  location: ''
   medium: ''
   src: ''
   title: ''
   type: commentaire
   year: ''
-- Contenu: "Bas\xE9e \xE0 Lausanne, la soci\xE9t\xE9 Ozwe est sp\xE9cialis\xE9e dans\
-    \ la cr\xE9ation de nouvelles interfaces. Elle a travaill\xE9 notamment sur des\
-    \ livres et magazines applicatifs et s\u2019est orient\xE9e depuis sur les applications\
-    \ pour les casques de r\xE9alit\xE9 virtuelle."
+- Contenu: "Basée \xE0 Lausanne, la société Ozwe est spécialisée dans\
+    \ la création de nouvelles interfaces. Elle a travaillé notamment sur des\
+    \ livres et magazines applicatifs et s\u2019est orientée depuis sur les applications\
+    \ pour les casques de réalité virtuelle."
   author: ''
   caption: ''
   content: ''
   copyright: ''
   id: '3'
-  location: ''
   medium: ''
   src: ''
   title: Ozwe
   type: commentaire
   year: ''
-- Contenu: "Sp\xE9cialiste du livre num\xE9rique et des interfaces innovantes, Fr\xE9\
-    d\xE9ric Kaplan est professeur de Digital Humanities \xE0 l\u2019\xC9cole Polytechnique\
-    \ F\xE9d\xE9rale de Lausanne (EPFL)."
+- Contenu: "Spécialiste du livre numérique et des interfaces innovantes, Fré\
+    déric Kaplan est professeur de Digital Humanities \xE0 l\u2019École Polytechnique\
+    \ Fédérale de Lausanne (EPFL)."
   author: ''
   caption: ''
   content: ''
   copyright: ''
   id: '4'
-  location: ''
   medium: ''
   src: ''
-  title: "Fr\xE9d\xE9ric Kaplan"
+  title: "Frédéric Kaplan"
   type: commentaire
   year: ''
 - Contenu: ''
   author: ''
-  caption: "Capture d'\xE9cran de la page https://candide.bnf.fr/livre"
+  caption: "Capture d’écran de la page https://candide.bnf.fr/livre"
   content: ''
   copyright: "CE PROGRAMME A USAGE PEDAGOGIQUE PEUT FAIRE L'OBJET DE DIFFUSION COLLECTIVE\
-    \ GRATUITE. TOUT USAGE PEDAGOGIQUE DES DOCUMENTS EST AUTORIS\xC9"
+    \ GRATUITE. TOUT USAGE PEDAGOGIQUE DES DOCUMENTS EST AUTORISÉ"
   id: '5'
-  location: ./media
   medium: ''
-  src: 5.jpg
+  src: media/art10-05.jpg
   title: "Le \xAB Livre \xBB"
   type: image
   year: ''
@@ -242,21 +225,19 @@
   content: ''
   copyright: ''
   id: '6'
-  location: ''
   medium: ''
   src: ''
   title: ''
   type: hyperlien
   year: ''
-- Contenu: "Il y a en fait deux manuscrits : l\u2019un d\xFB \xE0 un secr\xE9taire,\
-    \ Wagni\xE8re, corrig\xE9 par la main de Voltaire ; l\u2019autre est une r\xE9\
-    \xE9criture du chapitre 22."
+- Contenu: "Il y a en fait deux manuscrits : l\u2019un d\xFB \xE0 un secrétaire,\
+    \ Wagni\xE8re, corrigé par la main de Voltaire ; l\u2019autre est une ré\
+    écriture du chapitre 22."
   author: ''
   caption: ''
   content: ''
   copyright: ''
   id: '7'
-  location: ''
   medium: ''
   src: ''
   title: manuscrit
@@ -264,14 +245,13 @@
   year: ''
 - Contenu: ''
   author: ''
-  caption: "Capture d'\xE9cran de la page https://candide.bnf.fr/monde"
+  caption: "Capture d’écran de la page https://candide.bnf.fr/monde"
   content: ''
   copyright: "CE PROGRAMME A USAGE PEDAGOGIQUE PEUT FAIRE L'OBJET DE DIFFUSION COLLECTIVE\
-    \ GRATUITE. TOUT USAGE PEDAGOGIQUE DES DOCUMENTS EST AUTORIS\xC9"
+    \ GRATUITE. TOUT USAGE PEDAGOGIQUE DES DOCUMENTS EST AUTORISÉ"
   id: '8'
-  location: ./media
   medium: ''
-  src: 8.jpg
+  src: media/art10-08.jpg
   title: Le Monde
   type: image
   year: ''
@@ -281,7 +261,6 @@
   content: ''
   copyright: ''
   id: '9'
-  location: ''
   medium: ''
   src: ''
   title: ''

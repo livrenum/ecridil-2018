@@ -57,17 +57,9 @@ Dans une deuxième partie, nous apportons des éléments pour théoriser la noti
 Nous défendons l'idée que, dans l’espace numérique, la clôture est nécessaire et relative. Délimitant l’espace du texte, elle marque une frontière entre les pratiques endosémiques d’enrichissement et celles, exosémiques, d’augmentation, lesquelles redéfinissent le concept de livre et les protocoles de lecture qui lui sont associés.
 
 
-
-
 ## 1. _Candide_, l’édition numérique enrichie
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
+{{< hl-augmentation 2 >}}
 
 La Bibliothèque nationale de France s’est associée avec Orange et la Voltaire Foundation pour publier en 2013 avec _Candide, l’édition numérique enrichie_ son premier livre numérique. Pour la BnF, il s’agissait d’explorer de nouvelles formes et pratiques de lecture qui revisitent ses collections patrimoniales, en mettant en œuvre des outils adaptés à la diversité de ses publics. Il importait de proposer une méthodologie d'approche pédagogique du patrimoine littéraire et artistique prenant en compte les possibilités du numérique.
 
@@ -81,13 +73,7 @@ Le _Candide_ numérique enrichi reprend l’édition critique de la Voltaire Fou
 
 #### Le Livre : un texte en plusieurs dimensions
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.jpg "image_tooltip")
-
+{{< hl-augmentation 5 2 >}}
 
 L’entrée par le Livre propose une liseuse, avec toutes les fonctionnalités de lecture d’un _ebook_, complétées par des enrichissements : notes, variantes du texte, fiches personnages, lieux et concepts, illustrations.
 
@@ -117,13 +103,7 @@ Cette expérience de lecture instrumentée à partir d’un texte interactif qui
 
 #### Le Monde : l’œuvre mise en réseau
 
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.jpg "image_tooltip")
-
+{{< hl-augmentation 8 5 >}}
 
 L’entrée par le Monde représente les étapes du voyage de Candide sur une carte interactive. Tous les chapitres du conte sont ainsi spatialisés et introduits par des résumés qui s’enchaînent pour suivre le voyage sur la carte et depuis lesquels le lecteur peut accéder au texte original dans le Livre. Douze étapes font l’objet d’un focus thématique sous forme de séquences pédagogiques comme autant d’exemples pour exploiter les ressources de l’application. La carte ouvre ainsi une exploration du texte en réseau, à travers les grands thèmes du conte (le mal, la guerre, l’esclavage, l’utopie, l’Autre, etc.) mis en relation avec des albums et des anthologies qui puisent dans les collections de la BnF ainsi qu’avec des entretiens audiovisuels avec des spécialistes. C’est un parcours de lecture multimodal qui est proposé en combinant des entrées par la vidéo (entretien), par l’image (album thématique) et par les textes (anthologie), organisées dans une séquence en quatre temps (découverte, exploration, réflexion, invention) allant de l’analyse d’images et de textes à la création graphique et littéraire.
 
@@ -132,18 +112,14 @@ Dans cette partie très riche où le voyage de Candide sert de prétexte à expl
 
 #### Le Jardin : un espace d’appropriation de l’œuvre par le lecteur
 
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.jpg "image_tooltip")
-
+{{< hl-augmentation 10 8 >}}
 
 Espace de travail collaboratif autour de l’œuvre, le Jardin permet de s’approprier les contenus et de les éditer sous la forme d’arbres de la connaissance pointant sur un carnet produit par un lecteur à partir des contenus de l’application. Manuscrit, texte, illustrations ou enrichissements, le lecteur peut éditer tous les contenus à l’aide d’un module disponible sur le site Web. Un carnet interactif lui permet d’écrire des commentaires et de mettre en page ses favoris. S’il décide de le publier, son carnet s’affiche dans le Jardin sous la forme d’un arbre, traité en ombres chinoises, au feuillage formé par les documents choisis. Les arbres croissent en fonction du nombre de ressources collectées et leur forme dépend de la richesse des contenus. Une activité périphérique de papillons autour des arbres indique au visiteur la popularité des contenus proposés. L’utilisateur se déplace dans le Jardin par balayage avec le doigt et navigue d’arbre en arbre en touchant le titre qui est affiché. Le Jardin permet à chacun de personnaliser sa lecture et de partager sa vision du conte et de ses personnages. Cet espace a vocation à devenir un outil pédagogique pour les écoles.
 
 En termes de design, la conception ergonomique et graphique du Jardin s’est avérée complexe, car elle devait répondre à des problématiques fonctionnelles de lecture, de création et de consultation de contenus, tout en restituant un univers symbolique : nous avons tenté d’éviter l’écueil de s’en tenir seulement à l’habillage graphique d’une architecture éditoriale et technique, pour véritablement conceptualiser une pensée visuelle et la modéliser. Il s’agissait d’articuler la forme classique du carnet, c’est-à-dire celle du _codex_ dont on tourne les pages, avec une représentation du jardin de Candide et la métaphore de l’arbre de la connaissance.
 
+
+{{< hl-augmentation none 10 >}}
 
 #### Lire, explorer, éditorialiser : une autre conception du livre
 
