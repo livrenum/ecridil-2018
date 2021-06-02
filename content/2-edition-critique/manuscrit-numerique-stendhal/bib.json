@@ -250,6 +250,33 @@
     }
   },
   {
+    "id": "MeynardLebarbe2015",
+    "type": "book",
+    "collection-number": "9",
+    "collection-title": "Corpus",
+    "event-place": "Chambery",
+    "publisher": "LLSETI",
+    "publisher-place": "Chambery",
+    "title": "Patrimoine littéraire en ligne : la renaissance du lecteur",
+    "author": [
+      {
+        "family": "Meynard",
+        "given": "Cécile"
+      },
+      {
+        "family": "Lebarbé",
+        "given": "Thomas"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2015"
+        ]
+      ]
+    }
+  },
+  {
     "id": "PomianSouchier1988_informatique",
     "type": "article-journal",
     "title": "Informatique et pratiques écrivantes",
