@@ -1,6 +1,9 @@
 # APA Style Localization
 # EN
 
+apa_available_from:
+  other: "Available from"
+
 apa_in:
   other: "In"
 
@@ -12,3 +15,4 @@ apa_no_date_abbr:
 
 apa_retrieved_from:
   other: "Retrieved from"
+
