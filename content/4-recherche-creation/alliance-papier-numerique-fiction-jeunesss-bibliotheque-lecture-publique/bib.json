@@ -1,6 +1,6 @@
 [
 	{
-		"id": "http://zotero.org/groups/2305940/items/L4WJZ5WM",
+		"id": "BourassaAudet2017",
 		"type": "chapter",
 		"container-title": "Design et innovation dans la chaine du livre",
 		"event-place": "Paris",
@@ -51,7 +51,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2305940/items/UT2E4UK8",
+		"id": "Vandendorpe1999",
 		"type": "book",
 		"abstract": "Jusque vers la fin des années 1970, on pouvait encore croire que l’ordinateur n’aurait d’effet que sur les domaines scientifique et technique. On se rend compte aujourd’hui que cet appareil et les technologies qui l’accompagnent sont en train de révolutionner la façon même dont notre civilisation crée, emmagasine et transmet le savoir. À terme, cette mutation influencera l’outil le plus précieux que l’homme ait inventé pour construire ses connaissances et élaborer son image de soi et du monde: le texte. On ne lit pas un hypertexte comme on lit un roman, et la navigation sur le Web procure une expérience différente de la lecture d’un livre ou du journal.\nC’est à ces bouleversements qui touchent tous les plans de notre civilisation qu’est consacré le présent ouvrage.",
 		"event-place": "Paris",
@@ -76,7 +76,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2305940/items/VXJAKHRV",
+		"id": "Bouchardon2008",
 		"type": "article-journal",
 		"abstract": "L’expression «récit interactif» semble relever d’une contradiction: comment concilier narrativité et interactivité, comment tenir ensemble le fait de prendre le lecteur par la main pour lui raconter une histoire et le fait de lui donner la main pour intervenir au cours du récit, et ceci à différents niveaux (histoire, structure du récit, narration)? Parmi les récits interactifs, le récit littéraire, qu’il soit hypertextuel, cinétique, génératif ou collectif, en particulier sur cet espace ouvert et complexe qu’est le web, correspond à un vaste champ d’expérimentation plus qu’à un genre autonome. L’analyse d’un corpus de cent oeuvres a mis en évidence la dimension heuristique de ces récits. Pour Serge Bouchardon, l’intérêt des récits littéraires interactifs ne réside pas tant dans la valeur des productions que dans leur faculté d’interrogation: du texte, du récit et de la littérature elle-même.",
 		"container-title": "NOESIS",
@@ -96,13 +96,13 @@
 		"issued": {
 			"date-parts": [
 				[
-					"2006"
+					"2008"
 				]
 			]
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2305940/items/WXJESLT7",
+		"id": "Benhamou2009",
 		"type": "article-journal",
 		"container-title": "Esprit",
 		"DOI": "10.3917/espri.0903.0073",
@@ -138,7 +138,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2305940/items/I84UNUD9",
+		"id": "KorachLeBail2014",
 		"type": "book",
 		"abstract": "Sans prétendre livrer des règles de construction des livres pour la jeunesse, cet ouvrage donne la parole à plusieurs éditeurs, auteurs et intervenants engagés dans ce domaine éditorial. Il cherche ainsi à rendre compte de la diversité des approches, selon les personnalités et les maisons, en dégageant les invariants que devra maîtriser tout éditeur désireux de se consacrer à ce secteur d’activité.Pour étayer leurs propos, après un bref historique du livre pour la jeunesse, la présentation du marché en quelques chiffres-clés, et la description de ce champ éditorial, l’ouvrage explicite les enjeux de ses grandes catégories (Petite Enfance, Fiction, Documentaire), et les choix que l’éditeur est amené à faire à chaque étape – qu’ils soient éthiques, artistiques, techniques ou économiques.",
 		"ISBN": "978-2-7654-1425-4",
@@ -176,7 +176,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2305940/items/AS8DEXCG",
+		"id": "SouchierJeanneretLeMarec2003",
 		"type": "book",
 		"collection-title": "Études et recherche",
 		"event-place": "Paris",
@@ -196,10 +196,17 @@
 				"family": "Le Marec",
 				"given": "Joëlle"
 			}
-		]
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
 	},
 	{
-		"id": "http://zotero.org/groups/2305940/items/R9IVBDEX",
+		"id": "Soccavo2008",
 		"type": "book",
 		"abstract": "Le livre va vivre sa 2ème révolution après celle de Gutenberg, il y a plus de 500 ans. Le livre est un objet qui n'a cessé de connaître des évolutions au fil des millénaires. II va, durant cette première décennie du XXIe siècle, connaître une révolution, comparable à celle de l'imprimerie au XVe siècle. Après une mise en perspective historique de l'objet livre comme support, de la naissance de l'écriture à nos jours, Gutenberg 2.0 aborde les nouvelles technologies à l'oeuvre dans les readers, ces livres de nouvelle génération. Les nouveaux e-livres disponibles, les prototypes et leurs prospectives sont analysés. Les évolutions de l'écriture sur Internet, sur ces nouveaux dispositifs de lecture entraînent le lecteur vers des pistes encore peu explorées. Une synthèse ouverte sur les impacts et les perspectives nouvelles pour l'économie de l'édition termine ce livre.",
 		"event-place": "Paris",
@@ -230,7 +237,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2305940/items/QFX4HI4S",
+		"id": "BouchardMangenot2001",
 		"type": "book",
 		"number-of-pages": "195",
 		"publisher": "Édition Ens",
@@ -254,7 +261,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2305940/items/GSIZJ8RJ",
+		"id": "Bats2015",
 		"type": "chapter",
 		"collection-title": "La Boîte à outils",
 		"container-title": "Construire des pratiques participatives dans les bibliothèques",
@@ -290,7 +297,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2305940/items/QFHY5GG9",
+		"id": "Belisle2011",
 		"type": "book",
 		"abstract": "Que devient la lecture dans un monde numérique ? Zapping, émiettement, papillonnage ou interaction, participation, immersion… La diversité croissante des modalités de lecture sur supports numériques suscite autant l'intérêt que la consternation. Bien que le texte soit omniprésent dans la société actuelle, des voix de plus en plus nombreuses s'élèvent pour alerter, dénoncer une dérive, stigmatiser des modes de lecture qui ne seraient plus que des « parents pauvres » de la « véritable » pratique de lecture.  Dans un monde numérique, la lecture perd l'innocence de la proximité, du familier, du connu. Elle se révèle dans toute sa complexité, et oblige le lecteur à entrer dans une plus grande conscience des processus en jeu, des repères qui permettent de comprendre et d'interpréter. Cela n'est nulle part aussi évident qu'avec la littérature numérique qui questionne tout autant qu'elle met en œuvre de nouvelles ouvertures sur l'imaginaire. Proposant ici une véritable réflexion sur les processus de lecture en ligne, sur ebook, sur écran d'ordinateur ou de téléphone mobile, les spécialistes issus du monde universaitaire réunis ici interrogent les habitudes de lecture forgées par la culture du livre papier tout en introduisant aux modalités émergeantes de lecture sur supports numériques.",
 		"collection-title": "Papiers",
@@ -328,7 +335,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2305940/items/CKCCCHYE",
+		"id": "Rheaume2007",
 		"type": "chapter",
 		"container-title": "La sociologie clinique",
 		"event-place": "Paris",
@@ -366,9 +373,9 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2305940/items/LE3ZTZEW",
+		"id": "ElHachaniDessinges2017",
 		"type": "article-journal",
-		"abstract": ", Résumé:, \n\tL’introduction des dispositifs numériques tactiles dans les espaces culturels tels que les musées ou bibliothèques implique des changements de manière progressive à la fois dans la manière d’appréhender le territoire spatial de ces lieux, les modalités de médiation des collections présentes ainsi que les activités professionnelles liées. Dans ce contexte, nous présentons les premiers résultats d’une recherche-action menée à la Bibliothèque municipale de Lyon portant sur l’appropriation professionnelle de dispositifs mobiles et tactiles en vue de favoriser à la fois la diffusion de la culture numérique auprès de tous les publics, mais également d’expérimenter de nouveaux services.\n      , \n\tThe introduction of tactile digital devices in cultural spaces, such as museums or libraries, involves gradual changes in both how to approach the spatial territory of these places, the modalities of mediation of the present collections, and the connected professional activities. In this context, we present the first results of an action research conducted at the Municipal Library of Lyon on the use of mobile and touch devices by professionals to encourage both the dissemination of digital culture among all users and experimentation with new services.",
+		"abstract": "Résumé:, L’introduction des dispositifs numériques tactiles dans les espaces culturels tels que les musées ou bibliothèques implique des changements de manière progressive à la fois dans la manière d’appréhender le territoire spatial de ces lieux, les modalités de médiation des collections présentes ainsi que les activités professionnelles liées. Dans ce contexte, nous présentons les premiers résultats d’une recherche-action menée à la Bibliothèque municipale de Lyon portant sur l’appropriation professionnelle de dispositifs mobiles et tactiles en vue de favoriser à la fois la diffusion de la culture numérique auprès de tous les publics, mais également d’expérimenter de nouveaux services.\n      , \n\tThe introduction of tactile digital devices in cultural spaces, such as museums or libraries, involves gradual changes in both how to approach the spatial territory of these places, the modalities of mediation of the present collections, and the connected professional activities. In this context, we present the first results of an action research conducted at the Municipal Library of Lyon on the use of mobile and touch devices by professionals to encourage both the dissemination of digital culture among all users and experimentation with new services.",
 		"container-title": "Canadian Journal of Information and Library Science",
 		"ISSN": "1920-7239",
 		"issue": "1",
@@ -407,7 +414,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2305940/items/HEJZIDC5",
+		"id": "Colombier2013",
 		"type": "article-journal",
 		"container-title": "Bulletin des bibliothèques de France",
 		"title": "L’album numérique",
@@ -428,7 +435,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2305940/items/AH49WWSK",
+		"id": "Foulquier2017",
 		"type": "chapter",
 		"collection-title": "1001 bébés",
 		"container-title": "Les tout-petits, le monde et les albums",
@@ -468,7 +475,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2305940/items/MDL9US9P",
+		"id": "Montmasson2016",
 		"type": "thesis",
 		"abstract": "La vitalité du secteur jeunesse de l'édition est un indice, parmi d'autres, de la place importante qu'occupent encore aujourd'hui les livres dans le quotidien des enfants. Si le contenu des albums a été étudié par quelques sociologues français, la manière dont les jeunes « lecteurs » reçoivent les normes et les représentations transmises par la littérature de jeunesse n'a en revanche fait l'objet que de bien peu d'investigations sociologiques. A travers l'analyse de la manière dont les enfants comprennent et (ré)interprètent le contenu textuel et iconographique des livres, cette thèse entend non seulement mettre en lumière ce qui se joue dans l'acte de réception, mais également apporter des éléments contribuant à une meilleure compréhension du processus de socialisation. Nous centrons pour cela notre regard sur l'« alimentation », observatoire emblématique de l'ensemble des modalités de ce processus ainsi que de ses nombreuses différenciations. Par la mise en place, sur le terrain, d'un protocole expérimental permettant d'approcher le point de vue d'enfants âgés de 5 à 8 ans (et issus de milieux sociaux contrastés), cette thèse permet ainsi d'appréhender la manière dont s'agencent - de façon toujours particulière - les messages délivrés par différentes instances socialisatrices (famille, médias, école), et dont se construisent d'éventuelles appartenances à un genre et/ou à un milieu social. La capacité d'action (agency) des très jeunes enfants est de cette façon, ici, mise en jeu.",
 		"genre": "phdthesis",
@@ -504,7 +511,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2305940/items/Z8WX29HL",
+		"id": "Jacquinot1997",
 		"type": "chapter",
 		"container-title": "Apprendre avec le multimedia : où en est-on ?",
 		"event-place": "Paris",
@@ -540,7 +547,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2305940/items/WLZS83XC",
+		"id": "Lancien1998",
 		"type": "book",
 		"abstract": "Le multimédia fait l'objet d'un grand nombre de polémiques depuis son apparition en tant que nouveau support technologique.  Les innovations actuelles supposent de grands changements dans les modes de communication, et nous amènent à conclure que le multimédia va occuper une place centrale dans nos rapports à l'information et aux savoirs. Étant donné la complexité des débats, il est difficile pour un enseignant de mesurer et d'évaluer l'enjeu que peut représenter le multimédia dans les contextes de formation.  Cet ouvrage tente d'apporter certaines réponses à cette question et examine le rôle, les potentialités et les limites des nouveaux supports multimédias dans l'apprentissage des langues étrangères. Cet ouvrage propose des outils d'analyse et de sélection des cédéroms (grand public et apprentissage des langues) ainsi qu'une présentation d'Internet et de son intérêt pour les enseignants et les apprenants.",
 		"event-place": "Paris",
@@ -567,7 +574,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/2305940/items/ZCR92276",
+		"id": "Develotte1997",
 		"type": "article-journal",
 		"abstract": "Nous assistons, depuis ces dernières années, à la naissance de la première génération de supports multimédias. Pour l'enseignant de langue, ces produits restent ambivalents : ils apparaissent comme des outils d'une grande richesse mais en même temps, ils soulèvent de nombreuses questions relatives à leur intégration dans la classe. D'une part, la multicanalité qui constitue une des spécificités du support multimédia (et la redondance qu'elle implique entre canal audio et canal textuel) intéresse la didactique des langues : la présence des deux ordres oral et scriptural facilite l'apprentissage linguistique et autorise des exploitations pédagogiques inspirées de celles qu'a pu susciter l'insertion de la télévision dans la classe de langue. Mais d'autre part, les exploitations à envisager doivent tenir compte du caractère original de la lecture induite par ces supports, lecture qui ne se conçoit plus comme une réception définie de bout en bout selon un ordre prédéterminé par le metteur en scène, mais comme un trajet en partie imprévisible, toujours singulier, \"interactif\". Dans quels objectifs ? Comment proposer une utilisation pertinente des multimédias aux apprenants de différents niveaux ? Quand il s'agit de répondre à ces questions, chacun est renvoyé à son intuition et à son imagination pédagogiques...",
 		"container-title": "Le Français dans le monde. Recherches et applications",
