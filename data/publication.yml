@@ -9,10 +9,10 @@
 # Title & Description
 # ------------------------------------------------------------------------------
 
-title: Colloque ECRIDIL 2018
+title: Le livre, défi de design
 subtitle: Une publication multiformat
 reading_line:
-short_title:
+short_title: Le livre, défi de design
 
 description:
   one_line: Acte de colloque en forme innovante.
@@ -57,7 +57,6 @@ contributor:
 
   - 
     id: xmiranda
-    type: primary
     first_name: Ximena
     last_name: Miranda
     title: Design
@@ -68,22 +67,19 @@ contributor:
 
   - 
     id: lobrassard
-    type: primary
     first_name: Louis-Olivier
     last_name: Brassard
     title: Développement
-    bio: "Designer et développeur web, étudiant en philosophie et littératures à l’Unviersité de Montréal."
+    bio: "Designer et développeur web, étudiant en philosophie et littératures à l’Université de Montréal."
     affiliation: Université de Montréal
-    bio: ""
     url: https://www.loupbrun.ca
     pic: 
 
   - 
     id: smonjour
-    type: primary
     first_name: Servanne
     last_name: Monjour
-    affiliation: Univeristé McGill
+    affiliation: Univeristé Paris Sorbonne
     title: Édition
   
   - 
