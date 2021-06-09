@@ -41,9 +41,9 @@
     "ISBN": "978-2-267-01705-2",
     "language": "Français",
     "number-of-pages": "192",
-    "publisher": "Christian Bourgois Editeur",
+    "publisher": "Christian Bourgois Éditeur",
     "publisher-place": "Paris",
-    "title": "Taille des pensées",
+    "title": "La taille de nos pensées",
     "author": [
       {
         "family": "Baker",
@@ -67,12 +67,12 @@
   {
     "id": "Barthes1985",
     "type": "book",
-    "abstract": "Il y eut, dans l'aventure sémiologique, un bonheur de la science ; il y eut aussi l'anxiété de la dépasser, de ne pas laisser se refermer le sens. C'est ce double mouvement qu'on verra à l'œuvre dans les travaux réunis ici, où Roland Barthes pose les assises de cette discipline nouvelle, notamment Éléments de sémiologie, L'Ancienne Rhétorique, Introduction à l'analyse structurale des récits. On trouvera, à côté d'eux, une série de projets sur ce que pourrait être l'enquête sémiologique méthodique dans des domaines aussi divers que l'objet, la publicité, l'ethnologie, l'urbanisme, la médecine. Enfin, la mise en œuvre de l'analyse structurale sur deux fragments de la Bible et sur un conte de Poe.Roland Barthes (1915-1980) Il a élaboré une pensée critique singulière, en constant dialogue avec la pluralité des discours théoriques et des mouvements intellectuels de son époque, tout en dénonçant le pouvoir de tout langage institué. Il est notamment l'auteur du Degré zéro de l'écriture (1953) et de Fragments d'un discours amoureux (1977).",
+    "abstract": "Il y eut, dans l’aventure sémiologique, un bonheur de la science ; il y eut aussi l'anxiété de la dépasser, de ne pas laisser se refermer le sens. C'est ce double mouvement qu'on verra à l'œuvre dans les travaux réunis ici, où Roland Barthes pose les assises de cette discipline nouvelle, notamment Éléments de sémiologie, L'Ancienne Rhétorique, Introduction à l'analyse structurale des récits. On trouvera, à côté d'eux, une série de projets sur ce que pourrait être l'enquête sémiologique méthodique dans des domaines aussi divers que l'objet, la publicité, l'ethnologie, l'urbanisme, la médecine. Enfin, la mise en œuvre de l'analyse structurale sur deux fragments de la Bible et sur un conte de Poe.Roland Barthes (1915-1980) Il a élaboré une pensée critique singulière, en constant dialogue avec la pluralité des discours théoriques et des mouvements intellectuels de son époque, tout en dénonçant le pouvoir de tout langage institué. Il est notamment l'auteur du Degré zéro de l'écriture (1953) et de Fragments d'un discours amoureux (1977).",
     "ISBN": "978-2-7578-5430-3",
     "language": "Français",
     "number-of-pages": "384",
     "publisher": "Points",
-    "title": "L'aventure sémiologique",
+    "title": "L’aventure sémiologique",
     "author": [
       {
         "family": "Barthes",
@@ -166,7 +166,7 @@
     }
   },
   {
-    "id": "Coculet2019",
+    "id": "Coculet2018",
     "type": "chapter",
     "abstract": "La prescription à l'âge du papier, c'était un avis autorisé; à l'âge numérique, on parle plus volontiers de recommandation. Dans tous les cas, une personne, au moins, cherche à partager son intérêt ou davantage pour un sujet ou une oeuvre donnée. Cette intention d'influence, ce soft power dissém...",
     "collection-title": "Papiers",
@@ -186,15 +186,6 @@
         "given": "Marine"
       }
     ],
-    "accessed": {
-      "date-parts": [
-        [
-          "2019",
-          12,
-          12
-        ]
-      ]
-    },
     "issued": {
       "date-parts": [
         [
@@ -554,7 +545,7 @@
     }
   },
   {
-    "id": "BouqillonMiegeMoeglin2013",
+    "id": "BouquillionMiègeMoeglin2013",
     "type": "book",
     "event-place": "Grenoble",
     "publisher": "PUG",
