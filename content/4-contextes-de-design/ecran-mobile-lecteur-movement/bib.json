@@ -1,0 +1,302 @@
+[
+	{
+		"id": "CatoirBrisson2017",
+		"type": "book",
+		"abstract": "L’objectif de cet ouvrage est double : d’une part, repenser les enjeux, modèles et usages d’écriture, d’édition et de lecture en termes d’innovation sociale ; d’autre part, contribuer aux humanités numériques par la recherche en design et en sciences de l’information et de la communication. À partir des trois usages fondamentaux de la chaîne du livre sont présentées différentes formes d’édition de la recherche (chapitres, restitutions d’ateliers et des débats participatifs, sélection de tweets) permettant de repenser l’écriture, l’édition et la lecture à l’ère du numérique. Quels sont les mécanismes et enjeux du geste technique d’écrire ? Qu’est-ce que « publier » dans une société numérique ? Comment le numérique transforme-t-il l’idée et l’acte d’écrire ? Dans quelle mesure les interfaces numériques refaçonnent-elles les activités d’écriture et de lecture à l’écran ? Différents contenus médiatiques sont proposés au lecteur pour augmenter l’expérience de lecture de l’ouvrage.",
+		"edition": "1",
+		"language": "Français",
+		"number-of-pages": "256",
+		"publisher": "Presses Universitaires de France",
+		"source": "Amazon",
+		"title": "Design et innovation dans la chaîne du livre: Ecrire, éditer, lire à l'ère numérique",
+		"title-short": "Design et innovation dans la chaîne du livre",
+		"author": [
+			{
+				"family": "Catoir-Brisson",
+				"given": "Marie-Julie"
+			},
+			{
+				"family": "Vial",
+				"given": "Stéphane"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					4,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "Candel2017",
+		"type": "chapter",
+		"abstract": "L’objectif de cet ouvrage est double : d’une part, repenser les enjeux, modèles et usages d’écriture, d’édition et de lecture en termes d’innovation sociale ; d’autre part, contribuer aux humanités numériques par la recherche en design et en sciences de l’information et de la communication. À partir des trois usages fondamentaux de la chaîne du livre sont présentées différentes formes d’édition de la recherche (chapitres, restitutions d’ateliers et des débats participatifs, sélection de tweets) permettant de repenser l’écriture, l’édition et la lecture à l’ère du numérique. Quels sont les mécanismes et enjeux du geste technique d’écrire ? Qu’est-ce que « publier » dans une société numérique ? Comment le numérique transforme-t-il l’idée et l’acte d’écrire ? Dans quelle mesure les interfaces numériques refaçonnent-elles les activités d’écriture et de lecture à l’écran ? Différents contenus médiatiques sont proposés au lecteur pour augmenter l’expérience de lecture de l’ouvrage.",
+		"container-title": "Design et innovation dans la chaîne du livre: Ecrire, éditer, lire à l'ère numérique",
+		"edition": "1",
+		"event-place": "Paris",
+		"language": "Français",
+		"page": "115-128",
+		"publisher": "Presses Universitaires de France",
+		"publisher-place": "Paris",
+		"source": "Amazon",
+		"title": "L’édition du texte informatisé, une pratique de lecture",
+		"editor": [
+			{
+				"family": "Catoir-Brisson",
+				"given": "Marie-Julie"
+			},
+			{
+				"family": "Vial",
+				"given": "Stéphane"
+			}
+		],
+		"author": [
+			{
+				"family": "Candel",
+				"given": "Étienne"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					4,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "BackOffice2018",
+		"type": "book",
+		"collection-title": "Back Office",
+		"event-place": "Paris",
+		"ISBN": "978-2-917855-98-0",
+		"language": "fr-FR",
+		"publisher": "B42",
+		"publisher-place": "Paris",
+		"title": "Penser classer documenter",
+		"URL": "https://editions-b42.com/produit/back-office-n2/",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Collectif",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "Genette2010",
+		"type": "book",
+		"abstract": "Les oeuvres d'art revêtent deux modes d'existence, qui sont l'immanence et la transcendance.\n L'immanence est définie par le type d'objet en lequel l'oeuvre \" consiste \", et se distribue ainsi en deux régimes, baptisés depuis nelson goodman l'autographique et l'allographique.  dans le premier, l'objet d'immanence  (un tableau, une sc",
+		"event-place": "Paris",
+		"language": "fr",
+		"publisher": "Seuil",
+		"publisher-place": "Paris",
+		"title": "Revue poétique ; l'œuvre de l'art",
+		"title-short": "Revue poétique",
+		"URL": "https://www.parislibrairies.fr/livre/9782020217361-revue-poetique-l-oeuvre-de-l-art-t-1-gerard-genette/",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Genette",
+				"given": "Gérard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				],
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "Boissier2016",
+		"type": "book",
+		"event-place": "Genève",
+		"publisher": "Éditions Monaco",
+		"publisher-place": "Genève",
+		"title": "L’écran comme mobile",
+		"author": [
+			{
+				"family": "Boissier",
+				"given": "Jean-Louis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "Guelton2016",
+		"type": "book",
+		"event-place": "Rennes",
+		"publisher": "Presses Universitaires de Rennes",
+		"publisher-place": "Rennes",
+		"title": "Dispositifs interactifs et installations situées",
+		"editor": [
+			{
+				"family": "Guelton",
+				"given": "Bernard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "Jauss1978",
+		"type": "book",
+		"event-place": "Paris",
+		"publisher": "Gallimard",
+		"publisher-place": "Paris",
+		"title": "Pour une esthétique de la réception",
+		"author": [
+			{
+				"family": "Jauss",
+				"given": "Hans"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1978"
+				],
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "MillerMatviyenko2014",
+		"type": "book",
+		"abstract": "Mobile apps promise to deliver (h)appiness to our devices at the touch of a finger or two. Apps offer gratifyingly immediate access to connection and entertainment. The array of apps downloadable from the app store may come from the cloud, but they attach themselves firmly to our individual movement from location to location on earth. In <i>The Imaginary App,</i> writers, theorists, and artists--including Stephen Wolfram (in conversation with Paul Miller) and Lev Manovich--explore the cultural and technological shifts that have accompanied the emergence of the mobile app. These contributors and interviewees see apps variously as \"a machine of transcendence,\" \"a hulking wound in our nervous system,\" or \"a promise of new possibilities.\" They ask whether the app is an object or a relation, and if it could be a \"metamedium\" that supersedes all other artistic media. They consider the control and power exercised by software architecture; the app's prosthetic ability to enhance certain human capacities, in reality or in imagination; the app economy, and the divergent possibilities it offers of making a living or making a fortune; and the app as medium and remediator of reality.Also included (and documented in color) are selected projects by artists asked to design truly imaginary apps, \"icons of the impossible.\" These include a female sexual arousal graph using Doppler images; \"The Ultimate App,\" which accepts a payment and then closes, without providing information or functionality; and \"iLuck,\" which uses GPS technology and four-leaf-clover icons to mark places where luck might be found.ContributorsChristian Ulrik Andersen, Thierry Bardini, Nandita Biswas Mellamphy, Benjamin H. Bratton, Drew S. Burk, Patricia Ticineto Clough, Robbie Cormier, Dock Currie, Dal Yong Jin, Nick Dyer-Witheford, Ryan and Hays Holladay, Atle Mikkola Kjøsen, Eric Kluitenberg, Lev Manovich, Vincent Manzerolle, Svitlana Matviyenko, Dan Mellamphy, Paul D. Miller aka DJ Spooky That Subliminal Kid, Steven Millward, Anna Munster, Søren Bro Pold, Chris Richards, Scott Snibbe, Nick Srnicek, Stephen Wolfram",
+		"ISBN": "978-0-262-02748-9",
+		"publisher": "The MIT Press",
+		"source": "JSTOR",
+		"title": "The Imaginary App",
+		"URL": "https://www.jstor.org/stable/j.ctt9qf91w",
+		"collection-editor": [
+			{
+				"family": "Miller",
+				"given": "Paul D."
+			},
+			{
+				"family": "Matviyenko",
+				"given": "Svitlana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "Quinz2016",
+		"type": "chapter",
+		"container-title": "Dispositifs interactifs et installations situées",
+		"event-place": "Rennes",
+		"page": "37-56",
+		"publisher": "Presses Universitaires de Rennes",
+		"publisher-place": "Rennes",
+		"title": "Deux modèles d’installation située entre 1060 et 1990. Interfaces-Mondes, notes sur les deux modèles d’installation située",
+		"container-author": [
+			{
+				"family": "Guelton",
+				"given": "Bernard"
+			}
+		],
+		"author": [
+			{
+				"family": "Quinz",
+				"given": "Emanuele"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "Rouffineau2018",
+		"type": "book",
+		"call-number": "TK7895.C39 R68 2018",
+		"collection-number": "2",
+		"collection-title": "Collection Esthétique des données",
+		"event-place": "Paris, France",
+		"ISBN": "978-2-917855-71-3",
+		"number-of-pages": "176",
+		"publisher": "Éditions B42",
+		"publisher-place": "Paris, France",
+		"source": "Library of Congress ISBN",
+		"title": "Éditions off-line: projet critique de publications numériques 1989-2001",
+		"title-short": "Éditions off-line",
+		"author": [
+			{
+				"family": "Rouffineau",
+				"given": "Gilles"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "Sartre2018",
+		"type": "book",
+		"event-place": "Paris",
+		"ISBN": "978-2-07-032306-7",
+		"language": "French",
+		"note": "OCLC: 731356019",
+		"publisher": "Gallimard",
+		"publisher-place": "Paris",
+		"source": "Open WorldCat",
+		"title": "Qu'est-ce que la littérature ?",
+		"author": [
+			{
+				"family": "Sartre",
+				"given": "Jean-Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	}
+]
