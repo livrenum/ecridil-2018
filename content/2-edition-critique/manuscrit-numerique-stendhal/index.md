@@ -184,6 +184,10 @@ Cette édition multi-supports permet un retour aux documents laissés par Stendh
 Sinclair et Rockwell expliquent dans leur conclusion que « le vrai potentiel du texte numérique réside en sa capacité de faire proliférer les représentations des textes et de nous amener à poser de nouvelles questions interprétatives » {{< cite "Dacos2010" 13 >}}. Et de fait, commencer à travailler avec le numérique, c’est prendre le risque d’ouvrir la boîte de Pandore, et donc de faire naître de nouvelles idées, de nouvelles envies, le problème étant de trouver les moyens humains et financiers, pour suivre l’imagination débordante des chercheurs enthousiastes !
 
 
+## Bibliographie
+
+{{< bibliography >}}
+
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 

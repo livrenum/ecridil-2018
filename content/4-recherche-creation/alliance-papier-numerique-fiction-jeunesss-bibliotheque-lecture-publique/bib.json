@@ -1,5 +1,28 @@
 [
 	{
+		"id": "Armand2019",
+		"type": "thesis",
+		"event-place": "Lyon",
+		"genre": "Mémoire Master MEEF 2e année",
+		"number-of-pages": "96",
+		"publisher": "Université Claude Bernard Lyon1",
+		"publisher-place": "Lyon",
+		"title": "L'apport du numérique pour faciliter la prononciation des élèves allophones : le format numérique permet-il d’améliorer la prononciation des élèves grâce à des fonctionnalités qui n’existent pas dans le format classique?",
+		"author": [
+			{
+				"family": "Armand",
+				"given": "Julie"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
 		"id": "BourassaAudet2017",
 		"type": "chapter",
 		"container-title": "Design et innovation dans la chaine du livre",

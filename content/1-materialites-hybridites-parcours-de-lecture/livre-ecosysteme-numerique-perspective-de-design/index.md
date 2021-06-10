@@ -95,6 +95,10 @@ Il faut donc situer le livre en relation avec un écosystème complexe, où il p
 En suivant une pensée du design, nous voulons comprendre comment nous faisons l’expérience du monde à travers les multiples incarnations du livre et comment ses diverses instances affectent nos façons de penser, de sentir et d’agir tout comme à l’inverse, les nouveaux artéfacts cognitifs transforment nos expériences du monde. Inséré dans la culture matérielle, le livre constitue un objet technique d’une grande adaptabilité. Ses formes vont se modifier de pair avec les modes de connaissance comme l’une des technologies intellectuelles centrale de la littératie, elle-même appelée à s’adapter. En tant qu’objet technique, le livre a modelé depuis des siècles notre rapport au monde et au savoir. Son histoire est particulièrement révélatrice de ces transformations profondes qu’il a constituées pour la pensée humaine, en favorisant la production intellectuelle, la matérialisation des idées et leur diffusion. On sait comment l’invention de l’écriture, du parchemin ou de l’imprimerie a forgé l’exercice de la pensée, de la lecture et par extension, notre expérience du monde. Arrimés à l’histoire des idées, le rouleau, le codex ou la tablette numérique sont des modes de structuration du savoir, qui ont influencé profondément nos façons d’agir dans le monde et dont le design s’inspire. Il s’agit maintenant d’explorer les modalités d’interaction avec les affordances renouvelées du livre dans la constitution et la modélisation des objets de connaissance en contexte numérique. Cette question engage notre propre corporéité, liée de façon inéluctable à notre environnement matériel et aux produits artificiels de notre intelligence, dont le livre est l’une des manifestations les plus fondamentales.
 
 
+## Bibliographie
+
+{{< bibliography >}}
+
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 
@@ -105,8 +109,7 @@ En suivant une pensée du design, nous voulons comprendre comment nous faisons l
   [https://www.phonandroid.com/google-brevette-un-smartphone-pliable-bizarre-avec-plusieurs-ecrans-relies-comme-les-pages-dun-livre.html](https://www.phonandroid.com/google-brevette-un-smartphone-pliable-bizarre-avec-plusieurs-ecrans-relies-comme-les-pages-dun-livre.html) (Consulté le 15 décembre 2020)
 
 [^3]:
-  « Maps have become interactive geographical systems. Tables have become spreadsheets. Progressively most of our intellectual tools are successfully transformed into machines. But, for some reasons, printed books seems to resist. We believe that this resistance to a mechanization process that has demonstrated its generality for several other media is probably due to the competition with another kind of technology, the Encyclopedia. » Frédéric Kaplan (2011), «  How books will become machines. »
-[https://fkaplan.files.wordpress.com/2011/08/kaplan-colloquelitteracies.pdf](https://fkaplan.files.wordpress.com/2011/08/kaplan-colloquelitteracies.pdf) (consulté le 08 août 2019)
+  « Maps have become interactive geographical systems. Tables have become spreadsheets. Progressively most of our intellectual tools are successfully transformed into machines. But, for some reasons, printed books seems to resist. We believe that this resistance to a mechanization process that has demonstrated its generality for several other media is probably due to the competition with another kind of technology, the Encyclopedia. » Frédéric Kaplan (2011), «  How books will become machines. » [https://fkaplan.files.wordpress.com/2011/08/kaplan-colloquelitteracies.pdf](https://fkaplan.files.wordpress.com/2011/08/kaplan-colloquelitteracies.pdf) (consulté le 08 août 2019)
 
 [^4]:
   « The book of the future will combine reading and writing, annotation and social media, text processing and analysis, data mining and mind mapping, searching and linking, indexing and display, image parsing and distant reading, in a multi-modal, cross-platform, inter-media environment. » Johanna Drucker (2014). _Graphesis : Visual Forms of Knowledge Production_. Cambridge, Harvard U. Press.

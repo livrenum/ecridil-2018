@@ -193,6 +193,10 @@ La seconde fonctionnalité est une forme d’affichage et de navigation exploita
 Ce projet nous a permis de tester et d’explorer des formes éditoriales numériques nouvelles qui s’enrichiront de différentes fonctionnalités dans le cadre du projet _HyperOtlet_. Une réalisation qui en appelle d’autres sur la base de ce développement d’un outil d’éditorialisation. En effet, cet outil a été placé sous une licence libre (Creative Commons, BY NC ND 4.0), et il est disponible aux communautés universitaires sur le [GitLab de l’In2P3](https://gitlab.in2p3.fr/Enssib/abcdev). Un projet qui s’enrichira également, nous l’espérons, des appropriations multiples que pourront en faire les communautés des humanités numériques.
 
 
+## Bibliographie
+
+{{< bibliography >}}
+
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 

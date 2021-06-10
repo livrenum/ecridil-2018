@@ -232,11 +232,13 @@ Ce modèle, comme le cas sur lequel il est fondé et qu'il traite, est une versi
 
 **Remerciements** : pour leur confiance, leur pertinence et leur soutien au comité d'édition (Oriane Deseilligny, Stéphane Vial, Renée Bourassa, Tom Lebrun, René Audet) ; pour leur dynamisme, leur talent et leur patience à tenter de me faire comprendre les arcanes de leur outil de publication numérique à l'équipe projet (René Audet, Julie Blanc, Renée Bourassa, Louis-Olivier Brassard, Joana Casenave, Jeanne Hourez, Ximena Miranda, Margot Mellet, Servanne Monjour, Marie-Odile Paquin, Lilie Pons, Nicolas Sauret, Emin Youssef) ; et pour son accueil chaleureux à la Chaire de recherche du Canada sur les arts et les littératures numériques de l'université du Québec à Montréal (Marcello Vitali-Rosati).
 
+
 ## Annexes
 
 1. **Annexe 1. Le colloque Écridil**
 2. **Annexe 2. L'atelier de co-conception créative**
 3. **Annexe 3. Le _booksprint_**
+
 
 ## Bibliographie
 

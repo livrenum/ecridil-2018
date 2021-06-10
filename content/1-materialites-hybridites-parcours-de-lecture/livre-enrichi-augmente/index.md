@@ -261,6 +261,10 @@ Un tel livre augmenté questionne les limites du livre, le statut de l’auteur,
 Pour définir une telle conception du livre augmenté, reprenons la formule de Michel Foucault : « le livre est un nœud dans un réseau » {{< cite Foucault1969 >}}. En effet, le livre est un réseau de références, de renvois, de commentaires, de lectures, de réécritures qu’il est désormais possible d’intégrer dans le livre augmenté. De ce point de vue, l’enjeu consiste d’une part à modéliser le réseau, un réseau en expansion, potentiellement infini, et d’autre part à proposer une interface du nœud qui, dans notre approche, est délimitée et, précisément, représente l’objet-livre numérique. C’est assurément un défi de design : tout à la fois design graphique, design d’interaction, design d’information et design d’attention. Concevoir ainsi un livre augmenté qui soit aux humanités numériques ce que le _codex_ typographique fut aux humanités classiques.
 
 
+## Bibliographie
+
+{{< bibliography >}}
+
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 
