@@ -166,6 +166,60 @@
     }
   },
   {
+    "id": "BouquillionMiègeMoeglin2013",
+    "type": "book",
+    "event-place": "Grenoble",
+    "publisher": "PUG",
+    "publisher-place": "Grenoble",
+    "title": "L'industrialisation des biens symboliques. Les industries créatives en regard des industries culturelles",
+    "author": [
+      {
+        "family": "Bouquillon",
+        "given": "Philippe"
+      },
+      {
+        "family": "Miège",
+        "given": "Bernard"
+      },
+      {
+        "family": "Moeglin",
+        "given": "Pierre"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2013"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "Bourdieu1979",
+    "type": "book",
+    "event-place": "Paris",
+    "ISBN": "978-2-7073-0275-5",
+    "language": "Français",
+    "number-of-pages": "670",
+    "publisher": "De Minuit",
+    "publisher-place": "Paris",
+    "title": "La Distinction : critique sociale du jugement",
+    "title-short": "La Distinction",
+    "author": [
+      {
+        "family": "Bourdieu",
+        "given": "Pierre"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1979"
+        ]
+      ]
+    }
+  },
+  {
     "id": "Coculet2018",
     "type": "chapter",
     "abstract": "La prescription à l'âge du papier, c'était un avis autorisé; à l'âge numérique, on parle plus volontiers de recommandation. Dans tous les cas, une personne, au moins, cherche à partager son intérêt ou davantage pour un sujet ou une oeuvre donnée. Cette intention d'influence, ce soft power dissém...",
@@ -540,60 +594,6 @@
           "2014",
           12,
           15
-        ]
-      ]
-    }
-  },
-  {
-    "id": "BouquillionMiègeMoeglin2013",
-    "type": "book",
-    "event-place": "Grenoble",
-    "publisher": "PUG",
-    "publisher-place": "Grenoble",
-    "title": "L'industrialisation des biens symboliques. Les industries créatives en regard des industries culturelles",
-    "author": [
-      {
-        "family": "Bouquillon",
-        "given": "Philippe"
-      },
-      {
-        "family": "Miège",
-        "given": "Bernard"
-      },
-      {
-        "family": "Moeglin",
-        "given": "Pierre"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          "2013"
-        ]
-      ]
-    }
-  },
-  {
-    "id": "Bourdieu1979",
-    "type": "book",
-    "event-place": "Paris",
-    "ISBN": "978-2-7073-0275-5",
-    "language": "Français",
-    "number-of-pages": "670",
-    "publisher": "De Minuit",
-    "publisher-place": "Paris",
-    "title": "La Distinction : critique sociale du jugement",
-    "title-short": "La Distinction",
-    "author": [
-      {
-        "family": "Bourdieu",
-        "given": "Pierre"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          "1979"
         ]
       ]
     }
