@@ -1,7 +1,7 @@
 ---
-title: L’écran mobile
+title: L’écran mobile : de la mobilité du lecteur à la lecture-mouvement
 subtitle: >
-  de la mobilité du lecteur à la lecture-mouvement
+  Pédagogie et recherche éditoriale de l’Atelier de Recherche et Création « Édition nouvelles formes »
 weight: 403
 url: ecran-mobile-lecteur-movement
 type: hybritexte
@@ -12,9 +12,6 @@ contributor:
 
 image: media/couverture.jpg
 ---
-
-
-**Pédagogie et recherche éditoriale de l’Atelier de Recherche et Création « Édition nouvelles formes ».**
 
 Après l’espace du livre comme premier objet de recherche orienté vers la question de l’auteur et du livre comme médium de création, l’atelier de recherche et de création (ARC) « Édition nouvelles formes » s’est depuis quelques années consacré aux mutations de l’édition contemporaine à l’heure d’Internet, du numérique et des programmes d’interaction automatisés. Lieu de recherche et de questionnement, cet atelier se propose d’interroger les spécificités du Web et les potentialités d’expérimentations itératives offertes par les technologies dites nomades : mobiles, tablettes, liseuses.
 
