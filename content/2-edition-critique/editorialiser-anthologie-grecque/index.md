@@ -139,6 +139,10 @@ L'objectif principal d'une édition est celui d'une structuration des contenus p
 Notre projet en est actuellement à sa septième année de développement. À la suite du succès de ce premier temps de recherche, nous avons travaillé à une nouvelle phase du projet visant à poursuivre l'édition numérique collaborative afin de produire l'édition complète de l'Anthologie grecque. Ce nouveau moment du projet a été ponctué par l’obtention en 2019 d’une subvention du programme _Savoir_ du CRSH. Ce financement nous a permis de renouveler notre modèle de données et de travailler au développement d’une nouvelle plateforme qui se fonde sur nos premières expérimentations. Nous avons également établi un partenariat avec le projet [Perseids](https://www.perseids.org/) et le projet [Digital Milliet ](https://digmill.perseids.org/)pour concevoir notre plateforme comme mutualisable avec d’autres projets d’édition de corpus classiques fragmentaires, et un partenariat avec la [Bibliothèque palatine d’Heidelberg ](https://www.ub.uni-heidelberg.de/Englisch/helios/Welcome.html)pour l’annotation des scholies à même la [numérisation du manuscrit du Codex Palatinus 23.](https://digi.ub.uni-heidelberg.de/diglit/cpgraec23) Cette nouvelle plateforme, AnthologiaGraeca ([anthologia graeca.org](http://anthologiagraeca.org/)) correspond désormais au modèle éditorial que nous avons établi durant les premières années du projet. Le futur de ce projet consiste en l’application du protocole d’édition collaborative sur ce nouvel espace d’édition.
 
 
+## Bibliographie
+
+{{< bibliography >}}
+
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 
