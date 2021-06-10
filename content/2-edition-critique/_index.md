@@ -1,4 +1,4 @@
 ---
-title: "Chapitre 2 : Édition critique"
-short_title: "Chapitre 2"
+title: "Édition critique"
+short_title: "Édition critique"
 ---

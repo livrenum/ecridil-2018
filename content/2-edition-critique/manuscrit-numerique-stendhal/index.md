@@ -3,6 +3,7 @@ title: Du manuscrit au numérique
 subtitle: >
   Une édition multiformes et multisupports des manuscrits de Stendhal
 weight: 203
+url: manuscrit-numerique-stendhal
 type: hybritexte
 abstract: >
   

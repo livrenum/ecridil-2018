@@ -1,4 +1,5 @@
 ---
-title: "Chapitre 4 : Recherche-création"
-short_title: "Chapitre 4"
+title: "Recherche-création"
+short_title: "Recherche-création"
+published: false
 ---

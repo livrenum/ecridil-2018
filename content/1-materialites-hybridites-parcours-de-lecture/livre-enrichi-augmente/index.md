@@ -3,6 +3,7 @@ title: "Du livre enrichi au livre augmenté"
 subtitle: >
   Les enjeux d’une clôture numérique
 weight: 105
+url: livre-enrichi-augmente
 #number: 5
 #citedBibFile: bib.json
 type: hybritexte

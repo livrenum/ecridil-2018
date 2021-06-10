@@ -1,4 +1,4 @@
 ---
-title: "Chapitre 3 : Littérature jeunesse et recherche-action"
-short_title: "Chapitre 3"
+title: "Littérature jeunesse et recherche-action"
+short_title: "Littérature jeunesse et recherche-action"
 ---

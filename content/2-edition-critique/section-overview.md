@@ -1,5 +1,5 @@
 ---
-title: "Chapitre 2 : Édition critique"
+title: "Édition critique"
 type: contents
 weight: 200
 slug: .

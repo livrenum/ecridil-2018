@@ -2,7 +2,8 @@
 title: L’alliance du papier et du numérique de fiction jeunesse en bibliothèque de lecture publique
 subtitle: >
   
-weight: 401
+weight: 301
+url: alliance-papier-numerique-fiction-jeunesse-bibliotheque-lecture-publique
 type: hybritexte
 abstract: >
   

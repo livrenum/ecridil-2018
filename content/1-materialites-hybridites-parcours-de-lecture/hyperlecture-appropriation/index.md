@@ -3,6 +3,7 @@ title: Hyperlecture et appropriation
 subtitle: >
   Une dynamique pour les Humanités Digitales
 weight: 103
+url: hyperlcture-appropriation
 type: hybritexte
 abstract: >
   Cet article se comprend comme un retour sur le concept de « lecture appropriative », tel qu’il fut développé en 2007 dans un prototype de livre électronique universitaire nommé Codex Atlanticus. À partir de ce régime de lecture, nous voudrions aborder les enjeux de l’hyperlecture pour les humanités digitales et souligner l’évolution du livre universitaire. Dans un premier moment, nous présenterons une actualisation du concept de lecture appropriative sans revenir en détail sur une expérimentation déjà ancienne. Dans un second moment, nous nous nous pencherons sur l’évolution des pratiques lectoriales, ce qui permettra d’aborder dans un troisième moment la crise du livre classique. Les quatrième et cinquième moments seront consacrés aux formes spécifiques de la lecture appropriative et à la notion de lecture savante. Enfin, nous présenterons une métamorphose du lecteur autour de la figure de lettré du digital. La lecture appropriative trouve aujourd’hui un contexte favorable avec le projet RENum (Robert Escarpit numérique) financé par la région Nouvelle Aquitaine et un programme du MICA sur l’HyperEdition. 

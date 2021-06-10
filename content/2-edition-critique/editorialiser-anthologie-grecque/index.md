@@ -3,6 +3,7 @@ title: Éditorialiser l’Anthologie grecque
 subtitle: >
   L’API comme livre numérique
 weight: 202
+url: editorialiser-anthologie-grecque
 type: hybritexte
 abstract: >
   

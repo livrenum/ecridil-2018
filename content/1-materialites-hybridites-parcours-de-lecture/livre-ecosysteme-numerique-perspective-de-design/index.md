@@ -3,6 +3,7 @@ title: "Penser le livre dans son écosystème numérique"
 subtitle: >
   Une perspective de design
 weight: 101
+url: livre-ecosysteme-numerique-perspective-de-design
 #number: l
 #citedBibFile: bib.json
 type: hybritexte
