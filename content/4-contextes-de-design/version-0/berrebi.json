@@ -1,0 +1,32 @@
+[
+	{
+		"id": "http://zotero.org/groups/2305940/items/4Z7R82T8",
+		"type": "book",
+		"event-place": "Paris",
+		"number-of-pages": "352",
+		"publisher": "Seuil",
+		"publisher-place": "Paris",
+		"title": "Enquête sur les laboratoires du changement social",
+		"author": [
+			{
+				"family": "Berrebi-Hoffmann",
+				"given": "Isabelle"
+			},
+			{
+				"family": "Bureau",
+				"given": "Marie-Christine"
+			},
+			{
+				"family": "Lallement",
+				"given": "Michel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	}
+]
