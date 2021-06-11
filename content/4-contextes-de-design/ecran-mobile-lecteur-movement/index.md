@@ -1,5 +1,5 @@
 ---
-title: L’écran mobile : de la mobilité du lecteur à la lecture-mouvement
+title: "L’écran mobile : de la mobilité du lecteur à la lecture-mouvement"
 subtitle: >
   Pédagogie et recherche éditoriale de l’Atelier de Recherche et Création « Édition nouvelles formes »
 weight: 403
