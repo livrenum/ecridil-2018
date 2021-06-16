@@ -1,6 +1,6 @@
 [
   {
-    "id": "Baccino 2015",
+    "id": "Baccino2015",
     "type": "book",
     "title": "La lecture numérique",
     "publisher": "Presses Universitaires de Grenoble",
@@ -31,7 +31,7 @@
     }
   },
   {
-    "id": "Barthes 1964",
+    "id": "Barthes1964",
     "type": "article-journal",
     "title": "Rhétorique de l'image",
     "container-title": "Communications",
@@ -54,19 +54,10 @@
           "1964"
         ]
       ]
-    },
-    "accessed": {
-      "date-parts": [
-        [
-          "2019",
-          10,
-          24
-        ]
-      ]
     }
   },
   {
-    "id": "Barthes 1974",
+    "id": "Barthes1974",
     "type": "chapter",
     "title": "Au séminaire",
     "container-title": "Œuvres complètes",
@@ -89,7 +80,7 @@
     }
   },
   {
-    "id": "Beguin-Verbrugge 2006",
+    "id": "BeguinVerbrugge2006",
     "type": "book",
     "title": "Images en texte, images du texte. Dispositifs graphiques et communication écrite.",
     "publisher": "Presses universitaires du Septentrion",
@@ -110,7 +101,7 @@
     }
   },
   {
-    "id": "Belisle 2011",
+    "id": "Belisle2011",
     "type": "chapter",
     "title": "Du papier à l’écran : lire se transforme",
     "container-title": "Lire dans un monde numérique",
@@ -138,7 +129,7 @@
     }
   },
   {
-    "id": "Borges 1980",
+    "id": "Borges1980",
     "type": "chapter",
     "title": "Essai d’autobiographie",
     "container-title": "Livre de préfaces, suivi de Essai d’autobiographie",
@@ -160,7 +151,7 @@
     }
   },
   {
-    "id": "Candel 2017",
+    "id": "Candel2017",
     "type": "chapter",
     "title": "L’édition du texte informatisé, une pratique de lecture",
     "container-title": "Design & innovation dans la chaîne du livre. Écrire, éditer, lire à l’ère du numérique",
@@ -193,7 +184,7 @@
     }
   },
   {
-    "id": "Chartier 2009",
+    "id": "Chartier2009",
     "type": "article-journal",
     "title": "La mort du livre ?",
     "container-title": "Communication langages",
@@ -216,19 +207,10 @@
           "2009"
         ]
       ]
-    },
-    "accessed": {
-      "date-parts": [
-        [
-          "2019",
-          10,
-          3
-        ]
-      ]
     }
   },
   {
-    "id": "Davallon 2006",
+    "id": "Davallon2006",
     "type": "book",
     "title": "Le don du patrimoine. Une approche communicationnelle de la patrimonialisation",
     "publisher": "Hermès Science-Lavoisier",
@@ -249,7 +231,7 @@
     }
   },
   {
-    "id": "Davallon 2004",
+    "id": "Davallon2004",
     "type": "article-journal",
     "title": "La fausse évidence du lien hypertexte",
     "container-title": "Communication & langages",
@@ -277,19 +259,10 @@
           "2004"
         ]
       ]
-    },
-    "accessed": {
-      "date-parts": [
-        [
-          "2019",
-          10,
-          3
-        ]
-      ]
     }
   },
   {
-    "id": "De Certeau 1990",
+    "id": "DeCerteau1990",
     "type": "book",
     "title": "L’invention du quotidien. I. Arts de faire.",
     "publisher": "Gallimard",
@@ -310,7 +283,7 @@
     }
   },
   {
-    "id": "Didi-Huberman 1992",
+    "id": "DidiHuberman1992",
     "type": "book",
     "title": "Ce que nous voyons, ce qui nous regarde",
     "publisher": "Minuit",
@@ -331,7 +304,7 @@
     }
   },
   {
-    "id": "Drucker 2014",
+    "id": "Drucker2014",
     "type": "book",
     "title": "Graphesis: Visual Forms of Knowledge Production",
     "publisher": "Harvard University Press",
@@ -357,7 +330,7 @@
     }
   },
   {
-    "id": "Eco 1979",
+    "id": "Eco1979",
     "type": "book",
     "title": "Lector in fabula. Le rôle du lecteur ou la coopération interprétative dans les textes narratifs",
     "publisher": "Grasset",
@@ -378,7 +351,7 @@
     }
   },
   {
-    "id": "Gibson 1977",
+    "id": "Gibson1977",
     "type": "chapter",
     "title": "The theory of affordances",
     "container-title": "Perceiving, acting, and knowing: Toward an ecological psychology",
@@ -404,7 +377,7 @@
     ]
   },
   {
-    "id": "Gibson 1979",
+    "id": "Gibson1979",
     "type": "book",
     "title": "The Ecological Approach to Visual Perception",
     "publisher": "Psychology Press",
@@ -431,7 +404,7 @@
     }
   },
   {
-    "id": "Goody 1979",
+    "id": "Goody1979",
     "type": "book",
     "title": "La raison graphique: la domestication de la pensée sauvage",
     "publisher": "Editions de Minuit",
@@ -457,7 +430,7 @@
     }
   },
   {
-    "id": "Haddad 1998",
+    "id": "Haddad1998",
     "type": "book",
     "title": "Manger le livre. Rites alimentaires et fonctions paternelles",
     "publisher": "Hachette",
@@ -478,7 +451,7 @@
     }
   },
   {
-    "id": "Ingold 2017",
+    "id": "Ingold2017",
     "type": "book",
     "title": "Faire. Anthropologie, archéologie, art et architecture",
     "publisher": "éditions Dehors",
@@ -499,7 +472,7 @@
     }
   },
   {
-    "id": "Jeanneret 2004",
+    "id": "Jeanneret2004",
     "type": "article-journal",
     "title": "La fausse évidence du lien hypertexte",
     "container-title": "Communication Et Langages",
@@ -525,7 +498,7 @@
     }
   },
   {
-    "id": "Jeanneret 2008",
+    "id": "Jeanneret2008",
     "type": "book",
     "title": "Penser la trivialité. Tome 1. La vie triviale des êtres culturels",
     "publisher": "Hermès-Lavoisier",
@@ -546,7 +519,7 @@
     }
   },
   {
-    "id": "Levine 2002",
+    "id": "LevineTaboul2002",
     "type": "book",
     "title": "Le corps",
     "publisher": "Flammarion",
@@ -571,7 +544,7 @@
     }
   },
   {
-    "id": "Lochmann 2019",
+    "id": "Lochmann2019",
     "type": "book",
     "title": "La vie solide. La charpente comme éthique du faire",
     "publisher": "Payot et Rivages",
@@ -592,7 +565,7 @@
     }
   },
   {
-    "id": "Martin-Juchat 2014",
+    "id": "MartinJuchat2014",
     "type": "article-journal",
     "title": "Quel corps pour les sciences de l’information et de la communication ?",
     "container-title": "Les cahiers de la SFSIC",
@@ -613,7 +586,7 @@
     }
   },
   {
-    "id": "Mauss 2013",
+    "id": "Mauss2013",
     "type": "chapter",
     "title": "Les techniques du corps.",
     "container-title": "Sociologie et anthropologie",
@@ -635,7 +608,7 @@
     }
   },
   {
-    "id": "Merleau-Ponty 1964",
+    "id": "MerleauPonty1964",
     "type": "book",
     "title": "L’œil et l’esprit",
     "publisher": "Gallimard",
@@ -668,7 +641,7 @@
     ]
   },
   {
-    "id": "Polanyi 1996",
+    "id": "Polanyi1996",
     "type": "book",
     "title": "The tacite dimension",
     "publisher": "Routledge",
@@ -689,7 +662,7 @@
     }
   },
   {
-    "id": "Quinton 2002",
+    "id": "Quinton2002",
     "type": "thesis",
     "title": "Les designs des images et des écritures",
     "publisher": "Université Denis Diderot de Paris VII",
@@ -710,7 +683,7 @@
     }
   },
   {
-    "id": "Robert 2018",
+    "id": "Robert2018",
     "type": "book",
     "title": "La Bande Dessinée, une intelligence subversive",
     "publisher": "Presses de l’Enssib",
@@ -731,7 +704,7 @@
     }
   },
   {
-    "id": "Robert 2016",
+    "id": "Robert2016",
     "type": "book",
     "title": "Bande dessinée et numérique",
     "publisher": "CNRS Éditions",
@@ -752,7 +725,7 @@
     }
   },
   {
-    "id": "Souchier 2019",
+    "id": "SouchierEtal2019",
     "type": "book",
     "title": "Le numérique comme écriture : Théories et méthodes d'analyse",
     "publisher": "Armand Colin",
@@ -789,7 +762,7 @@
     }
   },
   {
-    "id": "Souchier 2012",
+    "id": "Souchier2012",
     "type": "article-journal",
     "title": "La mémoire de l’oubli. Éloge de l’aliénation. Pour une poétique de l’infra-ordinaire.",
     "container-title": "Communication & langages",
@@ -810,7 +783,7 @@
     }
   },
   {
-    "id": "Souchier 1996",
+    "id": "Souchier1996",
     "type": "article-journal",
     "title": "L’écrit d’écran, pratiques d’écriture & informatique",
     "container-title": "Communication & langages",
@@ -831,7 +804,7 @@
     }
   },
   {
-    "id": "Souchier 1993",
+    "id": "Souchier1993",
     "type": "chapter",
     "title": "Préface",
     "container-title": "Traité des vertus démocratiques",
@@ -853,7 +826,7 @@
     }
   },
   {
-    "id": "Tadier 2018",
+    "id": "Tadier2018",
     "type": "thesis",
     "title": "Les corps du livre – du codex au numérique. Enjeux des corporéités d’une forme médiatique : vers une anthropologie communicationnelle du livre.",
     "publisher": "Sorbonne",
@@ -872,7 +845,7 @@
     }
   },
   {
-    "id": "Thebaut 2009",
+    "id": "Thebaut2009",
     "type": "article-journal",
     "title": "Bleeding Pages, Bleeding Bodies: A Gendered Reading of British Library MS Egerton 1821",
     "container-title": "Medieval Feminist Forum: A Journal of Gender and Sexuality",
@@ -898,19 +871,10 @@
           "2009"
         ]
       ]
-    },
-    "accessed": {
-      "date-parts": [
-        [
-          "2019",
-          10,
-          3
-        ]
-      ]
     }
   },
   {
-    "id": "Veron 1988",
+    "id": "Veron1988",
     "type": "chapter",
     "title": "Presse écrite et théorie des discours sociaux : production, réception, régulation",
     "container-title": "La Presse, produit, production, réception",
@@ -938,7 +902,7 @@
     }
   },
   {
-    "id": "Veron 1994",
+    "id": "Veron1994",
     "type": "article-journal",
     "title": "De l’image sémiologique aux discursivités. Le temps d’une photo.",
     "container-title": "Hermès",
@@ -958,7 +922,7 @@
     }
   },
   {
-    "id": "Vial 2013",
+    "id": "Vial2013",
     "type": "book",
     "title": "L'être et l'écran: comment le numérique change la perception",
     "publisher": "PUF",
@@ -984,7 +948,7 @@
     }
   },
   {
-    "id": "Vial 2012",
+    "id": "Vial2012",
     "type": "article-journal",
     "title": "Qu’appelle-t-on « design numérique » ?",
     "container-title": "Interfaces numériques",
@@ -1007,15 +971,6 @@
       "date-parts": [
         [
           "2012"
-        ]
-      ]
-    },
-    "accessed": {
-      "date-parts": [
-        [
-          "2019",
-          10,
-          3
         ]
       ]
     }
