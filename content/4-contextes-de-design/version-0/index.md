@@ -11,10 +11,6 @@ contributor:
   - id: jlsoubret
 ---
 
-
-# Version 0 : un modèle complexe de design  de livre
-
-
 ## Introduction
 
 Cet article propose un modèle éditorial conçu afin de penser la complexité des processus de médiation déployés notamment pour les publications nommées « actes de colloques ». Pour cela, nous nous appuyons sur une étude de cas, celle du livre _Version 0, Notes sur le livre numérique_, dont la production fut amorcée lors du colloque Écridil 2018 : le livre, défi de design : l’intersection numérique de la création et de l’édition, tenu à Montréal les 30 avril et 1<sup>er</sup> mai 2018. En suivant son intention première de constituer un _booksprint_ autour du colloque, cette publication constitue une réflexion construite comme une mise en abîme du thème même du colloque, en cherchant notamment à réfléchir sur les transformations du livre et des modes éditoriaux en contexte numérique et en mettant à l’épreuve l’hypothèse selon laquelle les méthodes de _design thinking_ et de co-design seraient adaptées. L’objectif de ce prototype est de renouveler la dynamique autour de la médiation des résultats de recherche exposés dans le cadre d’un colloque. Nous souhaitons répondre à une question fondamentale pour comprendre les processus d’éditorialisation en contexte numérique : est-il possible de publier les premiers résultats d'un colloque pendant ce colloque même ? Ainsi, il s’agit de tester la pertinence d’un modèle éditorial fondé sur les théories de la complexité à l’œuvre dans le cadre de projets de design. Cette réflexion est articulée selon un principe hologrammatique autour des trois enjeux du design, de la complexité et de la soutenabilité économique.
