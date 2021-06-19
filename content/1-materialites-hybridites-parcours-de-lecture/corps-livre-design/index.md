@@ -73,21 +73,21 @@ C’est justement cette actualisation dynamique en jeu dans la lecture qui nous 
 
 Voici une planche extraite de _Building stories_, mettant en scène une femme qui essaie de trouver le sommeil pendant que la vie de l’immeuble, elle, continue. Le personnage se tourne et se retourne dans son lit, pris dans un ensemble complexe de pensées, de paroles et d’images qui se font écho, se confondent, résonnent et brouillent le régime de lecture dans cette confusion propre à l’endormissement où l’on ne sait parfois plus faire la part des choses entre le rêve et le réel.
 
-Comme en atteste l’image, le récit prend appui sur cette polyphonie équivoque pour mettre à l’épreuve nos habitudes de lecteur, en mettant en évidence leur rôle moteur dans l’expérience de lecture et la mise en œuvre de la signification.
-
 {{< hl-augmentation 1 none >}}
+
+Comme en atteste l’image, le récit prend appui sur cette polyphonie équivoque pour mettre à l’épreuve nos habitudes de lecteur, en mettant en évidence leur rôle moteur dans l’expérience de lecture et la mise en œuvre de la signification.
 
 Dans les modes de lecture qu’elle invite à pratiquer, cette planche s’affranchit de la linéarité pourtant usuellement attribuée au support imprimé par opposition au numérique, dont on souligne souvent la nouveauté dans ce domaine, du fait de la multiplicité des cheminements de lecture permis par les « liens hypertextes ». En suivant Jean Davallon et Yves Jeanneret, ceux-ci sont généralement décrits en termes de « non linéarité », dans une relation au « couple noeud/lien » et enfin par la « catégorie du _réseau_ ».	Or ici, le texte côtoie l’image, l’un renvoyant à l’autre, et ce, de manière non pas exclusivement circulaire mais labyrinthique. Si une proximité avec les modes de lecture numérique apparaît donc de façon flagrante, sur le support imprimé, la matérialité du dispositif graphique rend visibles pour le lecteur les multiples modalités possibles de cette lecture : autrement dit, comme c’est le cas ici, la pluralité combinatoire des sens et des modes de lecture est saisissable au sein d’un espace unique dont la clôture matérielle et symbolique est bien matérialisée. En somme, dans cet espace, le lecteur voit les chemins qu’il emprunte dans la lecture, et c’est en les voyant qu’il y engage son corps dans un sens assumé ; il suit des yeux les lignes sinueuses, les parcourt de son doigt, se tourne pour lire le texte, s’approche pour distinguer l’image… Tandis que sur un dispositif numérique, le mode de lecture hypertextuel, précisément, ne permet pas de la même manière d’embrasser du regard la totalité des parcours de lecture possibles : dans ce cas précis, les modalités de l’implication sont transformées, engageant avec elles toute la complexité d’une pratique sémiotique prise au jeu des « signes passeurs ».
 
 Parmi les cheminements de lecture pluriels remarquables sur cette planche, certains sont proposés par le texte, d’autres suggérés et d’autres, enfin, non signalés mais actualisables en potentiel. Nous avons mis en évidence ces « voies de lecture » en portant attention à celles qui sont explicitement suggérées par le dispositif graphique (texte-image).
-
-{{< hl-augmentation 2 >}}
 
 Ce schéma souligne les principaux cheminements de lecture donnés à la fois par le texte, les symboles graphiques (cercles, cases, flèches, etc.), la structure graphique (agencement des cases) et les images. Il fait apparaître, à la petite échelle de cette planche, la pluralité des manières de lire et de construire sa lecture, en participant à la construction du sens
 
 La variation des chemins « empruntables » par l’œil dévoile ici la variation possible des rapports _au sens_ du texte (dans tous _ses sens_). En effet, les choix opérés par le lecteur (« suivre » un chemin de lecture plutôt qu’un autre) réordonnent inévitablement la temporalité et la chronologie du récit, mais aussi les effets de résonance d’une image à l’autre, par exemple. On mesure en creux, ici, l’implication du corps dans l’effectuation de ces choix de lecture. Comme l’a souligné Annette Béguin-Verbrugge,
 
 > L’organisation graphique instaure une dynamique entre les éléments de l’inscription, mais elle ne peut le faire que parce qu’un lien unit le producteur et le lecteur : ils ont tous les deux le même système visuel et le même schéma corporel, orienté dans l’espace. {{< cite BeguinVerbrugge2006 32 >}}
+
+{{< hl-augmentation 2 >}}
 
 D’une part, parcourir des yeux le mouvement des lignes (même « simplement » de droite à gauche) nécessite d’engager, dans la prise de repère par rapport à la page, une image mentale de son corps et de sa représentation dans l’espace – a fortiori sur cette planche dont le texte défie les sens du haut, du bas, du côte-à-côte, du dessus, du dessous… D’autre part, comme c’est le cas ici, c’est le corps lui-même qui est mis en mouvement puisque selon ses cheminements, le lecteur devra prendre en main le support, le tourner et se repositionner pour ajuster son sens de lecture, ce qui n’est pas non plus sans faire écho aux dispositifs de lecture numérique. On peut jouer de la même manière avec une tablette ou un smartphone en activant la rotation de l’écran, en format horizontal ou vertical.
 
@@ -108,9 +108,9 @@ L’activité de lecture productrice prend ainsi, selon les mots de Michel De Ce
 
 À un autre niveau que dans le cas précédent, nous pouvons également interroger les gestes mis en jeu par le média, qui requièrent la coopération du lecteur. Dans le cas présent, c’est un geste caractéristique de la naissance du codex qui va nous intéresser : celui de tourner la page.
 
-{{< hl-augmentation 4 >}}
-
 En voici un exemple emprunté à l’histoire du livre, où, comme nous allons le voir, l’engagement du corps dans le livre participe de la performativité du livre lui-même. Il s’agit d’un manuscrit réalisé entre 1480 et 1490, référencé sous le nom d’_Egerton 1821_. Le codex évoque le rite de l’eucharistie consistant, pour une communauté chrétienne, pendant la messe, à partager le corps et le sang du Christ, en buvant du vin et en mangeant l’hostie.
+
+{{< hl-augmentation 4 >}}
 
 Celui-ci est un livre de dévotion réalisé au XV<sup>e</sup> siècle par des moines du prieuré de Sheen, fondé par Henri V en 1414 pour une pratiquante inconnue. À l’époque, les femmes ne sont pas autorisées à participer au rite de la messe et doivent donc mettre en œuvre des façons métaphoriques d’ingérer le sang du Christ comme nourriture spirituelle.
 
@@ -118,11 +118,11 @@ Ce livre est construit autour de l’épisode de la Passion, dont le point d’a
 
 Du milieu du livre jaillit ce sang remontant des profondeurs : comme le montre l’image du folio 2, c’est tout le livre qui saigne depuis ses premières pages. L’entrée en livre métaphorise progressivement l’entrée dans la chair de plus en plus rouge du Christ. Le livre devient un corps symbolique, corps en sang et il permet dès lors à sa propriétaire d’accomplir une pratique eucharistique domestique proche de l’ingestion.
 
-{{< hl-augmentation 5 >}}
-
 Sans traiter ici de la question centrale de la croyance, on voit que le livre suscite le corps à corps avec son lecteur. Le fragment d’image grossi de cette première double page, à la surface de laquelle point le sang, révèle des marques dans la chair du livre (il s’agit d’un vélin, soit une peau animale). Une partie de la peinture noire est effacée, ce qui indique l’intensité de la pratique d’incorporation : le livre a été frotté, griffé par sa propriétaire qui, en partageant les douleurs du Christ, a cherché avec le corps du livre à toucher celui du Christ.
 
 La proximité physique de la lectrice avec son ouvrage témoigne de la volonté fervente d’une relation d’intimité avec le corps du Christ, dans la rage et la douleur de sa souffrance et dans l’intensité d’un rituel d’incorporation. Dans ce rapport au livre, le corps du Christ incarné dans la chair animale sacralisée aura aussi laissé ses marques colorées sur la peau, les ongles et les lèvres de la croyante. Ce rapport intime au livre lui permet, à l’instar du rituel eucharistique, d’en incorporer le sang comme pour le boire, au lieu même de la blessure.
+
+{{< hl-augmentation 5 >}}
 
 Ce qui frappe, ici, c’est l’intensité de la relation entre des pratiques corporelles et leur effet sur la matière du livre. Quand le livre « réagit » au corps de sa lectrice (la peinture s’écaille, s’efface, le vélin se transforme sous l’effet du frottement), il suscite par retour d’effet une réaction de sa propriétaire : déploiement de sensorialité, d’émotion (larmes, par exemple), marques de peintures sur la peau, etc. Le corps de la lectrice n’est pas seulement un corps d’usager répondant à des éléments ou des caractéristiques prédéfinies, il vibre intensément, il est traversé d’une énergie qui le met en mouvement au monde – et ce jusque dans sa croyance.
 
@@ -222,6 +222,7 @@ Au-delà du livre lui-même, c’est aussi considérer l’importance de l’obj
 
 C’est là, nous semble-t-il, l’une des fonctions primordiales du champ du design, qu’il doit porter encore pour les livres à venir : pour fonder la pérennisation de ces « nouveaux » objets de lecture et les inscrire dans une histoire que les historiens retiendront comme celle du livre, pour mettre en place le moteur de réussite des expériences en cours sur le numérique, il s’agira sans doute de répondre à cette nécessité anthropologique, à savoir, trouver les conditions de possibilité de l’effectuation d’une lecture qui ne dissocie pas le _corps_ et le _média_, _l’être_ et _le_ _lire_, le _geste_ (de lecture) et l’_interprétation_.
 
+{{< hl-augmentation none >}}
 
 ## Bibliographie
 
