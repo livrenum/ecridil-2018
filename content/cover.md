@@ -4,7 +4,7 @@ weight: 1
 menu: false
 type: cover
 slug: .
-image: img/couverture-ecridil-2018.jpg
+image: img/couverture.jpg
 ---
 
 Après plus d’une décennie d’expérimentations sur le livre numérique (depuis les premières liseuses et l’adoption du standard epub), les discours soutiennent soudain l’idée d’une certaine faillite de la révolution annoncée pour le livre dans un contexte numérique, à grands renforts d’études, par exemple, sur la préférence des jeunes pour les livres sur support papier. C’est pourtant là faire l’impasse de transformations profondes dans les pratiques de production et de consommation du livre aujourd’hui – depuis le succès de la plateforme Kindle d’Amazon, de nouveaux modes de circulation du savoir scientifique (pensons à l’enjeu du libre accès et de la structuration des contenus), les nouvelles formes numériques de diffusion de la culture, jusqu’aux statistiques impressionnantes d’adhésion au prêt numérique d’ouvrages dans les bibliothèques publiques. S’il y a certainement une conception conventionnelle du livre qui persiste dans les esprits et les préférences des lecteurs (rattachée à son acquisition, à sa manipulation, à sa possession physique sous forme de codex), un examen du spectre large des manifestations du livre aujourd’hui ne peut écarter une pénétration avérée du numérique dans ses modalités d’existence. Au cœur de ce colloque s’inscrit un questionnement fondamental et transversal : qu’est-ce qu’un livre ? Comment est-il appelé à se transformer en contexte numérique ?
