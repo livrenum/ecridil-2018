@@ -161,15 +161,6 @@
           "2009"
         ]
       ]
-    },
-    "accessed": {
-      "date-parts": [
-        [
-          "2019",
-          9,
-          6
-        ]
-      ]
     }
   },
   {
@@ -178,7 +169,6 @@
     "title": "Stendhal, Journaux et papiers",
     "publisher": "ELLUG",
     "publisher-place": "Grenoble",
-    "edition": "2013",
     "event-place": "Grenoble",
     "author": [
       {
@@ -194,7 +184,14 @@
         "family": "Corredor",
         "given": "Marie-Rose"
       }
-    ]
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2013"
+        ]
+      ]
+    }
   },
   {
     "id": "MeynardLebarbe2015_voir_lire_comprendre",
