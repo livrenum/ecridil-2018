@@ -94,7 +94,13 @@ $quire-page-link-color: $color-primary !default;
 
     .title {
       font-family: $quire-cover-font-family;
-      font-size: calc(3.75rem * #{$quire-cover-text-scale});
+      font-size: calc(3.5rem * #{$quire-cover-text-scale});
+      @media screen and (min-width: 40rem) {
+        font-size: calc(4.25rem * #{$quire-cover-text-scale});
+      }
+      @media screen and (min-width: 72rem) {
+        font-size: calc(5rem * #{$quire-cover-text-scale});
+      }
       font-weight: 300;
       line-height: 1.07;
       margin-top: 8rem;
@@ -144,6 +150,10 @@ $quire-page-link-color: $color-primary !default;
       @media print {
         font-size: 18pt;
         color: $color-primary;
+      }
+
+      &__before-list {
+        font-size: calc(1rem * #{$quire-cover-text-scale});
       }
     }
   }

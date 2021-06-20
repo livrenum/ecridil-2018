@@ -39,7 +39,7 @@ Cover page layout. This controls the home page of the publication.
         {{- if .Site.Data.publication.contributor_as_it_appears -}}
         {{ .Site.Data.publication.contributor_as_it_appears }}
         {{ else }}
-        <span >Sous la direction de </span>
+        <span class="contributor__before-list">Sous la direction de </span>
         {{ partial "contributor-list.html" (dict "range" .Site.Data.publication.contributor "contributorType" "primary" "listType" "list" ) }}
         {{- end -}}
         </div>
