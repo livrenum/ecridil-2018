@@ -99,8 +99,6 @@ De manière concrète, nous avons pensé un environnement numérique dans lequel
 
 Du point de vue méthodologique et technique, nous avons décidé de mettre en place une infrastructure numérique qui reflète au mieux les hypothèses théoriques précédemment décrites. La volonté de sortir du paradigme canonique de l'édition savante nous a poussé en particulier à effectuer trois choix stratégiques :
 
-
-
 1. Créer une base de données ouverte interrogeable via une interface de programmation (API).
 2. Permettre une structuration libre des données, en évitant d'imposer une approche épistémologique prédéterminée.
 3. Animer des communautés afin d'initier le processus collaboratif.

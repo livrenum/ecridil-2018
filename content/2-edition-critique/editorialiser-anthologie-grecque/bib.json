@@ -663,16 +663,29 @@
     "type": "book"
   },
   {
-    "id": "Terras",
-    "author": [{
-      "family": "Terras",
-      "given": "Melissa"
-    }],
-    "language": "en",
-    "page": "20",
-    "source": "Zotero",
+    "id": "Terras2010",
+    "abstract": "We have moved still further from the Ancient World. In literature and the arts we \nhave seen a startling break with tradition, and above all the technological revolution \nwhich we are witnessing is transforming our lives and insensibly affecting our \noutlook, encouraging us to live in the present, judging everything by the standard \nof technical efficiency and assuming that the latest is always the best. Descartes \ncompared the study of antiquity to foreign travel; it was useful, he said, to know \nsomething of the manners of different nations, but when too much time was spent \nin travelling, men became strangers to their own country ‘and the overcurious in \nthe customs of the past are generally ignorant of those of the present’. Today, there \nis very little danger of living in the past.1",
+    "author": [
+      {
+        "family": "Terras",
+        "given": "Melissa"
+      }
+    ],
+    "container-title": "Digital Research in the Study of Classical Antiquity",
+    "ISBN": "978-1-315-57721-0",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "number-of-pages": "20",
+    "page": "171-189",
+    "publisher": "Routledge",
     "title": "The Digital Classicist: Disciplinary Focus and Interdisciplinary Vision",
-    "type": "article-journal"
+    "title-short": "The Digital Classicist",
+    "type": "chapter"
   },
   {
     "id": "Anacreon901",
