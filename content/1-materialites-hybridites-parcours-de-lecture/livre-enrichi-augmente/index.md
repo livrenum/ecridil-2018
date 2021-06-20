@@ -120,13 +120,9 @@ Espace de travail collaboratif autour de l’œuvre, le Jardin permet de s’app
 En termes de design, la conception ergonomique et graphique du Jardin s’est avérée complexe, car elle devait répondre à des problématiques fonctionnelles de lecture, de création et de consultation de contenus, tout en restituant un univers symbolique : nous avons tenté d’éviter l’écueil de s’en tenir seulement à l’habillage graphique d’une architecture éditoriale et technique, pour véritablement conceptualiser une pensée visuelle et la modéliser. Il s’agissait d’articuler la forme classique du carnet, c’est-à-dire celle du _codex_ dont on tourne les pages, avec une représentation du jardin de Candide et la métaphore de l’arbre de la connaissance.
 
 
-{{< hl-augmentation none 10 >}}
-
 #### Lire, explorer, éditorialiser : une autre conception du livre
 
 C’est ainsi un parcours en trois temps — lire, explorer, éditorialiser — qui est proposé au lecteur à travers ces trois entrées du livre-application, lesquelles correspondent à trois formes symboliques de représentation des connaissances :
-
-
 
 *   le _codex_, avec sa structure linéaire et hiérarchique ;
 *   la carte, avec son approche spatiale, heuristique et circulaire ;
@@ -138,6 +134,7 @@ Dans le Monde, l’œuvre se trouve délinéarisée et mise en réseau à la foi
 
 Cette approche singulière de l’œuvre littéraire cherche à faire une place nouvelle au lecteur, avec l’idée que celui-ci pourrait construire sa propre vision de l’œuvre, formuler sa propre interprétation dans le livre : c’est le sens du Jardin et des pratiques d’éditorialisation mises en place sur le Web. Ici, l’œuvre n’est plus qu’interprétation par le lecteur et production d’un nouveau texte articulé à celui de l’auteur. Le livre devient un espace en expansion, qui évolue au fur et à mesure que de nouveaux contenus sont ajoutés par les lecteurs.
 
+{{< hl-augmentation none 10 >}}
 
 ## 1.2. De la conception à la réception : une convergence du livre et du web
 
