@@ -678,80 +678,88 @@
     "id": "Anacreon901",
     "abstract": "Codicis Anthologiæ Palatini pars altera [XIV-XV, — fol. 615-662] -- 0901-1000 -- manuscrits",
     "accessed": {
-      "date-parts": [[2020, 3, 4]]
+      "date-parts": [
+        [
+          2020,
+          3,
+          4
+        ]
+      ]
     },
-    "author": [{
-      "family": "texte",
-      "given": "ANACREON Teius Auteur",
-      "dropping-particle": "du"
-    }, {
-      "family": "texte",
-      "given": "ANASTASIUS ὁ Τραυλός Auteur",
-      "dropping-particle": "du"
-    }, {
-      "family": "texte",
-      "given": "ARETHAS Cæsariensis Auteur",
-      "dropping-particle": "du"
-    }, {
-      "family": "texte",
-      "given": "BESANTINUS Rhodius Auteur",
-      "dropping-particle": "du"
-    }, {
-      "family": "texte",
-      "given": "COMETAS Auteur",
-      "dropping-particle": "du"
-    }, {
-      "family": "texte",
-      "given": "CONSTANTINUS Rhodius Auteur",
-      "dropping-particle": "du"
-    }, {
-      "family": "texte",
-      "given": "CONSTANTINUS Siculus Auteur",
-      "dropping-particle": "du"
-    }, {
-      "family": "texte",
-      "given": "CYRUS poeta Auteur",
-      "dropping-particle": "du"
-    }, {
-      "family": "texte",
-      "given": "DOSIADES Auteur",
-      "dropping-particle": "du"
-    }, {
-      "family": "texte",
-      "given": "GREGORIUS Nazianzenus (S ) Auteur",
-      "dropping-particle": "du"
-    }, {
-      "family": "IGNATIUS",
-      "given": "diaconus magnæ ecclesiæ CP Auteur",
-      "dropping-particle": "du texte"
-    }, {
-      "family": "texte",
-      "given": "JOANNES Gazæus grammaticus Auteur",
-      "dropping-particle": "du"
-    }, {
-      "family": "LEO VI Sapiens",
-      "given": "imperator CP Prochiron legum Auteur",
-      "dropping-particle": "du texte"
-    }, {
-      "family": "texte",
-      "given": "METRODORUS Auteur",
-      "dropping-particle": "du"
-    }, {
-      "family": "texte",
-      "given": "SOCRATES Atheniensis Auteur",
-      "dropping-particle": "du"
-    }, {
-      "family": "texte",
-      "given": "THEOCRITUS Auteur",
-      "dropping-particle": "du"
-    }, {
-      "family": "texte",
-      "given": "THEOPHANES Auteur",
-      "dropping-particle": "du"
-    }],
+    "author": [
+      {
+        "family": "Anacreon",
+        "given": "Teius"
+      },
+      {
+        "family": "Anastasius ὁ",
+        "given": "Τραυλός"
+      },
+      {
+        "family": "Arethas",
+        "given": "Cæsariensis"
+      },
+      {
+        "family": "Besantinus",
+        "given": "Rhodius"
+      },
+      {
+        "family": "Constantinus",
+        "given": ""
+      },
+      {
+        "family": "Constantinus",
+        "given": "Siculus"
+      },
+      {
+        "family": "Cyrus",
+        "given": "poeta"
+      },
+      {
+        "family": "Dosiades",
+        "given": "Nazianzenus (S)"
+      },
+      {
+        "family": "Ignatius",
+        "given": "diaconus magnæ ecclesiæ CP"
+      },
+      {
+        "family": "Joannes",
+        "given": "Gazæus",
+        "dropping-particle": "grammaticus"
+      },
+      {
+        "family": "Leo VI Sapiens",
+        "given": "imperator CP Prochiron",
+        "dropping-particle": "legum"
+      },
+      {
+        "family": "Metrodorus",
+        "given": ""
+      },
+      {
+        "family": "Socrates",
+        "given": "Atheniensis"
+      },
+      {
+        "family": "Theocritus",
+        "given": ""
+      },
+      {
+        "family": "Theophanes",
+        "given": ""
+      }
+    ],
     "genre": "manuscript",
     "issued": {
-      "date-parts": [[901], [1000]]
+      "date-parts": [
+        [
+          901
+        ],
+        [
+          1000
+        ]
+      ]
     },
     "language": "FR",
     "source": "gallica.bnf.fr",
