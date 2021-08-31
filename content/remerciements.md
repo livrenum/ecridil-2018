@@ -1,8 +1,6 @@
 ---
 title: Remerciements
 type: page
-subtitle: >
-  
 weight: 1002
 ---
 
