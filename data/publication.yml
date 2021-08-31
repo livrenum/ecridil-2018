@@ -23,7 +23,7 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date:
+pub_date: 2021
 language: fr
 pub_type: book # book | journal-periodical | other
 
@@ -31,10 +31,10 @@ identifier:
   isbn:
 
 publisher:
-  - name: Université Laval
+  - name: ARCANES
     location: Québec
-    url: http://design.ulaval.ca
-    logo: logo-getty.png
+    url: http://arcanes.ca
+    logo: logo-arcanes.jpg
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -253,10 +253,10 @@ resource_link:
     media_type: vnd.amazon.mobi8-ebook
     link_relation: alternate
     url: /downloads/output.mobi
-  - type: footer-link
-    name: À propos
-    link_relation: about
-    url: /a-propos/
+#  - type: footer-link
+#    name: À propos
+#    link_relation: about
+#    url: /a-propos/
 #  - type: footer-link
 #    name: Privacy Policy
 #    link_relation: privacy-policy
