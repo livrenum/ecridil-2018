@@ -203,6 +203,43 @@ function espacesInsecablesSetup() {
   espaceFine()
 }
 
+function hypothesisSetup() {
+  // search for an element with id `please-load-hypothesis`
+  var loadHypothesis = document.getElementById('please-load-hypothesis') ? true : false
+
+  console.log('hypothesis setup', loadHypothesis)
+  // checks for page variable set by front-matter
+  // in the `main` block of layouts/hybritexte/single.html
+  if (loadHypothesis) {
+    // see https://github.com/hypothesis/client/issues/3131
+    const hypothisisScript = document.createElement('script')
+    hypothisisScript.setAttribute('src', 'https://hypothes.is/embed.js')
+    hypothisisScript.setAttribute('async', true)
+    document.head.appendChild(hypothisisScript)
+  }
+}
+
+function destroyHypothesis() {
+  const annotatorLink = document.querySelector(
+    'link[type="application/annotator+html"]'
+  )
+
+  if (annotatorLink) {
+    // Dispatch a 'destroy' event which is handled by the code in
+    // annotator/main.js to remove the client.
+    const destroyEvent = new Event('destroy');
+    annotatorLink.dispatchEvent(destroyEvent);
+
+    const hypothesisAdder = document.querySelector('hypothesis-adder')
+    const hypothesisSidebar = document.querySelector('hypothesis-sidebar')
+    const hypothesisNotebook = document.querySelector('hypothesis-notebook')
+
+    hypothesisAdder && document.querySelector('body').removeChild(hypothesisAdder)
+    hypothesisSidebar && document.querySelector('body').removeChild(hypothesisSidebar)
+    hypothesisNotebook && document.querySelector('body').removeChild(hypothesisNotebook)
+  }
+}
+
 function deepZoomSetup() {
   let deepZoom = document.getElementById('js-deepzoom')
 
@@ -356,6 +393,7 @@ function pageTeardown() {
   navigationTeardown()
   destroyAugmentations()
   destroySmoothAnchors()
+  destroyHypothesis()
 }
 
 // Start
@@ -369,6 +407,7 @@ $(document).ready(() => {
   pageSetup()
   augmentationsSetup()
   smoothScrollAnchors()
+  hypothesisSetup()
 
   $('#container').smoothState({
     scroll: false,
@@ -391,6 +430,9 @@ $(document).ready(() => {
       smoothScrollAnchors()
       espacesInsecablesSetup()
 
+      // run `hypothesisSetup` after the page is loaded and the content is replaced
+      hypothesisSetup()
+
       if (window.ga) {
         window.ga('send', 'pageview', window.location.pathname);
       }
@@ -403,3 +445,5 @@ $(document).ready(() => {
     }
   })
 })
+
+

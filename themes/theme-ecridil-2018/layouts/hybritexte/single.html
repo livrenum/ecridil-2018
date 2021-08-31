@@ -67,4 +67,12 @@
     {{- partial "footer-buttons.html" . -}}
   </section>
 </article>
+
+
+{{/* Hypothesis - must be inside #container for change on each page */}}
+{{- if .Params.hypothesis -}}
+<script id="please-load-hypothesis">
+  // just a tag to load hypothes.is
+</script>
+{{- end -}}
 {{ end }}

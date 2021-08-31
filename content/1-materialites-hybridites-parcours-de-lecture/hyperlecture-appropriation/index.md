@@ -11,6 +11,7 @@ contributor:
   - id: fcormerais
 
 image: media/couverture.jpg
+hypothesis: false
 ---
 
 ## 1. L’actualité de lecture appropriative et les méthodes des humanités numériques
