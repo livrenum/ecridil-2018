@@ -53,13 +53,14 @@ contributor:
     affiliation: Université Laval
     bio: "Design médias et culture numériques. Design du livre en contexte numérique et systèmes d’écritures. Pratiques créatives, expérientielles et culture participative. Design de personnages de synthèse. Dispositifs de la culture numérique : fictions transmédiatiques, dispositifs narratifs, dispositifs géolocalisés, cinéma numérique, dispositifs de réalité augmentée, environnements multimodaux, jeux vidéos."
     url: https://www.design.ulaval.ca/personnel/professeurs/renee-bourassa
-    pic: contributors/renee-bourassa.jpg
+    pic: img/contributors/renee-bourassa.jpg
 
   - 
     id: xmiranda
     first_name: Ximena
     last_name: Miranda
-    title: Design
+    type: project-team
+    title: Design graphique
     affiliation: Université Laval
     bio: ""
     url: https://xmirandablog.wordpress.com/
@@ -69,11 +70,22 @@ contributor:
     id: lobrassard
     first_name: Louis-Olivier
     last_name: Brassard
+    type: project-team
     title: Développement
     bio: "Designer et développeur web, étudiant en philosophie et littératures à l’Université de Montréal."
     affiliation: Université de Montréal
     url: https://www.loupbrun.ca
-    pic: 
+    pic:
+  -
+    id: rbesson
+    first_name: Remy
+    last_name: Besson
+    type: project-team
+    title: Révision
+    bio: ""
+    affiliation: Université de Montréal
+    url:
+    pic:
 
   - 
     id: smonjour

@@ -1,5 +1,6 @@
 ---
 title: Remerciements
+type: page
 subtitle: >
   
 weight: 1002
@@ -15,3 +16,7 @@ Josée Vincent (GRÉLQ, Université de Sherbrooke),
 Marcello Vitali-Rosati (CRC en écritures numériques, Université de Montréal).
 
 Merci également à tous les acteurs d’ECRiDiL qui ont participé au foisonnement des idées lors de ce colloque et qui ont premis de faire émerger la présente publication.
+
+L’équipe de la publication <cite>Le livre défi de design</cite> remercie le **Conseil de Recherche du Canada en sciences humaines** pour son appui financier.
+
+![Logo CRSH](/img/sshrc-fip-full-color-fra.png)
