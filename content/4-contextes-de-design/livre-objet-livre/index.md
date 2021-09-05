@@ -15,7 +15,7 @@ image: media/couverture.jpg
 
 {{< hl-epigraph >}}
 
-_Mais qu’est-ce que c’est que toute cette histoire de livres ? Le Livre n’est-il pas censé être sur le déclin, son autorité en plein effritement, l’assiette de son impôt informationnel en fuite vers des banlieues où s’alignent d’impeccables haies et pelouses de silicone ? _{{< cite "Baker2004" 264 >}}
+Mais qu’est-ce que c’est que toute cette histoire de livres ? Le Livre n’est-il pas censé être sur le déclin, son autorité en plein effritement, l’assiette de son impôt informationnel en fuite vers des banlieues où s’alignent d’impeccables haies et pelouses de silicone ? {{< cite "Baker2004" 264 >}}
 
 {{< /hl-epigraph >}}
 
