@@ -48,7 +48,9 @@
       {
         "family": "Baker",
         "given": "Nicholson"
-      },
+      }
+    ],
+    "translator": [
       {
         "family": "Cazé",
         "given": "Antoine"
@@ -92,7 +94,7 @@
     "type": "book",
     "edition": "Gallimard edition",
     "publisher": "Messageries du Livre",
-    "title": "La Chambre Claire by Roland Barthes",
+    "title": "La Chambre Claire",
     "author": [
       {
         "family": "Barthes",
@@ -351,6 +353,39 @@
         ]
       ]
     }
+  },
+  {
+    "id": "Foucault1994",
+    "author": [
+      {
+        "family": "Foucault",
+        "given": "Michel"
+      }
+    ],
+    "container-title": "Dits et écrits, 1954-1988",
+    "editor": [
+      {
+        "family": "Defert",
+        "given": "Daniel"
+      }
+    ],
+    "event-place": "Paris",
+    "ISBN": "978-2-07-073987-5",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "note": "",
+    "page": "789-821",
+    "publisher": "Gallimard",
+    "publisher-place": "Paris",
+    "source": "Open WorldCat",
+    "title": "Qu’est-ce qu’un auteur ?",
+    "type": "chapter",
+    "volume": "1"
   },
   {
     "id": "Jeanneret2008",

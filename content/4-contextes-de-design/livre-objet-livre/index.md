@@ -15,11 +15,11 @@ image: media/couverture.jpg
 
 {{< hl-epigraph >}}
 
-Mais qu’est-ce que c’est que toute cette histoire de livres ? Le Livre n’est-il pas censé être sur le déclin, son autorité en plein effritement, l’assiette de son impôt informationnel en fuite vers des banlieues où s’alignent d’impeccables haies et pelouses de silicone ? {{< cite "Baker2004" 264 >}}
+_Mais qu’est-ce que c’est que toute cette histoire de livres ? Le Livre n’est-il pas censé être sur le déclin, son autorité en plein effritement, l’assiette de son impôt informationnel en fuite vers des banlieues où s’alignent d’impeccables haies et pelouses de silicone ? _{{< cite "Baker2004" 264 >}}
 
 {{< /hl-epigraph >}}
 
-Lorsque Nicholson Baker écrit ces lignes, en 1995, il s’est livré à une véritable exploration des catalogues publicitaires de vente par correspondance de mobilier, en constatant la place accordée aux livres dans les salons ou dans les bibliothèques qui y figurent en photo. Nicholson Baker met ainsi en évidence la sélection de livres et de titres opérée par les décorateurs des marques pour venir garnir les étagères, les tables basses – en un mot les rendre plus vivants et habités. Livres anciens, grands formats, livres aux titres bien oubliés voire inconnus, tous ces objets sont destinés à décorer une pièce, créer une ambiance, stimuler la projection du client. Et Nicholson Baker ajoute : «  Les livres séduisent ceux qui feuillettent les catalogues, lecteurs aussi bien que non-lecteurs, les incitant à meubler des vies alternatives à leur profit – des vies où ils découvrent qu’ils sont enfin capables de faire cet exercice de yoga contorsionniste dont tant de gens ont parlé, et qu’ils peuvent “se pelotonner avec un bon livre” »<sup> </sup>(Powell, cité par Baker {{< cite "-Baker2004" 274 >}}.
+Lorsque Nicholson Baker écrit ces lignes, en 1995, il s’est livré à une véritable exploration des catalogues publicitaires de vente par correspondance de mobilier, en constatant la place accordée aux livres dans les salons ou dans les bibliothèques qui y figurent en photo. Nicholson Baker met ainsi en évidence la sélection de livres et de titres opérée par les décorateurs des marques pour venir garnir les étagères, les tables basses – en un mot les rendre plus vivants et habités. Livres anciens, grands formats, livres aux titres bien oubliés voire inconnus, tous ces objets sont destinés à décorer une pièce, créer une ambiance, stimuler la projection du client. Et Nicholson Baker ajoute : «  Les livres séduisent ceux qui feuillettent les catalogues, lecteurs aussi bien que non-lecteurs, les incitant à meubler des vies alternatives à leur profit – des vies où ils découvrent qu’ils sont enfin capables de faire cet exercice de yoga contorsionniste dont tant de gens ont parlé, et qu’ils peuvent “se pelotonner avec un bon livre” »<sup> </sup>(Powell, cité par Baker {{< cite "-Baker2004" 274 >}}).
 
 {{< hl-augmentation 1 none >}}
 
@@ -95,7 +95,7 @@ Je vais me concentrer sur trois caractéristiques de ces scénographies numériq
 
 Ces scénographies viennent en général ponctuer une lecture, _signer_ une chronique (quand il s’agit d’une blogueuse littéraire), publiée sur un blog ou réalisée sous format vidéo sur Youtube et s’inscrivent souvent dans une série, une collection de titres lus, chroniqués. Certains comptes de blogueuses littéraires sur Instagram apparaissent comme une anthologie[^17] {{< cite "Doueihi2011" "3-15" >}} visuelle et scénographiée de leurs lectures, et constituent une archive personnelle partagée sur les réseaux sociaux.
 
-En second lieu, elles relèvent d’une forme de rhétorique formelle articulée autour de la _dispositio_, soit l’agencement des objets entre eux et dans leur relation au livre qu’ils encadrent, éditorialisent et donnent à interpréter comme signifiant. Elles empruntent parfois les codes esthétiques de la nature morte par la reprise de certains motifs ou par des agencements spécifiques. Elles cherchent, par le caractère parfois insolite des éléments ainsi disposés, à éveiller chez celui qui regarde une forme de _punctum_ pour aller au-delà du simple intérêt intellectuel qu’est le _studium_ barthésien {{< cite "Barthes1980" >}}.
+En second lieu, elles relèvent d’une forme de rhétorique formelle articulée autour de la _dispositio_, soit l’agencement des objets entre eux et dans leur relation au livre qu’ils encadrent, éditorialisent et donnent à interpréter comme signifiant. Elles empruntent parfois les codes esthétiques de la nature morte par la reprise de certains motifs ou par des agencements spécifiques. Elles cherchent, par le caractère parfois insolite des éléments ainsi disposés, à éveiller chez celui qui regarde une forme de _punctum_ pour aller au-delà du simple intérêt intellectuel qu’est le _studium_ barthésien{{< cite "Barthes1980" >}}.
 
 Pourtant, si elles célèbrent à l’évidence un ouvrage, elles s’inscrivent dans une logique similaire à celle de la différenciation en marketing[^18] : elles visent d’une part à susciter l’intérêt des destinataires (leurs contacts sur les réseaux sociaux, leurs abonnés, etc.), à élargir leur audience, et d’autre part à susciter l’intérêt des éditeurs qui y voient une forme de promotion et de retour gracieux, après l’envoi d’un service de presse à un blogueur ou à un youtubeur littéraire. Non contents de leur envoyer des ouvrages à chroniquer, les éditeurs ne se privent pas de rediffuser ces photographies scénographiées des titres de leur catalogue, voire d’en créer eux-mêmes pour redynamiser la circulation du livre dans les espaces sociaux.
 
@@ -128,13 +128,13 @@ Filmer sa bibliothèque, en commenter les rayonnages, l’agencement, le classem
 
 Ensuite, comme objet matériel, le livre existe, sur Instagram, partciulièrement à travers tous les acteurs qui le composent en amont de sa diffusion et lui donnent son image, sa forme, son contenu, soit en d’autres termes, ceux qui le fabriquent. Le livre est alors un corps d’énonciateurs divers et il recueille, selon la logique de l’énonciation éditoriale {{< cite "Souchier1998" 137-145 >}}, leurs traces, leurs empreintes : celles de l’auteur, de l’éditeur, des libraires, etc. Au premier chef, sans surprise, les publications des maisons d’édition sur les réseaux sociaux mettent en avant et côte à côte l’auteur et l’éditeur, dans une forme qui évoque les publicités imprimées dans la presse par exemple, dans une approche relativement institutionnelle.
 
-Cette éditorialisation du livre par l’éditeur souligne bien sûr la fonction-auteur[^19] foucaldienne, mais aussi l’idée d’une œuvre de l’esprit soumise à des droits d’auteur et d’un design graphique (la couverture est placée en vedette sur le visuel) qui identifie une collection, un auteur, une maison. L’accent est dès lors moins mis sur la matérialité du livre (seule la couverture est visible) que sur l’auctorialité : la photo de l’auteur met dans ce cas la figure de l’écrivain à l’honneur.
+Cette éditorialisation du livre par l’éditeur souligne bien sûr la fonction-auteur foucaldienne {{< cite "Foucault1994" >}}, mais aussi l’idée d’une œuvre de l’esprit soumise à des droits d’auteur et d’un design graphique (la couverture est placée en vedette sur le visuel) qui identifie une collection, un auteur, une maison. L’accent est dès lors moins mis sur la matérialité du livre (seule la couverture est visible) que sur l’auctorialité : la photo de l’auteur met dans ce cas la figure de l’écrivain à l’honneur.
 
 Une auteure jeunesse/adolescents comme Samantha Bailly a également à cœur, sur Instagram ou Facebook, d’éduquer ses lecteurs sur la fabrication du livre et les différentes phases auctoriales et éditoriales au travers de vidéos pédagogiques, de messages éphémères sur Instagram ou de publications où elle explique son travail de correction des épreuves juste reçues par exemple. Qu’il s’agisse des codes de présentation repris par les vidéastes ou des vidéos pédagogiques d’auteurs sur le web, toutes ces pratiques disent le livre dans sa chair, dans sa matérialité, dans sa corporéité sur les réseaux numériques. Le livre est alors un objet écrit, fabriqué, élaboré, imprimé qui mobilise différents acteurs et professionnels que les idéologies de la désintermédiation et les discours d’accompagnement du numérique ont contribué à écarter.
 
 Les mondes professionnels du livre s’attachent à représenter les médiations qu’ils incarnent, à mettre l’accent sur les savoir-faire qu’ils impriment au livre et qui, en contexte numérique, sont mises à l’épreuve – si l’on songe, par exemple, au succès grandissant rencontré par l’auto-édition récemment par exemple {{< cite "Deseilligny2017" >}}. Le livre est évidemment recontextualisé dans son milieu « naturel » si l’on peut dire, les professionnels mettant l’accent sur sa fabrication.
 
-Enfin, j’évoquerai pour terminer une dernière modalité de jeu autour du livre, déployée à l’échelle internationale, à savoir les opérations chasses aux livres, qui consistent à cacher des livres dans l’espace public (train, métro, places dans Paris, etc.) pour favoriser le partage de lectures. Au-delà de ce geste apparent de décontextualisation du livre (dans la mesure où ce dernier est extrait d’une bibliothèque personnelle, d’une librairie), ces opérations jouent sur la relation entre espace réel et espace de la fiction et visent à installer la littérature dans la vie, dans l’extraordinaire d’une trouvaille inattendue, dans le prolongement de pratiques plus anciennes comme le livre-voyageur. Samantha Bailly a travaillé, comme d’autres auteurs, avec le site _Book Fairies_[^20], dans le cadre de la promotion de son ouvrage _Les Stagiaires_[^21], en allant cacher des exemplaires de son ouvrage dans les lieux évoqués dans le livre (qui se passe à Paris). S’il s’agit de fédérer des lecteurs, l’opération a aussi pour visée d’inscrire l’ouvrage comme matérialité dans de multiples contextes et de montrer qu’il occupe tous les espaces possibles, fût-il recouvert d’un plastique pour le protéger de la pluie. Ce type d’opération comporte aussi, ne le négligeons pas, un versant promotionnel visant à stimuler une communauté de lecteurs en mettant l’accent davantage sur la dimension ludique que sur la stratégie de communication qu’elle est aussi.
+Enfin, j’évoquerai pour terminer une dernière modalité de jeu autour du livre, déployée à l’échelle internationale, à savoir les opérations chasses aux livres, qui consistent à cacher des livres dans l’espace public (train, métro, places dans Paris, etc.) pour favoriser le partage de lectures. Au-delà de ce geste apparent de décontextualisation du livre (dans la mesure où ce dernier est extrait d’une bibliothèque personnelle, d’une librairie), ces opérations jouent sur la relation entre espace réel et espace de la fiction et visent à installer la littérature dans la vie, dans l’extraordinaire d’une trouvaille inattendue, dans le prolongement de pratiques plus anciennes comme le livre-voyageur. Samantha Bailly a travaillé, comme d’autres auteurs, avec le site _Book Fairies_[^19], dans le cadre de la promotion de son ouvrage _Les Stagiaires_[^20], en allant cacher des exemplaires de son ouvrage dans les lieux évoqués dans le livre (qui se passe à Paris). S’il s’agit de fédérer des lecteurs, l’opération a aussi pour visée d’inscrire l’ouvrage comme matérialité dans de multiples contextes et de montrer qu’il occupe tous les espaces possibles, fût-il recouvert d’un plastique pour le protéger de la pluie. Ce type d’opération comporte aussi, ne le négligeons pas, un versant promotionnel visant à stimuler une communauté de lecteurs en mettant l’accent davantage sur la dimension ludique que sur la stratégie de communication qu’elle est aussi.
 
 Le panorama non exhaustif et sans doute trop rapide que je viens de réaliser tend à analyser les circulations du livre dans un environnement littéraire ou professionnel, et apparemment hors contexte. D’un contexte marchand, celui du prêt-à-porter en ligne, à un autre, celui de la promotion d’un ouvrage qui vient de paraître, le livre comme signe, objet symbolique, marchand, social, comme être culturel enfin, circule.
 
@@ -149,72 +149,45 @@ Ce faisant, ce sont aussi les médiations du lire et de la lecture qui sont déc
 Toutes ces modalités de convocation de l’objet-livre comme objet symbolique investi de fonctions sociales, communautaires, culturelles, mettent en valeur enfin, en creux ou de manière plus franche, le livre en tant qu’objet d’une industrie : lorsque les vidéastes exhibent leurs piles de livre, elles suggèrent surtout l’usage du service de presse et la course à la visibilité pour chaque titre ; lorsque Samantha Bailly évoque l’opération _de chasse aux livres_ c’est aussi pour fidéliser ses lecteurs dans un environnement concurrentiel et inventer des formes promotionnelles ludiques et originales, soulignant les enjeux nouveaux auxquels sont confrontés les auteurs pour acquérir une plus grande visibilité.
 
 
-## Bibliographie
-
-{{< bibliography >}}
-
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 
-[^1]:
-  http://www.sezane.com/
+[^1]: http://www.sezane.com/
 
-[^2]:
-  https://www.balzac-paris.fr
+[^2]: https://www.balzac-paris.fr
 
-[^3]:
-  Deseilligny Oriane, Wrona Adeline, « Peut-on habiter en poète les dispositifs médiatiques ? », _Communication & langages_, 2020/1, n° 203, p. 27-43. En ligne : https://www-cairn-info.ezproxy.univ-paris13.fr/revue-communication-et-langages-2020-1-page-27.htm
+[^3]: Deseilligny Oriane, Wrona Adeline, « Peut-on habiter en poète les dispositifs médiatiques ? », _Communication & langages_, 2020/1, n° 203, p. 27-43. En ligne : https://www-cairn-info.ezproxy.univ-paris13.fr/revue-communication-et-langages-2020-1-page-27.htm
 
-[^4]:
-  Roland Barthes, _op. cit_., p. 254.
+[^4]: Roland Barthes, _op. cit_., p. 254.
 
-[^5]:
-  Blog _The parisienne_, 1<sup>er</sup> juin 2017 : [http://www.theparisienne.fr/2017/06/sezane-paris-le-concept-pousse-a-lextreme/](http://www.theparisienne.fr/2017/06/sezane-paris-le-concept-pousse-a-lextreme/)
+[^5]: Blog _The parisienne_, 1<sup>er</sup> juin 2017 : [http://www.theparisienne.fr/2017/06/sezane-paris-le-concept-pousse-a-lextreme/](http://www.theparisienne.fr/2017/06/sezane-paris-le-concept-pousse-a-lextreme/)
 
-[^6]:
-  Marine Siguier, « Sexe, lecture et vidéo : figures de la lecture érotisée en régime audiovisuel », _Fabula / Les colloques_, La littératube: une nouvelle écriture ?, 2019. URL : [http://www.fabula.org/colloques/document6292.php](http://www.fabula.org/colloques/document6292.php). Voir aussi Siguier Marine, « Donner à voir le lecteur sur les réseaux sociaux numériques : « Bookstagram », entre nouveaux régimes de visibilité et iconographies standardisées », _Études de communication_, 2020/1 (n° 54), p. 113-134.
+[^6]: Marine Siguier, « Sexe, lecture et vidéo : figures de la lecture érotisée en régime audiovisuel », _Fabula / Les colloques_, La littératube: une nouvelle écriture ?, 2019. URL : [http://www.fabula.org/colloques/document6292.php](http://www.fabula.org/colloques/document6292.php). Voir aussi Siguier Marine, « Donner à voir le lecteur sur les réseaux sociaux numériques : « Bookstagram », entre nouveaux régimes de visibilité et iconographies standardisées », _Études de communication_, 2020/1 (n° 54), p. 113-134.
 
-[^7]:
-  Marti de Montety Caroline, « Les marques, acteurs culturels - dépublicitarisation et valeur sociale ajoutée », _Communication & management_, 2013/2, Vol. 10, p. 24.
+[^7]: Marti de Montety Caroline, « Les marques, acteurs culturels - dépublicitarisation et valeur sociale ajoutée », _Communication & management_, 2013/2, Vol. 10, p. 24.
 
-[^8]:
-  Jean Baudrillard, _La société de consommation_ [1970], Paris, Gallimard, coll. « Folio Essais »; Stéphane Vial, « Le design, un acte de communication ? », _Hermès, La Revue_ 2014/3, n° 70 p. 174-180.
+[^8]: Jean Baudrillard, _La société de consommation_ [1970], Paris, Gallimard, coll. « Folio Essais »; Stéphane Vial, « Le design, un acte de communication ? », _Hermès, La Revue_ 2014/3, n° 70 p. 174-180.
 
-[^9]:
-  Yves Jeanneret, _Penser la trivialité. Volume 1, la vie triviale des êtres culturels_, Paris, Hermès/Lavoisier, 2008.
+[^9]: Yves Jeanneret, _Penser la trivialité. Volume 1, la vie triviale des êtres culturels_, Paris, Hermès/Lavoisier, 2008.
 
-[^10]:
-  Jean Baudrillard, _op.cit._, p. 267.
+[^10]: Jean Baudrillard, _op.cit._, p. 267.
 
-[^11]:
-  _Ibid_., p. 270-271
+[^11]: _Ibid_., p. 270-271
 
-[^12]:
-  Gilles Lipovetsky, Jean Serroy, _op.cit._ p. 253.
+[^12]: Gilles Lipovetsky, Jean Serroy, _op.cit._ p. 253.
 
-[^13]:
-  Roland Barthes, _op. cit_., p. 259.
+[^13]: Roland Barthes, _op. cit_., p. 259.
 
-[^14]:
-  Voir Marine, Siguier « Le #Bookporn sur Instagram : poétique d’une littérature ornementale ? », _Communication & langages_, 2020/1 (N° 203), p. 63-80. URL : https://www.cairn.info/revue-communication-et-langages-2020-1-page-63.htm
+[^14]: Voir Marine, Siguier « Le #Bookporn sur Instagram : poétique d’une littérature ornementale ? », _Communication & langages_, 2020/1 (N° 203), p. 63-80. URL : https://www.cairn.info/revue-communication-et-langages-2020-1-page-63.htm
 
-[^15]:
-  Roland Barthes, _op. cit_., p. 257.
+[^15]: Roland Barthes, _op. cit_., p. 257.
 
-[^16]:
-  Franck Cochoy, _De la curiosité: L'art de la séduction marchande_, Armand Colin, 2011.
+[^16]: Franck Cochoy, _De la curiosité: L'art de la séduction marchande_, Armand Colin, 2011.
 
-[^17]:
-  Milad Doueihi, « Un humanisme numérique », _Communication & langages_, 2011/1, n° 167, p. 3-15.
+[^17]: Milad Doueihi, « Un humanisme numérique », _Communication & langages_, 2011/1, n° 167, p. 3-15.
 
-[^18]:
-  La différenciation en marketing consiste à « décaler les caractéristiques d’un produit dans l’espoir que les spécificités associées à ce décalage viennent rencontrer des préférences non satisfaites par le marché » . Voir, F. Cochoy, _op. cit_., 2011 p. 56.
+[^18]: La différenciation en marketing consiste à « décaler les caractéristiques d’un produit dans l’espoir que les spécificités associées à ce décalage viennent rencontrer des préférences non satisfaites par le marché » . Voir, F. Cochoy, _op. cit_., 2011 p. 56.
 
-[^19]:
-  Michel Foucault, 1969, « Qu’est-ce qu’un auteur ? », p. 789-821, in _Dits et écrits, 1954-1988, tome I_, Paris, Gallimard, 1994.
+[^19]: https://ibelieveinbookfairies.com/
 
-[^20]:
-  https://ibelieveinbookfairies.com/
-
-[^21]:
-  [http://www.samantha-bailly.com/1892/retour-sur-loperation-book-fairies-stagiaires](http://www.samantha-bailly.com/1892/retour-sur-loperation-book-fairies-stagiaires)
+[^20]: [http://www.samantha-bailly.com/1892/retour-sur-loperation-book-fairies-stagiaires](http://www.samantha-bailly.com/1892/retour-sur-loperation-book-fairies-stagiaires)
