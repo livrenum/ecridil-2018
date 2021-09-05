@@ -184,11 +184,15 @@ function loadSearchData() {
  */
 function menuSetup() {
   let menu = document.getElementById('site-menu')
+  let primary = document.querySelector('.quire__primary')
   let menuAriaStatus = menu.getAttribute('aria-expanded')
+  // do not animate on first run please
   menu.classList.remove('is-expanded')
   if (menuAriaStatus === 'true') {
     menu.setAttribute('aria-expanded', 'false')
   }
+  // remove after menu style has been updated
+  primary.classList.remove('loading')
 }
 
 function mapSetup() {

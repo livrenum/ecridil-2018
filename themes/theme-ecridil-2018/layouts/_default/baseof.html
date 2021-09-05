@@ -23,7 +23,7 @@
         {{ partial "menu.html" . }}
       </div>
 
-      <div class="quire__primary" id="{{ with .Section }}{{ . | urlize }}-{{ end }}{{ .File.BaseFileName | lower }}">
+      <div class="quire__primary loading" id="{{ with .Section }}{{ . | urlize }}-{{ end }}{{ .File.BaseFileName | lower }}">
         {{ partial "navbar.html" . }}
 
         {{ block "main" . }}

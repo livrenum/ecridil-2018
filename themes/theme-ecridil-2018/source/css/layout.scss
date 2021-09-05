@@ -105,7 +105,7 @@ html {
       position: fixed;
       top: 0;
       right: 0;
-      transition: all $transition-default-duration $ease-out-quart;
+      transition: transform $transition-default-duration $ease-out-quart;
       width: $quire-menu-width;
       transform: translateX($quire-menu-width);
       z-index: 1100;
@@ -131,8 +131,10 @@ html {
         }
 
         + .quire__primary {
-          transform: translateX(-($quire-menu-width));
-          transition-delay: .15s;
+          &:not(.loading) {
+            transform: translateX(-($quire-menu-width));
+            transition-delay: .15s; // little bounce-reaction effect
+          }
 //          left: $quire-menu-width;
 //          width: calc(100% - #{$quire-menu-width});
           @media screen and (max-width: $quire-menu-width) {
