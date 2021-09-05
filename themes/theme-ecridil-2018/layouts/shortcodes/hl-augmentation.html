@@ -1,5 +1,5 @@
 {{ $augmentations := getJSON "content/" .Page.File.Dir "augmentations.json" }}
-
+{{- $page := .Page -}}
 {{- $after := default "none" (.Get 0 | string) -}}
 {{- $before := default "none" (.Get 1 | string) -}}
 <div class="hybritexte-augmentation--step-marker"
@@ -13,7 +13,8 @@
 </div>
 {{- if not (eq $after "none") -}}
 {{- range where $augmentations "id" "eq" $after -}}
-{{- partial "hybritexte-augmentation.html" . -}}
+{{- $merged := merge . (dict "page" $page) }}
+{{- partial "hybritexte-augmentation.html" $merged -}}
 {{- end -}}
 {{ else }}
 

@@ -80,7 +80,7 @@
       {{- end -}}
     {{- end -}}
     {{/* -------------------- END TEXT TYPE -------------------- */}}
-      
+
       {{/* -------------------- BEGIN HTML BLOCK -------------------- */}}
       {{- if eq .type "html" -}}
       {{- if .content -}}
@@ -110,7 +110,7 @@
     <figure class="hybritexte-augmentation--figure">
       <img class="hybritexte-augmentation--figure__image"
            {{ with .id }}id="{{ . }}-image"{{ end }}
-           src="{{ .src }}"
+           src="{{ .page.Permalink }}{{ .src }}"
            alt="{{ with .title }}{{ . }}{{ end }}">
 
       <figcaption class="hybritexte-augmentation--figure__caption">
