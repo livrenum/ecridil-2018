@@ -9,7 +9,8 @@ abstract: >
   Le numérique invite à repenser la place du corps dans les dispositifs de lecture.
 contributor:
   - id: etadier
-hypothesis: false
+
+hypothesis: true
 ---
 
 {{< hl-epigraph >}}

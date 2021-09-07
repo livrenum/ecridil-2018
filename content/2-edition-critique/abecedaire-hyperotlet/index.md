@@ -12,6 +12,8 @@ contributor:
   - id: cmuller
 
 image: media/couverture.jpg
+
+hypothesis: true
 ---
 
 

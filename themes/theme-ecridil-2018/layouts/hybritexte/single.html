@@ -59,6 +59,17 @@
   <section id="content" class="section quire-page__content hybritexte-page__content">
     <div class="container is-fluid has-2-columns with-separator content hybritexte-page__scroll-wrapper">
 
+      {{/* Hypothesis -- load comments */}}
+      {{- if .Params.hypothesis -}}
+      <div class="hybritexte-page__load-comments">
+        <button class="button is-rounded js-load-hypothesis">Charger les commentaires Hypothes.is</button>
+
+        <button class="button is-rounded js-remove-hypothesis">
+          Désactiver les commentaires Hypothes.is
+        </button>
+      </div>
+      {{- end -}}
+
       {{ if .Content }}
       {{ .Content }}
       {{ end }}
@@ -68,11 +79,4 @@
   </section>
 </article>
 
-
-{{/* Hypothesis - must be inside #container for change on each page */}}
-{{- if .Params.hypothesis -}}
-<script id="please-load-hypothesis">
-  // just a tag to load hypothes.is
-</script>
 {{- end -}}
-{{ end }}

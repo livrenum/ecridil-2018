@@ -13,6 +13,8 @@ contributor:
   - id: cjacquot
 
 image: media/couverture.jpg
+
+hypothesis: true
 ---
 
 {{< hl-augmentation "couverture" >}}

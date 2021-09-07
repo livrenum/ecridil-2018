@@ -11,6 +11,8 @@ contributor:
   - id: ntilly
 
 image: media/couverture.jpg
+
+hypothesis: true
 ---
 
 Après l’espace du livre comme premier objet de recherche orienté vers la question de l’auteur et du livre comme médium de création, l’atelier de recherche et de création (ARC) « Édition nouvelles formes » s’est depuis quelques années consacré aux mutations de l’édition contemporaine à l’heure d’Internet, du numérique et des programmes d’interaction automatisés. Lieu de recherche et de questionnement, cet atelier se propose d’interroger les spécificités du Web et les potentialités d’expérimentations itératives offertes par les technologies dites nomades : mobiles, tablettes, liseuses.

@@ -207,20 +207,57 @@ function espacesInsecablesSetup() {
   espaceFine()
 }
 
-function hypothesisSetup() {
-  // search for an element with id `please-load-hypothesis`
-  var loadHypothesis = document.getElementById('please-load-hypothesis') ? true : false
+/**
+ * Sets the query param to `hypothesis=true` and reloads the page
+ * `hypothesisSetup` will then bootstrap the hypothesis client
+ */
+function loadHypothesis() {
+  var url = new URL(window.location.href)
+  var searchParams = url.searchParams
 
-  console.log('hypothesis setup', loadHypothesis)
-  // checks for page variable set by front-matter
-  // in the `main` block of layouts/hybritexte/single.html
-  if (loadHypothesis) {
+  // new value of "hypothesis" is set to "true"
+  searchParams.set('hypothesis', true)
+
+  // change the search property of the main url
+  url.search = searchParams.toString()
+
+  // the new url string
+  var updatedUrl = url.toString()
+
+  window.location.href = updatedUrl
+}
+
+function hypothesisSetup() {
+  // bind the loadHypothesis func to the button if present in the UI
+  $('.js-load-hypothesis').on('click', () => {
+    loadHypothesis()
+  })
+  const urlParams = new URLSearchParams(window.location.search)
+  const shouldLoadHypothesis = urlParams.get('hypothesis')
+
+  if (shouldLoadHypothesis) {
     // see https://github.com/hypothesis/client/issues/3131
     const hypothisisScript = document.createElement('script')
     hypothisisScript.setAttribute('src', 'https://hypothes.is/embed.js')
     hypothisisScript.setAttribute('async', true)
     document.head.appendChild(hypothisisScript)
+
+    // Cleanup -- remove query param for further navigation
+    // https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams/delete
+    // check for browser support of `URLSearchParams`
+    if (typeof URLSearchParams !== 'undefined') {
+      urlParams.delete('hypothesis')
+      console.log('urlparams: ', urlParams)
+      window.history.replaceState({}, '', window.location.href.replace(/\??hypothesis\=true/g, ''))
+    }
+    $('.hybritexte-page__load-comments .js-load-hypothesis').hide()
+    $('.hybritexte-page__load-comments .js-remove-hypothesis').show()
+  } else {
   }
+
+  $('.js-remove-hypothesis').on('click', () => {
+    destroyHypothesis()
+  })
 }
 
 function destroyHypothesis() {
@@ -242,6 +279,8 @@ function destroyHypothesis() {
     hypothesisSidebar && document.querySelector('body').removeChild(hypothesisSidebar)
     hypothesisNotebook && document.querySelector('body').removeChild(hypothesisNotebook)
   }
+  $('.js-load-hypothesis').show()
+  $('.js-remove-hypothesis').hide()
 }
 
 function deepZoomSetup() {
@@ -327,15 +366,13 @@ function smoothScrollAnchors() {
   $content.find('a[href^=\\#]').on('click', function (ev) {
     // prevent default behavior
     ev.preventDefault()
-    
+
     let targetHash = $(this).attr('href')
-    
+
     let targetElem = document.getElementById(targetHash.slice(1))
-    
+
     targetElem.classList.remove('active');
 
-//    $(this).velocity('scroll', {duration: 0})
-    
     window.history.pushState(null, null, targetHash);
 
     $(targetElem).velocity('scroll', {

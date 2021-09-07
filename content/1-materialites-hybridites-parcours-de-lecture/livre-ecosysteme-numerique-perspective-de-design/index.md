@@ -11,6 +11,8 @@ abstract: >
   
 contributor:
   - id: rbourassa
+
+hypothesis: true
 ---
 
 En suivant une perspective de design tournée vers les objets en devenir, la présente réflexion se situe dans le va-et-vient entre les formes ancestrales du livre et ses transformations suscitées par le numérique dans ses dimensions projectives, afin d’interroger en retour ses usages contemporains. Une telle approche permet de mieux imaginer le futur du livre en étant sensible à une histoire culturelle faite de mutations, parfois d’abandons et de redécouvertes. Sa trajectoire à travers les siècles est jalonnée d’innovations déterminantes qui ont modifié nos rapports au savoir. L’archéologie des médias nous rappelle que le livre est, depuis le rouleau antique jusqu’à ses incarnations numériques, à la fois un objet technique ancré dans la culture matérielle et un médiateur dont les affordances sont spécifiques à chacune de ses formes. L’attention portée à cette question nous permet d’envisager le livre à la fois en tant que vecteur de notre mise en expérience du monde, de nos savoirs, de nos mémoires et de nos imaginaires et en tant que support matériel d’inscription dont la forme s’est affinée au cours de sa riche histoire. Il s’agit donc de penser cet artéfact cognitif dans ses allers-retours entre ses formes anciennes et ses configurations prospectives, à travers ses hybridités entre le livre papier et ses incarnations numériques, afin d’éclairer, en retour, ses affordances, ses mutations et ses extensions {{< cite "BourassaAudet2017" >}}.

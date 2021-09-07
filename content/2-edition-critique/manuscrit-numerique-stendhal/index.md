@@ -10,6 +10,8 @@ abstract: >
 contributor:
   - id: cmeynard
   - id: egreslou
+
+hypothesis: true
 ---
 
 À l’heure des premiers bilans, la question du livre à l’ère du numérique qui se pose aujourd’hui est sans aucun doute moins celle de son éventuelle disparition que celle de ses profondes mutations. En effet, tous s’accordent désormais pour considérer que les versions numériques et imprimées coexisteront d’une façon plus ou moins équilibrée. Nous abordons cette interrogation cruciale à partir d’un cas concret d’expérience éditoriale, portant sur les _Journaux et Papiers_ de Stendhal[^1]. Notre projet[^2], volontairement interdisciplinaire, est né d’une demande de chercheurs en études littéraires qui avaient des besoins spécifiques. Le dialogue avec des enseignants-chercheurs en informatique et en traitement automatique des langues a permis d’apporter non seulement des réponses et des solutions, mais aussi des idées nouvelles dans les trois disciplines. Quant au public visé, il ne s’agit pas que de spécialistes de Stendhal[^3], mais aussi d’un public d’amateurs et de curieux pour lesquels la découverte des manuscrits et la prise de conscience de l’intérêt de ces derniers est souvent une bonne surprise.
