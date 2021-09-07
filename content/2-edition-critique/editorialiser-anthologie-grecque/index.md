@@ -10,6 +10,8 @@ abstract: >
 contributor:
   - id: mmellet
   - id: mvitalirosati
+
+hypothesis: true
 ---
 
 Remarque : une version antérieure de cet article a été publiée en anglais dans le journal _Digital Humanities Quaterly_ (2020) et est disponible [ici](http://www.digitalhumanities.org/dhq/vol/14/1/000447/000447.html).

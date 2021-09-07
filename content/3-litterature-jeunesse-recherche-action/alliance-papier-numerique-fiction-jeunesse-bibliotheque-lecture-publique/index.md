@@ -10,6 +10,8 @@ abstract: >
 contributor:
   - id: cdevelotte
   - id: elhachani
+
+hypothesis: true
 ---
 
 Dans cet article, nous interrogeons les potentialités du livre en régime numérique et l’expérientialité qu’elles engendrent pour la littérature jeunesse, à partir de formes narratives hybrides comprenant un livre papier et une application. Il s’agit d’étudier le passage et les articulations entre imprimé et numérique ainsi que leur réception tant par les professionnels que par les usagers en bibliothèque de lecture publique. Plus précisément, nous proposons de repérer les caractéristiques du texte, des images, du rapport texte/image et de la posture du lecteur induite par la narration. Une description effectuée à grands traits nous permet de comparer les différents choix faits par les auteurs des livres-applications que nous avons étudiés.

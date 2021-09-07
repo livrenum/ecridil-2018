@@ -11,6 +11,8 @@ contributor:
   - id: deseilligny
 
 image: media/couverture.jpg
+
+hypothesis: true
 ---
 
 {{< hl-epigraph >}}
