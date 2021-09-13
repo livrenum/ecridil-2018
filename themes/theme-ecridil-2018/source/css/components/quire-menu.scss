@@ -116,6 +116,11 @@ $quire-menu-text-color: $white !default;
     }
   }
 
+  .quire-copyright__icon__link {
+    display: inline-block;
+    padding: .5rem 0;
+  }
+
   a.quire-copyright__icon__link:hover {
     background-color: transparent;
   }
