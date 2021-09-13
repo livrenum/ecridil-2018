@@ -159,13 +159,19 @@ contributor:
     type: secondary
     first_name: Nathalie
     last_name: Lacelle
-  
+
   - 
     id: plieutier
     type: secondary
     first_name: Prune
     last_name: Lieutier
-  
+
+  -
+    id: eacerra
+    type: secondary
+    first_name: Eleonora
+    last_name: Acerra
+
   - 
     id: cmeynard
     type: secondary
@@ -219,6 +225,12 @@ contributor:
     type: secondary
     first_name: Nicolas
     last_name: Tilly
+
+  -
+    id: smonville
+    type: secondary
+    first_name: Sophie
+    last_name: Monville
 
 
 # ------------------------------------------------------------------------------

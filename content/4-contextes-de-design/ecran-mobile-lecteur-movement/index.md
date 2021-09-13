@@ -9,6 +9,7 @@ abstract: >
   
 contributor:
   - id: ntilly
+  - id: smonville
 
 image: media/couverture.jpg
 ---
