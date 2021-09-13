@@ -37,6 +37,8 @@
         {{- else -}}
           {{- if eq $len 2 -}}
             <span class="quire-contributor">{{ template "name-check" (dict "Site" $.Site "contributor" .) }} </span>
+        {{- else if eq (sub $len 2) $index -}}
+            <span class="quire-contributor">{{ template "name-check" (dict "Site" $.Site "contributor" .) }} </span>
           {{- else -}}
             <span class="quire-contributor">{{ template "name-check" (dict "Site" $.Site "contributor" .) }}, </span>
           {{- end -}}
