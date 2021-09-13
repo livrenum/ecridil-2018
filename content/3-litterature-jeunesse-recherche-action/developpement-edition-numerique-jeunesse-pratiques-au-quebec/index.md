@@ -9,8 +9,8 @@ abstract: >
   
 contributor:
   - id: nlacelle
-  - id: eacerra
   - id: plieutier
+  - id: eacerra
 
 image: media/couverture.jpg
 
