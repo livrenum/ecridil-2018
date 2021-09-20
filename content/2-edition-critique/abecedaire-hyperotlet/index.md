@@ -6,7 +6,7 @@ weight: 201
 url: abecedaire-hyperotlet
 type: hybritexte
 abstract: >
-  
+  La métamorphose du livre en « objet éditorial » numérique d'un nouveau type, un objet à lire, est au cœur de deux projets de recherche engagés par l'École nationale supérieure des sciences de l'information et des bibliothèques (Enssib) entre 2017 et 2021. Enjeu de design éditorial et de nouvelles modalités d'écritures et de lecture, la conception d'un outil d'écriture Web en réseaux, intégrant une sémantique des liens et une spatialisation du document, permet d'engager un projet d'édition numérique dans une démarche de design éditorial pour construire _in fine_ un outil d'édition critique sur un dispositif d'écriture collaborative savante. Cette réinvention du livre à la faveur de la transition numérique fait émerger un grand nombre de questions de recherche, communes aux deux projets scientifiques, quant à la transformation opérée par l'écriture numérique sur le périmètre dévolu traditionnellement au livre.
 contributor:
   - id: bepron
   - id: cmuller
