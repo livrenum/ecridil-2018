@@ -249,22 +249,22 @@ license:
 # Formats, Resources & Links
 # ------------------------------------------------------------------------------
 
-resource_link:
-  - type: other-format
-    name: PDF
-    media_type: application/pdf
-    link_relation: alternate
-    url: /downloads/output.pdf
-  - type: other-format
-    name: EPUB
-    media_type: application/epub+zip
-    link_relation: alternate
-    url: /downloads/output.epub
-  - type: other-format
-    name: Kindle/MOBI
-    media_type: vnd.amazon.mobi8-ebook
-    link_relation: alternate
-    url: /downloads/output.mobi
+#resource_link:
+#  - type: other-format
+#    name: PDF
+#    media_type: application/pdf
+#    link_relation: alternate
+#    url: /downloads/output.pdf
+#  - type: other-format
+#    name: EPUB
+#    media_type: application/epub+zip
+#    link_relation: alternate
+#    url: /downloads/output.epub
+#  - type: other-format
+#    name: Kindle/MOBI
+#    media_type: vnd.amazon.mobi8-ebook
+#    link_relation: alternate
+#    url: /downloads/output.mobi
 #  - type: footer-link
 #    name: À propos
 #    link_relation: about
