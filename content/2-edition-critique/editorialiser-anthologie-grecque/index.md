@@ -6,7 +6,14 @@ weight: 202
 url: editorialiser-anthologie-grecque
 type: hybritexte
 abstract: >
-  
+  Cet article fait état des réflexions à l'origine du développement du projet d'édition numérique, multilingue et collaborative de l'Anthologie grecque porté par la Chaire de recherche du Canada sur les écritures numériques.
+
+
+  Telle que nous la connaissons aujourd'hui, l'Anthologie grecque est le résultat des compilations, modifications, ajouts et réarrangements successifs effectués par de nombreux compilateurs au fil des siècles. Parmi ces compilations, celle qui est appelée la *Couronne de Méléagre*, composée au premier siècle avant J.C., se distingue comme la première collection d’épigrammes réunies en un seul volume et s'impose comme la source principale. Ce corpus, qui a fortement influencé la littérature et l'art des sociétés occidentales, questionne la capacité pour une édition unique à prendre en compte sa fragmentation, la multiplicité de ses versions et l'hétérogénéité qui le constitue.
+
+
+  Notre projet a été initié avec l'idée que l'environnement numérique offrait des solutions d'édition pour structurer ce corpus fragmenté et rendre compte de sa complexité, sa richesse et sa résonnance dans notre culture actuelle tout en permettant une lecture linéaire. Le premier temps du projet a mené à la réalisation d'une plateforme aujourd'hui archivée qui a été l'espace prototype pour développer nos réflexions et nos connaissances sur l'Anthologie. Nous décrivons ici les questionnements, les réflexions et les défis philologiques, éditoriaux et pédagogiques que ce premier travail de modélisation et d'éditorialisation de l'Anthologie nous a mené à considérer.
+
 contributor:
   - id: mmellet
   - id: mvitalirosati
